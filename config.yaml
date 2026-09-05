@@ -1,0 +1,164 @@
+# =============================================================================
+# Configuração da automação Novimz Auto-Publisher (Python + GitHub Actions)
+# =============================================================================
+# Este ficheiro NÃO contém segredos (chaves de API, palavras-passe). Todos os
+# segredos vêm de variáveis de ambiente, definidas como "Repository secrets"
+# no GitHub Actions (Settings → Secrets and variables → Actions). Ver README.md
+# para a lista completa de secrets a criar e instruções passo a passo.
+#
+# Para adicionar um novo site no futuro, basta duplicar um bloco inteiro em
+# "sites:" e mudar o "id" (usado para montar os nomes das variáveis de
+# ambiente) e os dados desse site. Para adicionar uma nova fonte RSS a um
+# site já existente, basta duplicar um bloco em "fontes:" desse site.
+# =============================================================================
+
+definicoes_globais:
+  # Janela de tempo para considerar um item do RSS como "novo" (em horas).
+  # Replica o "Date from: now - 3.17 hours" usado no Make.com.
+  rss_lookback_hours: 3.17
+
+  # Número máximo de artigos publicados por fonte RSS em cada execução.
+  # Replica o "max 2 items" usado no Make.com.
+  max_items_por_fonte: 2
+
+  # Modelo Gemini a usar (via Google AI Studio / Generative Language API).
+  # "Gemini 3.5 Flash" foi o nome escolhido no Make; no momento de correr
+  # este script pela primeira vez, confirma em https://aistudio.google.com/
+  # qual é o identificador actual do modelo Flash mais generoso na camada
+  # gratuita e ajusta aqui se necessário (a Google muda estes nomes com
+  # alguma frequência).
+  gemini_model: "gemini-flash-latest"
+  gemini_temperature: 0.7
+  gemini_top_p: 1
+
+  # Modelo Cloudflare Workers AI para geração da imagem de capa.
+  cloudflare_model: "@cf/black-forest-labs/flux-1-schnell"
+  cloudflare_image_steps: 4
+
+  # Limiar de semelhança (0 a 1) para considerar dois títulos como o mesmo
+  # assunto e evitar publicar quase-duplicados (problema conhecido do Make,
+  # nunca totalmente resolvido lá — aqui é mitigado por este verificador).
+  duplicidade_limiar_semelhanca: 0.62
+  duplicidade_janela_dias: 4
+
+# -----------------------------------------------------------------------------
+# Prompt do sistema (idêntico ao usado em produção no Make/Gemini) e template
+# da mensagem do utilizador. Comuns a todos os sites e fontes.
+# -----------------------------------------------------------------------------
+gemini_system_prompt: |
+  Você é um sistema avançado de automação de conteúdo para o portal Novimz, especializado em SEO avançado, escrita jornalística cativante e em conformidade rigorosa com as políticas do Google AdSense, focado nos temas Sociedade, Economia e Negócios em Moçambique.
+
+  Antes de escrever, pondera internamente (sem mostrar esse raciocínio na resposta): o ângulo editorial mais relevante e mais actual da notícia fornecida; a categoria temática correcta de entre as disponíveis; a conformidade total com o Google AdSense (sem violência, ódio, conteúdo adulto, desinformação, acusações pessoais ou temas restritos); as categorias e palavras-chave principais e secundárias (incluindo cauda longa) e a hierarquia de headings a usar; e uma descrição de imagem editorial adequada ao tema.
+
+  IMPORTANTE SOBRE ACTUALIDADE: a notícia de origem pode já ter alguns dias. Nunca escrevas o artigo como se fosse notícia de hoje se não tiveres a certeza da data - evita expressões como "hoje", "esta manhã" ou datas específicas que não possas confirmar; usa antes um enquadramento atemporal e contextual (ex: "recentemente", "nos últimos dias", explicando o contexto e o porquê de ainda ser relevante) para nunca dar a sensação de conteúdo desactualizado.
+
+  IMPORTANTE SOBRE ESTILO: escreve de forma cativante e magnética, com um título e abertura (lead) que despertem curiosidade genuína e vontade de continuar a ler, sem recorrer a sensacionalismo falso (clickbait) nem a exageros que não sejam suportados pelos factos. Usa uma narrativa fluida, frases variadas em comprimento, exemplos concretos e, quando fizer sentido, dados/números que ajudem o leitor a perceber o impacto real da notícia. O objectivo é maximizar o tempo de leitura e o interesse genuíno do leitor - o que também reforça o valor SEO e a conformidade com o Google AdSense, já que conteúdo genérico ou robótico é penalizado.
+
+  IMPORTANTE: a tua resposta final deve ser APENAS um único objecto JSON válido, sem markdown, sem blocos de código, sem crases, sem texto antes ou depois. Nunca reveles o teu raciocínio interno, nunca uses números de etapas, nunca escrevas rótulos como "Raciocínio:" ou "Resultado:", e nunca faças qualquer meta-comentário sobre SEO, AdSense ou potencial de ranqueamento dentro dos valores do JSON. Qualquer um destes elementos é considerado um erro grave.
+
+  O objecto JSON deve conter exactamente estas 6 chaves, todas com valores em texto simples (strings):
+
+  "titulo_post": título SEO-otimizado do artigo, apelativo e cativante, com a palavra-chave principal, máximo 70 caracteres, sem tags HTML.
+
+  "artigo_html": o corpo jornalístico completo do artigo em HTML pronto a publicar, original (nunca copiar a fonte), mínimo 400 palavras, com uso natural de palavras-chave, escrito num tom cativante e envolvente conforme indicado acima. Deve começar com um único <h2> igual ao título indicado acima, seguido do corpo do artigo podendo usar <h3> para subtítulos, <p>, <ul>/<ol>/<li>, <strong>, <em> e <blockquote> quando fizer sentido. Usa apenas as tags h2, h3, p, ul, ol, li, strong, em, blockquote. Nunca copies texto literal da fonte; nunca incluas conteúdo difamatório ou que viole direitos de autor; nunca menciones figuras públicas reais de forma potencialmente danosa. Dentro do valor JSON, escapa correctamente aspas e quebras de linha conforme a sintaxe JSON.
+
+  "meta_description": uma meta description única e optimizada para este artigo, entre 120 e 155 caracteres.
+
+  "alt_text": uma descrição alt text optimizada para SEO de uma imagem editorial adequada ao artigo (sem pessoas reais identificáveis, sem texto ou logótipos, estilo fotojornalístico realista), entre 8 e 20 palavras, factual.
+
+  "slug": versão do título em formato de slug para URL, escrita apenas com letras minúsculas de a a z (sem qualquer acento ou til - substitui sempre ç por c, ã/á/à/â por a, é/ê por e, í por i, õ/ó/ô por o, ú por u), números e hífens a separar as palavras, sem espaços, sem underscores, sem pontuação, sem hífens duplicados nem no início ou no fim, com no máximo 70 caracteres.
+
+  "categoria": a categoria do portal Novimz que melhor corresponde ao tema principal do artigo. Escolhe exactamente um destes valores, escrito exactamente como aparece (respeitando maiúsculas e o símbolo &), sem inventar outras categorias: "PAÍS" (política, governo, sociedade e assuntos internos de Moçambique), "ECONOMIA & NEGÓCIOS" (economia, finanças, empresas, mercados, negócios), "ENTRETENIMENTO & SOCIEDADE" (vida social, celebridades, eventos sociais, comunidade), "CULTURA & ARTE" (cultura, arte, música, literatura, património), "ESTILO DE VIDA" (saúde, bem-estar, moda, gastronomia, relações), "ATUALIDADE" (notícias gerais do dia-a-dia que não se encaixem claramente nas anteriores) ou "MUNDO" (notícias internacionais não centradas em Moçambique). Escolhe sempre a categoria mais específica e mais relevante possível - "MUNDO" só deve ser usado se o artigo for claramente sobre assuntos internacionais.
+
+  Responde apenas com o objecto JSON, começando directamente por { e terminando em }.
+
+gemini_user_message_template: |
+  NOTICIA DE ORIGEM (usa apenas como inspiracao factual - nao copies frases, reescreve sempre por palavras proprias): Titulo original: {titulo} Resumo/descricao: {descricao} Fonte: {fonte_nome} TAREFA: Com base nesta noticia, gera o objecto JSON com os 6 campos (titulo_post, artigo_html, meta_description, alt_text, slug, categoria) seguindo rigorosamente as instrucoes do sistema. Responde apenas com o JSON.
+
+# Template do prompt de imagem enviado à Cloudflare Workers AI (idêntico ao
+# usado em produção no Make, com {alt_text} substituído pelo alt_text gerado
+# pela Gemini para cada artigo).
+cloudflare_image_prompt_template: >-
+  Fotografia editorial profissional e realista para ilustrar uma noticia sobre:
+  {alt_text}. Estilo fotojornalistico, iluminacao natural, cores realistas, sem
+  texto ou logotipos na imagem, sem pessoas identificaveis ou figuras publicas
+  reais, adequado para uma publicacao de noticias sobre sociedade e economia em
+  Mocambique. Formato paisagem, alta qualidade.
+
+# -----------------------------------------------------------------------------
+# Sites e fontes RSS
+# -----------------------------------------------------------------------------
+# Para replicar exactamente a automação actual do Make (4 cenários, todos a
+# publicar no mesmo site novimz.com), este ficheiro já vem configurado com um
+# único site "novimz" e as 4 fontes RSS correspondentes aos 4 cenários.
+#
+# Para expandir "para mais de 1 site" no futuro, há duas formas, conforme o
+# que precisares:
+#   (a) Mais fontes de notícias para o MESMO site novimz.com → acrescenta mais
+#       blocos dentro de "fontes:" do site "novimz".
+#   (b) Um site WordPress completamente novo e independente → duplica todo o
+#       bloco "- id: novimz ... fontes: [...]" abaixo, muda o "id" (ex.
+#       "outrosite"), o "wordpress_base_url", o mapa de categorias (os IDs de
+#       categoria são específicos de cada instalação WordPress) e cria os
+#       secrets correspondentes no GitHub (ver README.md).
+# -----------------------------------------------------------------------------
+sites:
+  - id: novimz
+    nome: "Novimz"
+    wordpress_base_url: "https://novimz.com"
+    # Nomes das variáveis de ambiente (GitHub Actions secrets) que guardam as
+    # credenciais WordPress deste site. O script lê estes valores via
+    # os.environ — nunca escrevas a palavra-passe aqui neste ficheiro.
+    wordpress_user_env: "NOVIMZ_WP_USER"
+    wordpress_app_password_env: "NOVIMZ_WP_APP_PASSWORD"
+
+    # Mapa "categoria" (valor devolvido pela Gemini) → ID da categoria no
+    # WordPress deste site. Igual ao usado nos 4 cenários Make.
+    categoria_map:
+      "PAÍS": 3
+      "ECONOMIA & NEGÓCIOS": 4
+      "ENTRETENIMENTO & SOCIEDADE": 6
+      "CULTURA & ARTE": 7
+      "ATUALIDADE": 2
+      "ESTILO DE VIDA": 9
+      "MUNDO": 5
+    categoria_fallback: 5
+
+    fontes:
+      - id: sociedade
+        nome: "Sociedade (Google News Moçambique)"
+        rss_url: "https://news.google.com/rss/search?q=Mo%C3%A7ambique&hl=pt-PT&gl=MZ&ceid=MZ:pt"
+
+      - id: mznews
+        nome: "MZNews (Actualidade)"
+        rss_url: "https://mznews.co.mz/feed/"
+
+      - id: bbc_portuguese
+        nome: "BBC Portuguese (Mundo/Estilo)"
+        rss_url: "https://feeds.bbci.co.uk/portuguese/rss.xml"
+
+      - id: mozentretenimento
+        nome: "MozEntretenimento (Sociedade)"
+        rss_url: "https://mozentretenimento.co.mz/feed/"
+
+  # Exemplo de como adicionar um segundo site (deixa comentado até teres um
+  # segundo WordPress pronto; basta descomentar e preencher):
+  #
+  # - id: outrosite
+  #   nome: "Nome do Outro Site"
+  #   wordpress_base_url: "https://outrosite.co.mz"
+  #   wordpress_user_env: "OUTROSITE_WP_USER"
+  #   wordpress_app_password_env: "OUTROSITE_WP_APP_PASSWORD"
+  #   categoria_map:
+  #     "PAÍS": 2
+  #     "ECONOMIA & NEGÓCIOS": 3
+  #     "ENTRETENIMENTO & SOCIEDADE": 4
+  #     "CULTURA & ARTE": 5
+  #     "ATUALIDADE": 6
+  #     "ESTILO DE VIDA": 7
+  #     "MUNDO": 8
+  #   categoria_fallback: 6
+  #   fontes:
+  #     - id: fonte1
+  #       nome: "Nome da fonte 1"
+  #       rss_url: "https://exemplo.co.mz/feed/"
