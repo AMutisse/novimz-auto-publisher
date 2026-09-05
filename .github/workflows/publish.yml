@@ -38,7 +38,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           NOVIMZ_WP_USER: ${{ secrets.NOVIMZ_WP_USER }}
           NOVIMZ_WP_APP_PASSWORD: ${{ secrets.NOVIMZ_WP_APP_PASSWORD }}
-        run: python main.py --dry-run
+        run: python main.py
 
       - name: Gravar histórico anti-duplicados (se mudou)
         run: |
