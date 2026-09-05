@@ -1,3 +1,13 @@
 {
-  "publicados": []
+  "publicados": [
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
+      "titulo_post": "Eleições no Brasil: Estratégias e Desafios no Cenário Político",
+      "slug": "eleicoes-no-brasil-estrategias-e-desafios-no-cenario-politico",
+      "publicado_em": "2026-09-05T16:56:36.671993+00:00",
+      "dry_run": true
+    }
+  ]
 }
