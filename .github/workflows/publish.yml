@@ -6,8 +6,8 @@ on:
     # O horário exacto dentro da hora pode variar um pouco (comportamento
     # normal do agendador do GitHub Actions em períodos de muita carga).
     - cron: "0 */2 * * *"
-    workflow_dispatch: {}   # permite correr manualmente a partir do separador "Actions" no GitHub
-
+  workflow_dispatch: {}   # permite correr manualmente a partir do separador "Actions" no GitHub
+  
 permissions:
   contents: write   # necessário para o workflow poder gravar o histórico anti-duplicados
 
