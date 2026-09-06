@@ -57,6 +57,16 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-06T14:16:26.235485+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia",
+      "titulo_post": "Eleições na Alemanha: O Impacto da Ascensão Política na Saxónia",
+      "slug": "eleicoes-na-alemanha-o-impacto-da-ascensao-politica-na-saxonia",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-06T18:17:42.270557+00:00",
+      "dry_run": false
     }
   ]
 }
