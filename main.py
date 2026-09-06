@@ -203,6 +203,19 @@ def filtrar_itens_recentes(itens: list[dict], lookback_hours: float, max_itens: 
     return validos[:max_itens]
 
 
+def intercalar_por_fonte(listas: list[list[dict]]) -> list[dict]:
+    """Intercala (round-robin) os itens de várias fontes, em vez de esgotar
+    uma fonte antes de passar à seguinte — dá a todas as fontes uma hipótese
+    igual de contribuir para o alvo de publicações por categoria."""
+    resultado = []
+    max_len = max((len(lst) for lst in listas), default=0)
+    for i in range(max_len):
+        for lst in listas:
+            if i < len(lst):
+                resultado.append(lst[i])
+    return resultado
+
+
 # ---------------------------------------------------------------------------
 # Google Gemini AI (texto)
 # ---------------------------------------------------------------------------
@@ -343,10 +356,9 @@ def publicar_no_wordpress(
 # Orquestração principal
 # ---------------------------------------------------------------------------
 
-def processar_fonte(
+def processar_site(
     cfg: dict,
     site: dict,
-    fonte: dict,
     state: dict,
     gemini_key: str,
     cf_account_id: str,
@@ -355,19 +367,34 @@ def processar_fonte(
     wp_app_password: str,
     dry_run: bool,
 ) -> dict:
-    resumo = {"site": site["id"], "fonte": fonte["id"], "publicados": 0, "ignorados": 0, "erros": 0}
+    """Processa TODAS as fontes RSS de um site em conjunto, para poder aplicar
+    o alvo de publicações por CATEGORIA (ver `alvo_publicacoes_por_categoria`
+    no config.yaml) através de todas as fontes — em vez de decidir fonte a
+    fonte, que não tem em conta a categoria real do artigo (só conhecida
+    depois de a Gemini reescrever o texto)."""
+    resumo = {"site": site["id"], "publicados": 0, "ignorados": 0, "erros": 0}
     definicoes = cfg["definicoes_globais"]
 
-    try:
-        itens = fetch_rss_items(fonte["rss_url"])
-    except Exception as exc:  # noqa: BLE001
-        log(f"[{site['id']}/{fonte['id']}] ERRO ao ler RSS: {exc}")
-        resumo["erros"] += 1
-        return resumo
+    # 1) Recolher itens elegíveis de cada fonte, e intercalá-los (round-robin)
+    #    para dar a cada fonte uma hipótese igual de contribuir.
+    itens_por_fonte = []
+    for fonte in site["fontes"]:
+        try:
+            itens_brutos = fetch_rss_items(fonte["rss_url"])
+        except Exception as exc:  # noqa: BLE001
+            log(f"[{site['id']}/{fonte['id']}] ERRO ao ler RSS: {exc}")
+            resumo["erros"] += 1
+            continue
 
-    itens = filtrar_itens_recentes(itens, definicoes["rss_lookback_hours"], definicoes["max_items_por_fonte"])
-    log(f"[{site['id']}/{fonte['id']}] {len(itens)} item(ns) elegível(eis) encontrados no RSS.")
+        itens = filtrar_itens_recentes(itens_brutos, definicoes["rss_lookback_hours"], definicoes["max_items_por_fonte"])
+        log(f"[{site['id']}/{fonte['id']}] {len(itens)} item(ns) elegível(eis) encontrados no RSS.")
+        for item in itens:
+            item["_fonte"] = fonte
+        itens_por_fonte.append(itens)
 
+    itens = intercalar_por_fonte(itens_por_fonte)
+
+    # 2) Preparar deduplicação (por título, contra publicações recentes deste site).
     limiar = definicoes["duplicidade_limiar_semelhanca"]
     janela_dias = definicoes["duplicidade_janela_dias"]
     limite_dedupe = datetime.now(timezone.utc) - timedelta(days=janela_dias)
@@ -377,17 +404,48 @@ def processar_fonte(
         if p["site"] == site["id"] and datetime.fromisoformat(p["publicado_em"]) >= limite_dedupe
     ]
 
+    # 3) Preparar contagem de publicações por categoria NESTA execução.
+    #    Usa o ID de categoria do WordPress como chave (mais robusto do que o
+    #    nome de texto devolvido pela Gemini, que é o que decide o ID).
+    alvo_por_categoria = definicoes.get("alvo_publicacoes_por_categoria", 2)
+    limite_seguranca_gemini = definicoes.get("limite_seguranca_gemini_por_execucao", 14)
+    categoria_map = site["categoria_map"]
+    ids_categoria_possiveis = set(categoria_map.values()) | {site["categoria_fallback"]}
+    contagem_por_categoria = {cat_id: 0 for cat_id in ids_categoria_possiveis}
+    chamadas_gemini = 0
+
+    def todas_categorias_completas() -> bool:
+        return all(contagem_por_categoria[cat_id] >= alvo_por_categoria for cat_id in ids_categoria_possiveis)
+
     for item in itens:
+        fonte = item["_fonte"]
+
+        if todas_categorias_completas():
+            log(f"[{site['id']}] Todas as categorias já atingiram o alvo de {alvo_por_categoria} publicações nesta execução — a parar.")
+            break
+
+        if chamadas_gemini >= limite_seguranca_gemini:
+            log(f"[{site['id']}] Limite de segurança de {limite_seguranca_gemini} chamadas à Gemini atingido nesta execução — a parar.")
+            break
+
         if any(titulos_semelhantes(item["titulo"], t, limiar) for t in titulos_recentes):
             log(f"[{site['id']}/{fonte['id']}] Ignorado (duplicado/semelhante a publicação recente): {item['titulo']!r}")
             resumo["ignorados"] += 1
             continue
 
         try:
+            chamadas_gemini += 1
             artigo = gerar_artigo_gemini(cfg, gemini_key, item["titulo"], item["descricao"], item["nome_fonte"] or fonte["nome"])
 
-            categoria_map = site["categoria_map"]
             categoria_id = categoria_map.get(artigo["categoria"], site["categoria_fallback"])
+
+            if contagem_por_categoria.get(categoria_id, 0) >= alvo_por_categoria:
+                log(
+                    f"[{site['id']}/{fonte['id']}] Ignorado (categoria {artigo['categoria']!r} já tem "
+                    f"{alvo_por_categoria} publicação(ões) nesta execução): {item['titulo']!r}"
+                )
+                resumo["ignorados"] += 1
+                continue
 
             imagem_bytes = gerar_imagem_cloudflare(cfg, cf_account_id, cf_token, artigo["alt_text"])
 
@@ -400,6 +458,7 @@ def processar_fonte(
                 log(f"[{site['id']}/{fonte['id']}] Publicado: {artigo['titulo_post']!r} -> {resultado.get('link')}")
 
             titulos_recentes.append(item["titulo"])
+            contagem_por_categoria[categoria_id] = contagem_por_categoria.get(categoria_id, 0) + 1
             state["publicados"].append(
                 {
                     "site": site["id"],
@@ -407,6 +466,7 @@ def processar_fonte(
                     "titulo_original": item["titulo"],
                     "titulo_post": artigo["titulo_post"],
                     "slug": artigo["slug"],
+                    "categoria_id": categoria_id,
                     "publicado_em": datetime.now(timezone.utc).isoformat(),
                     "dry_run": dry_run,
                 }
@@ -420,6 +480,14 @@ def processar_fonte(
 
         # Pequena pausa entre artigos para não sobrecarregar as APIs.
         time.sleep(2)
+
+    faltam = {
+        cat_nome: alvo_por_categoria - contagem_por_categoria.get(cat_id, 0)
+        for cat_nome, cat_id in categoria_map.items()
+        if contagem_por_categoria.get(cat_id, 0) < alvo_por_categoria
+    }
+    if faltam:
+        log(f"[{site['id']}] Categorias que não atingiram o alvo nesta execução (faltam candidatos elegíveis no RSS): {faltam}")
 
     return resumo
 
@@ -441,11 +509,10 @@ def main() -> int:
         wp_user = env_required(site["wordpress_user_env"])
         wp_app_password = env_required(site["wordpress_app_password_env"])
 
-        for fonte in site["fontes"]:
-            resumo = processar_fonte(
-                cfg, site, fonte, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
-            )
-            resumos.append(resumo)
+        resumo = processar_site(
+            cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
+        )
+        resumos.append(resumo)
 
     state = prune_state(state, cfg["definicoes_globais"]["duplicidade_janela_dias"])
     save_state(state)

@@ -96,7 +96,28 @@ resolve um problema que existia no Make (a mesma notícia reaparecer como
 automático deste ficheiro a cada execução, por isso não apagues nem edites
 `state/published.json` manualmente.
 
-## 7. Decisão sobre o Make.com
+## 7. Alvo de publicações por categoria (novo, 2026-09-06)
+
+O script já não decide artigo a artigo, fonte a fonte — em cada execução,
+junta os itens elegíveis de TODAS as fontes RSS do site e tenta publicar até
+`alvo_publicacoes_por_categoria` (por omissão: 2) artigos em cada uma das 7
+categorias, parando assim que todas as categorias atingirem esse número ou
+quando os candidatos do RSS se esgotarem. A categoria só é conhecida depois
+de a Gemini reescrever o artigo, por isso um item pode ser gerado e depois
+ignorado se calhar numa categoria que já tenha atingido o alvo nesta
+execução — nesse caso fica disponível para uma tentativa numa execução
+seguinte, se ainda estiver dentro da janela do RSS.
+
+**Atenção à quota gratuita da Gemini API (20 pedidos/dia)**: com 7 categorias
+× 2 = até 14 chamadas à Gemini por execução, e um agendamento a cada 2 horas
+(12 execuções/dia), o consumo pode facilmente ultrapassar os 20 pedidos/dia
+da camada gratuita. Ajusta `alvo_publicacoes_por_categoria` e/ou
+`limite_seguranca_gemini_por_execucao` no `config.yaml` conforme a tua quota
+real, ou considera associar uma conta de facturação à API Gemini (Tier 1 —
+upgrade quase instantâneo, limite de gasto inicial de $250, continua muito
+barato) se precisares mesmo deste volume de publicações.
+
+## 8. Decisão sobre o Make.com
 
 Este script é uma réplica fiel do que já corria no Make (mesmo prompt
 Gemini, mesmo pedido à Cloudflare, mesma lógica de categorias e publicação).

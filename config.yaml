@@ -17,9 +17,36 @@ definicoes_globais:
   # Replica o "Date from: now - 3.17 hours" usado no Make.com.
   rss_lookback_hours: 3.17
 
-  # Número máximo de artigos publicados por fonte RSS em cada execução.
-  # Replica o "max 2 items" usado no Make.com.
-  max_items_por_fonte: 2
+  # Número máximo de itens recolhidos por fonte RSS em cada execução (matéria-
+  # prima bruta, antes de qualquer filtragem/categorização). Aumentado de 2
+  # para 4 em 2026-09-06 para dar candidatos suficientes ao novo alvo "2 por
+  # categoria" (ver `alvo_publicacoes_por_categoria` abaixo) — com 4 fontes
+  # activas dá até 16 candidatos brutos por execução.
+  max_items_por_fonte: 4
+
+  # NOVO (2026-09-06): número de publicações a tentar por categoria em cada
+  # execução do workflow, somando todas as fontes RSS do mesmo site. Assim que
+  # uma categoria atinge este número nesta execução, os itens seguintes que a
+  # IA classifique nessa mesma categoria são ignorados (ficam disponíveis para
+  # tentar de novo numa próxima execução, caso ainda estejam dentro da janela
+  # RSS). Só é possível saber a categoria de um item DEPOIS de o enviar à
+  # Gemini para reescrita — por isso este alvo não reduz o número de chamadas
+  # à Gemini de forma perfeita, só pára assim que TODAS as categorias já
+  # tiverem atingido o alvo nesta execução.
+  #
+  # ATENÇÃO AO CUSTO/QUOTA: com 7 categorias × 2 = até 14 chamadas à Gemini
+  # por execução, e um agendamento a cada 2h (12 execuções/dia), isto pode
+  # chegar a ~168 chamadas/dia no pior caso — muito acima do limite gratuito
+  # da Gemini (20 pedidos/dia). Ver `limite_seguranca_gemini_por_execucao`
+  # abaixo e a nota no README sobre o upgrade para o Tier 1 (pago, associa
+  # facturação, continua muito barato) se este volume for mesmo necessário.
+  alvo_publicacoes_por_categoria: 2
+
+  # Rede de segurança: nunca chamar a Gemini mais do que este número de vezes
+  # numa única execução, independentemente de quantos candidatos existam ou
+  # de quantas categorias ainda não tenham atingido o alvo. Evita esgotar a
+  # quota gratuita diária (20/dia) numa única execução.
+  limite_seguranca_gemini_por_execucao: 14
 
   # Modelo Gemini a usar (via Google AI Studio / Generative Language API).
   # "Gemini 3.5 Flash" foi o nome escolhido no Make; no momento de correr
