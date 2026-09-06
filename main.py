@@ -44,6 +44,16 @@ GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 CLOUDFLARE_API_BASE = "https://api.cloudflare.com/client/v4/accounts"
 
 HTTP_TIMEOUT = 60
+
+# Alguns hosts WordPress (com Mod_Security/WAF) bloqueiam pedidos cujo
+# User-Agent seja o valor por omissão da biblioteca "requests" (identifica-se
+# como bot/scanner e é rejeitado com 406 Not Acceptable). Usar um User-Agent
+# de browser real evita esse bloqueio.
+WP_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
+
 REQUIRED_JSON_KEYS = [
     "titulo_post",
     "artigo_html",
@@ -287,6 +297,7 @@ def publicar_no_wordpress(
         headers={
             "Content-Disposition": "attachment; filename=capa-cloudflare.jpg",
             "Content-Type": "image/jpeg",
+            "User-Agent": WP_USER_AGENT,
         },
         data=imagem_bytes,
         timeout=HTTP_TIMEOUT,
@@ -300,6 +311,7 @@ def publicar_no_wordpress(
     requests.post(
         f"{base_url.rstrip('/')}/wp-json/wp/v2/media/{media_id}",
         auth=auth,
+        headers={"User-Agent": WP_USER_AGENT},
         json={"title": artigo["titulo_post"], "alt_text": artigo["alt_text"]},
         timeout=HTTP_TIMEOUT,
     )
@@ -309,6 +321,7 @@ def publicar_no_wordpress(
     post_resp = requests.post(
         f"{base_url.rstrip('/')}/wp-json/wp/v2/posts",
         auth=auth,
+        headers={"User-Agent": WP_USER_AGENT},
         json={
             "title": artigo["titulo_post"],
             "content": artigo["artigo_html"],
