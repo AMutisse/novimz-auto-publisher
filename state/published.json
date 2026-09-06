@@ -47,6 +47,16 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-06T12:19:30.959308+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
+      "titulo_post": "Apresentadora de TV no Egito Enfrenta Pena Capital por Narcotráfico",
+      "slug": "apresentadora-de-tv-no-egito-enfrenta-pena-capital-por-narcotrafico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-06T14:16:26.235485+00:00",
+      "dry_run": false
     }
   ]
 }
