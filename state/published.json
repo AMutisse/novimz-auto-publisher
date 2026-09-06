@@ -67,6 +67,16 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-06T18:17:42.270557+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "PME e EUROCAM reforçam cooperação para impulsionar PME moçambicanas",
+      "titulo_post": "PME e EUROCAM unem forças para acelerar negócios em Moçambique",
+      "slug": "pme-e-eurocam-unem-forcas-para-acelerar-negocios-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-06T20:15:32.486040+00:00",
+      "dry_run": false
     }
   ]
 }
