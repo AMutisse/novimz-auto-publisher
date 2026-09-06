@@ -48,6 +48,17 @@ definicoes_globais:
   # quota gratuita diária (20/dia) numa única execução.
   limite_seguranca_gemini_por_execucao: 14
 
+  # NOVO (2026-09-06): antes de publicar, verifica a fotografia de destaque
+  # gerada pela Cloudflare através da Gemini (multimodal), à procura de
+  # defeitos típicos de geração por IA — em particular figuras humanas sem
+  # cabeça (defeito reportado pelo Abílio), rostos/mãos deformados, ou texto
+  # ilegível em letreiros. Se a imagem for reprovada, o script pede uma nova
+  # imagem à Cloudflare e volta a verificar, até `max_tentativas_imagem`
+  # vezes; se mesmo assim continuar reprovada, o artigo NÃO é publicado nessa
+  # execução (fica disponível para tentar de novo mais tarde).
+  verificar_imagem_com_gemini: true
+  max_tentativas_imagem: 3
+
   # Modelo Gemini a usar (via Google AI Studio / Generative Language API).
   # "Gemini 3.5 Flash" foi o nome escolhido no Make; no momento de correr
   # este script pela primeira vez, confirma em https://aistudio.google.com/

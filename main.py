@@ -290,6 +290,106 @@ def gerar_imagem_cloudflare(cfg: dict, account_id: str, api_token: str, alt_text
 
 
 # ---------------------------------------------------------------------------
+# Verificação de qualidade da imagem (Gemini, multimodal)
+# ---------------------------------------------------------------------------
+
+IMAGEM_QA_PROMPT = (
+    "Estás a validar uma fotografia editorial gerada por IA para um artigo de "
+    "noticias, antes de ela ser publicada. Analisa cuidadosamente a imagem e "
+    "responde APENAS com um objecto JSON, sem markdown, sem crases, com "
+    "exactamente estas duas chaves: \"aprovado\" (true ou false) e \"motivo\" "
+    "(uma frase curta em portugues a explicar a decisao).\n\n"
+    "Reprova a imagem (aprovado=false) se detectares qualquer um destes "
+    "defeitos tipicos de geracao por IA: uma pessoa sem cabeca, ou com a "
+    "cabeca em falta/cortada/fundida de forma antinatural com o corpo ou o "
+    "fundo; rostos distorcidos, derretidos ou assimetricos de forma bizarra; "
+    "maos ou membros deformados, a mais ou em falta; texto ou letras "
+    "ilegiveis/sem sentido em letreiros, banners, roupa ou logotipos dentro "
+    "da imagem; ou qualquer outro artefacto visualmente quebrado que pareca "
+    "pouco profissional para uma fotografia de noticias. Se a imagem parecer "
+    "uma fotografia editorial normal, coerente e sem estes defeitos, aprova-a "
+    "mesmo que nao seja perfeita esteticamente."
+)
+
+
+def verificar_imagem_gemini(cfg: dict, api_key: str, imagem_bytes: bytes) -> dict:
+    """Usa a Gemini (multimodal) para detectar defeitos típicos de imagens
+    geradas por IA (ex. figuras humanas sem cabeça, membros deformados, texto
+    ilegível em letreiros) antes de a imagem ser publicada. Devolve
+    {"aprovado": bool, "motivo": str}. Em caso de erro na própria verificação
+    (ex. API indisponível), aprova por omissão — uma falha da verificação não
+    deve por si só bloquear a publicação."""
+    modelo = cfg["definicoes_globais"]["gemini_model"]
+    url = f"{GEMINI_API_BASE}/{modelo}:generateContent?key={api_key}"
+
+    imagem_b64 = base64.b64encode(imagem_bytes).decode("ascii")
+    payload = {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {"text": IMAGEM_QA_PROMPT},
+                    {"inline_data": {"mime_type": "image/jpeg", "data": imagem_b64}},
+                ],
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.2,
+            "responseMimeType": "application/json",
+        },
+    }
+
+    try:
+        resp = requests.post(url, json=payload, timeout=HTTP_TIMEOUT)
+        if not resp.ok:
+            log(f"AVISO: verificação da imagem pela Gemini devolveu {resp.status_code} — a aprovar por omissão.")
+            return {"aprovado": True, "motivo": "verificação indisponível"}
+        data = resp.json()
+        texto_json = data["candidates"][0]["content"]["parts"][0]["text"]
+        resultado = json.loads(texto_json)
+        return {
+            "aprovado": bool(resultado.get("aprovado", True)),
+            "motivo": str(resultado.get("motivo", "")),
+        }
+    except Exception as exc:  # noqa: BLE001
+        log(f"AVISO: erro ao verificar imagem pela Gemini ({exc}) — a aprovar por omissão.")
+        return {"aprovado": True, "motivo": "verificação indisponível"}
+
+
+def gerar_imagem_validada(
+    cfg: dict, cf_account_id: str, cf_token: str, gemini_key: str, alt_text: str
+) -> tuple[bytes | None, str]:
+    """Gera a imagem via Cloudflare e, se `verificar_imagem_com_gemini` estiver
+    activo no config.yaml, valida-a pela Gemini — tentando gerar de novo (até
+    `max_tentativas_imagem` vezes) sempre que for reprovada. Devolve
+    (bytes_da_imagem, "") em caso de sucesso, ou (None, motivo_da_reprovacao)
+    se todas as tentativas falharem na verificação."""
+    definicoes = cfg["definicoes_globais"]
+    verificar = definicoes.get("verificar_imagem_com_gemini", True)
+    max_tentativas = definicoes.get("max_tentativas_imagem", 3)
+
+    ultimo_motivo = ""
+    for tentativa in range(1, max_tentativas + 1):
+        imagem_bytes = gerar_imagem_cloudflare(cfg, cf_account_id, cf_token, alt_text)
+        if not verificar:
+            return imagem_bytes, ""
+
+        resultado = verificar_imagem_gemini(cfg, gemini_key, imagem_bytes)
+        if resultado["aprovado"]:
+            if tentativa > 1:
+                log(f"Imagem aprovada na tentativa {tentativa}/{max_tentativas}.")
+            return imagem_bytes, ""
+
+        ultimo_motivo = resultado["motivo"]
+        log(
+            f"Imagem reprovada na verificação (tentativa {tentativa}/{max_tentativas}): "
+            f"{ultimo_motivo!r} — a tentar gerar de novo."
+        )
+
+    return None, ultimo_motivo or "imagem reprovada repetidamente na verificação de qualidade"
+
+
+# ---------------------------------------------------------------------------
 # WordPress REST API
 # ---------------------------------------------------------------------------
 
@@ -372,7 +472,7 @@ def processar_site(
     no config.yaml) através de todas as fontes — em vez de decidir fonte a
     fonte, que não tem em conta a categoria real do artigo (só conhecida
     depois de a Gemini reescrever o texto)."""
-    resumo = {"site": site["id"], "publicados": 0, "ignorados": 0, "erros": 0}
+    resumo = {"site": site["id"], "publicados": 0, "ignorados": 0, "erros": 0, "descartados_por_imagem": 0}
     definicoes = cfg["definicoes_globais"]
 
     # 1) Recolher itens elegíveis de cada fonte, e intercalá-los (round-robin)
@@ -447,7 +547,16 @@ def processar_site(
                 resumo["ignorados"] += 1
                 continue
 
-            imagem_bytes = gerar_imagem_cloudflare(cfg, cf_account_id, cf_token, artigo["alt_text"])
+            imagem_bytes, motivo_reprovacao = gerar_imagem_validada(
+                cfg, cf_account_id, cf_token, gemini_key, artigo["alt_text"]
+            )
+            if imagem_bytes is None:
+                log(
+                    f"[{site['id']}/{fonte['id']}] Artigo NÃO publicado — imagem reprovada repetidamente "
+                    f"na verificação de qualidade ({motivo_reprovacao!r}): {artigo['titulo_post']!r}"
+                )
+                resumo["descartados_por_imagem"] += 1
+                continue
 
             if dry_run:
                 log(f"[{site['id']}/{fonte['id']}] DRY-RUN — não publicado: {artigo['titulo_post']!r} (categoria={artigo['categoria']} -> id {categoria_id})")
@@ -520,7 +629,11 @@ def main() -> int:
     total_publicados = sum(r["publicados"] for r in resumos)
     total_ignorados = sum(r["ignorados"] for r in resumos)
     total_erros = sum(r["erros"] for r in resumos)
-    log(f"RESUMO DA EXECUÇÃO: {total_publicados} publicado(s), {total_ignorados} ignorado(s), {total_erros} erro(s).")
+    total_descartados_imagem = sum(r.get("descartados_por_imagem", 0) for r in resumos)
+    log(
+        f"RESUMO DA EXECUÇÃO: {total_publicados} publicado(s), {total_ignorados} ignorado(s), "
+        f"{total_descartados_imagem} descartado(s) por imagem reprovada, {total_erros} erro(s)."
+    )
 
     # Não falha a execução do workflow por erros pontuais num artigo (para não
     # gerar alertas de falha constantes por causas transitórias de rede/API) —
