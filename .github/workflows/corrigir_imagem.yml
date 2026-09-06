@@ -1,0 +1,54 @@
+name: Corrigir imagem de um post
+
+# Utilitário manual: substitui a imagem de destaque de UM artigo já publicado
+# (identificado pelo slug), quando ela sair com um defeito visual (ex. figura
+# humana sem cabeça, mãos deformadas, texto ilegível em letreiros — falhas
+# conhecidas do modelo gratuito Cloudflare FLUX.1-schnell). Gera uma imagem
+# nova com a mesma verificação de qualidade (Gemini multimodal) usada no
+# pipeline normal, e só a troca se for aprovada.
+#
+# Correr a partir do separador "Actions" deste repositório → "Corrigir
+# imagem de um post" → "Run workflow", preenchendo o slug do artigo.
+
+on:
+  workflow_dispatch:
+    inputs:
+      site_id:
+        description: "ID do site em config.yaml (por omissão: novimz)"
+        required: false
+        default: "novimz"
+      post_slug:
+        description: "Slug do artigo cuja imagem de destaque deve ser corrigida"
+        required: true
+      alt_text_override:
+        description: "Opcional — descrição a usar para gerar a nova imagem (por omissão reaproveita o alt_text/título actual do post)"
+        required: false
+        default: ""
+
+jobs:
+  corrigir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Corrigir a imagem do post
+        env:
+          SITE_ID: ${{ inputs.site_id }}
+          POST_SLUG: ${{ inputs.post_slug }}
+          ALT_TEXT_OVERRIDE: ${{ inputs.alt_text_override }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          NOVIMZ_WP_USER: ${{ secrets.NOVIMZ_WP_USER }}
+          NOVIMZ_WP_APP_PASSWORD: ${{ secrets.NOVIMZ_WP_APP_PASSWORD }}
+        run: python corrigir_imagem_post.py
