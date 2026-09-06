@@ -27,6 +27,26 @@
       "categoria_id": 3,
       "publicado_em": "2026-09-06T10:16:29.026384+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Standard Bank capacita PME em planeamento e execução estratégica",
+      "titulo_post": "PME Fortalecem Estratégia de Negócios com Masterclass Inovadora",
+      "slug": "pme-fortalecem-estrategia-de-negocios-com-masterclass-inovadora",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-06T12:19:12.627647+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Quem é Alejandro Betancourt, o polêmico bilionário por trás do acordo de petróleo entre EUA e Venezuela",
+      "titulo_post": "O Papel de Alejandro Betancourt no Petróleo entre EUA e Venezuela",
+      "slug": "papel-de-alejandro-betancourt-no-petroleo-entre-eua-e-venezuela",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-06T12:19:30.959308+00:00",
+      "dry_run": false
     }
   ]
 }
