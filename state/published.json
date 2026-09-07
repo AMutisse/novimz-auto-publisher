@@ -77,6 +77,16 @@
       "categoria_id": 4,
       "publicado_em": "2026-09-06T20:15:32.486040+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial",
+      "titulo_post": "Reviravolta Política na Alemanha Redefine Cenário Eleitoral",
+      "slug": "reviravolta-politica-na-alemanha-redefine-cenario-eleitoral",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-07T02:15:25.746121+00:00",
+      "dry_run": false
     }
   ]
 }
