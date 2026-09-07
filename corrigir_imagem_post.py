@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import os
 import sys
+from datetime import datetime, timezone
 
 import requests
 
@@ -35,6 +36,7 @@ from main import (
     gerar_imagem_validada,
     load_config,
     log,
+    slugify,
 )
 
 
@@ -68,12 +70,28 @@ def buscar_media(base_url: str, auth: tuple[str, str], media_id: int) -> dict | 
     return resp.json()
 
 
-def enviar_nova_imagem(base_url: str, auth: tuple[str, str], imagem_bytes: bytes, titulo: str, alt_text: str) -> int:
+def enviar_nova_imagem(
+    base_url: str, auth: tuple[str, str], imagem_bytes: bytes, titulo: str, alt_text: str, post_slug: str
+) -> int:
+    # Nome de ficheiro único por correcção (corrigido 2026-09-07): usar sempre
+    # o mesmo nome literal "capa-cloudflare-corrigida.jpg" corria o mesmo
+    # risco documentado em main.py — um nome reutilizado por várias correcções
+    # pode acabar por colidir com um nome antigo já apagado e servido em cache
+    # por um CDN, fazendo a imagem errada de UM artigo reaparecer, através de
+    # cache, num artigo completamente diferente (foi isto que aconteceu com o
+    # artigo "Apresentadora de TV no Egito...", ver
+    # claude/2026-09-06-verificacao-imagem-e-correcao-post.md). Incluir o slug
+    # do post e um timestamp garante que este nome nunca colide com nenhum
+    # outro, presente ou futuro.
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
+    slug_seguro = slugify(post_slug) or "post"
+    nome_ficheiro = f"capa-{slug_seguro}-corrigida-{timestamp}.jpg"[:150]
+
     media_resp = requests.post(
         f"{base_url.rstrip('/')}/wp-json/wp/v2/media",
         auth=auth,
         headers={
-            "Content-Disposition": "attachment; filename=capa-cloudflare-corrigida.jpg",
+            "Content-Disposition": f"attachment; filename={nome_ficheiro}",
             "Content-Type": "image/jpeg",
             "User-Agent": WP_USER_AGENT,
         },
@@ -155,7 +173,7 @@ def main() -> int:
         return 1
 
     log("Imagem nova gerada e aprovada — a enviar para o WordPress...")
-    media_nova_id = enviar_nova_imagem(base_url, auth, imagem_bytes, titulo, alt_text)
+    media_nova_id = enviar_nova_imagem(base_url, auth, imagem_bytes, titulo, alt_text, post_slug)
     log(f"Imagem nova criada: id={media_nova_id}. A actualizar o post para usar esta imagem como destaque...")
     actualizar_featured_media(base_url, auth, post_id, media_nova_id)
     log(f"Post {post_id} actualizado com sucesso — imagem de destaque agora é a id={media_nova_id}.")

@@ -316,9 +316,23 @@ def verificar_imagem_gemini(cfg: dict, api_key: str, imagem_bytes: bytes) -> dic
     """Usa a Gemini (multimodal) para detectar defeitos típicos de imagens
     geradas por IA (ex. figuras humanas sem cabeça, membros deformados, texto
     ilegível em letreiros) antes de a imagem ser publicada. Devolve
-    {"aprovado": bool, "motivo": str}. Em caso de erro na própria verificação
-    (ex. API indisponível), aprova por omissão — uma falha da verificação não
-    deve por si só bloquear a publicação."""
+    {"aprovado": bool, "motivo": str}.
+
+    IMPORTANTE (corrigido 2026-09-07): em caso de erro na própria verificação
+    (ex. API indisponível/sobrecarregada — 429, 503, timeout, etc.), a imagem
+    é REPROVADA, não aprovada por omissão. A versão anterior aprovava por
+    omissão nestes casos, o que na prática desligava silenciosamente a
+    verificação sempre que a quota/disponibilidade da Gemini estava
+    apertada — confirmado a acontecer duas vezes em publicações reais no
+    mesmo dia (ver `claude/2026-09-06-verificacao-imagem-e-correcao-post.md`
+    e o incidente do artigo "Apresentadora de TV no Egito..."), deixando
+    passar imagens com defeitos (figura sem cabeça, texto ilegível) sem
+    nenhuma verificação real. Tratar uma falha da verificação como reprovação
+    faz `gerar_imagem_validada` tentar gerar de novo (até `max_tentativas_imagem`
+    vezes) e, se a indisponibilidade persistir em todas as tentativas, o
+    artigo simplesmente não é publicado nessa execução — mais fiel ao pedido
+    original do Abílio ("antes de publicar, faça análise") do que arriscar
+    publicar uma imagem nunca verificada."""
     modelo = cfg["definicoes_globais"]["gemini_model"]
     url = f"{GEMINI_API_BASE}/{modelo}:generateContent?key={api_key}"
 
@@ -342,8 +356,8 @@ def verificar_imagem_gemini(cfg: dict, api_key: str, imagem_bytes: bytes) -> dic
     try:
         resp = requests.post(url, json=payload, timeout=HTTP_TIMEOUT)
         if not resp.ok:
-            log(f"AVISO: verificação da imagem pela Gemini devolveu {resp.status_code} — a aprovar por omissão.")
-            return {"aprovado": True, "motivo": "verificação indisponível"}
+            log(f"AVISO: verificação da imagem pela Gemini devolveu {resp.status_code} — a REPROVAR por segurança (sem verificação real, não publica sem confirmar).")
+            return {"aprovado": False, "motivo": f"verificação indisponível (HTTP {resp.status_code})"}
         data = resp.json()
         texto_json = data["candidates"][0]["content"]["parts"][0]["text"]
         resultado = json.loads(texto_json)
@@ -352,8 +366,8 @@ def verificar_imagem_gemini(cfg: dict, api_key: str, imagem_bytes: bytes) -> dic
             "motivo": str(resultado.get("motivo", "")),
         }
     except Exception as exc:  # noqa: BLE001
-        log(f"AVISO: erro ao verificar imagem pela Gemini ({exc}) — a aprovar por omissão.")
-        return {"aprovado": True, "motivo": "verificação indisponível"}
+        log(f"AVISO: erro ao verificar imagem pela Gemini ({exc}) — a REPROVAR por segurança (sem verificação real, não publica sem confirmar).")
+        return {"aprovado": False, "motivo": f"verificação indisponível ({exc})"}
 
 
 def gerar_imagem_validada(
@@ -403,12 +417,32 @@ def publicar_no_wordpress(
 ) -> dict:
     auth = (wp_user, wp_app_password)
 
+    # Nome de ficheiro único por artigo (corrigido 2026-09-07): usar sempre o
+    # mesmo nome literal "capa-cloudflare.jpg" fazia o WordPress numerar
+    # automaticamente cada upload (capa-cloudflare.jpg, -1.jpg, -2.jpg, ...).
+    # Isto por si só não é um bug, MAS torna esses números reutilizáveis: se
+    # um ficheiro antigo com um desses nomes for apagado mais tarde (ex. pelo
+    # utilitário `corrigir_imagem_post.py`), o WordPress pode voltar a atribuir
+    # o MESMO nome a uma imagem completamente nova e sem relação — e se algum
+    # nível de cache/CDN ainda tiver essa URL em cache, continua a servir a
+    # imagem antiga (errada) por baixo do nome novo. Foi exactamente isto que
+    # aconteceu com o artigo "Apresentadora de TV no Egito..." (ver
+    # claude/2026-09-06-verificacao-imagem-e-correcao-post.md): a imagem
+    # errada de um artigo já corrigido reapareceu, através de cache, num
+    # artigo completamente diferente que por coincidência recebeu o mesmo
+    # nome de ficheiro reciclado. Usar um nome derivado do slug do próprio
+    # artigo (que já é único, graças à deduplicação) elimina de vez a
+    # possibilidade de reutilização de nome.
+    slug = artigo["slug"].strip() or slugify(artigo["titulo_post"])
+    slug_seguro = slugify(slug) or "artigo"
+    nome_ficheiro = f"capa-{slug_seguro}.jpg"[:150]
+
     # 1) Upload da imagem de capa
     media_resp = requests.post(
         f"{base_url.rstrip('/')}/wp-json/wp/v2/media",
         auth=auth,
         headers={
-            "Content-Disposition": "attachment; filename=capa-cloudflare.jpg",
+            "Content-Disposition": f"attachment; filename={nome_ficheiro}",
             "Content-Type": "image/jpeg",
             "User-Agent": WP_USER_AGENT,
         },
@@ -429,8 +463,7 @@ def publicar_no_wordpress(
         timeout=HTTP_TIMEOUT,
     )
 
-    # 2) Criação do post
-    slug = artigo["slug"].strip() or slugify(artigo["titulo_post"])
+    # 2) Criação do post (slug já calculado acima, para o nome do ficheiro)
     post_resp = requests.post(
         f"{base_url.rstrip('/')}/wp-json/wp/v2/posts",
         auth=auth,

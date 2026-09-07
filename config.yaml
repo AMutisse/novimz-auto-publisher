@@ -56,6 +56,16 @@ definicoes_globais:
   # imagem à Cloudflare e volta a verificar, até `max_tentativas_imagem`
   # vezes; se mesmo assim continuar reprovada, o artigo NÃO é publicado nessa
   # execução (fica disponível para tentar de novo mais tarde).
+  #
+  # CORRIGIDO (2026-09-07): nos primeiros dias, quando a própria chamada à
+  # Gemini para verificar a imagem falhava (429 quota esgotada, 503
+  # sobrecarga), o script aprovava a imagem por omissão — o que deixou passar
+  # pelo menos 2 imagens com defeitos reais (incluindo o mesmo defeito de
+  # "figura sem cabeça" já reportado) precisamente nos momentos em que a
+  # quota da Gemini já estava apertada por causa das outras chamadas do
+  # mesmo pipeline. Agora uma falha da própria verificação conta como
+  # reprovação (tenta gerar de novo, e se persistir, não publica) — nunca
+  # publica uma imagem que não chegou a ser realmente verificada.
   verificar_imagem_com_gemini: true
   max_tentativas_imagem: 3
 
