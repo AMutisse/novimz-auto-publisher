@@ -40,13 +40,13 @@ definicoes_globais:
   # da Gemini (20 pedidos/dia). Ver `limite_seguranca_gemini_por_execucao`
   # abaixo e a nota no README sobre o upgrade para o Tier 1 (pago, associa
   # facturação, continua muito barato) se este volume for mesmo necessário.
-  alvo_publicacoes_por_categoria: 2
+  alvo_publicacoes_por_categoria: 1
 
   # Rede de segurança: nunca chamar a Gemini mais do que este número de vezes
   # numa única execução, independentemente de quantos candidatos existam ou
   # de quantas categorias ainda não tenham atingido o alvo. Evita esgotar a
   # quota gratuita diária (20/dia) numa única execução.
-  limite_seguranca_gemini_por_execucao: 14
+  limite_seguranca_gemini_por_execucao: 7
 
   # NOVO (2026-09-06): antes de publicar, verifica a fotografia de destaque
   # gerada pela Cloudflare através da Gemini (multimodal), à procura de
@@ -67,7 +67,7 @@ definicoes_globais:
   # reprovação (tenta gerar de novo, e se persistir, não publica) — nunca
   # publica uma imagem que não chegou a ser realmente verificada.
   verificar_imagem_com_gemini: true
-  max_tentativas_imagem: 3
+  max_tentativas_imagem: 2
 
   # Modelo Gemini a usar (via Google AI Studio / Generative Language API).
   # "Gemini 3.5 Flash" foi o nome escolhido no Make; no momento de correr
