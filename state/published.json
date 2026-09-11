@@ -97,6 +97,46 @@
       "categoria_id": 4,
       "publicado_em": "2026-09-11T12:22:06.569293+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "CTA defende maior parceria com investidores sul-coreanos para transferência tecnológica",
+      "titulo_post": "Moçambique Quer Tecnologia Sul-Coreana Para Alavancar Negócios",
+      "slug": "mocambique-quer-tecnologia-sul-coreana-para-alavancar-negocios",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-11T19:35:04.708620+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Fachin dá 24 horas para que Mendonça libere mais documentos do caso Master em meio a críticas sobre 'seletividade'",
+      "titulo_post": "STF Determina Divulgação Ampla de Documentos Judiciais",
+      "slug": "stf-determina-divulgacao-ampla-de-documentos-judiciais",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-11T19:35:25.296057+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Mineração ilegal matou pelo menos nove pessoas em três dias no centro de Moçambique - Lusa",
+      "titulo_post": "Garimpo Ilegal em Moçambique: Desafios e Riscos no Centro do País",
+      "slug": "garimpo-ilegal-mocambique-desafios-riscos-centro-pais",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-11T19:36:08.189363+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo",
+      "titulo_post": "Supremo Tribunal Federal Investiga Negócios no Cinema",
+      "slug": "supremo-tribunal-federal-investiga-negocios-no-cinema",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-11T19:36:23.607134+00:00",
+      "dry_run": false
     }
   ]
 }
