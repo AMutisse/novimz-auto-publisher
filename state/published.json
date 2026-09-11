@@ -137,6 +137,26 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-11T19:36:23.607134+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "6 perguntas para entender inquérito contra Flávio Bolsonaro — e o o que falta ser esclarecido",
+      "titulo_post": "Inquérito a Flávio Bolsonaro: Entenda Pontos Chave e Rumos",
+      "slug": "inquerito-a-flavio-bolsonaro-entenda-pontos-chave-e-rumos",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-11T20:16:22.647361+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A disputa pela sucessão dentro da família real de Uganda após a morte do monarca mais jovem do mundo",
+      "titulo_post": "Disputa Sucessória Sacode Reino Tradicional de Tooro no Uganda",
+      "slug": "disputa-sucessoria-sacode-reino-tradicional-de-tooro-no-uganda",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-11T20:16:46.719484+00:00",
+      "dry_run": false
     }
   ]
 }
