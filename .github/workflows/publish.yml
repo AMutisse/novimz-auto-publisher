@@ -6,10 +6,15 @@ on:
     # O horário exacto dentro da hora pode variar um pouco (comportamento
     # normal do agendador do GitHub Actions em períodos de muita carga).
     - cron: "0 */2 * * *"
-  workflow_dispatch: {}   # permite correr manualmente a partir do separador "Actions" no GitHub
-  
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Corre o pipeline sem publicar no WordPress (para testar em segurança)"
+        type: boolean
+        default: false
+
 permissions:
-  contents: write   # necessário para o workflow poder gravar o histórico anti-duplicados
+  contents: write # necessário para o workflow poder gravar o histórico anti-duplicados
 
 concurrency:
   group: novimz-auto-publisher
@@ -38,7 +43,14 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           NOVIMZ_WP_USER: ${{ secrets.NOVIMZ_WP_USER }}
           NOVIMZ_WP_APP_PASSWORD: ${{ secrets.NOVIMZ_WP_APP_PASSWORD }}
-        run: python main.py
+          PANORAMA_WP_USER: ${{ secrets.PANORAMA_WP_USER }}
+          PANORAMA_WP_APP_PASSWORD: ${{ secrets.PANORAMA_WP_APP_PASSWORD }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python main.py --dry-run
+          else
+            python main.py
+          fi
 
       - name: Gravar histórico anti-duplicados (se mudou)
         run: |
