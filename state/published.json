@@ -87,6 +87,16 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-07T02:15:25.746121+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "FAO reforça segurança alimentar com 350.000 alevinos em Moçambique - SAPO",
+      "titulo_post": "Aquacultura: FAO Distribui 350 Mil Alevinos em Moçambique",
+      "slug": "aquacultura-fao-distribui-350-mil-alevinos-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-11T12:22:06.569293+00:00",
+      "dry_run": false
     }
   ]
 }
