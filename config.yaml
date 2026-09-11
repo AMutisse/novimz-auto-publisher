@@ -255,51 +255,42 @@ sites:
   # /wp-json/wp/v2/categories em 2026-09-11: SOCIEDADE=31, ECONOMIA=32,
   # POLITICA=33, TECNOLOGIA=34, MUNDO=35).
   #
-  # DEIXADO COMENTADO DE PROPÓSITO: falta criar a "Application Password" do
-  # WordPress deste site e os secrets PANORAMA_WP_USER /
-  # PANORAMA_WP_APP_PASSWORD no GitHub Actions (ver README.md /
-  # instruções dadas ao Abílio). Sem esses secrets, activar este bloco
-  # faria a execução INTEIRA do workflow falhar logo no arranque (o main.py
-  # exige as credenciais de todos os sites listados em "sites:" antes de
-  # processar qualquer um deles) — incluindo o site "novimz", que continuaria
-  # a funcionar normalmente. Descomentar e adicionar ao workflow
-  # (.github/workflows/publish.yml) SÓ depois de confirmar que os secrets
-  # já existem.
-  #
-  # - id: panorama
-  #   nome: "Pano-rama"
-  #   modo: "pesquisa_gemini"
-  #   wordpress_base_url: "https://pano-rama.online"
-  #   wordpress_user_env: "PANORAMA_WP_USER"
-  #   wordpress_app_password_env: "PANORAMA_WP_APP_PASSWORD"
-  #   categoria_map:
-  #     "SOCIEDADE": 31
-  #     "ECONOMIA": 32
-  #     "POLITICA": 33
-  #     "TECNOLOGIA": 34
-  #     "MUNDO": 35
-  #   categoria_fallback: 31
-  #   # Uma publicação por tema, por execução do workflow (ver
-  #   # `alvo_publicacoes_por_tema`, análogo ao `alvo_publicacoes_por_categoria`
-  #   # do modo RSS, mas mais simples porque cada tema já corresponde
-  #   # directamente a uma única categoria).
-  #   alvo_publicacoes_por_tema: 1
-  #   temas_pesquisa:
-  #     - id: sociedade
-  #       categoria: "SOCIEDADE"
-  #       instrucao_pesquisa: "uma noticia recente sobre sociedade em Mocambique"
-  #     - id: economia
-  #       categoria: "ECONOMIA"
-  #       instrucao_pesquisa: "uma noticia recente sobre economia ou negocios em Mocambique"
-  #     - id: politica
-  #       categoria: "POLITICA"
-  #       instrucao_pesquisa: "uma noticia recente sobre politica em Mocambique"
-  #     - id: tecnologia
-  #       categoria: "TECNOLOGIA"
-  #       instrucao_pesquisa: "uma noticia recente sobre tecnologia, inovacao ou ciencia"
-  #     - id: mundo
-  #       categoria: "MUNDO"
-  #       instrucao_pesquisa: "uma das principais noticias internacionais recentes"
+  # ACTIVADO em 2026-09-11 depois de confirmados os secrets PANORAMA_WP_USER
+  # / PANORAMA_WP_APP_PASSWORD no GitHub Actions.
+  - id: panorama
+    nome: "Pano-rama"
+    modo: "pesquisa_gemini"
+    wordpress_base_url: "https://pano-rama.online"
+    wordpress_user_env: "PANORAMA_WP_USER"
+    wordpress_app_password_env: "PANORAMA_WP_APP_PASSWORD"
+    categoria_map:
+      "SOCIEDADE": 31
+      "ECONOMIA": 32
+      "POLITICA": 33
+      "TECNOLOGIA": 34
+      "MUNDO": 35
+    categoria_fallback: 31
+    # Uma publicação por tema, por execução do workflow (ver
+    # `alvo_publicacoes_por_tema`, análogo ao `alvo_publicacoes_por_categoria`
+    # do modo RSS, mas mais simples porque cada tema já corresponde
+    # directamente a uma única categoria).
+    alvo_publicacoes_por_tema: 1
+    temas_pesquisa:
+      - id: sociedade
+        categoria: "SOCIEDADE"
+        instrucao_pesquisa: "uma noticia recente sobre sociedade em Mocambique"
+      - id: economia
+        categoria: "ECONOMIA"
+        instrucao_pesquisa: "uma noticia recente sobre economia ou negocios em Mocambique"
+      - id: politica
+        categoria: "POLITICA"
+        instrucao_pesquisa: "uma noticia recente sobre politica em Mocambique"
+      - id: tecnologia
+        categoria: "TECNOLOGIA"
+        instrucao_pesquisa: "uma noticia recente sobre tecnologia, inovacao ou ciencia"
+      - id: mundo
+        categoria: "MUNDO"
+        instrucao_pesquisa: "uma das principais noticias internacionais recentes"
 
 # Exemplo de como adicionar um segundo site RSS (deixa comentado até teres um
 # segundo WordPress pronto; basta descomentar e preencher):
