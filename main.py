@@ -5,17 +5,17 @@ Novimz Auto-Publisher — versão Python/GitHub Actions
 
 Replica, sem custo recorrente, o pipeline que corria no Make.com:
 
-    RSS -> [filtro editorial + deduplicação] -> Google Gemini AI (texto)
-        -> Cloudflare Workers AI / FLUX.1-schnell (imagem)
-        -> WordPress (upload de media + criação do post)
+RSS -> [filtro editorial + deduplicação] -> Google Gemini AI (texto)
+-> Cloudflare Workers AI / FLUX.1-schnell (imagem)
+-> WordPress (upload de media + criação do post)
 
 Todas as credenciais vêm de variáveis de ambiente (GitHub Actions secrets).
 Este script nunca lê nem escreve segredos em disco. Ver README.md para a
 lista completa de secrets necessários e instruções de configuração.
 
 Uso:
-    python main.py               # corre todos os sites/fontes do config.yaml
-    python main.py --dry-run     # faz tudo menos publicar no WordPress
+  python main.py              # corre todos os sites/fontes do config.yaml
+  python main.py --dry-run    # faz tudo menos publicar no WordPress
 """
 
 from __future__ import annotations
@@ -63,7 +63,6 @@ REQUIRED_JSON_KEYS = [
     "categoria",
 ]
 
-
 # ---------------------------------------------------------------------------
 # Utilitários gerais
 # ---------------------------------------------------------------------------
@@ -72,11 +71,9 @@ def log(msg: str) -> None:
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     print(f"[{ts}] {msg}", flush=True)
 
-
 def load_config() -> dict:
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
-
 
 def load_state() -> dict:
     if not os.path.exists(STATE_PATH):
@@ -84,18 +81,16 @@ def load_state() -> dict:
     try:
         with open(STATE_PATH, "r", encoding="utf-8") as f:
             data = json.load(f)
-            data.setdefault("publicados", [])
-            return data
+        data.setdefault("publicados", [])
+        return data
     except (json.JSONDecodeError, OSError):
         log("AVISO: state/published.json ilegível ou corrompido — a começar com histórico vazio.")
         return {"publicados": []}
-
 
 def save_state(state: dict) -> None:
     os.makedirs(os.path.dirname(STATE_PATH), exist_ok=True)
     with open(STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
-
 
 def prune_state(state: dict, janela_dias: int) -> dict:
     limite = datetime.now(timezone.utc) - timedelta(days=janela_dias * 3)
@@ -110,7 +105,6 @@ def prune_state(state: dict, janela_dias: int) -> dict:
     state["publicados"] = mantidos
     return state
 
-
 def slugify(texto: str) -> str:
     """Rede de segurança caso o slug devolvido pela Gemini não esteja limpo."""
     nfkd = unicodedata.normalize("NFKD", texto)
@@ -120,11 +114,9 @@ def slugify(texto: str) -> str:
     sem_acentos = re.sub(r"-+", "-", sem_acentos).strip("-")
     return sem_acentos[:70].strip("-")
 
-
 def titulos_semelhantes(a: str, b: str, limiar: float) -> bool:
     ratio = difflib.SequenceMatcher(None, a.lower(), b.lower()).ratio()
     return ratio >= limiar
-
 
 def env_required(nome_var: str) -> str:
     valor = os.environ.get(nome_var)
@@ -134,7 +126,6 @@ def env_required(nome_var: str) -> str:
             f"Configura-a como secret no GitHub Actions (ver README.md)."
         )
     return valor
-
 
 # ---------------------------------------------------------------------------
 # RSS
@@ -149,7 +140,6 @@ def _rss_text(elem) -> str:
     # (elem.text sozinho só devolveria o texto antes da primeira sub-tag).
     texto = "".join(elem.itertext())
     return html.unescape(texto.strip())
-
 
 def fetch_rss_items(url: str) -> list[dict]:
     """Faz parsing simples de um feed RSS 2.0 (suficiente para as fontes
@@ -190,7 +180,6 @@ def fetch_rss_items(url: str) -> list[dict]:
         )
     return itens
 
-
 def filtrar_itens_recentes(itens: list[dict], lookback_hours: float, max_itens: int) -> list[dict]:
     limite = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
     validos = []
@@ -201,7 +190,6 @@ def filtrar_itens_recentes(itens: list[dict], lookback_hours: float, max_itens: 
             continue
         validos.append(item)
     return validos[:max_itens]
-
 
 def intercalar_por_fonte(listas: list[list[dict]]) -> list[dict]:
     """Intercala (round-robin) os itens de várias fontes, em vez de esgotar
@@ -215,9 +203,8 @@ def intercalar_por_fonte(listas: list[list[dict]]) -> list[dict]:
                 resultado.append(lst[i])
     return resultado
 
-
 # ---------------------------------------------------------------------------
-# Google Gemini AI (texto)
+# Google Gemini AI (texto) — modo RSS (notícia de origem fixa)
 # ---------------------------------------------------------------------------
 
 def gerar_artigo_gemini(cfg: dict, api_key: str, titulo: str, descricao: str, nome_fonte: str) -> dict:
@@ -258,6 +245,94 @@ def gerar_artigo_gemini(cfg: dict, api_key: str, titulo: str, descricao: str, no
 
     return artigo
 
+# ---------------------------------------------------------------------------
+# Google Gemini AI (texto) — modo PESQUISA (Google Search grounding, sem RSS)
+# ---------------------------------------------------------------------------
+
+def _extrair_json_tolerante(texto: str) -> dict:
+    """Extrai um objecto JSON de uma resposta de texto livre da Gemini.
+
+    Usado apenas no modo de pesquisa (`gerar_artigo_gemini_pesquisa`): quando
+    a ferramenta `google_search` está activa não é seguro pedir também
+    `responseMimeType: application/json` (as duas funcionalidades nem sempre
+    são combináveis de forma fiável na API da Gemini) — por isso aqui
+    confiamos na instrução do prompt para devolver só JSON, mas ainda assim
+    toleramos blocos de código markdown (```json ... ```) ou texto residual
+    antes/depois do objecto, em vez de rebentar com json.JSONDecodeError."""
+    texto = texto.strip()
+    texto = re.sub(r"^```(?:json)?\s*", "", texto)
+    texto = re.sub(r"```\s*$", "", texto)
+    texto = texto.strip()
+    try:
+        return json.loads(texto)
+    except json.JSONDecodeError:
+        pass
+    inicio = texto.find("{")
+    fim = texto.rfind("}")
+    if inicio == -1 or fim == -1 or fim <= inicio:
+        raise RuntimeError(f"Não foi possível extrair JSON da resposta da Gemini: {texto[:500]}")
+    return json.loads(texto[inicio : fim + 1])
+
+def gerar_artigo_gemini_pesquisa(
+    cfg: dict, api_key: str, tema: dict, titulos_recentes: list[str]
+) -> tuple[dict | None, str]:
+    """Gera um artigo original SEM notícia de origem em RSS: pede à própria
+    Gemini para pesquisar no Google (ferramenta `google_search`, grounding)
+    uma notícia REAL e recente sobre `tema` e escrever o artigo com base
+    nela — nunca inventando factos sem uma fonte real encontrada.
+
+    Devolve (artigo_dict, url_da_fonte) em caso de sucesso, ou (None, motivo)
+    se a Gemini não devolver nenhuma fonte de pesquisa real (groundingMetadata
+    vazio) — nesse caso o chamador NÃO deve publicar nada, precisamente para
+    impedir que "notícias" inventadas cheguem ao WordPress."""
+    modelo = cfg["definicoes_globais"]["gemini_model"]
+    url = f"{GEMINI_API_BASE}/{modelo}:generateContent?key={api_key}"
+
+    lista_recentes = "\n".join(f"- {t}" for t in titulos_recentes[-25:]) or "(nenhum artigo recente ainda)"
+    user_message = cfg["gemini_pesquisa_user_message_template"].format(
+        instrucao_pesquisa=tema["instrucao_pesquisa"],
+        categoria=tema["categoria"],
+        titulos_recentes=lista_recentes,
+    )
+
+    payload = {
+        "system_instruction": {"parts": [{"text": cfg["gemini_pesquisa_system_prompt"]}]},
+        "contents": [{"role": "user", "parts": [{"text": user_message}]}],
+        "tools": [{"google_search": {}}],
+        "generationConfig": {
+            "temperature": cfg["definicoes_globais"]["gemini_temperature"],
+            "topP": cfg["definicoes_globais"]["gemini_top_p"],
+        },
+    }
+
+    resp = requests.post(url, json=payload, timeout=HTTP_TIMEOUT)
+    if not resp.ok:
+        raise RuntimeError(f"Gemini API (pesquisa) devolveu {resp.status_code}: {resp.text[:500]}")
+
+    data = resp.json()
+    try:
+        candidato = data["candidates"][0]
+        texto_resposta = candidato["content"]["parts"][0]["text"]
+    except (KeyError, IndexError) as exc:
+        raise RuntimeError(f"Resposta da Gemini (pesquisa) em formato inesperado: {json.dumps(data)[:500]}") from exc
+
+    artigo = _extrair_json_tolerante(texto_resposta)
+
+    faltam = [k for k in REQUIRED_JSON_KEYS if k not in artigo or not str(artigo[k]).strip()]
+    if faltam:
+        raise RuntimeError(f"JSON da Gemini (pesquisa) incompleto, faltam/estão vazias as chaves: {faltam}")
+
+    # groundingMetadata só existe quando a Gemini efectivamente usou a
+    # ferramenta google_search e encontrou resultados — é a nossa garantia
+    # de que o artigo está mesmo ancorado numa pesquisa real, e não
+    # inventado. Sem isto, recusamos publicar.
+    grounding = candidato.get("groundingMetadata") or {}
+    chunks = grounding.get("groundingChunks") or []
+    fontes_urls = [c["web"]["uri"] for c in chunks if c.get("web", {}).get("uri")]
+    if not fontes_urls:
+        return None, "sem fontes de pesquisa reais devolvidas pela Gemini (groundingMetadata vazio)"
+
+    return artigo, fontes_urls[0]
 
 # ---------------------------------------------------------------------------
 # Cloudflare Workers AI (imagem)
@@ -288,7 +363,6 @@ def gerar_imagem_cloudflare(cfg: dict, account_id: str, api_token: str, alt_text
     imagem_b64 = data["result"]["image"]
     return base64.b64decode(imagem_b64)
 
-
 # ---------------------------------------------------------------------------
 # Verificação de qualidade da imagem (Gemini, multimodal)
 # ---------------------------------------------------------------------------
@@ -310,7 +384,6 @@ IMAGEM_QA_PROMPT = (
     "uma fotografia editorial normal, coerente e sem estes defeitos, aprova-a "
     "mesmo que nao seja perfeita esteticamente."
 )
-
 
 def verificar_imagem_gemini(cfg: dict, api_key: str, imagem_bytes: bytes) -> dict:
     """Usa a Gemini (multimodal) para detectar defeitos típicos de imagens
@@ -369,7 +442,6 @@ def verificar_imagem_gemini(cfg: dict, api_key: str, imagem_bytes: bytes) -> dic
         log(f"AVISO: erro ao verificar imagem pela Gemini ({exc}) — a REPROVAR por segurança (sem verificação real, não publica sem confirmar).")
         return {"aprovado": False, "motivo": f"verificação indisponível ({exc})"}
 
-
 def gerar_imagem_validada(
     cfg: dict, cf_account_id: str, cf_token: str, gemini_key: str, alt_text: str
 ) -> tuple[bytes | None, str]:
@@ -401,7 +473,6 @@ def gerar_imagem_validada(
         )
 
     return None, ultimo_motivo or "imagem reprovada repetidamente na verificação de qualidade"
-
 
 # ---------------------------------------------------------------------------
 # WordPress REST API
@@ -484,7 +555,6 @@ def publicar_no_wordpress(
 
     return post_resp.json()
 
-
 # ---------------------------------------------------------------------------
 # Orquestração principal
 # ---------------------------------------------------------------------------
@@ -509,7 +579,7 @@ def processar_site(
     definicoes = cfg["definicoes_globais"]
 
     # 1) Recolher itens elegíveis de cada fonte, e intercalá-los (round-robin)
-    #    para dar a cada fonte uma hipótese igual de contribuir.
+    # para dar a cada fonte uma hipótese igual de contribuir.
     itens_por_fonte = []
     for fonte in site["fontes"]:
         try:
@@ -538,8 +608,8 @@ def processar_site(
     ]
 
     # 3) Preparar contagem de publicações por categoria NESTA execução.
-    #    Usa o ID de categoria do WordPress como chave (mais robusto do que o
-    #    nome de texto devolvido pela Gemini, que é o que decide o ID).
+    # Usa o ID de categoria do WordPress como chave (mais robusto do que o
+    # nome de texto devolvido pela Gemini, que é o que decide o ID).
     alvo_por_categoria = definicoes.get("alvo_publicacoes_por_categoria", 2)
     limite_seguranca_gemini = definicoes.get("limite_seguranca_gemini_por_execucao", 14)
     categoria_map = site["categoria_map"]
@@ -633,6 +703,97 @@ def processar_site(
 
     return resumo
 
+def processar_site_pesquisa(
+    cfg: dict,
+    site: dict,
+    state: dict,
+    gemini_key: str,
+    cf_account_id: str,
+    cf_token: str,
+    wp_user: str,
+    wp_app_password: str,
+    dry_run: bool,
+) -> dict:
+    """Processa um site em modo 'pesquisa_gemini' (`site['modo']`): em vez de
+    ler RSS, pede à Gemini para pesquisar no Google (grounding) e escrever um
+    artigo original e REAL para cada tema em `site['temas_pesquisa']`. Usado
+    para sites sem fonte RSS própria (ex. pano-rama.online)."""
+    resumo = {"site": site["id"], "publicados": 0, "ignorados": 0, "erros": 0, "descartados_por_imagem": 0}
+    definicoes = cfg["definicoes_globais"]
+    alvo_por_tema = site.get("alvo_publicacoes_por_tema", 1)
+
+    limiar = definicoes["duplicidade_limiar_semelhanca"]
+    janela_dias = definicoes["duplicidade_janela_dias"]
+    limite_dedupe = datetime.now(timezone.utc) - timedelta(days=janela_dias)
+    titulos_recentes_site = [
+        p["titulo_post"]
+        for p in state["publicados"]
+        if p["site"] == site["id"] and datetime.fromisoformat(p["publicado_em"]) >= limite_dedupe
+    ]
+
+    categoria_map = site["categoria_map"]
+
+    for tema in site["temas_pesquisa"]:
+        for _ in range(alvo_por_tema):
+            try:
+                artigo, fonte_ou_motivo = gerar_artigo_gemini_pesquisa(cfg, gemini_key, tema, titulos_recentes_site)
+
+                if artigo is None:
+                    log(f"[{site['id']}/{tema['id']}] Ignorado — {fonte_ou_motivo}.")
+                    resumo["ignorados"] += 1
+                    continue
+
+                if any(titulos_semelhantes(artigo["titulo_post"], t, limiar) for t in titulos_recentes_site):
+                    log(f"[{site['id']}/{tema['id']}] Ignorado (semelhante a publicação recente): {artigo['titulo_post']!r}")
+                    resumo["ignorados"] += 1
+                    continue
+
+                categoria_id = categoria_map.get(tema["categoria"], site["categoria_fallback"])
+
+                imagem_bytes, motivo_reprovacao = gerar_imagem_validada(
+                    cfg, cf_account_id, cf_token, gemini_key, artigo["alt_text"]
+                )
+                if imagem_bytes is None:
+                    log(
+                        f"[{site['id']}/{tema['id']}] Artigo NÃO publicado — imagem reprovada repetidamente "
+                        f"na verificação de qualidade ({motivo_reprovacao!r}): {artigo['titulo_post']!r}"
+                    )
+                    resumo["descartados_por_imagem"] += 1
+                    continue
+
+                if dry_run:
+                    log(f"[{site['id']}/{tema['id']}] DRY-RUN — não publicado: {artigo['titulo_post']!r} (fonte: {fonte_ou_motivo})")
+                else:
+                    resultado = publicar_no_wordpress(
+                        site["wordpress_base_url"], wp_user, wp_app_password, imagem_bytes, artigo, categoria_id
+                    )
+                    log(f"[{site['id']}/{tema['id']}] Publicado: {artigo['titulo_post']!r} -> {resultado.get('link')} (fonte: {fonte_ou_motivo})")
+
+                titulos_recentes_site.append(artigo["titulo_post"])
+                state["publicados"].append(
+                    {
+                        "site": site["id"],
+                        "fonte": tema["id"],
+                        "titulo_original": artigo["titulo_post"],
+                        "titulo_post": artigo["titulo_post"],
+                        "slug": artigo["slug"],
+                        "categoria_id": categoria_id,
+                        "fonte_pesquisa_url": fonte_ou_motivo,
+                        "publicado_em": datetime.now(timezone.utc).isoformat(),
+                        "dry_run": dry_run,
+                    }
+                )
+                resumo["publicados"] += 1
+
+            except Exception as exc:  # noqa: BLE001
+                log(f"[{site['id']}/{tema['id']}] ERRO ao processar tema: {exc}")
+                resumo["erros"] += 1
+                continue
+
+            # Pequena pausa entre artigos para não sobrecarregar as APIs.
+            time.sleep(2)
+
+    return resumo
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Novimz Auto-Publisher (Python)")
@@ -651,9 +812,14 @@ def main() -> int:
         wp_user = env_required(site["wordpress_user_env"])
         wp_app_password = env_required(site["wordpress_app_password_env"])
 
-        resumo = processar_site(
-            cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
-        )
+        if site.get("modo") == "pesquisa_gemini":
+            resumo = processar_site_pesquisa(
+                cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
+            )
+        else:
+            resumo = processar_site(
+                cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
+            )
         resumos.append(resumo)
 
     state = prune_state(state, cfg["definicoes_globais"]["duplicidade_janela_dias"])
@@ -677,7 +843,6 @@ def main() -> int:
         return 1
 
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())

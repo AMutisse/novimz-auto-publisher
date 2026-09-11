@@ -10,6 +10,15 @@
 # "sites:" e mudar o "id" (usado para montar os nomes das variáveis de
 # ambiente) e os dados desse site. Para adicionar uma nova fonte RSS a um
 # site já existente, basta duplicar um bloco em "fontes:" desse site.
+#
+# Um site pode funcionar em dois modos:
+#   - modo RSS (omitir "modo", ou "modo: rss"): lê fontes RSS (bloco
+#     "fontes:") e usa `gemini_system_prompt` / `gemini_user_message_template`.
+#   - modo "pesquisa_gemini": não tem RSS — pede à própria Gemini para
+#     pesquisar no Google (grounding) uma notícia real e recente sobre cada
+#     tema em "temas_pesquisa:", usando `gemini_pesquisa_system_prompt` /
+#     `gemini_pesquisa_user_message_template". Ver o bloco de exemplo
+#     "panorama" mais abaixo (comentado até haver credenciais WordPress).
 # =============================================================================
 
 definicoes_globais:
@@ -24,57 +33,49 @@ definicoes_globais:
   # activas dá até 16 candidatos brutos por execução.
   max_items_por_fonte: 4
 
-  # NOVO (2026-09-06): número de publicações a tentar por categoria em cada
-  # execução do workflow, somando todas as fontes RSS do mesmo site. Assim que
-  # uma categoria atinge este número nesta execução, os itens seguintes que a
-  # IA classifique nessa mesma categoria são ignorados (ficam disponíveis para
-  # tentar de novo numa próxima execução, caso ainda estejam dentro da janela
-  # RSS). Só é possível saber a categoria de um item DEPOIS de o enviar à
-  # Gemini para reescrita — por isso este alvo não reduz o número de chamadas
-  # à Gemini de forma perfeita, só pára assim que TODAS as categorias já
-  # tiverem atingido o alvo nesta execução.
+  # Número de publicações a tentar por categoria em cada execução do
+  # workflow, somando todas as fontes RSS do mesmo site. Assim que uma
+  # categoria atinge este número nesta execução, os itens seguintes que a
+  # IA classifique nessa mesma categoria são ignorados (ficam disponíveis
+  # para tentar de novo numa próxima execução, caso ainda estejam dentro da
+  # janela RSS). Só é possível saber a categoria de um item DEPOIS de o
+  # enviar à Gemini para reescrita — por isso este alvo não reduz o número
+  # de chamadas à Gemini de forma perfeita, só pára assim que TODAS as
+  # categorias já tiverem atingido o alvo nesta execução.
   #
-  # ATENÇÃO AO CUSTO/QUOTA: com 7 categorias × 2 = até 14 chamadas à Gemini
-  # por execução, e um agendamento a cada 2h (12 execuções/dia), isto pode
-  # chegar a ~168 chamadas/dia no pior caso — muito acima do limite gratuito
-  # da Gemini (20 pedidos/dia). Ver `limite_seguranca_gemini_por_execucao`
-  # abaixo e a nota no README sobre o upgrade para o Tier 1 (pago, associa
-  # facturação, continua muito barato) se este volume for mesmo necessário.
+  # REPOSTO EM 2026-09-11 para o valor normal (2) após o upgrade da conta
+  # Gemini para o Tier 1 pago (ver
+  # claude/2026-09-11-projecao-duracao-credito-tier1.md) — tinha sido
+  # temporariamente reduzido para 1 enquanto a conta estava no nível
+  # gratuito (20 pedidos/dia).
   alvo_publicacoes_por_categoria: 2
 
   # Rede de segurança: nunca chamar a Gemini mais do que este número de vezes
   # numa única execução, independentemente de quantos candidatos existam ou
-  # de quantas categorias ainda não tenham atingido o alvo. Evita esgotar a
-  # quota gratuita diária (20/dia) numa única execução.
+  # de quantas categorias ainda não tenham atingido o alvo.
+  #
+  # REPOSTO EM 2026-09-11 para o valor normal (14) — ver nota acima.
   limite_seguranca_gemini_por_execucao: 14
 
-  # NOVO (2026-09-06): antes de publicar, verifica a fotografia de destaque
-  # gerada pela Cloudflare através da Gemini (multimodal), à procura de
-  # defeitos típicos de geração por IA — em particular figuras humanas sem
-  # cabeça (defeito reportado pelo Abílio), rostos/mãos deformados, ou texto
+  # Antes de publicar, verifica a fotografia de destaque gerada pela
+  # Cloudflare através da Gemini (multimodal), à procura de defeitos
+  # típicos de geração por IA — em particular figuras humanas sem cabeça
+  # (defeito reportado pelo Abílio), rostos/mãos deformados, ou texto
   # ilegível em letreiros. Se a imagem for reprovada, o script pede uma nova
   # imagem à Cloudflare e volta a verificar, até `max_tentativas_imagem`
-  # vezes; se mesmo assim continuar reprovada, o artigo NÃO é publicado nessa
-  # execução (fica disponível para tentar de novo mais tarde).
+  # vezes; se mesmo assim continuar reprovada, o artigo NÃO é publicado
+  # nessa execução (fica disponível para tentar de novo mais tarde).
   #
-  # CORRIGIDO (2026-09-07): nos primeiros dias, quando a própria chamada à
-  # Gemini para verificar a imagem falhava (429 quota esgotada, 503
-  # sobrecarga), o script aprovava a imagem por omissão — o que deixou passar
-  # pelo menos 2 imagens com defeitos reais (incluindo o mesmo defeito de
-  # "figura sem cabeça" já reportado) precisamente nos momentos em que a
-  # quota da Gemini já estava apertada por causa das outras chamadas do
-  # mesmo pipeline. Agora uma falha da própria verificação conta como
-  # reprovação (tenta gerar de novo, e se persistir, não publica) — nunca
-  # publica uma imagem que não chegou a ser realmente verificada.
+  # CORRIGIDO (2026-09-07): uma falha da própria verificação (429/503/
+  # timeout) conta como reprovação, nunca como aprovação por omissão — ver
+  # `claude/2026-09-07-bug-imagem-reciclada-e-correcao.md`.
   verificar_imagem_com_gemini: true
+
+  # REPOSTO EM 2026-09-11 para o valor normal (3) — ver nota acima sobre o
+  # upgrade para o Tier 1.
   max_tentativas_imagem: 3
 
   # Modelo Gemini a usar (via Google AI Studio / Generative Language API).
-  # "Gemini 3.5 Flash" foi o nome escolhido no Make; no momento de correr
-  # este script pela primeira vez, confirma em https://aistudio.google.com/
-  # qual é o identificador actual do modelo Flash mais generoso na camada
-  # gratuita e ajusta aqui se necessário (a Google muda estes nomes com
-  # alguma frequência).
   gemini_model: "gemini-flash-latest"
   gemini_temperature: 0.7
   gemini_top_p: 1
@@ -84,14 +85,14 @@ definicoes_globais:
   cloudflare_image_steps: 4
 
   # Limiar de semelhança (0 a 1) para considerar dois títulos como o mesmo
-  # assunto e evitar publicar quase-duplicados (problema conhecido do Make,
-  # nunca totalmente resolvido lá — aqui é mitigado por este verificador).
+  # assunto e evitar publicar quase-duplicados.
   duplicidade_limiar_semelhanca: 0.62
   duplicidade_janela_dias: 4
 
 # -----------------------------------------------------------------------------
 # Prompt do sistema (idêntico ao usado em produção no Make/Gemini) e template
-# da mensagem do utilizador. Comuns a todos os sites e fontes.
+# da mensagem do utilizador — modo RSS. Comuns a todos os sites/fontes em
+# modo RSS.
 # -----------------------------------------------------------------------------
 gemini_system_prompt: |
   Você é um sistema avançado de automação de conteúdo para o portal Novimz, especializado em SEO avançado, escrita jornalística cativante e em conformidade rigorosa com as políticas do Google AdSense, focado nos temas Sociedade, Economia e Negócios em Moçambique.
@@ -123,6 +124,64 @@ gemini_system_prompt: |
 gemini_user_message_template: |
   NOTICIA DE ORIGEM (usa apenas como inspiracao factual - nao copies frases, reescreve sempre por palavras proprias): Titulo original: {titulo} Resumo/descricao: {descricao} Fonte: {fonte_nome} TAREFA: Com base nesta noticia, gera o objecto JSON com os 6 campos (titulo_post, artigo_html, meta_description, alt_text, slug, categoria) seguindo rigorosamente as instrucoes do sistema. Responde apenas com o JSON.
 
+# -----------------------------------------------------------------------------
+# Prompt do sistema e template da mensagem do utilizador — modo PESQUISA
+# (Google Search grounding, sem RSS). Usado por sites com "modo:
+# pesquisa_gemini" (ver bloco de exemplo "panorama" mais abaixo).
+#
+# NOVO (2026-09-11): pedido do Abílio para criar um site que gere artigos de
+# forma autónoma sem depender de RSS. Em vez de inventar notícias (risco de
+# desinformação, rejeitado explicitamente), a Gemini usa a ferramenta
+# `google_search` para encontrar uma notícia REAL antes de escrever — ver
+# `gerar_artigo_gemini_pesquisa` em main.py, que recusa publicar se a
+# resposta não vier acompanhada de fontes reais de pesquisa
+# (groundingMetadata vazio).
+# -----------------------------------------------------------------------------
+gemini_pesquisa_system_prompt: |
+  Você é um sistema avançado de automação de conteúdo jornalístico para o portal Panorama, especializado em SEO avançado, escrita jornalística cativante e em conformidade rigorosa com as políticas do Google AdSense.
+
+  A tua tarefa tem duas partes obrigatórias, por esta ordem:
+
+  1) PESQUISA (usa sempre a ferramenta de pesquisa Google disponível): encontra UMA notícia real, específica e recente (idealmente das últimas 48 horas, no máximo dos últimos 7 dias) relacionada com o tema indicado na mensagem do utilizador. É absolutamente proibido inventar factos, eventos, declarações, números ou datas que não estejam confirmados por uma fonte real encontrada na pesquisa. Se não encontrares nenhuma notícia real e específica sobre o tema, não inventes nada — nesse caso escolhe a notícia real mais próxima do tema que tenhas encontrado, nunca fabriques uma.
+
+  2) ESCRITA: com base apenas nessa notícia real (nunca copiando frases da fonte, sempre reescrevendo por palavras próprias), escreve um artigo original.
+
+  IMPORTANTE SOBRE ACTUALIDADE: se a data exacta da notícia não for clara pela pesquisa, evita expressões como "hoje" ou "esta manhã" — usa um enquadramento contextual (ex: "recentemente", "nos últimos dias").
+
+  IMPORTANTE SOBRE ESTILO: escreve de forma cativante e magnética, com um título e abertura (lead) que despertem curiosidade genuína, sem sensacionalismo falso (clickbait) nem exageros não suportados pelos factos. Narrativa fluida, frases variadas, exemplos concretos e dados/números reais quando existirem.
+
+  IMPORTANTE SOBRE CONFORMIDADE: sem violência, ódio, conteúdo adulto, desinformação, acusações pessoais infundadas ou temas restritos pelo Google AdSense; nunca menciones figuras públicas reais de forma potencialmente danosa ou difamatória.
+
+  IMPORTANTE: nunca escrevas sobre um assunto que já conste na lista de "artigos recentes já publicados" fornecida na mensagem do utilizador — escolhe sempre um desenvolvimento ou acontecimento diferente.
+
+  IMPORTANTE: a tua resposta final deve ser APENAS um único objecto JSON válido, sem markdown, sem blocos de código, sem crases, sem texto antes ou depois. Nunca reveles o teu raciocínio interno nem faças qualquer meta-comentário sobre a pesquisa, SEO ou AdSense dentro dos valores do JSON.
+
+  O objecto JSON deve conter exactamente estas 6 chaves, todas com valores em texto simples (strings):
+
+  "titulo_post": título SEO-otimizado do artigo, apelativo e cativante, com a palavra-chave principal, máximo 70 caracteres, sem tags HTML.
+
+  "artigo_html": o corpo jornalístico completo do artigo em HTML pronto a publicar, original, mínimo 400 palavras, escrito num tom cativante conforme indicado acima. Deve começar com um único <h2> igual ao título indicado acima, seguido do corpo do artigo podendo usar <h3> para subtítulos, <p>, <ul>/<ol>/<li>, <strong>, <em> e <blockquote> quando fizer sentido. Usa apenas as tags h2, h3, p, ul, ol, li, strong, em, blockquote. Dentro do valor JSON, escapa correctamente aspas e quebras de linha conforme a sintaxe JSON.
+
+  "meta_description": uma meta description única e optimizada para este artigo, entre 120 e 155 caracteres.
+
+  "alt_text": uma descrição alt text optimizada para SEO de uma imagem editorial adequada ao artigo (sem pessoas reais identificáveis, sem texto ou logótipos, estilo fotojornalístico realista), entre 8 e 20 palavras, factual.
+
+  "slug": versão do título em formato de slug para URL, escrita apenas com letras minúsculas de a a z (sem qualquer acento ou til - substitui sempre ç por c, ã/á/à/â por a, é/ê por e, í por i, õ/ó/ô por o, ú por u), números e hífens a separar as palavras, sem espaços, sem underscores, sem pontuação, sem hífens duplicados nem no início ou no fim, com no máximo 70 caracteres.
+
+  "categoria": escreve sempre, exactamente e sem alterações, o valor da categoria fornecido na mensagem do utilizador.
+
+  Responde apenas com o objecto JSON, começando directamente por { e terminando em }.
+
+gemini_pesquisa_user_message_template: |
+  TEMA A PESQUISAR: {instrucao_pesquisa}
+
+  CATEGORIA (usa exactamente este valor no campo "categoria" do JSON): {categoria}
+
+  ARTIGOS RECENTES JÁ PUBLICADOS NESTE SITE (não repitas nenhum destes assuntos, procura um desenvolvimento diferente):
+  {titulos_recentes}
+
+  TAREFA: pesquisa no Google uma notícia real e recente sobre o tema indicado e, com base nela, gera o objecto JSON com os 6 campos (titulo_post, artigo_html, meta_description, alt_text, slug, categoria) seguindo rigorosamente as instrucoes do sistema. Responde apenas com o JSON.
+
 # Template do prompt de imagem enviado à Cloudflare Workers AI (idêntico ao
 # usado em produção no Make, com {alt_text} substituído pelo alt_text gerado
 # pela Gemini para cada artigo).
@@ -142,13 +201,13 @@ cloudflare_image_prompt_template: >-
 #
 # Para expandir "para mais de 1 site" no futuro, há duas formas, conforme o
 # que precisares:
-#   (a) Mais fontes de notícias para o MESMO site novimz.com → acrescenta mais
-#       blocos dentro de "fontes:" do site "novimz".
-#   (b) Um site WordPress completamente novo e independente → duplica todo o
-#       bloco "- id: novimz ... fontes: [...]" abaixo, muda o "id" (ex.
-#       "outrosite"), o "wordpress_base_url", o mapa de categorias (os IDs de
-#       categoria são específicos de cada instalação WordPress) e cria os
-#       secrets correspondentes no GitHub (ver README.md).
+# (a) Mais fontes de notícias para o MESMO site novimz.com → acrescenta mais
+#     blocos dentro de "fontes:" do site "novimz".
+# (b) Um site WordPress completamente novo e independente → duplica todo o
+#     bloco "- id: novimz ... fontes: [...]" abaixo, muda o "id" (ex.
+#     "outrosite"), o "wordpress_base_url", o mapa de categorias (os IDs de
+#     categoria são específicos de cada instalação WordPress) e cria os
+#     secrets correspondentes no GitHub (ver README.md).
 # -----------------------------------------------------------------------------
 sites:
   - id: novimz
@@ -189,24 +248,77 @@ sites:
         nome: "MozEntretenimento (Sociedade)"
         rss_url: "https://mozentretenimento.co.mz/feed/"
 
-  # Exemplo de como adicionar um segundo site (deixa comentado até teres um
-  # segundo WordPress pronto; basta descomentar e preencher):
+  # NOVO (2026-09-11) — site "Pano-rama" (pano-rama.online), pedido pelo
+  # Abílio: site autónomo SEM RSS, que usa a Gemini com pesquisa Google
+  # (grounding) para escrever artigos reais sobre 5 temas, reaproveitando as
+  # 5 categorias já existentes no WordPress deste site (confirmadas via
+  # /wp-json/wp/v2/categories em 2026-09-11: SOCIEDADE=31, ECONOMIA=32,
+  # POLITICA=33, TECNOLOGIA=34, MUNDO=35).
   #
-  # - id: outrosite
-  #   nome: "Nome do Outro Site"
-  #   wordpress_base_url: "https://outrosite.co.mz"
-  #   wordpress_user_env: "OUTROSITE_WP_USER"
-  #   wordpress_app_password_env: "OUTROSITE_WP_APP_PASSWORD"
+  # DEIXADO COMENTADO DE PROPÓSITO: falta criar a "Application Password" do
+  # WordPress deste site e os secrets PANORAMA_WP_USER /
+  # PANORAMA_WP_APP_PASSWORD no GitHub Actions (ver README.md /
+  # instruções dadas ao Abílio). Sem esses secrets, activar este bloco
+  # faria a execução INTEIRA do workflow falhar logo no arranque (o main.py
+  # exige as credenciais de todos os sites listados em "sites:" antes de
+  # processar qualquer um deles) — incluindo o site "novimz", que continuaria
+  # a funcionar normalmente. Descomentar e adicionar ao workflow
+  # (.github/workflows/publish.yml) SÓ depois de confirmar que os secrets
+  # já existem.
+  #
+  # - id: panorama
+  #   nome: "Pano-rama"
+  #   modo: "pesquisa_gemini"
+  #   wordpress_base_url: "https://pano-rama.online"
+  #   wordpress_user_env: "PANORAMA_WP_USER"
+  #   wordpress_app_password_env: "PANORAMA_WP_APP_PASSWORD"
   #   categoria_map:
-  #     "PAÍS": 2
-  #     "ECONOMIA & NEGÓCIOS": 3
-  #     "ENTRETENIMENTO & SOCIEDADE": 4
-  #     "CULTURA & ARTE": 5
-  #     "ATUALIDADE": 6
-  #     "ESTILO DE VIDA": 7
-  #     "MUNDO": 8
-  #   categoria_fallback: 6
-  #   fontes:
-  #     - id: fonte1
-  #       nome: "Nome da fonte 1"
-  #       rss_url: "https://exemplo.co.mz/feed/"
+  #     "SOCIEDADE": 31
+  #     "ECONOMIA": 32
+  #     "POLITICA": 33
+  #     "TECNOLOGIA": 34
+  #     "MUNDO": 35
+  #   categoria_fallback: 31
+  #   # Uma publicação por tema, por execução do workflow (ver
+  #   # `alvo_publicacoes_por_tema`, análogo ao `alvo_publicacoes_por_categoria`
+  #   # do modo RSS, mas mais simples porque cada tema já corresponde
+  #   # directamente a uma única categoria).
+  #   alvo_publicacoes_por_tema: 1
+  #   temas_pesquisa:
+  #     - id: sociedade
+  #       categoria: "SOCIEDADE"
+  #       instrucao_pesquisa: "uma noticia recente sobre sociedade em Mocambique"
+  #     - id: economia
+  #       categoria: "ECONOMIA"
+  #       instrucao_pesquisa: "uma noticia recente sobre economia ou negocios em Mocambique"
+  #     - id: politica
+  #       categoria: "POLITICA"
+  #       instrucao_pesquisa: "uma noticia recente sobre politica em Mocambique"
+  #     - id: tecnologia
+  #       categoria: "TECNOLOGIA"
+  #       instrucao_pesquisa: "uma noticia recente sobre tecnologia, inovacao ou ciencia"
+  #     - id: mundo
+  #       categoria: "MUNDO"
+  #       instrucao_pesquisa: "uma das principais noticias internacionais recentes"
+
+# Exemplo de como adicionar um segundo site RSS (deixa comentado até teres um
+# segundo WordPress pronto; basta descomentar e preencher):
+#
+# - id: outrosite
+#   nome: "Nome do Outro Site"
+#   wordpress_base_url: "https://outrosite.co.mz"
+#   wordpress_user_env: "OUTROSITE_WP_USER"
+#   wordpress_app_password_env: "OUTROSITE_WP_APP_PASSWORD"
+#   categoria_map:
+#     "PAÍS": 2
+#     "ECONOMIA & NEGÓCIOS": 3
+#     "ENTRETENIMENTO & SOCIEDADE": 4
+#     "CULTURA & ARTE": 5
+#     "ATUALIDADE": 6
+#     "ESTILO DE VIDA": 7
+#     "MUNDO": 8
+#   categoria_fallback: 6
+#   fontes:
+#     - id: fonte1
+#       nome: "Nome da fonte 1"
+#       rss_url: "https://exemplo.co.mz/feed/"
