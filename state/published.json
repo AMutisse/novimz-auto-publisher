@@ -189,6 +189,26 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsbsvcdFdru__QEv99W9t8gF5J5tBg03pOxDB62Bs4tP_4LaYgwoQIKOUSky8Sj9bTL_MiSIT-jaz7-YUa5QLInfWadlDmUnb8h-imlFXlB1j6u6AC5emWDkZdQw_TRCRAFJRVESe4-gmGtHNlPjqETsGyaaaar_QnwRBq7hCnwjgGLZEYBIpxP61Whe54rfe-QWQt61ke2-fje_Nawq61yFasntUs4Ec=",
       "publicado_em": "2026-09-11T20:58:41.573475+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique e Zâmbia reforçam partilha de informação para combater crime - Notícias ao Minuto",
+      "titulo_post": "Moçambique e Zâmbia Unem Forças Contra o Crime Transfronteiriço",
+      "slug": "mocambique-e-zambia-unem-forcas-contra-o-crime-transfronteirico",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-11T22:17:32.640710+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
+      "titulo_post": "PF Investiga Financiamento de Filme Biográfico no Brasil",
+      "slug": "pf-investiga-financiamento-de-filme-biografico-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-11T22:19:38.934315+00:00",
+      "dry_run": false
     }
   ]
 }
