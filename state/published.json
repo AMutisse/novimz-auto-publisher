@@ -157,6 +157,27 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-11T20:16:46.719484+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
+      "titulo_post": "Investigação apura ligações entre senador e banqueiro no Brasil",
+      "slug": "investigacao-apura-ligacoes-entre-senador-e-banqueiro-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-11T20:50:02.777607+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "NASA e IBM criam inteligência artificial para mapear gelo na Lua",
+      "titulo_post": "NASA e IBM criam inteligência artificial para mapear gelo na Lua",
+      "slug": "nasa-ibm-inteligencia-artificial-mapear-gelo-lua",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNlIf9FK6Ur-yg2HOFNrYdDMxJPYYygs9Jnwwg5YQr7w8dEzi3ZW-EEw7oU0fe2Li51MplruTpVvDmDiwzmDbJOIVWWTH3QZN5N9IM5glhNv6YzGEGjUcRNBEJs4xyAPP-7UlLW6UToyf5cnAadAA0_eQ8TYn3I6LAHGjzzq185Q6ixnHWJyUSLACmIdcqEA==",
+      "publicado_em": "2026-09-11T20:51:03.346790+00:00",
+      "dry_run": true
     }
   ]
 }
