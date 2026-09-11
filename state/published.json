@@ -178,6 +178,17 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNlIf9FK6Ur-yg2HOFNrYdDMxJPYYygs9Jnwwg5YQr7w8dEzi3ZW-EEw7oU0fe2Li51MplruTpVvDmDiwzmDbJOIVWWTH3QZN5N9IM5glhNv6YzGEGjUcRNBEJs4xyAPP-7UlLW6UToyf5cnAadAA0_eQ8TYn3I6LAHGjzzq185Q6ixnHWJyUSLACmIdcqEA==",
       "publicado_em": "2026-09-11T20:51:03.346790+00:00",
       "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "El Niño em Moçambique: alerta de saúde pública mobiliza o país",
+      "titulo_post": "El Niño em Moçambique: alerta de saúde pública mobiliza o país",
+      "slug": "el-nino-em-mocambique-alerta-de-saude-publica-mobiliza-o-pais",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsbsvcdFdru__QEv99W9t8gF5J5tBg03pOxDB62Bs4tP_4LaYgwoQIKOUSky8Sj9bTL_MiSIT-jaz7-YUa5QLInfWadlDmUnb8h-imlFXlB1j6u6AC5emWDkZdQw_TRCRAFJRVESe4-gmGtHNlPjqETsGyaaaar_QnwRBq7hCnwjgGLZEYBIpxP61Whe54rfe-QWQt61ke2-fje_Nawq61yFasntUs4Ec=",
+      "publicado_em": "2026-09-11T20:58:41.573475+00:00",
+      "dry_run": false
     }
   ]
 }
