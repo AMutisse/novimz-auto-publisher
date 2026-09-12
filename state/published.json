@@ -280,6 +280,68 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-12T12:20:30.813946+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique: 3 detidos por tentarem roubar 800.000 litros de combustível - Notícias ao Minuto",
+      "titulo_post": "Combustível em Moçambique: Travado Desvio de 800 Mil Litros",
+      "slug": "combustivel-em-mocambique-travado-desvio-de-800-mil-litros",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-12T20:04:44.006473+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Cachê de Jim Caviezel como Bolsonaro próximo ao de Joaquin Phoenix em 'Coringa': os valores pedidos por Flávio a Vorcaro para fazer 'Dark Horse'",
+      "titulo_post": "Cinema: Cachê milionário em produção biográfica gera debate",
+      "slug": "cinema-cache-milionario-em-producao-biografica-gera-debate",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-12T20:04:55.957602+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Floresta das borboletas em Moçambique passa a ser área protegida - Executive Digest",
+      "titulo_post": "Floresta das Borboletas em Moçambique Torna-se Área Protegida",
+      "slug": "floresta-das-borboletas-em-mocambique-torna-se-area-protegida",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-12T20:05:09.678060+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Ela postou, sem saber, sobre uma festa de Daniel Vorcaro no Madame Satã e sua vida sofreu um terremoto: 'Só agora entendi tudo'",
+      "titulo_post": "Redes sociais e poder: criadora perde perfil após postagem",
+      "slug": "redes-sociais-e-poder-criadora-perde-perfil-apos-postagem",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-12T20:05:25.180070+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Supremo de Moçambique Adia Julgamento de Venâncio Mondlane",
+      "titulo_post": "Supremo de Moçambique Adia Julgamento de Venâncio Mondlane",
+      "slug": "supremo-de-mocambique-adia-julgamento-de-venancio-mondlane",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvmEzp4jAkGdLRjOW_BChf9qg4p8syQXGw5AJvqySMrsRh0r5al5hvKQzlgKBJCNq81F_IRqu1O-LwjXd-M3C5fGiXsudsqMZ7D1q7LJR52-kJYXMgYHeCMJia1LK85FE4lE4Ap9h3Fi9WxkaoYNBUT3F4882ooBlYSdTwkqFRR9NncQYB6KCkW340HuuWPoa7rFiGWTjgtTlehrzWyMQzw==",
+      "publicado_em": "2026-09-12T20:06:43.673267+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "França investiga suspeita de sabotagem em descarrilamento de trem",
+      "titulo_post": "França investiga suspeita de sabotagem em descarrilamento de trem",
+      "slug": "franca-investiga-suspeita-de-sabotagem-em-descarrilamento-de-trem",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcz939m5qEx3zwlBfrkgxkyk2M_cNp4SFSrXALbawV01N9tCscidx17WuOBUmTxeMSwxic_j467fYT2cOR1MiQsyEJ1RncePQ8ghVbjbi6e2U=",
+      "publicado_em": "2026-09-12T20:07:20.282169+00:00",
+      "dry_run": true
     }
   ]
 }
