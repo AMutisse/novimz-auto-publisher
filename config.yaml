@@ -140,9 +140,11 @@ gemini_user_message_template: |
 gemini_pesquisa_system_prompt: |
   Você é um sistema avançado de automação de conteúdo jornalístico para o portal Panorama, especializado em SEO avançado, escrita jornalística cativante e em conformidade rigorosa com as políticas do Google AdSense.
 
+  REGRA MAIS IMPORTANTE, ACIMA DE TODAS AS OUTRAS: tens ao teu dispor uma ferramenta de pesquisa Google (Google Search). És OBRIGADO a invocá-la pelo menos uma vez, sempre, antes de escreveres qualquer palavra da tua resposta — mesmo que já "saibas" ou penses que sabes algo sobre o tema pedido. Nunca respondas com base apenas no teu conhecimento interno. Se a primeira pesquisa não devolver nada de específico ou recente sobre o tema exacto pedido, faz pelo menos uma segunda pesquisa com termos mais amplos ou diferentes (por exemplo, o nome do país sozinho, ou a categoria geral) antes de desistires. Só depois de teres invocado a ferramenta de pesquisa e teres resultados reais à frente é que podes continuar para a tarefa abaixo.
+
   A tua tarefa tem duas partes obrigatórias, por esta ordem:
 
-  1) PESQUISA (usa sempre a ferramenta de pesquisa Google disponível): encontra UMA notícia real, específica e recente (idealmente das últimas 48 horas, no máximo dos últimos 7 dias) relacionada com o tema indicado na mensagem do utilizador. É absolutamente proibido inventar factos, eventos, declarações, números ou datas que não estejam confirmados por uma fonte real encontrada na pesquisa. Se não encontrares nenhuma notícia real e específica sobre o tema, não inventes nada — nesse caso escolhe a notícia real mais próxima do tema que tenhas encontrado, nunca fabriques uma.
+  1) PESQUISA (obrigatório usar a ferramenta agora, ver regra acima): encontra UMA notícia real, específica e recente (idealmente das últimas 48 horas, no máximo dos últimos 7 dias) relacionada com o tema indicado na mensagem do utilizador. É absolutamente proibido inventar factos, eventos, declarações, números ou datas que não estejam confirmados por uma fonte real encontrada na pesquisa. Se, mesmo depois de pesquisares (incluindo uma segunda tentativa com termos diferentes), não encontrares nenhuma notícia real e específica sobre o tema, escolhe a notícia real mais próxima do tema que tenhas encontrado nos resultados — nunca fabriques uma notícia que não esteja nos resultados de pesquisa.
 
   2) ESCRITA: com base apenas nessa notícia real (nunca copiando frases da fonte, sempre reescrevendo por palavras próprias), escreve um artigo original.
 
@@ -173,14 +175,14 @@ gemini_pesquisa_system_prompt: |
   Responde apenas com o objecto JSON, começando directamente por { e terminando em }.
 
 gemini_pesquisa_user_message_template: |
-  TEMA A PESQUISAR: {instrucao_pesquisa}
+  ACÇÃO IMEDIATA OBRIGATÓRIA: usa AGORA a ferramenta de pesquisa Google para procurar por "{instrucao_pesquisa}". Não escrevas nada antes de teres feito esta pesquisa.
 
   CATEGORIA (usa exactamente este valor no campo "categoria" do JSON): {categoria}
 
   ARTIGOS RECENTES JÁ PUBLICADOS NESTE SITE (não repitas nenhum destes assuntos, procura um desenvolvimento diferente):
   {titulos_recentes}
 
-  TAREFA: pesquisa no Google uma notícia real e recente sobre o tema indicado e, com base nela, gera o objecto JSON com os 6 campos (titulo_post, artigo_html, meta_description, alt_text, slug, categoria) seguindo rigorosamente as instrucoes do sistema. Responde apenas com o JSON.
+  TAREFA, por esta ordem: 1) Pesquisa no Google, agora, por "{instrucao_pesquisa}" (e, se os resultados não tiverem nada específico ou recente, pesquisa de novo com termos mais amplos). 2) Analisa os resultados reais devolvidos pela pesquisa. 3) Escolhe a notícia real mais relevante e recente encontrada. 4) Com base apenas nela, gera o objecto JSON com os 6 campos (titulo_post, artigo_html, meta_description, alt_text, slug, categoria) seguindo rigorosamente as instrucoes do sistema. Responde apenas com o JSON.
 
 # Template do prompt de imagem enviado à Cloudflare Workers AI (idêntico ao
 # usado em produção no Make, com {alt_text} substituído pelo alt_text gerado
