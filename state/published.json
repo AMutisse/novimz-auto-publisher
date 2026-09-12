@@ -209,6 +209,37 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-11T22:19:38.934315+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "A luta continua, o Moçambique de Samora Machel - Buala.org",
+      "titulo_post": "O Legado de Samora Machel e a Memória Histórica de Moçambique",
+      "slug": "o-legado-de-samora-machel-e-a-memoria-historica-de-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-12T02:18:02.197743+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
+      "titulo_post": "Brasil: STF Retira Sigilo de Inquéritos Envolvendo Políticos",
+      "slug": "brasil-stf-retira-sigilo-de-inqueritos-envolvendo-politicos",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-12T02:20:30.013154+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Grandes Empresas em Moçambique Crescem 26% e Criam Emprego",
+      "titulo_post": "Grandes Empresas em Moçambique Crescem 26% e Criam Emprego",
+      "slug": "grandes-empresas-em-mocambique-crescem-26-e-criam-emprego",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-ENUMfFZVZDFdNgL2wWyg-ynmPSSMLplRMSPI5TICpFf6FzlycbvzLadmhEzTVXXMAv2oZnszns1TqSivXY-DL4PzemLK9s_PwfADV8ZudYLzqo8X7nbI0gF4vG1_PspHwQPlUqe6Cmryp1aokyOgNJwWcz9GGGI0HqNwmHyFLXuNsZpj43U1x14lyRV6CNXCIJkiIFGjqtaj5YVuifT0OpG7TUPDezhaYZbt9E6saaHkw==",
+      "publicado_em": "2026-09-12T02:22:53.090465+00:00",
+      "dry_run": false
     }
   ]
 }
