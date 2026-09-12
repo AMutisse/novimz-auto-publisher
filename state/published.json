@@ -240,6 +240,46 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-ENUMfFZVZDFdNgL2wWyg-ynmPSSMLplRMSPI5TICpFf6FzlycbvzLadmhEzTVXXMAv2oZnszns1TqSivXY-DL4PzemLK9s_PwfADV8ZudYLzqo8X7nbI0gF4vG1_PspHwQPlUqe6Cmryp1aokyOgNJwWcz9GGGI0HqNwmHyFLXuNsZpj43U1x14lyRV6CNXCIJkiIFGjqtaj5YVuifT0OpG7TUPDezhaYZbt9E6saaHkw==",
       "publicado_em": "2026-09-12T02:22:53.090465+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Caifadine Manasse e Banco Mundial reúnem-se para reforçar políticas sociais e protecção da juventude em Moçambique",
+      "titulo_post": "Moçambique e Banco Mundial Unem Forças Para Apoiar a Juventude",
+      "slug": "mocambique-e-banco-mundial-unem-forcas-para-apoiar-a-juventude",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-12T12:18:50.117062+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O celular de Vorcaro: os pedidos de ministros do STF para acesso a conteúdo — e a reposta de Mendonça",
+      "titulo_post": "Disputa no STF Revela Tensões Sobre Sigilo e Dados Digitais",
+      "slug": "disputa-no-stf-revela-tensoes-sobre-sigilo-e-dados-digitais",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-12T12:19:53.529888+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique e Zimbábue aceleram cooperação pelo empoderamento feminino com foco em acções práticas",
+      "titulo_post": "Moçambique e Zimbabué Reforçam Acordo de Empoderamento Feminino",
+      "slug": "mocambique-e-zimbabue-reforcam-acordo-de-empoderamento-feminino",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-12T12:20:13.054139+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Trump tenta interferir na eleição brasileira e o preocupante é que muitas vezes isso funciona, diz cientista político alemão",
+      "titulo_post": "O Impacto da Influência Externa nas Eleições da América Latina",
+      "slug": "o-impacto-da-influencia-externa-nas-eleicoes-da-america-latina",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-12T12:20:30.813946+00:00",
+      "dry_run": false
     }
   ]
 }
