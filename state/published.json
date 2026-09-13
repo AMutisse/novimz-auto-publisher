@@ -405,6 +405,58 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3B5jQqO76hDmQOZi48-x9nNkv21_m-dgNZHoZA7oYXGapES5sotdDsMg39IxpIYX0uQk6Eq5PMS3_qENsOW-Sj6LNGd7hVRuH_-DVmwN-J3oovj5go65YhhOikMBiEooSSKE_V3v2Xdk90dehgQ_b9zRpI8UMaDQViUb6kv8_FKu1RRMCRwN8qeFPudoLDj2atQB_O35N50F_HKhhI_afrwA7Ofmx8ltN1VlCaElxNk7_rSBs4kLWKOKa5JewpaU=",
       "publicado_em": "2026-09-12T22:16:51.267224+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Top - 10 mais Sem Espinhas (Semanal) Episódio 35 - de 13 set 2026 - rtp.pt",
+      "titulo_post": "Musica Lusofona em Destaque nos Tops Semanais Africanos",
+      "slug": "musica-lusofona-em-destaque-nos-tops-semanais-africanos",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-13T02:15:41.591828+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
+      "titulo_post": "Supremo Tribunal Federal Reorganiza Processos Financeiros e Judiciais",
+      "slug": "supremo-tribunal-federal-reorganiza-processos-financeiros-e-judiciais",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-13T02:15:56.798655+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que alguns chefões do Vale do Silício rejeitam previsão de que IA pode extinguir a humanidade",
+      "titulo_post": "IA Vai Extinguir a Humanidade? Executivos Rejeitam o Pânico",
+      "slug": "ia-vai-extinguir-a-humanidade-executivos-rejeitam-o-panico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-13T02:16:16.583266+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Uso de IA no Trabalho Sobe para 45%, Aponta Estudo do Fed",
+      "titulo_post": "Uso de IA no Trabalho Sobe para 45%, Aponta Estudo do Fed",
+      "slug": "uso-de-ia-no-trabalho-sobe-para-45-aponta-estudo-do-fed",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkhO9TQ-fVUx8b74DIzbumHilCwJe9BL5mTbOcsXcWsnTIwln6Qz63gPOfPIS5r6kVpw1VqYClPNQlWjHcmG5KGZXnEnwl72Dgrfi_ynU9U99xUFl83O5HwWjKFuZ9cGo=",
+      "publicado_em": "2026-09-13T02:17:33.414229+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Califórnia Veta Redes Sociais Viciantes para Menores de 16 Anos",
+      "titulo_post": "Califórnia Veta Redes Sociais Viciantes para Menores de 16 Anos",
+      "slug": "california-veta-redes-sociais-viciantes-para-menores-de-16-anos",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG39gd3rOC5nyx9u1zCpZJL4hbiKPmW7SOxqrBEuuHBgXX2V3RTztkE2oqbcStwE1jWT8fJly2TU8jS6WAowHRw2Z-yquQXvAOOgzExkIKBpqUMFOzMUZ0NvqIY2PGcoxsJ-__ydFMyWUyMKqdpDpAyusUGpbONjiWlntnPdag7RgT8Zdw20860ZRj6CfCgBt2rrM9nAOavA3zcdapU7ciz84yVX_8RESZGCMwsibQdqH5XP8bRUcZSWRVtMJI=",
+      "publicado_em": "2026-09-13T02:17:59.477682+00:00",
+      "dry_run": false
     }
   ]
 }
