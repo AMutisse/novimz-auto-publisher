@@ -553,6 +553,37 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEikVjRddgqdjFUuLOMm_p27GiqtXATqIfCXYZnHnq4l8TXduGCtTpaZDHZMEFXg3eHdCBpwE2BJvkLZlKMBPxBZiz3IYZlviXB2N7qQJJrczX6XVIXNRSB7cS1EDdfsl_QaEMbIRpGAB0_OkCCLY-7DcjvzekovzXJqGz-S0XRAaa-FghC41F8BWyQUN0ChbyH7knmebuBJnbq0z8xb9oJTfWP36QkEAngY8YYQZ4jfE39JhsPbyhZhrs-J-8_pA==",
       "publicado_em": "2026-09-13T08:18:57.197477+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Empresários moçambicanos dizem que actividade económica acelerou no 2° trimestre - RFI",
+      "titulo_post": "Economia de Moçambique Acelera no Segundo Trimestre",
+      "slug": "economia-de-mocambique-acelera-no-segundo-trimestre",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-13T14:14:52.524474+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic",
+      "titulo_post": "Inteligência Artificial: Alerta Global Sobre Riscos Futuros",
+      "slug": "inteligencia-artificial-alerta-global-sobre-riscos-futuros",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-13T14:15:41.485794+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Justiça Amiga da Criança Mobiliza Moçambique e Região",
+      "titulo_post": "Justiça Amiga da Criança Mobiliza Moçambique e Região",
+      "slug": "justica-amiga-da-crianca-mobiliza-mocambique-e-regiao",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbTvh7BP7ti8xQGB6PyoPOQfwZfvwPqMFK4uckd1sGqpWqn-V-m2kgMvLXVqfgHob7ZwCLNS6bWIV7LWqKIMhx9GkTE8zAD1cD2PmQ7uPUwIwCg0=",
+      "publicado_em": "2026-09-13T14:16:25.513167+00:00",
+      "dry_run": false
     }
   ]
 }
