@@ -501,6 +501,58 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb3mS8bVe09vItlv1BKVIQ5JxqkJk2_q8aW5Pe1iCpY385rAfmG6vOxe6HVkbFl9mzZ9mZrlgqbolseH3i0TpKYfSC2ZzTzzwtDlFxERiaystbgzCiSsvAN3Ega8aA07kM5QgJo84EKbA_i0RMdDAwaBFGQG8rAxIK37iVat4a3399DcT06VutuT33uqCikbuLHneyd5zw",
       "publicado_em": "2026-09-13T06:25:30.112146+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Portugal acerta apoio sobre arquivo militar com Moçambique em visita de Nuno Melo - RTP",
+      "titulo_post": "Moçambique e Portugal Reforçam Parceria para Arquivo Militar",
+      "slug": "mocambique-e-portugal-reforcam-parceria-para-arquivo-militar",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-13T08:16:19.473954+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Afrotaças: Black Bulls avança na Taça CAF e UD Songo cai de pé frente ao Petro",
+      "titulo_post": "Afrotaças: Black Bulls Brilha e UD Songo Despede-se com Honra",
+      "slug": "afrotacas-black-bulls-brilha-ud-songo-despede-se-com-honra",
+      "categoria_id": 2,
+      "publicado_em": "2026-09-13T08:16:49.174138+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo de Moçambique anuncia interrupção temporária no CorreioGOV para manutenção técnica",
+      "titulo_post": "CorreioGOV Passa por Manutenção para Melhorar Segurança",
+      "slug": "correiogov-passa-por-manutencao-para-melhorar-seguranca",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-13T08:17:06.359493+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Empresários em Moçambique Pedem Crédito Acessível e Câmbio Estável",
+      "titulo_post": "Empresários em Moçambique Pedem Crédito Acessível e Câmbio Estável",
+      "slug": "empresarios-em-mocambique-pedem-credito-acessivel-e-cambio-estavel",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhBMBkS_r8fIbL7kyWeMPHmFO9GOK1MKBBBzA8LLtcEl0DbPxywcwb3NKJSIgizDoRcM7hRZRnUyjghzcqd2-4rn0CFZPJk_BbfJMMWG3pWTF1stF26s3VaQqGAY5SprFxEV2AaSduYIM0C_FsV7q_sNKWLCMZsR6XOXB1tFyRJsrgC8wZPZZBvm1redgrMiudotFSoil8HIFQ6oH7e60Ge_m6jsPAJ3M=",
+      "publicado_em": "2026-09-13T08:18:12.751188+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Líderes da IA Concordam em Desacelerar Avanço Tecnológico",
+      "titulo_post": "Líderes da IA Concordam em Desacelerar Avanço Tecnológico",
+      "slug": "lideres-da-ia-concordam-em-desacelerar-avanco-tecnologico",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEikVjRddgqdjFUuLOMm_p27GiqtXATqIfCXYZnHnq4l8TXduGCtTpaZDHZMEFXg3eHdCBpwE2BJvkLZlKMBPxBZiz3IYZlviXB2N7qQJJrczX6XVIXNRSB7cS1EDdfsl_QaEMbIRpGAB0_OkCCLY-7DcjvzekovzXJqGz-S0XRAaa-FghC41F8BWyQUN0ChbyH7knmebuBJnbq0z8xb9oJTfWP36QkEAngY8YYQZ4jfE39JhsPbyhZhrs-J-8_pA==",
+      "publicado_em": "2026-09-13T08:18:57.197477+00:00",
+      "dry_run": false
     }
   ]
 }
