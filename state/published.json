@@ -457,6 +457,28 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG39gd3rOC5nyx9u1zCpZJL4hbiKPmW7SOxqrBEuuHBgXX2V3RTztkE2oqbcStwE1jWT8fJly2TU8jS6WAowHRw2Z-yquQXvAOOgzExkIKBpqUMFOzMUZ0NvqIY2PGcoxsJ-__ydFMyWUyMKqdpDpAyusUGpbONjiWlntnPdag7RgT8Zdw20860ZRj6CfCgBt2rrM9nAOavA3zcdapU7ciz84yVX_8RESZGCMwsibQdqH5XP8bRUcZSWRVtMJI=",
       "publicado_em": "2026-09-13T02:17:59.477682+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Frelimo Acelera Preparativos Para o 13º Congresso em Moçambique",
+      "titulo_post": "Frelimo Acelera Preparativos Para o 13º Congresso em Moçambique",
+      "slug": "frelimo-acelera-preparativos-para-o-13-congresso-em-mocambique",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqn9IQLK6R4ltWZ8qFNFcV056Ha2756capz9m4D6FVyIKYPbIRauI5u_wYGliAyWdB_82N3h_2_EFLFM9skkBNE35-AMDIKX2PkaNtlNYhm1dOxw==",
+      "publicado_em": "2026-09-13T04:17:08.687028+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Nanolaser inovador pode reduzir consumo de energia em computadores",
+      "titulo_post": "Nanolaser inovador pode reduzir consumo de energia em computadores",
+      "slug": "nanolaser-inovador-pode-reduzir-consumo-de-energia-em-computadores",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA1dJPtuiOAgbH8xZ7ADw__7JmfPyGOKgcUGpJgzsGT0gKgFu2UYHf3r4F8nvkoNCxLN4d2MSeR6aymB8Xu4XYfm3Iika3XZ74ih3DBf2D17Z_CTH44dzeFvkYig9fspPYyOET6b-veaKZ9WzXXYKQ",
+      "publicado_em": "2026-09-13T04:17:35.093262+00:00",
+      "dry_run": false
     }
   ]
 }
