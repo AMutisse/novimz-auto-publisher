@@ -479,6 +479,28 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA1dJPtuiOAgbH8xZ7ADw__7JmfPyGOKgcUGpJgzsGT0gKgFu2UYHf3r4F8nvkoNCxLN4d2MSeR6aymB8Xu4XYfm3Iika3XZ74ih3DBf2D17Z_CTH44dzeFvkYig9fspPYyOET6b-veaKZ9WzXXYKQ",
       "publicado_em": "2026-09-13T04:17:35.093262+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Jato da Embraer que Pousa Sozinho Recebe Certificação Tripla",
+      "titulo_post": "Jato da Embraer que Pousa Sozinho Recebe Certificação Tripla",
+      "slug": "jato-da-embraer-que-pousa-sozinho-recebe-certificacao-tripla",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyudRE15hc8VkFLB7HWgPBXxORVxdo2Qa2ADNVXTX4VB1h2QH_T1Xc-5gr3pAaE2i7NG8gUlLlbw0XJTcNd48jKCbGKhL0F44dFxgQYF3yEX2M9Bc0k9MR_QnPMCO45d1UqCitXt6Go5wYL8rj927oYNdcw1KMy7dD2YAv-EDn7a4wKkRD1x5gXE6gqMWmsCla-dbq1cMtLXF2iRES",
+      "publicado_em": "2026-09-13T06:24:59.120432+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Zelensky Propõe Reunião com Putin no G20 em Miami e Kremlin Responde",
+      "titulo_post": "Zelensky Propõe Reunião com Putin no G20 em Miami e Kremlin Responde",
+      "slug": "zelensky-propoe-reuniao-com-putin-no-g20-em-miami-e-kremlin-responde",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb3mS8bVe09vItlv1BKVIQ5JxqkJk2_q8aW5Pe1iCpY385rAfmG6vOxe6HVkbFl9mzZ9mZrlgqbolseH3i0TpKYfSC2ZzTzzwtDlFxERiaystbgzCiSsvAN3Ega8aA07kM5QgJo84EKbA_i0RMdDAwaBFGQG8rAxIK37iVat4a3399DcT06VutuT33uqCikbuLHneyd5zw",
+      "publicado_em": "2026-09-13T06:25:30.112146+00:00",
+      "dry_run": false
     }
   ]
 }
