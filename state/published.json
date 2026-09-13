@@ -584,6 +584,26 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbTvh7BP7ti8xQGB6PyoPOQfwZfvwPqMFK4uckd1sGqpWqn-V-m2kgMvLXVqfgHob7ZwCLNS6bWIV7LWqKIMhx9GkTE8zAD1cD2PmQ7uPUwIwCg0=",
       "publicado_em": "2026-09-13T14:16:25.513167+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os pais palestinos preocupados com ataques a escolas na Cisjordânia ocupada: 'O que fazer quando colonos atiram em seus filhos?",
+      "titulo_post": "Cisjordânia: O Desafio da Educação e Segurança nas Escolas",
+      "slug": "cisjordania-desafio-educacao-seguranca-escolas",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-13T22:15:32.904246+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
+      "titulo_post": "Disputa Judicial no STF Envolve Dados de Telemóvel de Banqueiro",
+      "slug": "disputa-judicial-no-stf-envolve-dados-de-telemovel-de-banqueiro",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-13T22:15:51.020778+00:00",
+      "dry_run": false
     }
   ]
 }
