@@ -958,6 +958,67 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5fS2jg8WGjRYcPkvrWnSqD1attUEvTOcCzWJSBd3cXVXq3J4CNvWceiqfoGPpda2du2E3YBh1Yw7vkI5Oj9eKgewnrO4S9UBG5_Qq1RkQK__5IoXJ2O2otw9sKdU9k-xQsM6K6zqeEcPybbH0e8E8vT5GZVrykmznSi04Ebo4zKIjVn199M-hWSG4tyLnZ6yeWvTh8myP1iVMCFGi863vwKOzit6r3ot1Qo8m6qvzh5RiJ_JmCh6zEksEkWo4hIiIn9pRHAFwH6RKgD1LXqiGXq-m07mh9VBiMdkAyjJet_c1GIdIAcyOtaQzfkvyYqq3gOPP1QMIAJ-4WwjL0McA76ogLxKyx-XizmkwHyiwzL8XUNmBPPtTemtMUVGGCQv7fsNzBA==",
       "publicado_em": "2026-09-14T16:23:01.610829+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Desafios da economia informal marcam abertura da reunião nacional do INSS",
+      "titulo_post": "INSS quer integrar economia informal no sistema de protecção social",
+      "slug": "inss-quer-integrar-economia-informal-no-sistema-de-proteccao-social",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-14T18:18:12.527955+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF",
+      "titulo_post": "O Equilíbrio de Poder no STF e o Futuro Judicial do Brasil",
+      "slug": "o-equilibrio-de-poder-no-stf-e-o-futuro-judicial-do-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T18:18:28.937691+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Elas foram melhores amigas por décadas, até que um exame de DNA revelou que são irmãs",
+      "titulo_post": "Amigas Há Décadas Descobrem Que São Irmãs Biológicas",
+      "slug": "amigas-ha-decadas-descobrem-que-sao-irmas-biologicas",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T18:18:57.011655+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique e Brasil aprofundam cooperação para modernizar gestão pública - aimnews.org",
+      "titulo_post": "Moçambique e Brasil Unem Forças para Modernizar a Gestão Pública",
+      "slug": "mocambique-brasil-cooperacao-gestao-publica",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T18:19:24.384275+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Praça Pública - DW - 14 de Setembro de 2026 - DW.com",
+      "titulo_post": "O Papel do Debate Público no Futuro Social de Moçambique",
+      "slug": "o-papel-do-debate-publico-no-futuro-social-de-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T18:19:56.236000+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Ataque no Estreito de Ormuz Adia Negociações Diplomáticas em Omã",
+      "titulo_post": "Ataque no Estreito de Ormuz Adia Negociações Diplomáticas em Omã",
+      "slug": "ataque-no-estreito-de-ormuz-adia-negociacoes-diplomaticas-em-oma",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedFKF-I0JB78KAZkpIseOjZWTn0ulmIGYTIlbHsDeXBhTSjm6OX8S-UblrRqlqyx5GEURC9I7ky7nf80zLXwtnQEIhpquE6GZMI9wpP83l71_yeSmo_9K2Idr2nr3kXXtn9OdBZ6AYOrXyTKWFiPluACQqIq0CVXMKAxfzn0gPuUdPo7aw_mJFSGRNvgmx1BfJgI=",
+      "publicado_em": "2026-09-14T18:22:17.486428+00:00",
+      "dry_run": false
     }
   ]
 }
