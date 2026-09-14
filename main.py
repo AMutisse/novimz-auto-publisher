@@ -822,17 +822,31 @@ def main() -> int:
 
     resumos = []
     for site in cfg["sites"]:
-        wp_user = env_required(site["wordpress_user_env"])
-        wp_app_password = env_required(site["wordpress_app_password_env"])
+        # Cada site é isolado num try/except próprio: um erro de configuração
+        # (ex. secret de WordPress em falta) num site NUNCA deve impedir o
+        # processamento dos outros sites, nem impedir que o `save_state`
+        # abaixo grave o progresso real (publicações já feitas) dos sites
+        # que correram bem. Antes desta alteração, um `env_required` a
+        # falhar para um site interrompia todo o `main()` com uma excepção
+        # não apanhada — os outros sites já processados (incluindo
+        # publicações REAIS no WordPress, fora de dry-run) ficavam de fora
+        # do `state.json` guardado, arriscando duplicados numa execução
+        # futura mesmo depois de o problema ser corrigido.
+        try:
+            wp_user = env_required(site["wordpress_user_env"])
+            wp_app_password = env_required(site["wordpress_app_password_env"])
 
-        if site.get("modo") == "pesquisa_gemini":
-            resumo = processar_site_pesquisa(
-                cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
-            )
-        else:
-            resumo = processar_site(
-                cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
-            )
+            if site.get("modo") == "pesquisa_gemini":
+                resumo = processar_site_pesquisa(
+                    cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
+                )
+            else:
+                resumo = processar_site(
+                    cfg, site, state, gemini_key, cf_account_id, cf_token, wp_user, wp_app_password, args.dry_run
+                )
+        except Exception as exc:  # noqa: BLE001
+            log(f"[{site['id']}] ERRO DE CONFIGURAÇÃO/SITE — este site foi ignorado nesta execução, os restantes continuam: {exc}")
+            resumo = {"site": site["id"], "publicados": 0, "ignorados": 0, "erros": 1, "descartados_por_imagem": 0}
         resumos.append(resumo)
 
     state = prune_state(state, cfg["definicoes_globais"]["duplicidade_janela_dias"])
