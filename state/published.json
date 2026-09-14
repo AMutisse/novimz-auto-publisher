@@ -604,6 +604,38 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-13T22:15:51.020778+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'",
+      "titulo_post": "Brasil: STF Levanta Sigilo em Inquérito Sobre Filme de Bolsonaro",
+      "slug": "brasil-stf-levanta-sigilo-inquerito-filme-bolsonaro",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T00:23:22.788913+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Preços em Moçambique Caem em Agosto e Inflação Recua para 6,45%",
+      "titulo_post": "Preços em Moçambique Caem em Agosto e Inflação Recua para 6,45%",
+      "slug": "precos-em-mocambique-caem-em-agosto-e-inflacao-recua",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_8KkXA-BPsHBYu_PmzTnTbzzyLUcRnCjVimwFkqry7Y_8-iZrimLtaiRFYU97p_NFapZ8nQ1pGXPFyGE2RuDcYfGk2g6TemBPA7vdhunmRZHhVaLCuEaD_QAAkQ==",
+      "publicado_em": "2026-09-14T00:24:17.061535+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Cientistas do MIT Criam Transístores Vivos com Bactérias",
+      "titulo_post": "Cientistas do MIT Criam Transístores Vivos com Bactérias",
+      "slug": "cientistas-do-mit-criam-transistores-vivos-com-bacterias",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjMJPjGKLBYSaldwa7SZx5BthHb80UaJnqpN3J_TqIufnfX_dH_khnwonYUZhfSjihKu-PU5RDAZuUHxB8y2jZUAG5z1I3iQjFL-_dIEKOEtVptvlWgQHYnXlHoq4dzvLOfegDOAMKGU9r6iPqqy1OHnKk",
+      "publicado_em": "2026-09-14T00:25:21.401544+00:00",
+      "dry_run": false
     }
   ]
 }
