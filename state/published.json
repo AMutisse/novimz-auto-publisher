@@ -669,6 +669,58 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpGGEFPH_dUcZPp0SzsZ8vYJGxtqOIcCSmZAMkB430OG2-ces5C1vo-wrXuTS9o0KDo9T2fho0MmjB3pL51iLvR8YJD7RiEaULvTXB9bsTA4RXgaSXQUsYa11zX5wVoTPUykpJOtVXe5YvovgvB2QABXnpMzUS03oZX7T2MmMgrnrbsGIieOEVFnOsLeLMN6qD0J4VVHkyiMT9QWNKTFVPhtLxhqhs2Q==",
       "publicado_em": "2026-09-14T02:18:50.209591+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Novas regulações introduzem mais garantias laborais para trabalhadores domésticos em Moçambique - executivedigest.sapo.pt",
+      "titulo_post": "Moçambique reforça direitos dos trabalhadores domésticos com nova lei",
+      "slug": "mocambique-reforca-direitos-dos-trabalhadores-domesticos-com-nova-lei",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T06:22:53.358461+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique procura investimento da Coreia do Sul para industrializar recursos",
+      "titulo_post": "Moçambique Quer Capital Sul-Coreano para Industrializar Recursos",
+      "slug": "mocambique-quer-capital-sul-coreano-para-industrializar-recursos",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-14T06:23:09.020368+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Reservas internacionais moçambicanas recuam para mínimos de mais de um ano - executivedigest.sapo.pt",
+      "titulo_post": "Reservas Internacionais de Moçambique Recuam Para Mínimos de Um Ano",
+      "slug": "reservas-internacionais-de-mocambique-recuam-para-minimos-de-um-ano",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-14T06:23:25.435096+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique e FMI Negociam Novo Programa de Crédito Alargado",
+      "titulo_post": "Moçambique e FMI Negociam Novo Programa de Crédito Alargado",
+      "slug": "mocambique-e-fmi-negociam-novo-programa-de-credito-alargado",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF_bAyvxDzGaRP_5dJEizcccHux97IWrA9MYGz8tvLUbAuhXlHq0PRcX8ueWUbbukfKJqSEOv88ByoMqx7Ju5rTxRkMpLq81Lq",
+      "publicado_em": "2026-09-14T06:24:21.136132+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Kosovo Reelege Albin Kurti mas Crise Política Mantém País em Alerta",
+      "titulo_post": "Kosovo Reelege Albin Kurti mas Crise Política Mantém País em Alerta",
+      "slug": "kosovo-reelege-albin-kurti-mas-crise-politica-mantem-pais-em-alerta",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbQAB8DGwFZAcdYDLeGAcH2qgkXcp9S3cFLIAbK8D2ks3ZK57dhISymL0Bj3QIAVpBC7nq44RaKrHJh5ubLN3ksU28j2ncNwf_j7sTEjFIuNwgU_TJwWoQoMclkWKFsgSN_7aR5L_caCtiITFjrGkFCC95_kPR5IXPYklcIdPYuTF_N5zTxmhZ9ukmpJdTOs2ca1dro7YkgHHj5EVfutwgidA=",
+      "publicado_em": "2026-09-14T06:25:25.562631+00:00",
+      "dry_run": false
     }
   ]
 }
