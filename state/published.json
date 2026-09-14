@@ -1019,6 +1019,57 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedFKF-I0JB78KAZkpIseOjZWTn0ulmIGYTIlbHsDeXBhTSjm6OX8S-UblrRqlqyx5GEURC9I7ky7nf80zLXwtnQEIhpquE6GZMI9wpP83l71_yeSmo_9K2Idr2nr3kXXtn9OdBZ6AYOrXyTKWFiPluACQqIq0CVXMKAxfzn0gPuUdPo7aw_mJFSGRNvgmx1BfJgI=",
       "publicado_em": "2026-09-14T18:22:17.486428+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Partido moçambicano Anamola denuncia assassinato de 57 membros desde a sua criação - Observador",
+      "titulo_post": "Moçambique: Partido Anamola Alerta Para Clima de Segurança",
+      "slug": "mocambique-partido-anamola-alerta-para-clima-de-seguranca",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T20:16:12.383390+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "UE diz que é do interesse de todos apoiar Moçambique contra insurgência - Executive Digest",
+      "titulo_post": "Apoio a Moçambique é do Interesse Global, Alerta União Europeia",
+      "slug": "apoio-a-mocambique-e-do-interesse-global-alerta-uniao-europeia",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T20:16:41.540474+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os anticorpos que atravessam a placenta: como vacina da mãe protege o bebê antes mesmo do parto",
+      "titulo_post": "Vacinas na Gravidez: O Escudo Vital Que Protege o Bebé",
+      "slug": "vacinas-na-gravidez-o-escudo-vital-que-protege-o-bebe",
+      "categoria_id": 9,
+      "publicado_em": "2026-09-14T20:17:01.238312+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "titulo_post": "Pesquisas no Brasil Mostram Disputa Equilibrada para 2026",
+      "slug": "pesquisas-no-brasil-mostram-disputa-equilibrada-para-2026",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T20:17:23.772135+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Reino Unido em Crise: Três Nações Exigem Referendos de Independência",
+      "titulo_post": "Reino Unido em Crise: Três Nações Exigem Referendos de Independência",
+      "slug": "reino-unido-em-crise-tres-nacoes-exigem-referendos-de-independencia",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXEupFf6NAhjaGijvPJKVpeRTdnINZA_gTjVtuE5WdqCW-_4UmKJdJZF_IwW_nwSlIatb-DpG3js6Rb5nnsDQVvuzudP7_CID_vWNYoPr5oEMisYgzizm6U9teQ3w9OC7MEYUc69o8n2YK8pHsQu5hTmGjTq-dHuAy8Hya9eNDehktZzAdpP6hMl2lsYk8wNciksqZXFgsZxZRt3_00Nd",
+      "publicado_em": "2026-09-14T20:19:49.463816+00:00",
+      "dry_run": false
     }
   ]
 }
