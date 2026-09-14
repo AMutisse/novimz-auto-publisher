@@ -721,6 +721,68 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbQAB8DGwFZAcdYDLeGAcH2qgkXcp9S3cFLIAbK8D2ks3ZK57dhISymL0Bj3QIAVpBC7nq44RaKrHJh5ubLN3ksU28j2ncNwf_j7sTEjFIuNwgU_TJwWoQoMclkWKFsgSN_7aR5L_caCtiITFjrGkFCC95_kPR5IXPYklcIdPYuTF_N5zTxmhZ9ukmpJdTOs2ca1dro7YkgHHj5EVfutwgidA=",
       "publicado_em": "2026-09-14T06:25:25.562631+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Adriano Nuvunga exige explicações sobre partilha de dados de saúde entre Moçambique e EUA",
+      "titulo_post": "Acordo de Saúde de 1,7 Mil Milhões Gera Debate Sobre Dados em Moçambique",
+      "slug": "acordo-saude-1-7-mil-milhoes-debate-dados-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T08:17:36.669541+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por dentro da rede de influenciadores que ataca o voto feminino no Brasil",
+      "titulo_post": "Redes digitais e o debate sobre o voto feminino no Brasil",
+      "slug": "redes-digitais-e-o-debate-sobre-o-voto-feminino-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T08:17:54.456302+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Standard Bank lança plataforma digital “Empreenda” para impulsionar capacitação de jovens e PME",
+      "titulo_post": "Plataforma Empreenda: Novo Impulso Para Jovens e PME Nacionais",
+      "slug": "plataforma-empreenda-novo-impulso-para-jovens-e-pme-nacionais",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-14T08:18:33.486767+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Mais dez mortos em minas ilegais no centro de Moçambique - DW.com",
+      "titulo_post": "Mineração Artesanal em Moçambique: Riscos e Desafios Urgentes",
+      "slug": "mineracao-artesanal-em-mocambique-riscos-e-desafios-urgentes",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T08:18:57.129774+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "IA Prevê Evolução do Glaucoma com Apenas Uma Fotografia",
+      "titulo_post": "IA Prevê Evolução do Glaucoma com Apenas Uma Fotografia",
+      "slug": "ia-preve-evolucao-do-glaucoma-com-apenas-uma-fotografia",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAY_TOjlNi7BWzE0bwEp-xE0X-2WsBXU0JFSkU6dhiJQKkJU-3L_Z6RNPdqUafiLTOyrygsDz8YCcVjOqt9NOblB3kBwGFYTFGBDOR6cLwaTl7cqP9CAFGoK3U7EKJl7OihA2F1EShyJZZaPedy6G3b21XmZqaKa1Bak=",
+      "publicado_em": "2026-09-14T08:21:17.247060+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "UE Sofre Pressão Para Criar Lei Urgente de Resiliência Climática",
+      "titulo_post": "UE Sofre Pressão Para Criar Lei Urgente de Resiliência Climática",
+      "slug": "ue-sofre-pressao-para-criar-lei-urgente-de-resiliencia-climatica",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjFGlj0g9BNI-cHgWCDVXWq_xmfTBdOyR0NDlR5NJmHgLufRdKogOoxMPuwjuypG5rN2egAv5GLh1MOcw_6MN-zaLXBIK8JMONmA==",
+      "publicado_em": "2026-09-14T08:21:52.959971+00:00",
+      "dry_run": false
     }
   ]
 }
