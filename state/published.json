@@ -1070,6 +1070,66 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXEupFf6NAhjaGijvPJKVpeRTdnINZA_gTjVtuE5WdqCW-_4UmKJdJZF_IwW_nwSlIatb-DpG3js6Rb5nnsDQVvuzudP7_CID_vWNYoPr5oEMisYgzizm6U9teQ3w9OC7MEYUc69o8n2YK8pHsQu5hTmGjTq-dHuAy8Hya9eNDehktZzAdpP6hMl2lsYk8wNciksqZXFgsZxZRt3_00Nd",
       "publicado_em": "2026-09-14T20:19:49.463816+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Inspeção moçambicana apreende 17.279 bebidas alcoólicas - Notícias ao Minuto",
+      "titulo_post": "Fiscalização Apreende Milhares de Bebidas em Moçambique",
+      "slug": "fiscalizacao-apreende-milhares-de-bebidas-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-14T22:16:03.167024+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Caso Moraes-Vorcaro: o que está em jogo no STF e quem fala primeiro na sessão",
+      "titulo_post": "STF sob Pressão: Entenda os Ritos e Tensões no Plenário",
+      "slug": "stf-sob-pressao-entenda-os-ritos-e-tensoes-no-plenario",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T22:16:32.709453+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique e Portugal partilham arquivos militares - O País - A verdade como notícia",
+      "titulo_post": "Moçambique e Portugal Cooperam na Partilha de Arquivos Militares",
+      "slug": "mocambique-e-portugal-cooperam-na-partilha-de-arquivos-militares",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T22:17:02.831004+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que cofundador da Anthropic defende um 'botão de desligamento' obrigatório para IA",
+      "titulo_post": "Inteligência Artificial: Proposta de Botão de Desligar Gera Alerta",
+      "slug": "inteligencia-artificial-proposta-de-botao-de-desligar-gera-alerta",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T22:17:32.543707+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Reino Unido reforça parceria com Moçambique na protecção dos recursos naturais - O País - A verdade como notícia",
+      "titulo_post": "Reino Unido e Moçambique Reforçam Protecção de Recursos",
+      "slug": "reino-unido-e-mocambique-reforcam-proteccao-de-recursos",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T22:17:57.452837+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Hyrox se desculpa por permitir continuação de corrida após incontinência fecal de atleta",
+      "titulo_post": "Hyrox pede desculpa após incidente de higiene em prova de fitness",
+      "slug": "hyrox-pede-desculpa-apos-incidente-de-higiene-em-prova-de-fitness",
+      "categoria_id": 9,
+      "publicado_em": "2026-09-14T22:18:30.076202+00:00",
+      "dry_run": false
     }
   ]
 }
