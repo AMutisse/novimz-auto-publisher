@@ -45,6 +45,8 @@ jobs:
           NOVIMZ_WP_APP_PASSWORD: ${{ secrets.NOVIMZ_WP_APP_PASSWORD }}
           PANORAMA_WP_USER: ${{ secrets.PANORAMA_WP_USER }}
           PANORAMA_WP_APP_PASSWORD: ${{ secrets.PANORAMA_WP_APP_PASSWORD }}
+          SAUDEMZ_WP_USER: ${{ secrets.SAUDEMZ_WP_USER }}
+          SAUDEMZ_WP_APP_PASSWORD: ${{ secrets.SAUDEMZ_WP_APP_PASSWORD }}
         run: |
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             python main.py --dry-run
