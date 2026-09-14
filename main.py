@@ -274,7 +274,7 @@ def _extrair_json_tolerante(texto: str) -> dict:
     return json.loads(texto[inicio : fim + 1])
 
 def gerar_artigo_gemini_pesquisa(
-    cfg: dict, api_key: str, tema: dict, titulos_recentes: list[str]
+    cfg: dict, api_key: str, site: dict, tema: dict, titulos_recentes: list[str]
 ) -> tuple[dict | None, str]:
     """Gera um artigo original SEM notícia de origem em RSS: pede à própria
     Gemini para pesquisar no Google (ferramenta `google_search`, grounding)
@@ -284,19 +284,32 @@ def gerar_artigo_gemini_pesquisa(
     Devolve (artigo_dict, url_da_fonte) em caso de sucesso, ou (None, motivo)
     se a Gemini não devolver nenhuma fonte de pesquisa real (groundingMetadata
     vazio) — nesse caso o chamador NÃO deve publicar nada, precisamente para
-    impedir que "notícias" inventadas cheguem ao WordPress."""
+    impedir que "notícias" inventadas cheguem ao WordPress.
+
+    O prompt de sistema e o template da mensagem podem ser sobrepostos por
+    site (chaves opcionais `gemini_pesquisa_system_prompt` /
+    `gemini_pesquisa_user_message_template` dentro do bloco do site em
+    config.yaml) — útil para sites com necessidades de tom/cautela
+    diferentes (ex. conteúdo de saúde). Se o site não definir overrides,
+    usa-se o template global (comportamento inalterado para sites já
+    existentes como o panorama)."""
     modelo = cfg["definicoes_globais"]["gemini_model"]
     url = f"{GEMINI_API_BASE}/{modelo}:generateContent?key={api_key}"
 
+    system_prompt = site.get("gemini_pesquisa_system_prompt", cfg["gemini_pesquisa_system_prompt"])
+    user_message_template = site.get(
+        "gemini_pesquisa_user_message_template", cfg["gemini_pesquisa_user_message_template"]
+    )
+
     lista_recentes = "\n".join(f"- {t}" for t in titulos_recentes[-25:]) or "(nenhum artigo recente ainda)"
-    user_message = cfg["gemini_pesquisa_user_message_template"].format(
+    user_message = user_message_template.format(
         instrucao_pesquisa=tema["instrucao_pesquisa"],
         categoria=tema["categoria"],
         titulos_recentes=lista_recentes,
     )
 
     payload = {
-        "system_instruction": {"parts": [{"text": cfg["gemini_pesquisa_system_prompt"]}]},
+        "system_instruction": {"parts": [{"text": system_prompt}]},
         "contents": [{"role": "user", "parts": [{"text": user_message}]}],
         "tools": [{"google_search": {}}],
         "generationConfig": {
@@ -736,7 +749,7 @@ def processar_site_pesquisa(
     for tema in site["temas_pesquisa"]:
         for _ in range(alvo_por_tema):
             try:
-                artigo, fonte_ou_motivo = gerar_artigo_gemini_pesquisa(cfg, gemini_key, tema, titulos_recentes_site)
+                artigo, fonte_ou_motivo = gerar_artigo_gemini_pesquisa(cfg, gemini_key, site, tema, titulos_recentes_site)
 
                 if artigo is None:
                     log(f"[{site['id']}/{tema['id']}] Ignorado — {fonte_ou_motivo}.")
