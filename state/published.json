@@ -895,6 +895,69 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvpxTJzDXJ1QvzVbXcr7d5WR2lfcCSSK70O7W-6I-9DYiboi8Ure38mtGA7clZ7q-kvT3UFv-_XebWIiEvxJU3npwm1W7ffQ0YuCpUkeBnj_1sREquHyVYod5szwviyfqUldkcWhB2E2mQO4LnJF-ll5fSjZjyn_8pTZMFOP3opvDxkstud000dyIAU0g0VolaQc9eFzO2z-kErUv5C1GjZ8FgJjr45oeMR5auqGOfEogmBD1EZk24",
       "publicado_em": "2026-09-14T15:30:14.567931+00:00",
       "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique pede acesso a arquivos militares portugueses para contar história comum - Observador",
+      "titulo_post": "Moçambique Quer Acesso a Arquivos Militares Portugueses",
+      "slug": "mocambique-quer-acesso-a-arquivos-militares-portugueses",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-14T16:16:15.051947+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Violência política em Moçambique: CDD e Plataforma DECIDE exigem justiça após assassinato de mobilizador da ANAMOLA",
+      "titulo_post": "Sociedade Civil Exige Justiça e Paz Face a Tensões Políticas",
+      "slug": "sociedade-civil-exige-justica-e-paz-face-a-tensoes-politicas",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T16:17:12.345945+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Líderes de Escócia, Irlanda do Norte e País de Gales se unem para reivindicar independência do Reino Unido: 'O tempo de Westminster acabou'",
+      "titulo_post": "Escócia, Gales e Irlanda do Norte Pedem Fim da União Britânica",
+      "slug": "escocia-gales-e-irlanda-do-norte-pedem-fim-da-uniao-britanica",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T16:19:38.106245+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Antecipa Ações Contra Riscos do El Niño na Saúde",
+      "titulo_post": "Moçambique Antecipa Ações Contra Riscos do El Niño na Saúde",
+      "slug": "mocambique-antecipa-acoes-contra-riscos-do-el-nino-na-saude",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmM9ubGEQ8_LuVGlO6FwTSeVUksBdrbu8d_Jz5lpnoHHDBRB4b1fJYPNdgPvsSxg2PtpOXb-0fVq9gGi4rghDuqZ59yfMa0XxGo8ulQ4iCN--I2g3RlyY5Ln5IrZA_gaXcwFxAzGAESM0Kmo8MFAMopfP6-laq-4qA4uEEjxLh_a2UUCdCQ4jP4jX6hR55GbicsQ==",
+      "publicado_em": "2026-09-14T16:20:33.424196+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Google Alerta Para Ciberataques com IA Cada Vez Mais Autónomos",
+      "titulo_post": "Google Alerta Para Ciberataques com IA Cada Vez Mais Autónomos",
+      "slug": "google-alerta-para-ciberataques-com-ia-cada-vez-mais-autonomos",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvM1tVtxazeNIM4NYxhY6X03_gAhhJxq_9AuWAML9FzI49MGNFqOvxK-isj97rrYVKZ_6ZIMnEaqAkPNtXQi3oxto7RKg52AR7_gjkseujjwQ-1QQBhRsmvgKRdYezu_vfDHoDJyLMPOmpMsj4uoHPbNB0bobFTHIferqCMwjntDsI_mwuXgQMRYw=",
+      "publicado_em": "2026-09-14T16:22:08.225527+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Finlândia Adere ao Escudo Nuclear Francês Para Conter a Rússia",
+      "titulo_post": "Finlândia Adere ao Escudo Nuclear Francês Para Conter a Rússia",
+      "slug": "finlandia-adere-ao-escudo-nuclear-frances-para-conter-a-russia",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5fS2jg8WGjRYcPkvrWnSqD1attUEvTOcCzWJSBd3cXVXq3J4CNvWceiqfoGPpda2du2E3YBh1Yw7vkI5Oj9eKgewnrO4S9UBG5_Qq1RkQK__5IoXJ2O2otw9sKdU9k-xQsM6K6zqeEcPybbH0e8E8vT5GZVrykmznSi04Ebo4zKIjVn199M-hWSG4tyLnZ6yeWvTh8myP1iVMCFGi863vwKOzit6r3ot1Qo8m6qvzh5RiJ_JmCh6zEksEkWo4hIiIn9pRHAFwH6RKgD1LXqiGXq-m07mh9VBiMdkAyjJet_c1GIdIAcyOtaQzfkvyYqq3gOPP1QMIAJ-4WwjL0McA76ogLxKyx-XizmkwHyiwzL8XUNmBPPtTemtMUVGGCQv7fsNzBA==",
+      "publicado_em": "2026-09-14T16:23:01.610829+00:00",
+      "dry_run": false
     }
   ]
 }
