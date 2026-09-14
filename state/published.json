@@ -783,6 +783,36 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjFGlj0g9BNI-cHgWCDVXWq_xmfTBdOyR0NDlR5NJmHgLufRdKogOoxMPuwjuypG5rN2egAv5GLh1MOcw_6MN-zaLXBIK8JMONmA==",
       "publicado_em": "2026-09-14T08:21:52.959971+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Ernie Smith revisita palcos de Maputo com noite dedicada ao jazz e R&B",
+      "titulo_post": "Ernie Smith Regressa a Maputo para Grande Noite de Jazz e R&B",
+      "slug": "ernie-smith-regressa-a-maputo-para-grande-noite-de-jazz-e-rb",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-14T14:44:08.609284+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Confrontos em Moçambique - RTP Arquivos",
+      "titulo_post": "Caminhos Para a Paz: A Lição dos Registos Históricos em Moçambique",
+      "slug": "caminhos-para-a-paz-a-licao-dos-registos-historicos-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T14:44:28.044133+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Papa Leão XIV celebra hoje mais um aniversário",
+      "titulo_post": "Papa Leão XIV Celebra Aniversário e Marca Rumo do Vaticano",
+      "slug": "papa-leao-xiv-celebra-aniversario-e-marca-rumo-do-vaticano",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T14:44:51.587046+00:00",
+      "dry_run": true
     }
   ]
 }
