@@ -636,6 +636,39 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjMJPjGKLBYSaldwa7SZx5BthHb80UaJnqpN3J_TqIufnfX_dH_khnwonYUZhfSjihKu-PU5RDAZuUHxB8y2jZUAG5z1I3iQjFL-_dIEKOEtVptvlWgQHYnXlHoq4dzvLOfegDOAMKGU9r6iPqqy1OHnKk",
       "publicado_em": "2026-09-14T00:25:21.401544+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique e França Reforçam Parceria no Combate ao Terrorismo",
+      "titulo_post": "Moçambique e França Reforçam Parceria no Combate ao Terrorismo",
+      "slug": "mocambique-e-franca-reforcam-parceria-no-combate-ao-terrorismo",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRmbTd6Pg3A_4JqdCEvGT9z28c44gdRDc8RkuD8rlW0TcvaEiZOTNwitJGNiVaqyxsqAqh5gFpkrkCS3nk5tjpVgP0nn0dSE1BR97coAi9AIYYCPvazqiMP39r-z-hxY1A0DF6GK2ORH_DXRAkHwlVWj53uVRe8lzoS5u93P0H3E67DAGjSAXeickUG9aqvg2VZ5-kaJAKNPVxYIUM64OeXuKbVv_5Vh2SPwZ-JNvNlf_lDg==",
+      "publicado_em": "2026-09-14T02:17:46.815477+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Cientistas Criam Painéis Solares que Funcionam a 10 Metros Sob o Mar",
+      "titulo_post": "Cientistas Criam Painéis Solares que Funcionam a 10 Metros Sob o Mar",
+      "slug": "cientistas-criam-paineis-solares-que-funcionam-a-10-metros-sob-o-mar",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFni-PaS_blbZsNmHQvJdHErYQlCCcPKBIOYHCOm9qipnYwbxbiBz_Ky78IESTlrdZBp4jpS2JzvgQo7PGw50BRt_2fibHlDvzeY_84q8seZePRL5TuDuYm6S5apuEh09nPEv7Ew==",
+      "publicado_em": "2026-09-14T02:18:12.315161+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Centro-Esquerda Lidera Eleições na Suécia e Trava Extrema-Direita",
+      "titulo_post": "Centro-Esquerda Lidera Eleições na Suécia e Trava Extrema-Direita",
+      "slug": "centro-esquerda-lidera-eleicoes-na-suecia-e-trava-extrema-direita",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpGGEFPH_dUcZPp0SzsZ8vYJGxtqOIcCSmZAMkB430OG2-ces5C1vo-wrXuTS9o0KDo9T2fho0MmjB3pL51iLvR8YJD7RiEaULvTXB9bsTA4RXgaSXQUsYa11zX5wVoTPUykpJOtVXe5YvovgvB2QABXnpMzUS03oZX7T2MmMgrnrbsGIieOEVFnOsLeLMN6qD0J4VVHkyiMT9QWNKTFVPhtLxhqhs2Q==",
+      "publicado_em": "2026-09-14T02:18:50.209591+00:00",
+      "dry_run": false
     }
   ]
 }
