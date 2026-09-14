@@ -1130,6 +1130,70 @@
       "categoria_id": 9,
       "publicado_em": "2026-09-14T22:18:30.076202+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique e Portugal discutem novo pacote de cooperação na Defesa - Observador",
+      "titulo_post": "Moçambique e Portugal Negociam Novo Acordo de Cooperação na Defesa",
+      "slug": "mocambique-e-portugal-negociam-novo-acordo-de-cooperacao-na-defesa",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T23:11:08.278335+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Homem admite ter drogado e estuprado a esposa por 20 anos no Reino Unido",
+      "titulo_post": "Reino Unido: Homem confessa abusos contra a esposa por 20 anos",
+      "slug": "reino-unido-homem-confessa-abusos-contra-a-esposa-por-20-anos",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T23:11:36.153561+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Lança Distribuição Massiva de Medicamentos",
+      "titulo_post": "Moçambique Lança Distribuição Massiva de Medicamentos",
+      "slug": "mocambique-lanca-distribuicao-massiva-de-medicamentos",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyNSLfFSlDPenjOQwkfFYlUdgh_Y1idYTaNvX-9W52r2d5sn3hU_WXsVzCtyJr7zFdkoULpd_Go_MPVVPFxFFmXrlIjOn_FL5e7EbXUJtIQM_DsIS8TnJxgIuLAI_lKlfwQNDCnnWpuREng8-8ZmMY4NI76KbFTrIT_04zKHCbrcdHWw==",
+      "publicado_em": "2026-09-14T23:12:24.974498+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Cuidados, Sinais de Alerta e Prevenção",
+      "titulo_post": "Malária em Moçambique: Cuidados, Sinais de Alerta e Prevenção",
+      "slug": "malaria-em-mocambique-cuidados-sinais-de-alerta-e-prevencao",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS5lQjg2TjPzBrWYIhWOC9jOvNTa-oLO-zoaP__AWuVVTp0MMKdFyfdBrGIQmwpaKBaBbkhFDbijSTNwgIiVNmaBUZn0zwy8qIL-VK0PFm407nzBKyDuwnTlRe72JbxfzFuEwRZT9G4N54U6vFFf6m-i39FBqJHEoNpL9C84hhWVopsth9SFsPsMonn_qw3udGf39UReA7aZNhE-uuZxnm4tAiZroI7SKbqNCXgtib424=",
+      "publicado_em": "2026-09-14T23:14:09.219077+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Avanços no Tratamento e a Importância do Teste",
+      "titulo_post": "HIV em Moçambique: Avanços no Tratamento e a Importância do Teste",
+      "slug": "hiv-em-mocambique-avancos-no-tratamento-e-a-importancia-do-teste",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM87Y_FXvqZ89W0UHqAgIyF_AKRhUarWhOeS650ZhKhDwx3Nw2daJWzIL4C86yFA38eCWHjyhgPcc6pq9p0vUr6p2IgS9RSYBG_vADNCGNqd_zRRaWYyrOEE3EelHBw4mv9TNQav9ExKcvb_NbMnjnnXFkj96zWgnmSKBRa1e3Dt7RsPehAq5jpMk4A==",
+      "publicado_em": "2026-09-14T23:14:47.233110+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil: Cuidados Pré-Natais e Vacinas Salvam Vidas",
+      "titulo_post": "Saúde Materno-Infantil: Cuidados Pré-Natais e Vacinas Salvam Vidas",
+      "slug": "saude-materno-infantil-cuidados-pre-natais-vacinas",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8S8UyWkbjL61RaCYtXQXRKftlzeh37Vri2Rmf5SR8RoRj4nr8dTZdjRM1A8ffmtOvNJowNyOzxorczGGxTjaiD52FDT9z1wKLiLE5qVT3d6Pbu19WIQFjPPveC1eQ3pqHRTtazqwww0h3gg==",
+      "publicado_em": "2026-09-14T23:15:19.332505+00:00",
+      "dry_run": false
     }
   ]
 }
