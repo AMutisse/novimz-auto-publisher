@@ -813,6 +813,88 @@
       "categoria_id": 5,
       "publicado_em": "2026-09-14T14:44:51.587046+00:00",
       "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique recebe medicamentos com sistema de rastreio - Notícias ao Minuto",
+      "titulo_post": "Moçambique Recebe Fármacos com Novo Sistema de Rastreio",
+      "slug": "mocambique-recebe-farmacos-com-novo-sistema-de-rastreio",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T15:24:15.181486+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Preços justos e armazenamento em foco na Conferência de Segurança Alimentar",
+      "titulo_post": "Moçambique Reforça Preços Justos e Armazenamento Agrícola",
+      "slug": "mocambique-reforca-precos-justos-e-armazenamento-agricola",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-14T15:24:32.761061+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Livro aborda trabalho forçado e discriminação durante o período colonial em Moçambique",
+      "titulo_post": "Novo Livro Revela Memórias do Trabalho Forçado Colonial",
+      "slug": "novo-livro-revela-memorias-do-trabalho-forcado-colonial",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-14T15:25:01.740451+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Quem é Cezinha de Madureira, deputado federal do PL alvo da Polícia Federal",
+      "titulo_post": "Operação da Polícia Federal Investiga Deputado no Brasil",
+      "slug": "operacao-da-policia-federal-investiga-deputado-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-14T15:25:53.434837+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique quer abrir arquivos em Portugal sobre luta de libertação - Notícias ao Minuto",
+      "titulo_post": "Moçambique quer Acesso a Arquivos Coloniais em Portugal",
+      "slug": "mocambique-quer-acesso-a-arquivos-coloniais-em-portugal",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-14T15:26:09.248163+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que os médicos gostam tanto da série 'The Pitt'",
+      "titulo_post": "The Pitt: Por Que a Série Conquistou Médicos Reais",
+      "slug": "the-pitt-por-que-a-serie-conquistou-medicos-reais",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-14T15:26:27.520359+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Ondas Sonoras Protegem Bits Quânticos e Triplicam Memória",
+      "titulo_post": "Ondas Sonoras Protegem Bits Quânticos e Triplicam Memória",
+      "slug": "ondas-sonoras-protegem-bits-quanticos-e-triplicam-memoria",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGml_kldKucCn20Kzw2I9ebDOf9X2QTTez-cA8Z7z4pssayR4qHPd85_QcUpQTslEyXiQuR7VNodCxb4oDrunILqzEBZLQAv7UsV0jdfIeo1vjA9c_vCIh74fMXgPdFC-BODux_gPQB60cHoyV20fithWAT2w==",
+      "publicado_em": "2026-09-14T15:29:27.354613+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Petróleo Supera US$ 108 Após Arábia Saudita Fechar Oleoduto",
+      "titulo_post": "Petróleo Supera US$ 108 Após Arábia Saudita Fechar Oleoduto",
+      "slug": "petroleo-supera-us-108-apos-arabia-saudita-fechar-oleoduto",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvpxTJzDXJ1QvzVbXcr7d5WR2lfcCSSK70O7W-6I-9DYiboi8Ure38mtGA7clZ7q-kvT3UFv-_XebWIiEvxJU3npwm1W7ffQ0YuCpUkeBnj_1sREquHyVYod5szwviyfqUldkcWhB2E2mQO4LnJF-ll5fSjZjyn_8pTZMFOP3opvDxkstud000dyIAU0g0VolaQc9eFzO2z-kErUv5C1GjZ8FgJjr45oeMR5auqGOfEogmBD1EZk24",
+      "publicado_em": "2026-09-14T15:30:14.567931+00:00",
+      "dry_run": true
     }
   ]
 }
