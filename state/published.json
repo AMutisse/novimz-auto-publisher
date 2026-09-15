@@ -1417,6 +1417,66 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx_vQjpt5OtOVv06tDrIwKrc10n1-tm_m1-6oEZBrG2Htc-v7wcVV2idVAV3ftbW1D_Ykgc7AqMvg_s5TGSq79CECs5_Q08HRhjAG09Jmz8K4HQhkRy3j83EnkTmXV5JRsRP-t-dEmoxPv7PQzfP0r6bs96_ESqiB2M21aROixgOCvJso1Qm8aNHlwm7cSx4Elu5CI7ZeFxKmR22ItGvpC",
       "publicado_em": "2026-09-15T08:28:26.612680+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique estreia-se em fórum sobre madeira sustentável em Macau. O que está em discussão - Plataforma Media",
+      "titulo_post": "Madeira Sustentavel: Mocambique Estreia-se em Forum Global em Macau",
+      "slug": "madeira-sustentavel-mocambique-estreia-se-em-forum-global-em-macau",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T10:16:23.611159+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Polícia e advogados em rota de colisão em Manica devido a desentendimentos nas esquadras",
+      "titulo_post": "Tensões Entre Advogados e Polícia Marcam Justiça em Manica",
+      "slug": "tensoes-entre-advogados-e-policia-marcam-justica-em-manica",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T10:16:52.237472+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Caso Moraes-Vorcaro é analisado em sessão plenária pelo STF; acompanhe",
+      "titulo_post": "STF Avalia Condutas e Transparência em Sessão Plenária Decisiva",
+      "slug": "stf-avalia-condutas-e-transparencia-em-sessao-plenaria-decisiva",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T10:17:20.435194+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique entre os países mais vulneráveis à insegurança alimentar em África - Correio da Manhã",
+      "titulo_post": "Insegurança Alimentar: Moçambique Enfrenta Desafios Críticos",
+      "slug": "inseguranca-alimentar-mocambique-enfrenta-desafios-criticos",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T10:17:38.093769+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "EUA confirmam ter colocado pela primeira vez armamentos no espaço",
+      "titulo_post": "EUA Confirmam Armas no Espaço em Marco Histórico de Defesa",
+      "slug": "eua-confirmam-armas-no-espaco-em-marco-historico-de-defesa",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T10:18:01.211812+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Emmy 2006: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
+      "titulo_post": "Recorde Histórico no Emmy: A Consagração das Séries de Comédia",
+      "slug": "recorde-historico-no-emmy-a-consagracao-das-series-de-comedia",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-15T10:18:30.250021+00:00",
+      "dry_run": false
     }
   ]
 }
