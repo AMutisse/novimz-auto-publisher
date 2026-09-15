@@ -1364,6 +1364,59 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPtL6d8FtW3bIyZoZ-oG1-iod4hpm4lVYKFbU-Ty5rDTEaahQ2MpLPcoqmA0mtdqpaiIJSIbkG_jp4nYCcfSdlRnFd0zyQM4NhTtMMAXEUzHvlRCewDTBAaidbBCObOuGZvjuMGNRs1tG2KPUkIBbOEpCM46k7dBfqq8FcZtlv7A1FsZfQR96Hfmrq7YTESRLRZijYvvIbk_Pzq0q2SMUY",
       "publicado_em": "2026-09-15T06:26:05.325561+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como o PCC aparece nas investigações sobre a produtora de Dark Horse, filme sobre a vida de Jair Bolsonaro",
+      "titulo_post": "Investigações Apontam Vínculos Ilícitos em Produtora no Brasil",
+      "slug": "investigacoes-apontam-vinculos-ilicitos-em-produtora-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T08:20:11.192059+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique convida investidores chineses a transformar recursos em indústria e desenvolvimento",
+      "titulo_post": "Moçambique Quer Atrair Investimento Chinês para Industrialização",
+      "slug": "mocambique-quer-atrair-investimento-chines-para-industrializacao",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T08:22:01.945820+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique debate expansão de bancos de leite humano",
+      "titulo_post": "Moçambique debate expansão de bancos de leite humano",
+      "slug": "mocambique-debate-expansao-de-bancos-de-leite-humano",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7_oB-nnhEH3VR5b3pxhFSx3kcQp-MorZ69KYJoB5Cy9IarVdQpgdRw4DF2SSIBpLCOjnPKUnricaLoyiNvoUyRgyOTpFR0ao_x_HzwIZDcjXmDAp_yd3YdcfkBCbLd6bqmB5oz2LeTT47SVYfTNbVl4t_adqda_3WU9voIw9VfHCG1sjdu4oqoAMNHIxrdSKEXf8bJ-WeHy036x7fJN93WCQe",
+      "publicado_em": "2026-09-15T08:23:44.679822+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "EUA Confirmam Pela 1ª Vez Posse de Armas Militares em Órbita",
+      "titulo_post": "EUA Confirmam Pela 1ª Vez Posse de Armas Militares em Órbita",
+      "slug": "eua-confirmam-pela-primeira-vez-armas-militares-em-orbita",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmZtBrxIYl4H4Dj5sl4-PMdNeaSTC5a3wfno3QeYNI3gin5VCcKOR6M0MIWwUEarJckRn055L7mbXyDkKy6Ka1qEUpSYFdgcfXrZYWv_1fuhwhgb9xfEUt30WVEJiqkzj1s4KOzXo11_bP3PHHoByUx3BPWez2mS71mDdK0cKFUycFe8sW2Q-z__sO1b79Yqs3-u8-qFzv9mLsCnBsPrcNOP2CWsScuHCTGErq0PUt4nzGzSt5xA==",
+      "publicado_em": "2026-09-15T08:25:54.937415+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Estratégias e Cuidados de Prevenção Combinada",
+      "titulo_post": "HIV em Moçambique: Estratégias e Cuidados de Prevenção Combinada",
+      "slug": "hiv-em-mocambique-estrategias-e-cuidados-de-prevencao-combinada",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx_vQjpt5OtOVv06tDrIwKrc10n1-tm_m1-6oEZBrG2Htc-v7wcVV2idVAV3ftbW1D_Ykgc7AqMvg_s5TGSq79CECs5_Q08HRhjAG09Jmz8K4HQhkRy3j83EnkTmXV5JRsRP-t-dEmoxPv7PQzfP0r6bs96_ESqiB2M21aROixgOCvJso1Qm8aNHlwm7cSx4Elu5CI7ZeFxKmR22ItGvpC",
+      "publicado_em": "2026-09-15T08:28:26.612680+00:00",
+      "dry_run": false
     }
   ]
 }
