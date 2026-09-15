@@ -1258,6 +1258,39 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFveKqEiNa5YJBHEN_Yl4h_bGOwGeRvWuY9WSrtKMBlRW3lj3JtvEcA9dwQWQmsD0MruoY7FMMOssfv_CkhrZR2cVIvgug8pkTi_91alpQxwLHH3HV3Aj6N9I5BtdatP1G6yeuhKFgjQkcwK9igyjJmxv2cOAZhtDHTLtOGJDRY-Dv7oH5OjP-8Kt5sC7dH5lzLMAoQ1jlMiFir89sMFYJCeC-Tz6ANELSy5bg=",
       "publicado_em": "2026-09-15T00:29:47.237983+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Reservas de Moçambique Caem Para o Mínimo de Mais de Um Ano",
+      "titulo_post": "Reservas de Moçambique Caem Para o Mínimo de Mais de Um Ano",
+      "slug": "reservas-de-mocambique-caem-para-o-minimo-de-mais-de-um-ano",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJStJ57Zuoln5Mbnq8SGhzQ_vO6SzjfgYrHwCwWO0gVPuGjfZ_PvvzaeYtQK_A7FSIVnw_z-lWcsg6Oli3YoGnzjFcgAz4ubLyPSYNOYRQtDla_Q-mSoYwhE7tBJXvWdGi2piK8SvsmH8j1lUuQ7cRl_nQ3ty96x0thE3Gr7tTKLu-o3A9bupmOFy68i8S_t3urFjaOmvMIX7eh4StInG_f9yYDf9jiHseAr46HQw=",
+      "publicado_em": "2026-09-15T02:17:54.532451+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Suprema Corte dos EUA Barra Restrições ao Voto por Correio",
+      "titulo_post": "Suprema Corte dos EUA Barra Restrições ao Voto por Correio",
+      "slug": "suprema-corte-dos-eua-barra-restricoes-ao-voto-por-correio",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOQeoermR9BqI8q0J8K-yRay0OxuqclGdO_dlBL8Zmhh_Y08Qxsn_zRLVJajLuGoubotQVAAQqi3YCAV8aG_1Z9d2ie1fVQXDYrzBQdclqa9mnPVgf_q2mWBKebbLf9LjC7xqT85irAYpAMZU4ZI4JI9SFWyJyPrgX6VOwlgIbvssqBBNEuRN8_fB2wzTjW4keykDN8llP6G63uHkSC-VVhDFY29S5wvpvhNhi37GsCZtHuNT6IkWIzesnNnI5lyK2pjMf-rUGqxy7xPMShpxFGz0uaa-gDMZR4_zL_-5P0uWWp5lv7kchgA==",
+      "publicado_em": "2026-09-15T02:19:35.649690+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: O Que Significa Ter a Carga Viral Suprimida",
+      "titulo_post": "HIV em Moçambique: O Que Significa Ter a Carga Viral Suprimida",
+      "slug": "hiv-em-mocambique-o-que-significa-ter-a-carga-viral-suprimida",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE97Q_-g3fdpTwE4KAaJDGcW6FUGUx4Zdn7IiFtD6c4-d7lNbSQWCM6W_UCL3unEo5qeHOWBghLa5JdvbVjxVNLh3JT-Y9KFJXgA7vbNOLQpN-OyUHHvKLD-gMgY2y72fYsr52Et2EWnskfO12HcoED1eQgANP7dU-Xf_tR9s9AJC1zkXYsz_9evg8LS_3t_371uWRx9ssb9bpVTpiKPek=",
+      "publicado_em": "2026-09-15T02:20:21.860424+00:00",
+      "dry_run": false
     }
   ]
 }
