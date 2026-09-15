@@ -1795,6 +1795,78 @@
       "categoria_id": 6,
       "publicado_em": "2026-09-15T20:18:00.834329+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Dino pede vista, e STF adia análise do caso Moraes; veja como foi o julgamento",
+      "titulo_post": "STF Adia Julgamento Sobre Conduta de Moraes Após Pedido de Vista",
+      "slug": "stf-adia-julgamento-sobre-conduta-de-moraes-apos-pedido-de-vista",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T22:15:54.142813+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Maputo recebe Semana da Dança com artistas de oito países",
+      "titulo_post": "Maputo Acolhe Semana da Dança com Bailarinos de Oito Países",
+      "slug": "maputo-acolhe-semana-da-danca-com-bailarinos-de-oito-paises",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-15T22:16:15.637359+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Newcastle, Brentford, Brighton e Aston Villa atentos a Geny Catamo",
+      "titulo_post": "Geny Catamo na Mira da Premier League Inglesa",
+      "slug": "geny-catamo-na-mira-da-premier-league-inglesa",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-15T22:16:34.352686+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Japão ultrapassa pela primeira vez 100 mil pessoas com 100 anos ou mais: o que há por trás dessa longevidade",
+      "titulo_post": "Japão Ultrapassa 100 Mil Centenários e Revela Lições de Longevidade",
+      "slug": "japao-ultrapassa-100-mil-centenarios-e-revela-licoes-de-longevidade",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T22:17:02.618213+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "9NaKons prepara-se para conquistar o palco do Back to the City na África do Su",
+      "titulo_post": "Hip-Hop: 9NaKons Leva a Música de Moçambique ao Back to the City",
+      "slug": "hip-hop-9nakons-leva-musica-mocambique-back-to-the-city",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-15T22:17:18.335758+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Drone Russo Atinge Trem Perto da Polónia e Eleva Tensão com a Otan",
+      "titulo_post": "Drone Russo Atinge Trem Perto da Polónia e Eleva Tensão com a Otan",
+      "slug": "drone-russo-atinge-trem-perto-da-polonia-e-eleva-tensao-com-a-otan",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvfGPuOWBbgTUy1zVAQopJlcdZaLwpeN5H4a0bNT2VkHjWOMQ6dVJ8aeZjDbuaaslLFpnxJXiF_veIfNVFsBZb8nw_6wRba1o3nsf3FjLtJy5tYQELALp8dVscbE_qs1ST3VeMnwP7Y3FOT-z3KWcm0G_noK_QYVjW9Ydba5B10jUdjaJVedbm4J6hjsQ8Bvlgon_bITUocESa7sXVY8B9yikjmMsokbI6i0rxaHa5zkvPNXfsu26ChYkyDcoFVVd-b2mOj-vj8qzv-95QHgtc0xh",
+      "publicado_em": "2026-09-15T22:19:11.516272+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil: O Papel Vital dos Cuidados Comunitários",
+      "titulo_post": "Saúde Materno-Infantil: O Papel Vital dos Cuidados Comunitários",
+      "slug": "saude-materno-infantil-o-papel-vital-dos-cuidados-comunitarios",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDmzv-LnFQhQ4kDDysMvqPZSkHJPxFuFh6Mpb0gxmpOp6Jv7wV729P4D157DU0C5cRnBmvDDLzSSu-zgVBpKPqpTXTiP_zzKRjXxWfSgSYml7wPEEm6GQaMwiNont001SXc6EtP1VVP-gMMzQ=",
+      "publicado_em": "2026-09-15T22:20:36.841180+00:00",
+      "dry_run": false
     }
   ]
 }
