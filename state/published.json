@@ -1291,6 +1291,28 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE97Q_-g3fdpTwE4KAaJDGcW6FUGUx4Zdn7IiFtD6c4-d7lNbSQWCM6W_UCL3unEo5qeHOWBghLa5JdvbVjxVNLh3JT-Y9KFJXgA7vbNOLQpN-OyUHHvKLD-gMgY2y72fYsr52Et2EWnskfO12HcoED1eQgANP7dU-Xf_tR9s9AJC1zkXYsz_9evg8LS_3t_371uWRx9ssb9bpVTpiKPek=",
       "publicado_em": "2026-09-15T02:20:21.860424+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Supercomputador Jaci Revoluciona Previsão do Tempo com Modelo Monan",
+      "titulo_post": "Supercomputador Jaci Revoluciona Previsão do Tempo com Modelo Monan",
+      "slug": "supercomputador-jaci-revoluciona-previsao-do-tempo-com-modelo-monan",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-jb_Z4gCkIFyJvS93mcOepVsKHx_4z1MG4FfbPzr6U0tqjUgs3bRcdxEto5btKRUg7mVzHWJ-36tnWIFyIJKsLELHGtz8vzUftlYfcWOfbFQ1eOL7XCq7gOe_x6NMsr6peZXSVLBI9BFkdkkvGGw68gF6Y2BznYMHsIT8j74fM0iYwVTnMu9k64ox0E4gG8gSTAr42VQk-IW5L3IXOX0ijSSEGBITBUz3UiL9Wg1iaXlpIfljQjR5iTHQsFMsgpyPYTEaVUU=",
+      "publicado_em": "2026-09-15T04:18:51.228809+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Prevenção da Transmissão Vertical do HIV: Cuidados em Moçambique",
+      "titulo_post": "Prevenção da Transmissão Vertical do HIV: Cuidados em Moçambique",
+      "slug": "prevencao-da-transmissao-vertical-do-hiv-cuidados-em-mocambique",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWDC6ijl8YpxeF9OTs8PFYkpN_F7wwsaA2-5oohZKFEFcSU-Jx5Qwswqaswtl6z8XEcM1m3bvY5RseE6OL9aeVJtA3w2g6I_zN-Yq6ITD1jibMVK7Wyi9rMQh12iQZfIldsEMqN0rrPg==",
+      "publicado_em": "2026-09-15T04:20:10.037452+00:00",
+      "dry_run": false
     }
   ]
 }
