@@ -1313,6 +1313,57 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWDC6ijl8YpxeF9OTs8PFYkpN_F7wwsaA2-5oohZKFEFcSU-Jx5Qwswqaswtl6z8XEcM1m3bvY5RseE6OL9aeVJtA3w2g6I_zN-Yq6ITD1jibMVK7Wyi9rMQh12iQZfIldsEMqN0rrPg==",
       "publicado_em": "2026-09-15T04:20:10.037452+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique estreia-se em fórum sobre comércio de madeiras tropicais em Macau - RTP",
+      "titulo_post": "Moçambique Junta-se a Fórum Global de Madeiras em Macau",
+      "slug": "mocambique-junta-se-a-forum-global-de-madeiras-em-macau",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T06:21:46.513130+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Venâncio Mondlane pede intervenção internacional perante denúncias de violência política em Moçambique",
+      "titulo_post": "Moçambique: Apelo Internacional Pede Foco nos Direitos Humanos",
+      "slug": "mocambique-apelo-internacional-pede-foco-nos-direitos-humanos",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T06:22:03.212045+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Premier League volta à carga por Geny Catamo. Já são 5 clubes de olhos ao moçambicano",
+      "titulo_post": "Geny Catamo Desperta Corrida de Gigantes na Premier League",
+      "slug": "geny-catamo-desperta-corrida-de-gigantes-na-premier-league",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-15T06:23:17.556477+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moeda eletrónica tem quase quatro vezes mais contas do que a banca em Moçambique - Executive Digest",
+      "titulo_post": "Moeda Eletrónica Supera Banca com Quatro Vezes Mais Contas",
+      "slug": "moeda-eletronica-supera-banca-com-quatro-vezes-mais-contas",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T06:23:35.626489+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Apoio Comunitário e Adesão ao Tratamento",
+      "titulo_post": "HIV em Moçambique: Apoio Comunitário e Adesão ao Tratamento",
+      "slug": "hiv-em-mocambique-apoio-comunitario-e-adesao-ao-tratamento",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPtL6d8FtW3bIyZoZ-oG1-iod4hpm4lVYKFbU-Ty5rDTEaahQ2MpLPcoqmA0mtdqpaiIJSIbkG_jp4nYCcfSdlRnFd0zyQM4NhTtMMAXEUzHvlRCewDTBAaidbBCObOuGZvjuMGNRs1tG2KPUkIBbOEpCM46k7dBfqq8FcZtlv7A1FsZfQR96Hfmrq7YTESRLRZijYvvIbk_Pzq0q2SMUY",
+      "publicado_em": "2026-09-15T06:26:05.325561+00:00",
+      "dry_run": false
     }
   ]
 }
