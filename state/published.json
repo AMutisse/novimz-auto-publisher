@@ -1643,6 +1643,57 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKlDyINMBhBGtOON7EzCtGPQYPshtoViNG0TmDmRsf-j87_xGsJuL_DdajKXEj5MvXhbE__5jMSdC3MRf3sYfCmxwcrmT2FD-eXNEnqvEdG4mQstViwBYVbN0X1y1-HVY4bqEvTKzo3OQIRqmgTkiXxAnzWMcm5LUv_kjKWl68OMDqCg0OH5PiTa7iVxYZdcUzB653F1lSpr1ozkS4nJtNZn1LTvYEOGLMgGrHjnf_BCODPXkbvbaC7WxaUJ9_FIwQoTkveJjh6EfiY8W3ww==",
       "publicado_em": "2026-09-15T14:33:47.875165+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Daniel Chapo orienta aceleração do combate à desnutrição infantil em Moçambique - SAPO",
+      "titulo_post": "Moçambique Reforça Medidas Urgentes Contra Desnutrição Infantil",
+      "slug": "mocambique-reforca-medidas-urgentes-contra-desnutricao-infantil",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T16:17:33.807623+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "STF voltará às 14h a analisar caso Moraes-Vorcaro: Moraes e Mendonça se enfrentaram com bate-boca; ‘Tenho testemunhas' e 'É mentira'",
+      "titulo_post": "Crise no STF: Tensões Institucionais Marcam Julgamento no Brasil",
+      "slug": "crise-no-stf-tensoes-institucionais-marcam-julgamento-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T16:19:17.600443+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique prioriza acesso à água na região norte com novos sistemas e furos - SAPO",
+      "titulo_post": "Água Potável: Norte de Moçambique Recebe Novos Furos e Redes",
+      "slug": "agua-potavel-norte-de-mocambique-recebe-novos-furos-e-redes",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T16:21:25.197205+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que Kassio Nunes Marques se declarou impedido de analisar futuro de Moraes",
+      "titulo_post": "STF: Por que Nunes Marques se Declarou Impedido em Caso Decisivo",
+      "slug": "stf-por-que-nunes-marques-se-declarou-impedido-em-caso-decisivo",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T16:22:50.056882+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "ANAMOLA Nomeia James Njiji Como Novo Secretário-Geral Interino",
+      "titulo_post": "ANAMOLA Nomeia James Njiji Como Novo Secretário-Geral Interino",
+      "slug": "anamola-nomeia-james-njiji-como-novo-secretario-geral-interino",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaaQkz7HiO7YXpAzI9-fBr-0Nwy2NLXlBZMBlVfL5qovsMGVxS2DEPWEax177nt5yl7eVG6pHBeqUwxZrcn0NvH5Hdza9woaTs664o7rdgnIC3yFqsVYivTQy-X2Ohys-WS8najpKgcB2NmKInMnzx0TuGbSE19EV9ZN7WEvuJqZS6AwKHe4uzv-TRD_OktBU619X_OtejSDolTpJsr0OQhPWMBTFsMnKgRVmlfU2cA4D4MXfkHzVepheq10bQ55W_AwdCxs=",
+      "publicado_em": "2026-09-15T16:26:01.926132+00:00",
+      "dry_run": false
     }
   ]
 }
