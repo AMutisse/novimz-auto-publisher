@@ -1477,6 +1477,80 @@
       "categoria_id": 6,
       "publicado_em": "2026-09-15T10:18:30.250021+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique chama Geny Catamo para os jogos de qualificação para o CAN frente a Senegal e Sudão - Record",
+      "titulo_post": "Geny Catamo Lidera Convocados de Moçambique no CAN",
+      "slug": "geny-catamo-lidera-convocados-de-mocambique-no-can",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T12:20:14.648874+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "África do Sul impede leilão de bens de Nelson Mandela nos EUA",
+      "titulo_post": "África do Sul Trava Leilão de Bens de Nelson Mandela nos EUA",
+      "slug": "africa-do-sul-trava-leilao-de-bens-de-nelson-mandela-nos-eua",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T12:20:33.850766+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "EUA confirmam pela primeira vez que têm uma arma em órbita para protecção contra inimigos",
+      "titulo_post": "EUA Revelam Pela Primeira Vez Arma em Órbita Espacial",
+      "slug": "eua-revelam-pela-primeira-vez-arma-em-orbita-espacial",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T12:20:54.397715+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Rovuma LNG: ExxonMobil Contrata Empresas Moçambicanas",
+      "titulo_post": "Rovuma LNG: ExxonMobil Contrata Empresas Moçambicanas",
+      "slug": "rovuma-lng-exxonmobil-contrata-empresas-mocambicanas",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf5ceyeRbe0hNGhzlxeOMU6eaXShxCZuY6pa1fodAHNhGgsl3gaF1xcgHfoUCYQrp6zUXupTwZwqed64tANlewfohHQi3OV0F22jN4Q0uznzkJmcML73XOjOYqhha3pGhUKKR3Ryhc3I5xho1zX5vyNabBgGDX6GbcJXE6ivFpSHV8akZkwjURXOh8Ptg1BY5msmnxSPhgtSKWtgNCbZNX0vUmGQa3xSr8Hw==",
+      "publicado_em": "2026-09-15T12:21:50.459394+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Novo Jato da Embraer Obtém Certificação Para Pousar Sozinho",
+      "titulo_post": "Novo Jato da Embraer Obtém Certificação Para Pousar Sozinho",
+      "slug": "novo-jato-da-embraer-obtem-certificacao-para-pousar-sozinho",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFseOkmlZ7339E_eV49pOePWqSu2Fs2mEaTp61KO6OTzfoemdokhSwbWPsM3Z11CSDezDa7K62AmrIU_-LQXk-ZS5UwIqxWUDvG2ZNGfUWKefrLNRy2dav7KJKhMvWduD-K0pwuVbZZNv5svNqe1kAdfsqBbVgatb21O-gPu8RcpWAO0rHqa9LlYepFciks73BQGkY66k3k37Vj",
+      "publicado_em": "2026-09-15T12:23:04.836876+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Por Que o Diagnóstico Precoce Salva Vidas",
+      "titulo_post": "Malária em Moçambique: Por Que o Diagnóstico Precoce Salva Vidas",
+      "slug": "malaria-em-mocambique-por-que-o-diagnostico-precoce-salva-vidas",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3uI1IaldgOOjWY8YG6rUWfqn_81KN6Fux5JTc5oonzCQIEgocJGmf2eQfnukRDjD7VvntBIR3i0F5kSFC0r-kJQwIRK6hnnc5InptNt2ZME7JQRzqdNDRRBzw3ySXsM4jPMq_e2xI14RbtF8A5_37XzQPxlPbuXTDoUv-ZbClhfJrH5TtT0GIHNi_",
+      "publicado_em": "2026-09-15T12:24:03.267170+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Rastreio de Medicamentos em Moçambique: Mais Segurança no Acesso",
+      "titulo_post": "Rastreio de Medicamentos em Moçambique: Mais Segurança no Acesso",
+      "slug": "rastreio-de-medicamentos-em-mocambique-mais-seguranca-no-acesso",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGws0JYh_VY05LF9Tuep_kLwa4OLUVNb6brxHMe-6sWaFuqH_npbq62oflR-0F0RlSiZav5W2FSl61XD2Gg3Sx5tq4tEyDdknVNjo0gOxDtgbvekRjpKDl--Xj7HnIyaGsx71b9U50shC0czA10YnITvlRGbi9DqMZ8As_IcOohNMM=",
+      "publicado_em": "2026-09-15T12:26:19.914962+00:00",
+      "dry_run": false
     }
   ]
 }
