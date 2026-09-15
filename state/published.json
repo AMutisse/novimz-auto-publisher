@@ -1765,6 +1765,36 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_3OYd3DDPv6EJr2OcZ8Hs4uwvO9V2wVwj3fjvav-gskKuyjio__tztpaFaPquOjqKkpvzL8f2tTo3G-KMzNpNgOnG8eOnue45UBjYjA4Gtut7s5A62XZjH2hAgQ==",
       "publicado_em": "2026-09-15T18:26:52.318479+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "STF decide se julga caso Moraes-Vorcaro hoje ou não; placar está 4x1 para adiar, siga",
+      "titulo_post": "STF Avalia Tensao Institucional Apos Debates Internos",
+      "slug": "stf-avalia-tensao-institucional-apos-debates-internos",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T20:16:37.123325+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os bate-bocas entre ministros que marcaram primeira parte da sessão sobre caso Moraes-Vorcaro no STF",
+      "titulo_post": "Tensões no Supremo Tribunal Federal marcam debate institucional",
+      "slug": "tensoes-no-supremo-tribunal-federal-marcam-debate-institucional",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T20:17:28.511717+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Festival da Cerveja em Inhambane gera debate sobre valorização de produtos locais",
+      "titulo_post": "Festival em Inhambane Abre Debate Sobre Produtos Locais",
+      "slug": "festival-em-inhambane-abre-debate-sobre-produtos-locais",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-15T20:18:00.834329+00:00",
+      "dry_run": false
     }
   ]
 }
