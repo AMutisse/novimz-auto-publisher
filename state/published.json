@@ -1194,6 +1194,70 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8S8UyWkbjL61RaCYtXQXRKftlzeh37Vri2Rmf5SR8RoRj4nr8dTZdjRM1A8ffmtOvNJowNyOzxorczGGxTjaiD52FDT9z1wKLiLE5qVT3d6Pbu19WIQFjPPveC1eQ3pqHRTtazqwww0h3gg==",
       "publicado_em": "2026-09-14T23:15:19.332505+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Ministro da Defesa defende mais apoio da UE em Moçambique - Observador",
+      "titulo_post": "Moçambique Reforça Parceria de Defesa com Portugal e UE",
+      "slug": "mocambique-reforca-parceria-de-defesa-com-portugal-e-ue",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T00:23:41.489490+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "MEC participa de abertura virtual de formação de moçambicanos - folhaestado.com.br",
+      "titulo_post": "Brasil e Mocambique reforcam cooperacao na formacao docente",
+      "slug": "brasil-e-mocambique-reforcam-cooperacao-na-formacao-docente",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T00:24:13.333888+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Cúpula do BRICS Encerra em Nova Délhi com Defesa do Livre Comércio",
+      "titulo_post": "Cúpula do BRICS Encerra em Nova Délhi com Defesa do Livre Comércio",
+      "slug": "cupula-do-brics-encerra-em-nova-delhi-com-defesa-do-livre-comercio",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoFU0Icw5N5g610-4CJkMY53rOMie4q9yddep5CUyzTbvNRztjXTlPJ_71nmb7pdSwZhIb0XTDFV7FPDJJ5UeBFMWZJXdd55aE02Rv2RSMga7HFKuF1c1OjBKCrQFzrrpVuOxqZm1aksUfDa5s7afgk6kcUtv2bWgZNqAfQqdv5NamK6Xl6kpYEvML3f9rB4Ld2MGAnxuEFx3bJOm6",
+      "publicado_em": "2026-09-15T00:26:36.731542+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Vacina contra Malária em Moçambique: Protecção e Cuidados Infantis",
+      "titulo_post": "Vacina contra Malária em Moçambique: Protecção e Cuidados Infantis",
+      "slug": "vacina-contra-malaria-em-mocambique-proteccao-e-cuidados-infantis",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYAuc5UHxyXEnGsMhY9m-8DLU2Cy7oe8y4VxxzgvrhwrtVHcuLkjc2XlYJ1xYI2yLeKw35UoTmyjJ41WlsPFMv_zDT35JtaSlNoXPR7KrIQ1oJdipK4I8PdBv196jRNfw_uwAz4NIyxuwWb3vfJDGFJ1i0FXDvcKx-lJQtO7O9CUPEQMQd9ppLuZ5Pex8a1uXDCb5ilYV6ajIqlz6tysZaOOJX_zvbxLFMleklVFj309U=",
+      "publicado_em": "2026-09-15T00:27:27.380739+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Prevenção do HIV em Moçambique: A Nova Opção de PrEP Injectável",
+      "titulo_post": "Prevenção do HIV em Moçambique: A Nova Opção de PrEP Injectável",
+      "slug": "prevencao-do-hiv-em-mocambique-a-nova-opcao-de-prep-injectavel",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHppJ9qmBnf42-p7z1VD1hNf42mPg2BPDTpg1K6fXoSiQh1I_TEdk3acRvty10GGy0c5VNmNHjaYt6e_b-Vc6svL0TtxtDUsBTO7-XGY_5V5P3D5S-eKCSaGO8VXzXCYggWoke19DvC1HGqe1IxxWYmvwG0IoLJJlKzOlV7c8F7h4v21kJO56zg-dS1op0NKEONz0hQONUcM8ZGjqu5Ce4H5nBO0tYwoubVSdzOOJeQME4o7kUKC054qFp1OZAnhy03YbvdxtfCfNl7ZDKAK3A=",
+      "publicado_em": "2026-09-15T00:28:37.356649+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Prevenção da Cólera em Moçambique: Cuidados com Água e Higiene",
+      "titulo_post": "Prevenção da Cólera em Moçambique: Cuidados com Água e Higiene",
+      "slug": "prevencao-da-colera-em-mocambique-cuidados-com-agua-e-higiene",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFveKqEiNa5YJBHEN_Yl4h_bGOwGeRvWuY9WSrtKMBlRW3lj3JtvEcA9dwQWQmsD0MruoY7FMMOssfv_CkhrZR2cVIvgug8pkTi_91alpQxwLHH3HV3Aj6N9I5BtdatP1G6yeuhKFgjQkcwK9igyjJmxv2cOAZhtDHTLtOGJDRY-Dv7oH5OjP-8Kt5sC7dH5lzLMAoQ1jlMiFir89sMFYJCeC-Tz6ANELSy5bg=",
+      "publicado_em": "2026-09-15T00:29:47.237983+00:00",
+      "dry_run": false
     }
   ]
 }
