@@ -1551,6 +1551,98 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGws0JYh_VY05LF9Tuep_kLwa4OLUVNb6brxHMe-6sWaFuqH_npbq62oflR-0F0RlSiZav5W2FSl61XD2Gg3Sx5tq4tEyDdknVNjo0gOxDtgbvekRjpKDl--Xj7HnIyaGsx71b9U50shC0czA10YnITvlRGbi9DqMZ8As_IcOohNMM=",
       "publicado_em": "2026-09-15T12:26:19.914962+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Maputo: UEM acolhe festival de churrasco, música e cultura em Outubro próximo",
+      "titulo_post": "Festival de Churrasco e Música Movimenta Maputo em Outubro",
+      "slug": "festival-de-churrasco-e-musica-movimenta-maputo-em-outubro",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-15T14:18:03.344056+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "STF começa a julgar caso Moraes-Vorcaro; siga fala de Fachin",
+      "titulo_post": "STF Analisa Tensões Institucionais em Sessão Decisiva no Brasil",
+      "slug": "stf-analisa-tensoes-institucionais-em-sessao-decisiva-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T14:19:32.635057+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo de Moçambique aposta em regulação moderna para o sector de jogos",
+      "titulo_post": "Moçambique Moderniza Regulação do Sector de Jogos e Apostas",
+      "slug": "mocambique-moderniza-regulacao-do-sector-de-jogos-e-apostas",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T14:22:09.773970+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A defesa de Alexandre de Moraes antes da sessão no STF que definirá seu futuro",
+      "titulo_post": "Tensões no STF: Bastidores da Disputa Jurídica no Brasil",
+      "slug": "tensoes-no-stf-bastidores-da-disputa-juridica-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-15T14:23:44.702030+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Reino Unido e Moçambique preveem 9,3 ME em conservação da natureza e economia azul - SAPO",
+      "titulo_post": "Moçambique e Reino Unido Investem 9,3 ME na Economia Azul",
+      "slug": "mocambique-e-reino-unido-investem-9-3-me-na-economia-azul",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T14:25:25.640888+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "ANAPRO denuncia pressões de direcções escolares para aprovação artificial de alunos e exige fim da prática",
+      "titulo_post": "ANAPRO Alerta Para Pressão na Aprovação de Alunos",
+      "slug": "anapro-alerta-para-pressao-na-aprovacao-de-alunos",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T14:26:50.695119+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Sporting: Moçambique convoca Geny Catamo - A Bola",
+      "titulo_post": "Geny Catamo Convocado para a Selecção de Moçambique",
+      "slug": "geny-catamo-convocado-para-a-seleccao-de-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T14:28:00.722929+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Anthropic Pede Freio no Avanço Rápido da Inteligência Artificial",
+      "titulo_post": "Anthropic Pede Freio no Avanço Rápido da Inteligência Artificial",
+      "slug": "anthropic-pede-freio-no-avanco-rapido-da-inteligencia-artificial",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1li4D2GSGdIQatQOSl8MJ1l3Kd5FhMrWipqzJUQZqDdwxntXxy7nRXTRgr1IhnAOwdzbM5OqRose2aINqGwAyKxj9Et9bnYW7eXfF4Oq96QPBnncw-Uwym4kiBhWIC_NHCehqkdnMvByB9ODC6dQNFl8GUsv0QXXJqCGoBodkj7EffyMfw0zE9Wi7eLAa-pGizN_cy7Lmsqa11zw6BIK79XPLj53H8UZ4pvZ-F1OKD54EGAqZvZ-z4YaLng==",
+      "publicado_em": "2026-09-15T14:31:04.853529+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Infantil em Moçambique: O Novo Plano de Acção até 2030",
+      "titulo_post": "Saúde Infantil em Moçambique: O Novo Plano de Acção até 2030",
+      "slug": "saude-infantil-mocambique-novo-plano-accao-2030",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKlDyINMBhBGtOON7EzCtGPQYPshtoViNG0TmDmRsf-j87_xGsJuL_DdajKXEj5MvXhbE__5jMSdC3MRf3sYfCmxwcrmT2FD-eXNEnqvEdG4mQstViwBYVbN0X1y1-HVY4bqEvTKzo3OQIRqmgTkiXxAnzWMcm5LUv_kjKWl68OMDqCg0OH5PiTa7iVxYZdcUzB653F1lSpr1ozkS4nJtNZn1LTvYEOGLMgGrHjnf_BCODPXkbvbaC7WxaUJ9_FIwQoTkveJjh6EfiY8W3ww==",
+      "publicado_em": "2026-09-15T14:33:47.875165+00:00",
+      "dry_run": false
     }
   ]
 }
