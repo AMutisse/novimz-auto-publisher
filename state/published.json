@@ -1694,6 +1694,77 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaaQkz7HiO7YXpAzI9-fBr-0Nwy2NLXlBZMBlVfL5qovsMGVxS2DEPWEax177nt5yl7eVG6pHBeqUwxZrcn0NvH5Hdza9woaTs664o7rdgnIC3yFqsVYivTQy-X2Ohys-WS8najpKgcB2NmKInMnzx0TuGbSE19EV9ZN7WEvuJqZS6AwKHe4uzv-TRD_OktBU619X_OtejSDolTpJsr0OQhPWMBTFsMnKgRVmlfU2cA4D4MXfkHzVepheq10bQ55W_AwdCxs=",
       "publicado_em": "2026-09-15T16:26:01.926132+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Economistas fazem ‘raio-x’ às negociações entre Moçambique e FMI - SAPO",
+      "titulo_post": "Moçambique e FMI: Análise aos Rumos da Economia Nacional",
+      "slug": "mocambique-e-fmi-analise-aos-rumos-da-economia-nacional",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T18:17:52.646050+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "MultiChoice e LALIGA firmam acordo histórico para combater a pirataria desportiva",
+      "titulo_post": "MultiChoice e LALIGA Unem Forças Contra Pirataria Desportiva",
+      "slug": "multichoice-e-laliga-unem-forcas-contra-pirataria-desportiva",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-15T18:19:11.242334+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "A ministra moçambicana pede acesso a documentos militares portugueses durante a colonização - RFI",
+      "titulo_post": "Mocambique Pede Acesso a Arquivos Coloniais em Portugal",
+      "slug": "mocambique-pede-acesso-a-arquivos-coloniais-em-portugal",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T18:21:32.511118+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "“Desliga a Tela e Vamos Brincar” procura parceiros para expandir jogos tradicionais moçambicanos",
+      "titulo_post": "Jogos Tradicionais Moçambicanos: Projecto Cultural Procura Parcerias",
+      "slug": "jogos-tradicionais-mocambicanos-projecto-cultural-procura-parcerias",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-15T18:22:38.519024+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'É um tapa na cara das mulheres': as fortes críticas de atletas de elite ao polêmico anúncio de Sydney Sweeney para casa de apostas",
+      "titulo_post": "Anúncio de Apostas com Sydney Sweeney Gera Revolta no Desporto",
+      "slug": "anuncio-de-apostas-com-sydney-sweeney-gera-revolta-no-desporto",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-15T18:23:47.823296+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Partido Anamola exige investigação ao alegado assassínio de mais um membro - RFI",
+      "titulo_post": "Partido Anamola Exige Inquérito Rigoroso e Esclarecimentos",
+      "slug": "partido-anamola-exige-inquerito-rigoroso-e-esclarecimentos",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-15T18:24:46.098274+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique e Portugal Vão Partilhar Arquivos da Luta de Libertação",
+      "titulo_post": "Moçambique e Portugal Vão Partilhar Arquivos da Luta de Libertação",
+      "slug": "mocambique-e-portugal-vao-partilhar-arquivos-da-luta-de-libertacao",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_3OYd3DDPv6EJr2OcZ8Hs4uwvO9V2wVwj3fjvav-gskKuyjio__tztpaFaPquOjqKkpvzL8f2tTo3G-KMzNpNgOnG8eOnue45UBjYjA4Gtut7s5A62XZjH2hAgQ==",
+      "publicado_em": "2026-09-15T18:26:52.318479+00:00",
+      "dry_run": false
     }
   ]
 }
