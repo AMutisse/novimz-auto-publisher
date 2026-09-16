@@ -2762,6 +2762,70 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuFolaggZ1KVDAoXGmIlYIDYTOruO8EH9UMav9Xtah_U1aTH1dBdeudWwLSh4KnSn64v6b8GDwEvN_4S2zdC3nYItUX1_RySYeLd3aqNYcdv0EENh8LfAvVb5HOO9CzN-cPc08JQUYQPYT9UtT75faK4V60lnLkDY4K-ltOi2rRBHExsTvQlGp4Lm2cVxe8V86xybRHJ1JYMj0SNdnPJiJrsOoTbf-2A0k-TjBDt2hjtPYT-XdMOI4n_Qa10uqDfgfE0-yDgwhfHx0QlZ5gFisxSdMmbKde-dM0vR18CIgEgTJX8dLHsbxmB0A_J3GWB6QIVihACIsHYSwbyippaVKZ3N4K4F40tQpgxNeBXeJaDOFv0BBv2ylAw==",
       "publicado_em": "2026-09-16T20:35:31.415387+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique e Reino Unido reforçam cooperação ambiental e apoio às comunidades - Checka Moz",
+      "titulo_post": "Moçambique e Reino Unido Unem Forças na Protecção Ambiental",
+      "slug": "mocambique-e-reino-unido-unem-forcas-na-proteccao-ambiental",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T22:15:25.003466+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os argumentos do governo Trump para acusar Brasil de 'falhar' no combate ao Comando Vermelho e PCC",
+      "titulo_post": "Relatório dos EUA Aponta Falhas no Combate ao Narcotráfico",
+      "slug": "relatorio-dos-eua-aponta-falhas-no-combate-ao-narcotrafico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T22:15:57.182006+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: O Papel dos Serviços Amigáveis para Jovens",
+      "titulo_post": "HIV em Moçambique: O Papel dos Serviços Amigáveis para Jovens",
+      "slug": "hiv-em-mocambique-o-papel-dos-servicos-amigaveis-para-jovens",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDD16e2FMICE6BSpUQTu9nIw7QOoxeC3FpkKVa3iP7TzQCiCaxPEWFAOWVTwm4uaSbWNkheyjXozpKGbpWg0T_POdXl9xlKlbEJOx-Fzt8jeHiw-ABKDttXJrc8PLNQnVcpnwmjZbOOw==",
+      "publicado_em": "2026-09-16T22:18:07.914880+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Aleitamento Materno Exclusivo em Moçambique: Cuidados e Avanços",
+      "titulo_post": "Aleitamento Materno Exclusivo em Moçambique: Cuidados e Avanços",
+      "slug": "aleitamento-materno-exclusivo-em-mocambique-cuidados-e-avancos",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFExAmn4_xm3bfUgFGhaCPPOILmChzBsxMciIOFNN6SwCEkye5yJLVWWFUuWUXpJJTI_oxqw0IH-rr79uqYldCUxjD6JefzIMbHQqTHoMpoJYUdG1vA96ueZNK9VFPSgYhTOlwrvejb1DwPwg==",
+      "publicado_em": "2026-09-16T22:19:01.400225+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "MIT Cria IA que Transforma Raios-X em Navegação Cirúrgica 3D",
+      "titulo_post": "MIT Cria IA que Transforma Raios-X em Navegação Cirúrgica 3D",
+      "slug": "mit-cria-ia-que-transforma-raios-x-em-navegacao-cirurgica-3d",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP158cySttCgFaO-yJCMfgqgmGdI9sEJgMsFadK2Szm88N_vGcygtuEchaBhxbqmvcOmxdPn0HqmKkLbUCcTSQozBN8DLlpRIWr1ogZx7fFkRB4QspqsNU9S5uIGOfdFusUIHAzq0z1uE=",
+      "publicado_em": "2026-09-16T22:19:54.269730+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Criada Primeira Vacina Sintética de Febre-Amarela",
+      "titulo_post": "Biotecnologia: Criada Primeira Vacina Sintética de Febre-Amarela",
+      "slug": "biotecnologia-criada-primeira-vacina-sintetica-de-febre-amarela",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVSYJ3Cxv-SwJmycrYC07WPshD1W2t4uLoaeONXS6CDQSsZpAeuZb3OCkDUtyxXIGzdRcX_Wa0L6XOwduwpqReT9AgguSjR4mEUGUzLoVWqrOy69khQk6bJHW7c-jIs3f7336CIszxE7vcYNHuUUG9ZNuAwdYZ2pZqjXxsW01pxzJVe3BIMHV17eUenM7ripod3sV7MVeddz49uBHe",
+      "publicado_em": "2026-09-16T22:20:44.874175+00:00",
+      "dry_run": false
     }
   ]
 }
