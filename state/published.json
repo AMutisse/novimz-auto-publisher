@@ -1909,6 +1909,58 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6kM_ycJFrqtA9z0stPspaZjbBGIiTqtIsK0O8vu1Aln_Ab3l6DqCscw-si5h3Jz4O6WIXuqQqP1fEix-75i98FT64U2Gkyue6eBnJsyrOanaEA==",
       "publicado_em": "2026-09-16T00:25:08.566955+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Banco Mundial apoia projecto de turismo focado no sector privado em Moçambique - Правда.Ру",
+      "titulo_post": "Banco Mundial Impulsiona Turismo e Sector Privado em Moçambique",
+      "slug": "banco-mundial-impulsiona-turismo-e-sector-privado-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T02:15:55.294399+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "STF não decide sobre Alexandre Moraes e Mendonça e crise se prolonga",
+      "titulo_post": "Impasse no STF: tensões entre magistrados adiam desfecho",
+      "slug": "impasse-no-stf-tensoes-entre-magistrados-adiam-desfecho",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T02:16:13.878231+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Cármen Lúcia diz que crise no STF causa 'mal-estar cívico' no país",
+      "titulo_post": "Crise Institucional no Supremo Alerta para Mal-Estar Cívico",
+      "slug": "crise-institucional-no-supremo-alerta-para-mal-estar-civico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T02:16:39.525682+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Economia Azul: Moçambique Recebe 9,3 Milhões do Reino Unido",
+      "titulo_post": "Economia Azul: Moçambique Recebe 9,3 Milhões do Reino Unido",
+      "slug": "economia-azul-mocambique-recebe-9-3-milhoes-do-reino-unido",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTf4N6Fa4NSZ1Ekh6EHsE4QG9q8lz4CgQTJKEtHxaeeFkMgAuySzjg6f7jG4AKj_w0st4N9unCUFy2nC8FbDxCy9dhbAh0w51gF19cU5Yt21tEsgNFtO1Qst0zsoHqCarjio9ktP_q1HXbhpkRBkVKuEcLdNhzUzQzZBe8dUBdCh4vW5u-AR5NZmZ-z508PlK9DCAOKUlpMbcxaRBbrWzDJA==",
+      "publicado_em": "2026-09-16T02:17:36.436150+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "OpenAI e Samsung Criam Chips Próprios de IA Para o Projeto Stargate",
+      "titulo_post": "OpenAI e Samsung Criam Chips Próprios de IA Para o Projeto Stargate",
+      "slug": "openai-e-samsung-criam-chips-proprios-de-ia-para-o-projeto-stargate",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX1MAdHJj4jigsN6PTwv0cBHKhz4zqszb8VINhzNKjjQXdZREdvY4Y56lGwWjYs3iQcrzL27MMyWdawav-6RcxsXu6ERPdmCjSxkS-g1LpQ8TsrQeBD5NmFzIy3G3OLdaOEj-dgjKTcwzRaF0IaFHje36rwuCcldVqU32OBrOum1bt3ZjMludGNubdMZVQa6f755RrP5rMxgBb",
+      "publicado_em": "2026-09-16T02:18:16.427498+00:00",
+      "dry_run": false
     }
   ]
 }
