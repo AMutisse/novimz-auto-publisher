@@ -1867,6 +1867,48 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDmzv-LnFQhQ4kDDysMvqPZSkHJPxFuFh6Mpb0gxmpOp6Jv7wV729P4D157DU0C5cRnBmvDDLzSSu-zgVBpKPqpTXTiP_zzKRjXxWfSgSYml7wPEEm6GQaMwiNont001SXc6EtP1VVP-gMMzQ=",
       "publicado_em": "2026-09-15T22:20:36.841180+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC",
+      "titulo_post": "Justiça e Imparcialidade: As Regras de Impedimento no STF",
+      "slug": "justica-e-imparcialidade-as-regras-de-impedimento-no-stf",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T00:21:41.349100+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O que é pedido de vista e o que acontece agora no caso Alexandre de Moraes?",
+      "titulo_post": "Pedido de Vista no STF: O Que Significa e Como Funciona",
+      "slug": "pedido-de-vista-no-stf-o-que-significa-e-como-funciona",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T00:22:22.622377+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Malvinas: Reino Unido Rejeita Ameaça da Argentina a Petroleiras",
+      "titulo_post": "Malvinas: Reino Unido Rejeita Ameaça da Argentina a Petroleiras",
+      "slug": "malvinas-reino-unido-rejeita-ameaca-da-argentina-a-petroleiras",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLF5xNbpTqyDGcVok9vi8xvy4GXTe4IU0WoRo4_hpHt2Ta1x8ZG2zDRwlqSxSo_bu6o3qA-ibkVF1HU88u4IBO59QyNb0pOMMem6i2sSzjznU3ocdcYiVvLwG_FwhunpRjwYTh8dQdUmhK_cREININOtdRhFdW13bE2Vq5H9VFGO95NQKSWENTI_3h9ngAkIZmpKZ6k2Qz6Gkeh8ea8XF1ePZB1mzuxc6DHqK6A13OIM1MDx8qz0Ye6Ua9w7xGT_pptg9UqzMfrpAXVkysG9MW",
+      "publicado_em": "2026-09-16T00:23:53.067444+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil: Aliança Nacional Protege Mães e Bebés",
+      "titulo_post": "Saúde Materno-Infantil: Aliança Nacional Protege Mães e Bebés",
+      "slug": "saude-materno-infantil-alianca-nacional-protege-maes-e-bebes",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6kM_ycJFrqtA9z0stPspaZjbBGIiTqtIsK0O8vu1Aln_Ab3l6DqCscw-si5h3Jz4O6WIXuqQqP1fEix-75i98FT64U2Gkyue6eBnJsyrOanaEA==",
+      "publicado_em": "2026-09-16T00:25:08.566955+00:00",
+      "dry_run": false
     }
   ]
 }
