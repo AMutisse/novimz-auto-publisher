@@ -2678,6 +2678,90 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH52JAgWMiW_7QYuLxqhZMxfZWyKZ0DuAwcyjRdpjRIBk13qFEX2lPU5KNXi9OPUClsqq927D_T-BreBsfn7aiL46JMlImA1QjyFMtK2UW3ipahG3eVrWbbJoEif-QTKhcFhx3eO0znu1Jc2Hdt2vBm6A==",
       "publicado_em": "2026-09-16T18:32:13.561555+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "titulo_post": "STF: Por Que Julgamento de Impacto Pode Ficar Para 2027",
+      "slug": "stf-por-que-julgamento-de-impacto-pode-ficar-para-2027",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T20:17:32.844136+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "IF Sudeste MG inicia 4º Programa de Formação de Professores de Moçambique - IF Sudeste MG",
+      "titulo_post": "Formação de Professores Moçambicanos Ganha Novo Fôlego",
+      "slug": "formacao-de-professores-mocambicanos-ganha-novo-folego",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T20:18:41.645878+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como a fama de bom moço da música contribuiu para a maior crise da carreira de Ed Sheeran",
+      "titulo_post": "Ed Sheeran e o Dilema da Neutralidade na Indústria Musical",
+      "slug": "ed-sheeran-e-o-dilema-da-neutralidade-na-industria-musical",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-16T20:19:43.737495+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "STF adia julgamento do caso Moraes; veja como foi a sessão e o resultado da votação",
+      "titulo_post": "STF Adia Julgamento Crucial e Amplia Tensao Institucional",
+      "slug": "stf-adia-julgamento-crucial-e-amplia-tensao-institucional",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T20:21:05.262231+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Privatização da Tmcel Avança com Base de 1,8 Milhões de Clientes",
+      "titulo_post": "Privatização da Tmcel Avança com Base de 1,8 Milhões de Clientes",
+      "slug": "privatizacao-da-tmcel-avanca-com-base-de-1-8-milhoes-de-clientes",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3ZXURuweLbXtABQ3wvOOMs1jPx3XD6uuh4zaU_fcIDhzYCtw1YcMsNMRrj_crjusbcqpCiXS37WM-btxr8DYTBlXKMKCBgzTmYX3Qt6n-fX-p0PAZ0ugLOHtivi79EGjuaEikA0cf5_xWCfa3QiIyimJvnnR4CfDJht7FwC-DcLUFSlXaQ9QIKZxMWujQIk6QAZBa2ohthyLgtLyFAYyQkg==",
+      "publicado_em": "2026-09-16T20:22:45.195953+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Novo Nordisk e Anthropic Unem IA Para Criar Novos Remédios",
+      "titulo_post": "Novo Nordisk e Anthropic Unem IA Para Criar Novos Remédios",
+      "slug": "novo-nordisk-e-anthropic-unem-ia-para-criar-novos-remedios",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOYuUE9RohpZparGaY8ClVRK2GeTGiskzbLOT6OmpVSxrmZPkzUhH9MJCJN1KdtxqJ1EXYemkrACahbIuGU4y3SwHp_gRvm0PYwNIDhUY3OBltAA_u0Gsa7xPzR-5iV-WxYApdV7VbF2QGecFxvmI1OzyReN-MY489TeIpD-beH_b",
+      "publicado_em": "2026-09-16T20:25:24.353291+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Autoteste de HIV em Moçambique: Como Funciona e Cuidados",
+      "titulo_post": "Autoteste de HIV em Moçambique: Como Funciona e Cuidados",
+      "slug": "autoteste-de-hiv-em-mocambique-como-funciona-e-cuidados",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX1SJvAzwf2fwMpO4xWlPY4F2_-oxF5LzPwM2wx0TM6RksN0tUpXrpRuNkNBZnWExMp9P7J3zVCow5IkSBkgAdETRHjEQahKVV326lCLcMmdBi80GKwvw=",
+      "publicado_em": "2026-09-16T20:28:32.531931+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Hubble Descobre Decágono Gigante no Polo Sul de Saturno",
+      "titulo_post": "Hubble Descobre Decágono Gigante no Polo Sul de Saturno",
+      "slug": "hubble-descobre-decagono-gigante-no-polo-sul-de-saturno",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuFolaggZ1KVDAoXGmIlYIDYTOruO8EH9UMav9Xtah_U1aTH1dBdeudWwLSh4KnSn64v6b8GDwEvN_4S2zdC3nYItUX1_RySYeLd3aqNYcdv0EENh8LfAvVb5HOO9CzN-cPc08JQUYQPYT9UtT75faK4V60lnLkDY4K-ltOi2rRBHExsTvQlGp4Lm2cVxe8V86xybRHJ1JYMj0SNdnPJiJrsOoTbf-2A0k-TjBDt2hjtPYT-XdMOI4n_Qa10uqDfgfE0-yDgwhfHx0QlZ5gFisxSdMmbKde-dM0vR18CIgEgTJX8dLHsbxmB0A_J3GWB6QIVihACIsHYSwbyippaVKZ3N4K4F40tQpgxNeBXeJaDOFv0BBv2ylAw==",
+      "publicado_em": "2026-09-16T20:35:31.415387+00:00",
+      "dry_run": false
     }
   ]
 }
