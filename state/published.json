@@ -1961,6 +1961,39 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX1MAdHJj4jigsN6PTwv0cBHKhz4zqszb8VINhzNKjjQXdZREdvY4Y56lGwWjYs3iQcrzL27MMyWdawav-6RcxsXu6ERPdmCjSxkS-g1LpQ8TsrQeBD5NmFzIy3G3OLdaOEj-dgjKTcwzRaF0IaFHje36rwuCcldVqU32OBrOum1bt3ZjMludGNubdMZVQa6f755RrP5rMxgBb",
       "publicado_em": "2026-09-16T02:18:16.427498+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Prioriza Água Potável no Norte com Novos Sistemas",
+      "titulo_post": "Moçambique Prioriza Água Potável no Norte com Novos Sistemas",
+      "slug": "mocambique-prioriza-agua-potavel-no-norte-com-novos-sistemas",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO3iSgmMGetXe_DnfNBf_ByQ6Wd-PGiDMKMzlaMsitvsDTd9T0SSswvwkaJ491py9i3J4AoHHmiaojhN1MzwPKJ5oGJDa40hDgt1vNM0wlqAYmul9yBU-JJpd025choYqdM_Mchg0KwzVk1lIYnTXigo0cnoIhKcu2CfvTC5InftT4k80QA1MpXzqswH7w5_OfrmGCE-pQLgNiOInVxet-5CwF9yEng7I=",
+      "publicado_em": "2026-09-16T04:16:53.022708+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Otan Abate Drone na Lituânia e Tensão com a Rússia Sobe no Báltico",
+      "titulo_post": "Otan Abate Drone na Lituânia e Tensão com a Rússia Sobe no Báltico",
+      "slug": "otan-abate-drone-na-lituania-e-tensao-com-a-russia-sobe-no-baltico",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7P0iVmJYhmjgjV2WL2rjqCJONw9aXWzFieqDbcIkfbJWGxUytJSk-xupvglVN9_Tbatcj_uXgQMeHyZjgUfUAdpmOJMYRJ_WPlym7jwctQSODJYV26IIoAcJ6qM0rD29It6a2kQ_Qkv3jcI3BEpA3r6DE85LIhmF1KlWijcW3zUMxg318a9IBcxKqovaxqNJHe8MQwkb-OwoWPNXB0ichaQU7GLf8b9V20toUPtC9lK2kBKcThhRw-lGAsUFmEUMvHqFHgA1bn48sj4iU0Z5gPJoYFqSDQazHr77IA8PMloLEy0r2BIG1OnzCVzmqGfb81-ot5Z3dzc00O_JW3CUgq9UX0WIgoDbn4J9iXszIXB03bWwCTQwFCk98z6CeP0epSv2DYg==",
+      "publicado_em": "2026-09-16T04:18:02.445560+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Hipertensão em Moçambique: Como Prevenir o Inimigo Silencioso",
+      "titulo_post": "Hipertensão em Moçambique: Como Prevenir o Inimigo Silencioso",
+      "slug": "hipertensao-em-mocambique-como-prevenir-o-inimigo-silencioso",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF1yUFG2tcHe8DUzO9i9U9Bx5aTaLj0201h2tOff556wTsfORyaTmnUQy_fKUHUC9-derAlKYV4TSl8sBnpkZIkF_hI6I9KS-Plc8edOvGOC35ionpEQA=",
+      "publicado_em": "2026-09-16T04:19:29.531558+00:00",
+      "dry_run": false
     }
   ]
 }
