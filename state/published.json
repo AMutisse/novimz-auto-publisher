@@ -2250,6 +2250,100 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxVGN8C034avvRgNCA6ka5L5jfzTv7WPcARZOE8-GzydnOI-NDAMzZ0Z6eY__o2zAsNRQiY_v1BE_eDumgcnyroOAgjsWbjzfdUz04bm38SI7ctYLnEmX-yGUopjpU9xJb",
       "publicado_em": "2026-09-16T08:23:50.287175+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "ENH quer vender 70% da ENH-Kogas por mais de 800 milhões de meticais",
+      "titulo_post": "ENH Abre Concurso para Vender 70% da ENH-Kogas por 800 Milhões",
+      "slug": "enh-abre-concurso-para-vender-70-da-enh-kogas-por-800-milhoes",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T10:17:40.294655+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Quem venceu primeiro embate da batalha entre Moraes e Mendonça no STF? O que dizem os analistas",
+      "titulo_post": "Tensao no STF: O Impacto dos Impasses Entre Ministros",
+      "slug": "tensao-no-stf-o-impacto-dos-impasses-entre-ministros",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T10:18:02.323222+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Conferência nutricional em Moçambique defende sistema alimentar inclusivo - sapo.pt",
+      "titulo_post": "Nutrição em Moçambique: Apelo por Sistema Alimentar Inclusivo",
+      "slug": "nutricao-em-mocambique-apelo-por-sistema-alimentar-inclusivo",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T10:18:27.615608+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "EDM avisa sobre cortes programados de energia em Gaza e Inhambane nesta quarta e quinta-feira",
+      "titulo_post": "Cortes de Energia em Gaza e Inhambane: EDM Reforça Manutenção",
+      "slug": "cortes-de-energia-em-gaza-e-inhambane-edm-reforca-manutencao",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T10:18:51.775937+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como foi o papel de cada ministro em sessão tensa e inédita no STF",
+      "titulo_post": "Tensões no STF Revelam Clima Inédito na Justiça Brasileira",
+      "slug": "tensoes-no-stf-revelam-clima-inedito-na-justica-brasileira",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T10:19:12.313379+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Mais de 240 Mil Pessoas Iniciam Tratamento",
+      "titulo_post": "HIV em Moçambique: Mais de 240 Mil Pessoas Iniciam Tratamento",
+      "slug": "hiv-em-mocambique-mais-de-240-mil-pessoas-iniciam-tratamento",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWAo6Ob2I-AwPVRVsgB1AD9N-mm8NqXmwtmTP8njhHgIVl7Dswecf2EPkYDoANronvJj7eGUCvisWt2fkj-XXeGFUMr8I0UINKs2R2cFw9ukB3pdgzeNZNFYCxr4KpBXt4muvxTUIcPMxzQCUj46U6MtgohiQFHUMqtW1QcRIaT2fxd00hP4e-wAZlinEnVW9N_TFU3OJs3IfCKtu5yaU6KbkkMo94QPSW1h22WG61GxKkLUlPSBfydJiAolW-20J46BaPsALyOGJgZqG7d1d",
+      "publicado_em": "2026-09-16T10:22:30.425698+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Método Mãe Canguru: Cuidados com Bebés Prematuros em Moçambique",
+      "titulo_post": "Método Mãe Canguru: Cuidados com Bebés Prematuros em Moçambique",
+      "slug": "metodo-mae-canguru-cuidados-bebes-prematuros-mocambique",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJO1tA9AL3wWup7fezKzYN3MAsS9lK432IiYZDCl99hQGlMtzyNnnPhCBekd9gd_UqC7AgtPRiNntlXTzwnuyJgMm0SN95Plt7Ljh1UsivPlpS1Y_27TOhdVv2A1bHlwgnxDrwcWl5Oir0cCWDjLCAAFzbwGviK_ZDCZWApFefoEW-h0yDN8h8fp-gbRCuz7KgSxj4s480jqko_z6mC4S2AgrFX-c=",
+      "publicado_em": "2026-09-16T10:23:05.717562+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Telescópio Roman da NASA Ganha Combustível para Operar por 22 Anos",
+      "titulo_post": "Telescópio Roman da NASA Ganha Combustível para Operar por 22 Anos",
+      "slug": "telescopio-roman-nasa-combustivel-22-anos",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqvRR85jCopb5t4tGqFJoj5yGN1U8trcrcWRhHE1HYbyOmjUDAQiTiGb_s6ZdgpVIY4gy2jTsUncvTz_Sna0vNdcddjmp2ECC3-iAwnYmZp4JBYm1cTCcr_qQN4yLrTwoODFBki1ScnQjE1GfARqp7uKTr7ya3XZFHmBGLZ3oTeT1-c-2dfsmUn3XBslfGNosAFMqPba6Pb1_bSnaJponyMEkjGet4rrhJpfo9OD6XDVEwu2k7JEE=",
+      "publicado_em": "2026-09-16T10:24:02.352583+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Cientistas Criam FanzMAX: Nova Ferramenta Supera Limites do CRISPR",
+      "titulo_post": "Cientistas Criam FanzMAX: Nova Ferramenta Supera Limites do CRISPR",
+      "slug": "cientistas-criam-fanzmax-nova-ferramenta-supera-limites-do-crispr",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyc4lDSUECabvIl_gMqa6UniXsifkAENUrbBrZmIG_Q8w0S4yhclH6_Q5NdXrvQeKRu5JD2-6fkRhqsWkPzosnvrAyymnfbLB3Xl87XBbediz64IVjuLRFgcDhVjkMr0yZWAUZAwMQeFFr20bzg8U2KqGUEfaeho_regn617LjzZK6MZQ2bC_dLPL3qrjDH6eISunQxVZtvoMrhZ0=",
+      "publicado_em": "2026-09-16T10:24:31.451571+00:00",
+      "dry_run": false
     }
   ]
 }
