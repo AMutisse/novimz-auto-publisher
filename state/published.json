@@ -2157,6 +2157,99 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Z1lu2oZ-WcOWn10SAEIgjmAjEBNyAecWvi9wNEiz2c2RkOcrLAonp98iamDYdCR_Dz55JksPLejDM046A5fRn2hDwOzUpUNIvNk6SUc9DVCJmDaSC88AoytSoEj34BL9r9ciJ_dRC69CB_7o-4dXskpW1cDT8REsRrD7m7__v2_2_NH5mej4D2juXoT7YkCobhVl0ohwnMEXGMPIG2PxS-Uvr32hdTF74zgLQfCI6w==",
       "publicado_em": "2026-09-16T06:27:02.766354+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique colocou mais de 68,6 milhões de euros em Obrigações do Tesouro em setembro - Jornal Económico",
+      "titulo_post": "Moçambique Capta Mais de 68 Milhões em Obrigações do Tesouro",
+      "slug": "mocambique-capta-mais-de-68-milhoes-em-obrigacoes-do-tesouro",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T08:17:02.311654+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo aprova financiamento e constituição da ENH Coral Norte para o Projecto Coral Norte FLNG",
+      "titulo_post": "Coral Norte FLNG: Governo Dá Luz Verde à Nova Empresa da ENH",
+      "slug": "coral-norte-flng-governo-da-luz-verde-a-nova-empresa-da-enh",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T08:17:19.606651+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como Flávio Dino 'sequestrou o debate' em sessão do Supremo que acabou sem decisão",
+      "titulo_post": "Tensões no Supremo Tribunal Federal Adiam Decisão Crucial no Brasil",
+      "slug": "tensoes-no-supremo-tribunal-federal-adiam-decisao-crucial-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T08:17:41.403909+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Osvaldo Nelson aproxima-se do Moçambola após conquistar título nacional de juniores",
+      "titulo_post": "Osvaldo Nelson a Caminho do Moçambola Após Brilhar nos Juniores",
+      "slug": "osvaldo-nelson-a-caminho-do-mocambola-apos-brilhar-nos-juniores",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-16T08:18:27.692576+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique aprova plano contra impactos do El Niño. Saiba o que muda na água, agricultura e saúde - Plataforma Media",
+      "titulo_post": "El Niño em Moçambique: Conheça o Plano para Proteger a População",
+      "slug": "el-nino-em-mocambique-plano-para-proteger-a-populacao",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T08:18:50.046771+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Ministro Inocêncio Impissa lança novo manual de direito da função pública",
+      "titulo_post": "Novo Manual de Direito Fortalece a Função Pública em Moçambique",
+      "slug": "novo-manual-de-direito-fortalece-a-funcao-publica-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T08:19:37.286156+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Quer Estender Segurança Social ao Sector Informal",
+      "titulo_post": "Moçambique Quer Estender Segurança Social ao Sector Informal",
+      "slug": "mocambique-quer-estender-seguranca-social-ao-sector-informal",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9ALIdX8PYyOhCIdKEASwHsuacquZTJTcAeMfSzDagVmPSyP9PLm1yx47rYEHkUDDSC4IzJwu84NfKci8l9ljkWQ54WZy_Sf1KhQzSR4MrY0SZ5R3DeOKo3aWR-xmqbSTcBvhMtCFu1tZ98GWrDbv-y7SlGj5cn-OvcLxtyFuPSM5VjxCh20YJcIA1vIJZOMo2fy0m0TcKGmaUlPh5SPDgT9eZcGkSr7x",
+      "publicado_em": "2026-09-16T08:20:18.116716+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Aposta na Produção Local Para Superar Falta de Divisas",
+      "titulo_post": "Moçambique Aposta na Produção Local Para Superar Falta de Divisas",
+      "slug": "mocambique-aposta-na-producao-local-para-superar-falta-de-divisas",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdcFROEmaZcOvHnmHt01mupgujD9ytOYGk-eSva0A9A9s1lqU2asnA6voI0I9QR_Ad3uByovhapqooYiajpHlzNa-S9K1jXOSQxF2cTdK6WEYEN7Z3wHLp0osGlxiJQQ6_0AvObreT8PEGlKE9aXiHZTAN-kyk5FbNP8yoT3_7MYwPu2Fyr4Jone9vVqphA5DBPR-QU-1i-S-6EOHAHZY_j3zceI0qmNEHlQ2IZumsx1PS",
+      "publicado_em": "2026-09-16T08:20:45.456950+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "James Webb e Hubble Revelam 27 Novos Mundos no Confim Solar",
+      "titulo_post": "James Webb e Hubble Revelam 27 Novos Mundos no Confim Solar",
+      "slug": "james-webb-e-hubble-revelam-27-novos-mundos-no-confim-solar",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxVGN8C034avvRgNCA6ka5L5jfzTv7WPcARZOE8-GzydnOI-NDAMzZ0Z6eY__o2zAsNRQiY_v1BE_eDumgcnyroOAgjsWbjzfdUz04bm38SI7ctYLnEmX-yGUopjpU9xJb",
+      "publicado_em": "2026-09-16T08:23:50.287175+00:00",
+      "dry_run": false
     }
   ]
 }
