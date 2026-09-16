@@ -1994,6 +1994,28 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF1yUFG2tcHe8DUzO9i9U9Bx5aTaLj0201h2tOff556wTsfORyaTmnUQy_fKUHUC9-derAlKYV4TSl8sBnpkZIkF_hI6I9KS-Plc8edOvGOC35ionpEQA=",
       "publicado_em": "2026-09-16T04:19:29.531558+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Fungos Criam Materiais de Construção Capazes de se Regenerar",
+      "titulo_post": "Fungos Criam Materiais de Construção Capazes de se Regenerar",
+      "slug": "fungos-criam-materiais-de-construcao-capazes-de-se-regenerar",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESKnj9xzGYrC_N7sGLHX4zKH3jG_0z0SJqgCadUSYBiXBbSA_2nmvhPsDKJlYvdWn7wOPRO5PGPTJM5Sgjw0Lfhoqk0pjhFMCqkoj078aloef4QQeX4glGe1-JlO_7OQ8NZtsEv-FVutK-M2F3HoFRiQj4PxORLya7uWn-Du_qi8zrZhZfRcILoUEMAkBvGQWD_zN0ugNoi1U1Tnr56g==",
+      "publicado_em": "2026-09-16T04:56:53.077972+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Tripla Eliminação na Gravidez: Cuidados Essenciais em Moçambique",
+      "titulo_post": "Tripla Eliminação na Gravidez: Cuidados Essenciais em Moçambique",
+      "slug": "tripla-eliminacao-na-gravidez-cuidados-essenciais-em-mocambique",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0uEibQ2zlXyBZ9uugAyZo1hrHT4lXpVr8iSrH4lrFiE5jV6ebVHuxMlyWFS2qrffAGwOJ3cyqOX0k2-Yj8AoQB6YwFu38j6WuRlVmD7FVcvQHiEG-fCzKQxdzdPWLybUSh3-TO7G4ES4wdvQ=",
+      "publicado_em": "2026-09-16T04:57:51.320683+00:00",
+      "dry_run": true
     }
   ]
 }
