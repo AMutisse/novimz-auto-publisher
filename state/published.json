@@ -2016,6 +2016,61 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0uEibQ2zlXyBZ9uugAyZo1hrHT4lXpVr8iSrH4lrFiE5jV6ebVHuxMlyWFS2qrffAGwOJ3cyqOX0k2-Yj8AoQB6YwFu38j6WuRlVmD7FVcvQHiEG-fCzKQxdzdPWLybUSh3-TO7G4ES4wdvQ=",
       "publicado_em": "2026-09-16T04:57:51.320683+00:00",
       "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "EUA Aplicam Restrições de Vistos Contra a África do Sul",
+      "titulo_post": "EUA Aplicam Restrições de Vistos Contra a África do Sul",
+      "slug": "eua-aplicam-restricoes-de-vistos-contra-a-africa-do-sul",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVmj9UU_ZITZC7PE-YOJXdK06O6gHc1blc4_WLMFniW8rcIjfYnLGbHTDAY4uE0ZVoIXxj-gwu78JR-WcAQnYE20PsErHDm8Cf8P94Sl9vhpQTXhw9j1k=",
+      "publicado_em": "2026-09-16T05:09:48.926526+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: O Progresso Rumo às Metas 95-95-95",
+      "titulo_post": "HIV em Moçambique: O Progresso Rumo às Metas 95-95-95",
+      "slug": "hiv-em-mocambique-o-progresso-rumo-as-metas-95-95-95",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwOCCXyo0bu1ZGIp-xMBpUim318MEtr_YMsWMJ0weK1hMkvbmgPe8DYr4xOuIqAyJpEyUF3fCclXTDtxbwxTfW2P3wj5-Ip-38Q2xyuZhN_4qgZN2D_rHXD2e6KLVNJnHD2p3kjvJGKs2yrEEBqs5VK2i61V6QCcIiSOy3TbfXsPZ38K2y-MFLfCeV9UlkQ40Wr-bbJ_x8nDtLCfcFPpcZ6t7NdPYXgw==",
+      "publicado_em": "2026-09-16T05:10:45.429479+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Vacinação Infantil em Moçambique: Como Actualizar as Doses em Falta",
+      "titulo_post": "Vacinação Infantil em Moçambique: Como Actualizar as Doses em Falta",
+      "slug": "vacinacao-infantil-em-mocambique-como-actualizar-as-doses-em-falta",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGdAhMIX4BiCN_RqG1Jr5U9O30SLw0k83ZpPTP1_QoVwsyQqzEQkpmELWAL6cKxPNYEjdUKCBqnGmRnX-Qzx-AC-feSKP6jthVCtALAq76gj_ZHRKm1-nuegtanKe5OdhqfA7FVRdVZCe1dADxSuKAv-4WyKHzPegdgo-zy5NQdDusKxlFkcuYQ5OV",
+      "publicado_em": "2026-09-16T05:11:23.985819+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Impacto do Clima na Saúde em Moçambique: Como se Proteger",
+      "titulo_post": "Impacto do Clima na Saúde em Moçambique: Como se Proteger",
+      "slug": "impacto-do-clima-na-saude-em-mocambique-como-se-proteger",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCgOyPYle9mnHQAeHJUKhqaO0HqM7goOURx7oDc5n_aMOqh6gdF5W0LemBPyUzBrUszpx8A2tFc7chCtrQBkPt9RrbGcII9DUAp58IXO1r8qDjyDDhBXHorS8DkAzDLMhJWTLIi6z-0SNfZdjwSGBm_atPR7C1N183OP-INt9AmaCYhHGkoH_7Ex1kzhJQ5MdeSOqN7Vky9R10xb13HpEacQNNOBq9HRA=",
+      "publicado_em": "2026-09-16T05:12:04.826025+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Exploração Espacial: China Criará Rede de Satélites Entre Terra e Lua",
+      "titulo_post": "Exploração Espacial: China Criará Rede de Satélites Entre Terra e Lua",
+      "slug": "exploracao-espacial-china-criara-rede-de-satelites-entre-terra-e-lua",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpO0KknaSnUTJmzHhFiVpaqif_6mRRf5QFEGCRSCIS8WV5vbmlx6hZTix3slQ5hUuPXmssDsSrrxLO0R3-CfC1DAILH2jH5nPGg6f3bz6rFLmYGJEBpTekPNFM46oY8u8UDuKJPUZm6EYt9LMnsjfV8YkrLP-DSPmYh9MkMo6syUXtou61Il3rvMft244hK5043mGu4leJsDOt",
+      "publicado_em": "2026-09-16T05:12:43.223640+00:00",
+      "dry_run": false
     }
   ]
 }
