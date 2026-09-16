@@ -2344,6 +2344,110 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyc4lDSUECabvIl_gMqa6UniXsifkAENUrbBrZmIG_Q8w0S4yhclH6_Q5NdXrvQeKRu5JD2-6fkRhqsWkPzosnvrAyymnfbLB3Xl87XBbediz64IVjuLRFgcDhVjkMr0yZWAUZAwMQeFFr20bzg8U2KqGUEfaeho_regn617LjzZK6MZQ2bC_dLPL3qrjDH6eISunQxVZtvoMrhZ0=",
       "publicado_em": "2026-09-16T10:24:31.451571+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique tem menos de quatro enfermeiros por 10 mil habitantes - ministro - Saúde Mais TV",
+      "titulo_post": "Moçambique Enfrenta Défice Crítico de Enfermeiros na Saúde",
+      "slug": "mocambique-enfrenta-defice-critico-de-enfermeiros-na-saude",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T12:21:07.559731+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Vítor Timóteo assume liderança da nova entidade gestora de combustíveis em Moçambique",
+      "titulo_post": "Combustíveis em Moçambique: Nova Gestão Reforça Sector Energético",
+      "slug": "combustiveis-em-mocambique-nova-gestao-reforca-sector-energetico",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T12:21:53.316075+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os bairros de SP e do Rio na lista de 'mais legais' do mundo de revista britânica",
+      "titulo_post": "Bairros de São Paulo e Rio Entre os Mais Incríveis do Mundo",
+      "slug": "bairros-de-sao-paulo-e-rio-entre-os-mais-incriveis-do-mundo",
+      "categoria_id": 9,
+      "publicado_em": "2026-09-16T12:22:24.377086+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Entram em vigor novos procedimentos para autorização de importação de cereais no país",
+      "titulo_post": "Novas Regras de Importação de Arroz e Trigo Entram em Vigor",
+      "slug": "novas-regras-de-importacao-de-arroz-e-trigo-entram-em-vigor",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T12:23:20.463218+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O empresário aliado-chave de Maduro que se declarou culpado de lavagem de dinheiro e entregará R$ 1 bi aos EUA",
+      "titulo_post": "Aliado de Maduro Admite Culpa por Lavagem de Dinheiro nos EUA",
+      "slug": "aliado-de-maduro-admite-culpa-por-lavagem-de-dinheiro-nos-eua",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T12:24:02.856556+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'",
+      "titulo_post": "Quimioterapia por 11 anos sem ter cancro gera processo histórico",
+      "slug": "quimioterapia-por-11-anos-sem-ter-cancro-gera-processo-historico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T12:24:31.369019+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Nasa e IBM Lançam IA em Código Aberto Para Explorar a Lua",
+      "titulo_post": "Nasa e IBM Lançam IA em Código Aberto Para Explorar a Lua",
+      "slug": "nasa-e-ibm-lancam-ia-em-codigo-aberto-para-explorar-a-lua",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE33AcYRITEW2dIuNCrVDU8MYsSvZ56gMPfk24DzMaqRaaWBRJDargKoKlO82adDII0Af2Zs5TVSfISKvbVKix4RO9njaHdgUagad6Cqv4EOXoQg8rs9yjaJFFY95qQ8EZbIeN_xlGLMaspDYB3xosm3G_iaMgov65LsiO9gS8GTfAVW50jb4lHe1w8f2e1rUVQDDTldFje2aI85Rho1Pdg",
+      "publicado_em": "2026-09-16T12:27:05.178544+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "OpenAI, Google e Anthropic Criam Órgão de Supervisão de IA",
+      "titulo_post": "OpenAI, Google e Anthropic Criam Órgão de Supervisão de IA",
+      "slug": "openai-google-e-anthropic-criam-orgao-de-supervisao-de-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF7jil3xHXQMJbjtacpFBCQTv7GlStDP1t0NKSLeSRww10iFifxg_qVuQUj3TQ5DL32sMMwWvi9Ny4YHLqQmpwaRE9ZXpGZj37NTveMNgpHM56WaZk6sBqUAtelZbrYo8U9QqltHKgg0_oRe57Jt6mCJpnysMlz5FDjNzegpNNw2HRtkvuXhPV4oTVhmVM7kJTmNAxPRiGz0CyCRL-SOJ6IfIpCbjnLMIXwMV6BgPYbGi1kGEHflL0PBoCWUECX9Z7p-_MNx5d0S0ddO-LS9faD6tUv3xBSItxOQ==",
+      "publicado_em": "2026-09-16T12:29:45.008247+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "BepiColombo Inicia Fase Decisiva em Mercúrio Após 8 Anos",
+      "titulo_post": "BepiColombo Inicia Fase Decisiva em Mercúrio Após 8 Anos",
+      "slug": "bepicolombo-inicia-fase-decisiva-em-mercurio-apos-8-anos",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHarf2Z6SR34O_SEeywcnIjVghQF1VLoBn7CBXRSfr65Tn_gflqsAPhinr8KiMOBwM24gpv0K_XxcBL-Oxdl8HUHBTMn1kEWhO6QxQ_CnDuOTStm_t7bmTriqdV_9xCwoPLlfVcJTWkwWRBg2c5-YxKr9iRvVP0VWY7Rq9UZr0MXsxgsMD38_2BkPVUzQrvDUU7cxrfeG22lMNLPZN37AO4FGLWecXUEYlOf0SNZtWF0_Z7kFbI3fB0ZCDojAH802TOPMv3rqJKNYGTE8nY",
+      "publicado_em": "2026-09-16T12:30:15.534844+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Fármaco Criado por IA Reverte Idade Biológica",
+      "titulo_post": "Biotecnologia: Fármaco Criado por IA Reverte Idade Biológica",
+      "slug": "biotecnologia-farmaco-criado-por-ia-reverte-idade-biologica",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElx-rt42MMpTwYY1gymf2360mmyKUuhXuuxLcui2udUslBI45Lyv3zJ3rLW41v4BN-qX6ZJBT8Aft8ZBJtrmzfUN61mdyMdQ4eUI54W0lPeoG93ZSuUm2v410wS7yTFx-qQy4IjibnVqx9Rq1RU9P7TOIUdoWYiE9zHxx9",
+      "publicado_em": "2026-09-16T12:31:07.555664+00:00",
+      "dry_run": false
     }
   ]
 }
