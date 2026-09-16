@@ -2448,6 +2448,89 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElx-rt42MMpTwYY1gymf2360mmyKUuhXuuxLcui2udUslBI45Lyv3zJ3rLW41v4BN-qX6ZJBT8Aft8ZBJtrmzfUN61mdyMdQ4eUI54W0lPeoG93ZSuUm2v410wS7yTFx-qQy4IjibnVqx9Rq1RU9P7TOIUdoWYiE9zHxx9",
       "publicado_em": "2026-09-16T12:31:07.555664+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo entrega tractores e kits de auto-emprego a ex-mineiros em Búzi para impulsionar produção",
+      "titulo_post": "Ex-mineiros em Búzi recebem tractores e kits de emprego",
+      "slug": "ex-mineiros-em-buzi-recebem-tractores-e-kits-de-emprego",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T14:18:31.997235+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Há 'vencedor' na disputa de alas do STF?",
+      "titulo_post": "Tensões no Supremo: O Impacto Institucional das Divisões Internas",
+      "slug": "tensoes-no-supremo-o-impacto-institucional-das-divisoes-internas",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T14:19:00.756795+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambicana Tmcel vai ser privatizada com 1,79 milhões de clientes - Jornal Económico",
+      "titulo_post": "Tmcel Rumo à Privatização com Carteira de 1,79 Milhões de Clientes",
+      "slug": "tmcel-rumo-a-privatizacao-com-carteira-de-1-79-milhoes-de-clientes",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T14:19:29.152029+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Praias de Maputo continuam sem venda nem consumo de álcool: Município reforça fiscalização",
+      "titulo_post": "Praias de Maputo mantêm proibição de álcool e reforçam fiscalização",
+      "slug": "praias-de-maputo-mantem-proibicao-de-alcool-e-reforcam-fiscalizacao",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T14:19:49.831116+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O mundo está certo em temer IA, mas precisa confiar nas empresas, diz chefe da OpenAI",
+      "titulo_post": "Medo da Inteligência Artificial: O Dilema da Confiança Tecnológica",
+      "slug": "medo-da-inteligencia-artificial-o-dilema-da-confianca-tecnologica",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T14:20:33.072136+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Aprova Novo Regime Social Para as Forças Armadas",
+      "titulo_post": "Moçambique Aprova Novo Regime Social Para as Forças Armadas",
+      "slug": "mocambique-aprova-novo-regime-social-para-as-forcas-armadas",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQh3tdqdQs5qP4QJKxqTjLnnBvQc250C7Ex4ADE8DFuuSPDgXVXz4NartOHRAMtWRucuNS8bLs4dD6aR9E4V8iSPbCb8Lqu33Sur735emNk9KwPTD1jdCh6T4jdH-zpkbUMMlGpACZG4maNE-fgWl4S2TjMQZadwSc7OVAASl-fq0Wat2Xyw3Kq6XudKTzSpF3Oh8ahfFr_zc6-Em4jxEHMcpa9LpAMVQ1YiR5c5DST4M=",
+      "publicado_em": "2026-09-16T14:22:47.282301+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Espanha Deteta Primeiro Ciberataque Autónomo por Agente de IA",
+      "titulo_post": "Espanha Deteta Primeiro Ciberataque Autónomo por Agente de IA",
+      "slug": "espanha-deteta-primeiro-ciberataque-autonomo-por-agente-de-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmXgn6nJorvPB3stuiwR19I_0qoo4SRPP5p7Hk_abvHuw0gr5NBpnOJ7RySRlIhenoBU4O1re_e_Z71KpUymYKJS15HoAG-ET6aUBTs93qHCmw_nYvJsvT-Fzj72e5C4LvU-3htP11vpYL688VxMVXUWvuOUl5Vv7SvJctxT8PlKajFPMg-ijB-mBTxdHbRoiGOtItIIQVwX9Urfy20sFjo7ftsq94qTlfrSZ3CSBB_OKoQ8VCQVJ1tiEJL0k052RyF5DzpwFUMKlb7rk=",
+      "publicado_em": "2026-09-16T14:26:34.506168+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: CRISPR Torna o Trigo-Sarraceno Autopolinizável",
+      "titulo_post": "Biotecnologia: CRISPR Torna o Trigo-Sarraceno Autopolinizável",
+      "slug": "biotecnologia-crispr-torna-o-trigo-sarraceno-autopolinizavel",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO-SB-HzuEbc0MLHb5__YSVNEtYWVjz31lpi3MwNaWo4HhRBtRN-NOEQOkc5vk2vG6yjYf33UVWsd4h1zD7W53L6FPP5KGb35BxuATHU7JQKCVNzxYfD-n-fdv72zSIiBBlN8r7RuSldcgPMBpQnW2mnb75_C_otnGTadegNcO-lVfh3KslDN-tGt45z-EDs8JYo5zV2CSdA==",
+      "publicado_em": "2026-09-16T14:27:53.139798+00:00",
+      "dry_run": false
     }
   ]
 }
