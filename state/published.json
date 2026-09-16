@@ -2071,6 +2071,92 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpO0KknaSnUTJmzHhFiVpaqif_6mRRf5QFEGCRSCIS8WV5vbmlx6hZTix3slQ5hUuPXmssDsSrrxLO0R3-CfC1DAILH2jH5nPGg6f3bz6rFLmYGJEBpTekPNFM46oY8u8UDuKJPUZm6EYt9LMnsjfV8YkrLP-DSPmYh9MkMo6syUXtou61Il3rvMft244hK5043mGu4leJsDOt",
       "publicado_em": "2026-09-16T05:12:43.223640+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique e Portugal discutem nova parceria para ampliar oportunidades de emprego aos moçambicanos",
+      "titulo_post": "Moçambique e Portugal reforçam parceria de emprego para jovens",
+      "slug": "mocambique-e-portugal-reforcam-parceria-de-emprego-para-jovens",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-16T06:22:22.867405+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo aprova plano de mitigação do El Niño reforça medidas contra as mudanças climáticas",
+      "titulo_post": "El Niño: Governo Aprova Plano para Proteger Água e Agricultura",
+      "slug": "el-nino-governo-aprova-plano-para-proteger-agua-e-agricultura",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-16T06:22:40.115998+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Insegurança Alimentar Aguda Atinge 3,5 Milhões em Moçambique",
+      "titulo_post": "Insegurança Alimentar Aguda Atinge 3,5 Milhões em Moçambique",
+      "slug": "inseguranca-alimentar-aguda-atinge-3-5-milhoes-em-mocambique",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJngfU8la9JT-mb4PDVF5ZijSvsMvc9YOCTXL4_XGRP-1BxsSeSqTkmig31Ku4G395zZoZseGUJH6IAjY9d0s_r4fZbvgnRn2LJLiZM0bU6fGGZK1pGqVDPIAZhUuAB7OooT52GuC6Qgz9j7fXOEfbo7a12gYV-KitxX3T9rNGRtHvnFa2i_iTXiv40LD3JOy3Q01rW1jpnxHzON7dsO4f8itP50haNhyJ",
+      "publicado_em": "2026-09-16T06:23:08.544491+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique e Banco Mundial Lançam MozTurismo Para Criar Emprego",
+      "titulo_post": "Moçambique e Banco Mundial Lançam MozTurismo Para Criar Emprego",
+      "slug": "mocambique-e-banco-mundial-lancam-mozturismo-para-criar-emprego",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTSvXbXVJSn1m3EYgEre9RaQULRXdNMJnc6pjiAvTKEmVWF9PURdRJ3olrPlDZ6Foxrg81VVIVu68QmoZgf6frA878mG17R5CgX8ChiSCaNgTZcL5E_1RRY-s-__lYek5D_CdeK45KC66FiYO8Jz_WfKE6lUmznRHFd8tGMAKrAifOCU7i3OGk7oTJFjRfvOqahznnnrTAr8m2wDXSV9eQBQ==",
+      "publicado_em": "2026-09-16T06:23:35.968792+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Baterias de Estado Sólido Estreiam no Asfalto em Carros Elétricos",
+      "titulo_post": "Baterias de Estado Sólido Estreiam no Asfalto em Carros Elétricos",
+      "slug": "baterias-de-estado-solido-estreiam-no-asfalto-em-carros-eletricos",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh69_Hdse21F4hQ1dWGEG0K0K6dkwNqvEhssDyZwMD8_F7cLiqL1dTX7byhuYZ_CDEagY61wZyyj3DEDZEy_YM02OVQJ_DV160N8f7BywdHIcfxnZJRxvuNU0z1ID1saILj2Ux5RhNAENaE7oILulHjE6ipokuFhUd_thUHvD5zAlDfg2YpRrDcNyBnpJtbjhopcyLNKEdDpQbd-hCUB4dDq4=",
+      "publicado_em": "2026-09-16T06:24:20.722036+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Eleições na Suécia: Centro-Esquerda Lidera Disputa Apertada",
+      "titulo_post": "Eleições na Suécia: Centro-Esquerda Lidera Disputa Apertada",
+      "slug": "eleicoes-na-suecia-centro-esquerda-lidera-disputa-apertada",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7IWouQxUACwPg1S_n1b1qV8swKzBRD7PczeWcpexGXxFiDGmM0Svu15v5L9j2icp6-QCmZhmSASCRZocZUNFtmhGkMNvd5y3NMJ-j9uf1gHQyG1btl33oYqjGfVY1odMSbzL8h6KBftg1HXv6OgQNh1tqA_6EP4sKIPG6XIGNXz_J6lSjGDhcdqQowcTEPGOxRns8SFnGGfwhq5lynrL-zto8B40sYIgVlNz9dhYVzXamAXgT6AQc",
+      "publicado_em": "2026-09-16T06:25:03.404870+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Cancro do Colo do Útero em Moçambique: A Importância do Rastreio",
+      "titulo_post": "Cancro do Colo do Útero em Moçambique: A Importância do Rastreio",
+      "slug": "cancro-do-colo-do-utero-em-mocambique-importancia-do-rastreio",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESVHvnbDYsWoBiLUAMzNDHNruWwWw-BvwbwF3QSLtURJQu_ZqyArDQUXCBGg4UIZB-l_Wd5SJGO2OcixXonJ2yVpWXDmMMnHh4r8cBhipSsKg6ePwhUVGQGhh_TUYuhY_ZtmKBDw-wAxs1H4M3_Lth-2preI3hAaHpCKEH_NkbL30b7oWHysyD8xToq62MCx4qO0MIGKuPIakaaiGdPA==",
+      "publicado_em": "2026-09-16T06:26:19.338942+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Sonda Hayabusa2 Faz História com Disparo de Laser em Asteroide",
+      "titulo_post": "Sonda Hayabusa2 Faz História com Disparo de Laser em Asteroide",
+      "slug": "sonda-hayabusa2-faz-historia-com-disparo-de-laser-em-asteroide",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Z1lu2oZ-WcOWn10SAEIgjmAjEBNyAecWvi9wNEiz2c2RkOcrLAonp98iamDYdCR_Dz55JksPLejDM046A5fRn2hDwOzUpUNIvNk6SUc9DVCJmDaSC88AoytSoEj34BL9r9ciJ_dRC69CB_7o-4dXskpW1cDT8REsRrD7m7__v2_2_NH5mej4D2juXoT7YkCobhVl0ohwnMEXGMPIG2PxS-Uvr32hdTF74zgLQfCI6w==",
+      "publicado_em": "2026-09-16T06:27:02.766354+00:00",
+      "dry_run": false
     }
   ]
 }
