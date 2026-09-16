@@ -404,3 +404,50 @@ sites:
 #     - id: fonte1
 #       nome: "Nome da fonte 1"
 #       rss_url: "https://exemplo.co.mz/feed/"
+
+
+# NOVO (2026-09-18) — site "Way Digital" (waydigital.online), pedido pelo
+# Abilio: site ja existente dedicado a tecnologia e ciencia em portugues,
+# sem foco em Mocambique (ver pagina "Sobre"). Usa o mesmo modo
+# "pesquisa_gemini" do panorama, com o prompt de sistema GLOBAL da pesquisa
+# (sem override) — nao ha nenhuma regra especial de seguranca para este
+# tema, ao contrario do saudemz.
+#
+# 3 categorias JA EXISTIAM no WordPress deste site antes de qualquer
+# trabalho meu (cada uma ja tinha 1 post-semente, ligado directamente no
+# menu principal do site): confirmadas via /wp-json/wp/v2/categories em
+# 2026-09-18: Inteligencia Artificial=6, Exploracao Espacial=7,
+# Biotecnologia=8. Nao foi preciso criar nenhuma categoria nova.
+#
+# NOTA: o menu do site liga directamente aos 3 posts-semente (nao a
+# arquivos de categoria), tal como acontecia no saudemz antes da correcao
+# — os novos posts automaticos ficarao acessiveis pela pagina inicial/
+# categoria, mas nao aparecem automaticamente ligados no menu. Ver
+# claude/2026-09-14-site-saudemz-saude-publica.md se for preciso replicar
+# a mesma solucao aqui.
+#
+# Comentado ate existirem os secrets WAYDIGITAL_WP_USER /
+# WAYDIGITAL_WP_APP_PASSWORD no GitHub Actions.
+#
+# - id: waydigital
+#   nome: "Way Digital"
+#   modo: "pesquisa_gemini"
+#   wordpress_base_url: "https://www.waydigital.online"
+#   wordpress_user_env: "WAYDIGITAL_WP_USER"
+#   wordpress_app_password_env: "WAYDIGITAL_WP_APP_PASSWORD"
+#   categoria_map:
+#     "INTELIGENCIA_ARTIFICIAL": 6
+#     "EXPLORACAO_ESPACIAL": 7
+#     "BIOTECNOLOGIA": 8
+#   categoria_fallback: 6
+#   alvo_publicacoes_por_tema: 1
+#   temas_pesquisa:
+#     - id: inteligencia_artificial
+#       categoria: "INTELIGENCIA_ARTIFICIAL"
+#       instrucao_pesquisa: "um desenvolvimento ou noticia recente sobre inteligencia artificial"
+#     - id: exploracao_espacial
+#       categoria: "EXPLORACAO_ESPACIAL"
+#       instrucao_pesquisa: "um desenvolvimento ou noticia recente sobre exploracao espacial"
+#     - id: biotecnologia
+#       categoria: "BIOTECNOLOGIA"
+#       instrucao_pesquisa: "um desenvolvimento ou noticia recente sobre biotecnologia"
