@@ -47,6 +47,8 @@ jobs:
           PANORAMA_WP_APP_PASSWORD: ${{ secrets.PANORAMA_WP_APP_PASSWORD }}
           SAUDEMZ_WP_USER: ${{ secrets.SAUDEMZ_WP_USER }}
           SAUDEMZ_WP_APP_PASSWORD: ${{ secrets.SAUDEMZ_WP_APP_PASSWORD }}
+          WAYDIGITAL_WP_USER: ${{ secrets.WAYDIGITAL_WP_USER }}
+          WAYDIGITAL_WP_APP_PASSWORD: ${{ secrets.WAYDIGITAL_WP_APP_PASSWORD }}
         run: |
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             python main.py --dry-run
