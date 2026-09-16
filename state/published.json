@@ -2531,6 +2531,48 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO-SB-HzuEbc0MLHb5__YSVNEtYWVjz31lpi3MwNaWo4HhRBtRN-NOEQOkc5vk2vG6yjYf33UVWsd4h1zD7W53L6FPP5KGb35BxuATHU7JQKCVNzxYfD-n-fdv72zSIiBBlN8r7RuSldcgPMBpQnW2mnb75_C_otnGTadegNcO-lVfh3KslDN-tGt45z-EDs8JYo5zV2CSdA==",
       "publicado_em": "2026-09-16T14:27:53.139798+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "EUA anunciam restrições de vistos para estrangeiros ligados a políticas raciais na África do Sul",
+      "titulo_post": "EUA impõem restrições de vistos devido a tensões na África do Sul",
+      "slug": "eua-impoem-restricoes-de-vistos-devido-a-tensoes-na-africa-do-sul",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T16:17:12.336639+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "STF: como votou cada ministro no julgamento de Alexandre de Moraes e como ficou o placar",
+      "titulo_post": "STF: Decisão em Plenário Marca Novo Capítulo Judicial",
+      "slug": "stf-decisao-em-plenario-marca-novo-capitulo-judicial",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-16T16:17:30.250196+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique e Zimbabwe Assinam Acordo de Cooperação Parlamentar",
+      "titulo_post": "Moçambique e Zimbabwe Assinam Acordo de Cooperação Parlamentar",
+      "slug": "mocambique-e-zimbabwe-assinam-acordo-de-cooperacao-parlamentar",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEldgTvZEImMWgSkKGAKA_b06O4rbUhud2qlikw0iUB86t0gGb1l6Tn9dwlEOMvfgr02WQPSwuxjqJjq1rvTkczfESSaAoloWpxAxRycurbUrRO",
+      "publicado_em": "2026-09-16T16:18:39.533583+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Telescópio Chandra Descobre Nova Classe Misteriosa no Espaço Profundo",
+      "titulo_post": "Telescópio Chandra Descobre Nova Classe Misteriosa no Espaço Profundo",
+      "slug": "telescopio-chandra-descobre-nova-classe-misteriosa-no-espaco-profundo",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgJVENd3v8oS3svpW6ysoJ7jtFhzmep3hg51d16sUjmVDb2yUYil_8IpowuTOKo0P6ndMDingKTTfkqgw8gIUMiT70_Y8JJaBti70MdM7SXTw308z0OCyBeJBw-7VQKBLw26mPi5cVAn5w-C3bstZg9U6uW1U3eUnKOxvuk8-LlidqnhOyY8mwARNhbNeoqQ==",
+      "publicado_em": "2026-09-16T16:22:10.551164+00:00",
+      "dry_run": false
     }
   ]
 }
