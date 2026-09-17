@@ -2826,6 +2826,49 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVSYJ3Cxv-SwJmycrYC07WPshD1W2t4uLoaeONXS6CDQSsZpAeuZb3OCkDUtyxXIGzdRcX_Wa0L6XOwduwpqReT9AgguSjR4mEUGUzLoVWqrOy69khQk6bJHW7c-jIs3f7336CIszxE7vcYNHuUUG9ZNuAwdYZ2pZqjXxsW01pxzJVe3BIMHV17eUenM7ripod3sV7MVeddz49uBHe",
       "publicado_em": "2026-09-16T22:20:44.874175+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como redes sociais reagiram à 'sessão de guerra' no STF - e o que isso pode sinalizar para a eleição",
+      "titulo_post": "Impacto do Debate nas Redes Sociais no Comportamento Eleitoral",
+      "slug": "impacto-do-debate-nas-redes-sociais-no-comportamento-eleitoral",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-17T00:21:10.502216+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Prepara Regras Para Inteligência Artificial no Ensino",
+      "titulo_post": "Moçambique Prepara Regras Para Inteligência Artificial no Ensino",
+      "slug": "mocambique-prepara-regras-para-inteligencia-artificial-no-ensino",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkCAFMifybpkg03hiXxKVn4Y8000LN6tEj5b3iTZqfJwoXKuiRToWxKJLwqMAnmhlPEdsVjN5OL5j9aRgSXlDC_eiS8CEWtRDFVgbQ942qfEddoaS3I82pKBzlqtj5Zdv4egiWfLlj-J_EqsZovG4ZoJoCPM9kicDQ-XR0H3zvnyf8-0S0XErJ8k9fGLxwl_mC9y_B26hZ3-S1",
+      "publicado_em": "2026-09-17T00:22:07.207306+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Viabiliza Mega-projectos de Coral Norte e Temane",
+      "titulo_post": "Moçambique Viabiliza Mega-projectos de Coral Norte e Temane",
+      "slug": "mocambique-viabiliza-mega-projectos-de-coral-norte-e-temane",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaHBQdbfLOuEGneP401Ow2sT1scFrHrvNTjYcHGAfoFD-hOMuAz_-Rmv09wh76L51Ld5gw0rZRajMfGnZ9PCnGdd9pzUILn-aMuVygAEYqKmhgvA9j1nbD-p_-RlHB4C-2s0f",
+      "publicado_em": "2026-09-17T00:22:49.192107+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Sonda Mars Express Revela Tons Púrpuras no Polo Sul de Marte",
+      "titulo_post": "Sonda Mars Express Revela Tons Púrpuras no Polo Sul de Marte",
+      "slug": "sonda-mars-express-revela-tons-purpuras-no-polo-sul-de-marte",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXqrESY6pxF-1SfRsOcYZRgjCxyERuw2kqzxE1G2wcsewFapAMhhEovj7KEDfS1C_Six7Wefpb5St2vOtx-1K8Q_kmvo33hy3gHmgpsUTKjHQ7PBA=",
+      "publicado_em": "2026-09-17T00:25:59.060436+00:00",
+      "dry_run": false
     }
   ]
 }
