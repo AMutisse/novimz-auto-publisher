@@ -2,15 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
-      "titulo_post": "Eleições no Brasil: Estratégias e Desafios no Cenário Político",
-      "slug": "eleicoes-no-brasil-estrategias-e-desafios-no-cenario-politico",
-      "publicado_em": "2026-09-05T16:56:36.671993+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "novimz",
       "fonte": "mznews",
       "titulo_original": "FACIM: Governo anuncia importação de 800 touros para modernizar a pecuária nacional",
       "titulo_post": "Moçambique vai importar 800 touros para impulsionar a pecuária",
@@ -3046,6 +3037,58 @@
       "categoria_id": 6,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELuBMqTl8Qj7cqHGmr9Zv8Qm-0KB_QEJ-PxKw2IHjD2R7Tjkae-8mkB241vI2RQTRQ1P7RmJbLp9EdtbvgERl9L1oVVxZhge6FxvDhwchiNVp6hMB6UOmphdmFow1jUgS8YgiyHDjpislZXfDOqMYFO05xgelbLi-zCWXrYhMxgadOUjnm7WayXlFmUyWNkTY1tpBuAEneZErHSSENYw==",
       "publicado_em": "2026-09-17T13:24:13.604252+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique: Governo aprova medidas para reforçar apoio às Forças Armadas - e-global.pt",
+      "titulo_post": "Moçambique Reforça Apoio Estratégico às Forças Armadas",
+      "slug": "mocambique-reforca-apoio-estrategico-as-forcas-armadas",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-17T18:05:12.897749+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que Fachin decidiu adiar julgamento sobre atuação de Mendonça no caso Master",
+      "titulo_post": "STF Adia Julgamento Crucial: Entenda os Bastidores Legais",
+      "slug": "stf-adia-julgamento-crucial-entenda-os-bastidores-legais",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-17T18:06:33.633749+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Lula x Flávio Bolsonaro: pesquisas mostram 5 grupos de eleitores que podem definir eventual 2º turno",
+      "titulo_post": "Eleições no Brasil: Os Grupos Decisivos na Corrida Presidencial",
+      "slug": "eleicoes-no-brasil-os-grupos-decisivos-na-corrida-presidencial",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-17T18:08:12.286890+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Perseverance Descobre Carbono Orgânico em Antigo Rio de Marte",
+      "titulo_post": "Perseverance Descobre Carbono Orgânico em Antigo Rio de Marte",
+      "slug": "perseverance-descobre-carbono-organico-em-antigo-rio-de-marte",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ05qpJ3ONJm1Uj65Dd_OVZvDuyjBDafYM1OY9D88KbR137aMRxtZ0WRHemCNdKvVkGMNAk6_5XIzoh6qFN6SVmkK9WUkdyC8mn8g_ZW5dnfg8iJyTjAjKmWFO0hZtfFH_iLCm8tNKhUTwEhsz_ttLoVoplrekB6XDp9XofPsPeiCSK8A=",
+      "publicado_em": "2026-09-17T18:12:12.689486+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: IA Descodifica Interruptor Genético do ADN",
+      "titulo_post": "Biotecnologia: IA Descodifica Interruptor Genético do ADN",
+      "slug": "biotecnologia-ia-descodifica-interruptor-genetico-do-adn",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbOJ9X1PVIH0-P3oUS7tXekZVHxgXB80nF4XRMxt19uh-K0tsJfiJ_7lsY2ahgDv7wemtZGkA5uFTMl4etDTDGiOswBBWl2UEkOu9BpYdSrFAwqgj0tgiNIbl2XX4bkVZPEI_hCVff13dAVsJmysTPKloD",
+      "publicado_em": "2026-09-17T18:12:56.972409+00:00",
       "dry_run": false
     }
   ]
