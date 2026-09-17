@@ -3090,6 +3090,69 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbOJ9X1PVIH0-P3oUS7tXekZVHxgXB80nF4XRMxt19uh-K0tsJfiJ_7lsY2ahgDv7wemtZGkA5uFTMl4etDTDGiOswBBWl2UEkOu9BpYdSrFAwqgj0tgiNIbl2XX4bkVZPEI_hCVff13dAVsJmysTPKloD",
       "publicado_em": "2026-09-17T18:12:56.972409+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A nova ofensiva de Eduardo Bolsonaro em Washington por sanções contra autoridades brasileiras",
+      "titulo_post": "Diplomacia e Pressão: A Busca por Sanções Externas em Washington",
+      "slug": "diplomacia-e-pressao-a-busca-por-sancoes-externas-em-washington",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-17T22:45:43.367505+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Quem é Robert Kraft, o bilionário no centro da polêmica sobre turnê de Ed Sheeran",
+      "titulo_post": "Bilionário e Digressão de Ed Sheeran: Bastidores da Polémica",
+      "slug": "bilionario-e-digressao-de-ed-sheeran-bastidores-da-polemica",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-17T22:46:10.110373+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O alerta de chefe da Microsoft sobre a IA: 'Tratar a IA como humana é um erro'",
+      "titulo_post": "O Perigo de Tratar a Inteligência Artificial Como Humana",
+      "slug": "o-perigo-de-tratar-a-inteligencia-artificial-como-humana",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-17T22:46:27.501849+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Segurança Rodoviária em Moçambique: Beira Acolhe Debate Nacional",
+      "titulo_post": "Segurança Rodoviária em Moçambique: Beira Acolhe Debate Nacional",
+      "slug": "seguranca-rodoviaria-em-mocambique-beira-acolhe-debate-nacional",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF555b9EzTSbFppFHKUWhcJ9IUvE3Ux0RzOQC0wkrIhjb98Q-s4B13k9mNuO1wneA9PsCdM9Kr6ltqpVb3Lvk4nnT0SWERLybOIXBbqjUTqRll17EfUdD2Te4cgMK31WSA4YW3Ced6PRGTtxA==",
+      "publicado_em": "2026-09-17T22:46:58.844495+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Indústria em Moçambique Atinge 60 Mil Milhões de Meticais",
+      "titulo_post": "Indústria em Moçambique Atinge 60 Mil Milhões de Meticais",
+      "slug": "industria-em-mocambique-atinge-60-mil-milhoes-de-meticais",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH9tY2-IgLTgsuG4ktippzSQb8yS4s5pz4tqYX2LZu6gsOo9gItVN4VtWNXAdzS7Q2SuDsPaf-MrZmF2zd9FapD5TCxPNJH_d9438oNBszvSUOtlhYBhdzodvIa8fI3o7OnSjFnt-IUNEjK3FyNBWrufJ_32K70RBjGgDpRKQGewnp95RVokfdx0ADqxug9CG_MTdIyEIc8m5UC_XZ5gI99ub_ooq2QwpWn0Ehft_k",
+      "publicado_em": "2026-09-17T22:47:20.880584+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Lixo Espacial: ESA Alerta para Risco Crescente de Quedas na Terra",
+      "titulo_post": "Lixo Espacial: ESA Alerta para Risco Crescente de Quedas na Terra",
+      "slug": "lixo-espacial-esa-alerta-para-risco-crescente-de-quedas-na-terra",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfoFOFFWVcX8HEtyJtJUtkSEYioFQUcadpzv8NoODUTvXuOqh1l6J2tanBCWkBJFndrPFfNr4OiBPvdJOU9vzn1W1xVsI2b8cCblxFYgODlggj-7lNXY500HvoDbMQbWuW0PBsB5OBZQhjIKechwLTvUqgL0HfTFgubgEYFHJUw8gSMWTjarNMq5MVPGhO6RdXoA6vZcDMQez1UfA0Zw1tK2G5FvvTDd3LKmzsFxXMLNQZql3S-Q==",
+      "publicado_em": "2026-09-17T22:49:55.238366+00:00",
+      "dry_run": false
     }
   ]
 }
