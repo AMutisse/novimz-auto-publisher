@@ -2953,6 +2953,100 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXrXSV48fzQk2rEpfk6I7MDeqpQgMzqVR5PqCOiCF3ai-OtdubHBQoqhNkUfMkE4ShrNtHMS8svj6rQ_YYERt-yj241FzZWuSGKPmtZHJzLQlZSiH6Ep4BTKGRp2oIz18Au6aTbZE-VM5N26FSysOhqy-R0YVYE4Jh3-PrNBaQS3mKM6SaZE-r6YZr_czP-xX2tdqi-vCWBHQ8LDL2MA3zuAQsEK4NlJBDyRS4ZJ13AKgGzGGh1FLVbqJpT8B6e_ic",
       "publicado_em": "2026-09-17T07:34:37.614338+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Cabo Delgado. Supostos terroristas queimam campos agrícolas - Observador",
+      "titulo_post": "Cabo Delgado: Queima de Machambas Ameaça Segurança Alimentar",
+      "slug": "cabo-delgado-queima-de-machambas-ameaca-seguranca-alimentar",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-17T13:16:36.872153+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Canadá na União Europeia? O plano de tornar país associado ao bloco",
+      "titulo_post": "Canadá na União Europeia: A proposta que agita a diplomacia",
+      "slug": "canada-na-uniao-europeia-a-proposta-que-agita-a-diplomacia",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-17T13:17:21.208047+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Aprovados símbolos da Associação dos Funcionários Aposentados da Assembleia da República",
+      "titulo_post": "Aposentados da Assembleia da República Fortalecem Identidade",
+      "slug": "aposentados-da-assembleia-da-republica-fortalecem-identidade",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-17T13:18:24.160128+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que o Brasil sempre abre a Assembleia Geral da ONU",
+      "titulo_post": "Por Que o Brasil Abre Sempre os Discursos da ONU?",
+      "slug": "por-que-o-brasil-abre-sempre-os-discursos-da-onu",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-17T13:18:41.638985+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Barragem moçambicana de Cahora Bassa vai inventariar atividades - Notícias ao Minuto",
+      "titulo_post": "Cahora Bassa Inicia Inventário de Atividades na Albufeira",
+      "slug": "cahora-bassa-inicia-inventario-de-atividades-na-albufeira",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-17T13:19:00.052093+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Inflação em Moçambique Desacelera Para 6,45% em Agosto",
+      "titulo_post": "Inflação em Moçambique Desacelera Para 6,45% em Agosto",
+      "slug": "inflacao-em-mocambique-desacelera-para-6-45-em-agosto",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaCSCdV1RjatfsB6c3xfyiJTf6wApFofiaHU_iLtsJFpIcJ2bUwJIhUEh379_1rLZrLuJ93MNJcB8cYZQdoXm7IgvENZtZvG69fW2VLTC38V4zchSsbRPfBa7pbJohNVljK7dBtqAt-Zpgin-SgXf4pjy-qtkReWQ3V_2Hr2K89Nrddfks0E_PI58=",
+      "publicado_em": "2026-09-17T13:20:27.613701+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "IA Mapeia 9 Biliões de Mutações e Decifra Segredos do ADN Humano",
+      "titulo_post": "IA Mapeia 9 Biliões de Mutações e Decifra Segredos do ADN Humano",
+      "slug": "ia-mapeia-9-bilioes-de-mutacoes-e-decifra-segredos-do-adn-humano",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGMi51265IGTjBPSsapi3ng_BWxh1FXE1g5x_6Ml6aJuDghrOXS0DLy9p471HRztDgVrX9UfEyBZAnWNhZEFH70sZXlE8KtkVtI_nwycQV-APnCmT8xJLwsdBmNSz-GlkgDIkcn_QnpZDK_F7t-_wqfylbwTFKUmeNQoqmdftrJZ3j08_1sgsCCPA0RGlYQvB5767WV5SCtwf31u8FVqaw3a48Jdr41AuzrHy0R1g=",
+      "publicado_em": "2026-09-17T13:21:32.217624+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Novo Plano Visa Acelerar Controlo da Epidemia",
+      "titulo_post": "HIV em Moçambique: Novo Plano Visa Acelerar Controlo da Epidemia",
+      "slug": "hiv-em-mocambique-novo-plano-visa-acelerar-controlo-da-epidemia",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIoJt4ywA5zat4hGBQ6OZedBZbALcrJWGgmyvWuonF6ghQh4B0V_mxDXdaD5npq9YtPhVQDmSY8GOot19MB3A0s0U6EMIE47TsJri6kB-I5bUFH6QwuAAr8Sx_85aek8tjVdW8ilbIJg1xtxf2Qgl54MEHvVBwR8ujzXMxYmxQbywrKHzpPv-Btijs22-6IBkde6RP7H5D4n2bf0g2nt3E2jE4O5yv_pMtWDP0d5mQStLgn3kg1X7Pe-eUV1mIKFSvqfZMlFzCJ-5hmRAMu00=",
+      "publicado_em": "2026-09-17T13:22:25.698464+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "OpenAI Revela Casos Inéditos de Desalinhamento em Modelos de IA",
+      "titulo_post": "OpenAI Revela Casos Inéditos de Desalinhamento em Modelos de IA",
+      "slug": "openai-revela-casos-ineditos-de-desalinhamento-em-modelos-de-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELuBMqTl8Qj7cqHGmr9Zv8Qm-0KB_QEJ-PxKw2IHjD2R7Tjkae-8mkB241vI2RQTRQ1P7RmJbLp9EdtbvgERl9L1oVVxZhge6FxvDhwchiNVp6hMB6UOmphdmFow1jUgS8YgiyHDjpislZXfDOqMYFO05xgelbLi-zCWXrYhMxgadOUjnm7WayXlFmUyWNkTY1tpBuAEneZErHSSENYw==",
+      "publicado_em": "2026-09-17T13:24:13.604252+00:00",
+      "dry_run": false
     }
   ]
 }
