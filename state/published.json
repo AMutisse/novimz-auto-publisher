@@ -3153,6 +3153,60 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfoFOFFWVcX8HEtyJtJUtkSEYioFQUcadpzv8NoODUTvXuOqh1l6J2tanBCWkBJFndrPFfNr4OiBPvdJOU9vzn1W1xVsI2b8cCblxFYgODlggj-7lNXY500HvoDbMQbWuW0PBsB5OBZQhjIKechwLTvUqgL0HfTFgubgEYFHJUw8gSMWTjarNMq5MVPGhO6RdXoA6vZcDMQez1UfA0Zw1tK2G5FvvTDd3LKmzsFxXMLNQZql3S-Q==",
       "publicado_em": "2026-09-17T22:49:55.238366+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique limita importação de soro para privilegiar fábricas locais - Правда.Ру",
+      "titulo_post": "Moçambique Restringe Importação de Soro Para Apoiar Produção Local",
+      "slug": "mocambique-restringe-importacao-de-soro-para-apoiar-producao-local",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-18T04:09:38.977323+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Frelimo Oficializa Gabinetes Para o 13º Congresso em Nampula",
+      "titulo_post": "Frelimo Oficializa Gabinetes Para o 13º Congresso em Nampula",
+      "slug": "frelimo-oficializa-gabinetes-para-o-13-congresso-em-nampula",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE_8EZRhZ1gSOMDT5fepm0f0SdO_a9c7M4fCmApJUApKjR965vYo4hwvfeyAhT8maU5NzeE6c_D1u4DkzZPstMK644hlRsIyewJ-VECQuhof93fWFyByl6adYBvQQ0TRzHv5vPk4pCgReAjmuP2DxU5QaZ4oQojopJ0HRoQ3FNhI-gsh5jAb21twvtc1XNs4zvQvxh-VtOwEo5QA1toA==",
+      "publicado_em": "2026-09-18T04:11:16.961021+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Síria Regista Maior Onda de Regresso de Refugiados em 20 Anos",
+      "titulo_post": "Síria Regista Maior Onda de Regresso de Refugiados em 20 Anos",
+      "slug": "siria-regista-maior-onda-de-regresso-de-refugiados-em-20-anos",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWZnnYfNo9BmdbLcrngVgMWLGjk_MtdEHipEXZbilou1OGJpejDnLeefvmOK3KfNZdu6slw8FlLJkfJthouXIDNHn5klvWavY5H0Kldn_LDD7pbVEOmPw=",
+      "publicado_em": "2026-09-18T04:11:58.078299+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "ONU Alerta para Corrida ao Abismo e Exige Regras Globais para IA",
+      "titulo_post": "ONU Alerta para Corrida ao Abismo e Exige Regras Globais para IA",
+      "slug": "onu-alerta-para-corrida-ao-abismo-e-exige-regras-globais-para-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG54Sju4BzRrIFuRClGxNscIQTdmkdiuWs5aQaEv7fFCROi_seMrR08cpEaUUGTuURx0ZqNElAv17L-x8OILdRIa6mzWE8pDusVL65-p1bcaged63gmS8FtStRkcqh4kDA7",
+      "publicado_em": "2026-09-18T04:13:34.386225+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Fármaco Ataca Telómeros em Testes Contra o Cancro",
+      "titulo_post": "Biotecnologia: Fármaco Ataca Telómeros em Testes Contra o Cancro",
+      "slug": "biotecnologia-farmaco-ataca-telomeros-em-testes-contra-o-cancro",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU7SNTnc0QGiNbpMv6kK7Sr0jp62hdPyFW9Ux7aEr-BtXGL4LvdyDoVIXqj5b9hJpbYU15IATLXHv6laEjw96D7fwrh6umWVFkBjvviLjRhwsm39zO0xIo3u4gzxyCiWozWp-gyqqa9A3dPo7AUBaVUC1uGE3oOGe-O_fmyG5W7rrxHGlyN6urJmg6gwWz5RGT74MGfhLBGk7b_SmqP1HIwnl3-WPjCnM=",
+      "publicado_em": "2026-09-18T04:14:26.415737+00:00",
+      "dry_run": false
     }
   ]
 }
