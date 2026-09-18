@@ -3,26 +3,6 @@
     {
       "site": "novimz",
       "fonte": "bbc_portuguese",
-      "titulo_original": "Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia",
-      "titulo_post": "Eleições na Alemanha: O Impacto da Ascensão Política na Saxónia",
-      "slug": "eleicoes-na-alemanha-o-impacto-da-ascensao-politica-na-saxonia",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-06T18:17:42.270557+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mozentretenimento",
-      "titulo_original": "PME e EUROCAM reforçam cooperação para impulsionar PME moçambicanas",
-      "titulo_post": "PME e EUROCAM unem forças para acelerar negócios em Moçambique",
-      "slug": "pme-e-eurocam-unem-forcas-para-acelerar-negocios-em-mocambique",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-06T20:15:32.486040+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
       "titulo_original": "Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial",
       "titulo_post": "Reviravolta Política na Alemanha Redefine Cenário Eleitoral",
       "slug": "reviravolta-politica-na-alemanha-redefine-cenario-eleitoral",
@@ -3365,6 +3345,36 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlk_kCcTjaMPG6SYW2ZG5joZm9Dp86jFxRHX7ATKeITfNKlwjHiYqbPYnfPSdjjXDw173wpzucfMC0k3S_NzdHA5V10tQn6nS67Tt_V2TQW6Jg8huXAhMyoFa91FdJuo1UeUnQlI7dGSxxNJTiiWz-i_Hj",
       "publicado_em": "2026-09-18T16:20:13.239470+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Mondlane entrega a Rangel dossiê sobre violações de direitos humanos em Moçambique - Executive Digest",
+      "titulo_post": "Dossiê sobre Direitos Humanos em Moçambique Chega a Portugal",
+      "slug": "dossie-sobre-direitos-humanos-em-mocambique-chega-a-portugal",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-18T20:43:04.418332+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Dérbi de Madrid coloca Atlético e Real frente a frente na corrida pelo título",
+      "titulo_post": "Derbi de Madrid: Atletico e Real Travam Batalha Decisiva",
+      "slug": "derbi-de-madrid-atletico-e-real-travam-batalha-decisiva",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-18T20:43:39.520066+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Venâncio Mondlane confirma presença em julgamento e espera processo sem interferências - Correio da Manhã Canadá",
+      "titulo_post": "Venâncio Mondlane Confirma Presença em Julgamento e Pede Isenção",
+      "slug": "venancio-mondlane-confirma-presenca-em-julgamento-e-pede-isencao",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-18T20:44:23.571086+00:00",
       "dry_run": false
     }
   ]
