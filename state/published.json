@@ -2,36 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Standard Bank capacita PME em planeamento e execução estratégica",
-      "titulo_post": "PME Fortalecem Estratégia de Negócios com Masterclass Inovadora",
-      "slug": "pme-fortalecem-estrategia-de-negocios-com-masterclass-inovadora",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-06T12:19:12.627647+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Quem é Alejandro Betancourt, o polêmico bilionário por trás do acordo de petróleo entre EUA e Venezuela",
-      "titulo_post": "O Papel de Alejandro Betancourt no Petróleo entre EUA e Venezuela",
-      "slug": "papel-de-alejandro-betancourt-no-petroleo-entre-eua-e-venezuela",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-06T12:19:30.959308+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
-      "titulo_post": "Apresentadora de TV no Egito Enfrenta Pena Capital por Narcotráfico",
-      "slug": "apresentadora-de-tv-no-egito-enfrenta-pena-capital-por-narcotrafico",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-06T14:16:26.235485+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "bbc_portuguese",
       "titulo_original": "Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia",
       "titulo_post": "Eleições na Alemanha: O Impacto da Ascensão Política na Saxónia",
@@ -3259,6 +3229,142 @@
       "categoria_id": 7,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdaImP0-fP485Gxh1W3EHxIdds1TRfb4UuAn_aw0BwwiszZIqYBMwBk8SwkFBkAaJImHHIXhyaM6_UbQ_YwIT5OquwzA18wo3ZslOt5qQw--K2qCyZkOCYpp6UUdjcK_LS1YuIUQXaNEi80CS0bKwcKpXzyBvIUHoyqhrFdHofhoRUmm6MO587DkA_JyMVZB_7aBfB-PbJUP3bV7txv7mfgIKDxAq9kcyo6mAt4360ruKL1XlY-ITpqngKRm_wShlxCDRXM_Yv",
       "publicado_em": "2026-09-18T11:04:29.891672+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Eurodeputado: \"Fundos da UE não podem ser usados contra a op - DW.com",
+      "titulo_post": "Fundos da UE e Democracia: Debate Ganha Força em Moçambique",
+      "slug": "fundos-da-ue-e-democracia-debate-ganha-forca-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-18T16:11:35.600066+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Venâncio Mondlane anuncia nova data para o seu julgamento",
+      "titulo_post": "Venâncio Mondlane: Julgamento no Tribunal Supremo Tem Nova Data",
+      "slug": "venancio-mondlane-julgamento-no-tribunal-supremo-tem-nova-data",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-18T16:11:57.013150+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Maputo recebe festival de churrasco com sabores de Moçambique, Brasil e África do Sul",
+      "titulo_post": "Maputo Acolhe Festival Gastronómico com Sabores Internacionais",
+      "slug": "maputo-acolhe-festival-gastronomico-com-sabores-internacionais",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-18T16:12:14.598257+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "ADIN e empreiteiros de Cabo Delgado unem-se para acelerar a reconstrução regional",
+      "titulo_post": "Reconstrução de Cabo Delgado ganha força com empreiteiros locais",
+      "slug": "reconstrucao-de-cabo-delgado-ganha-forca-com-empreiteiros-locais",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-18T16:12:52.511155+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Clique aqui",
+      "titulo_post": "Eleições 2026: Como os Agregadores de Sondagens Medem Votos",
+      "slug": "eleicoes-2026-como-os-agregadores-de-sondagens-medem-votos",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-18T16:13:12.932267+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Segunda temporada de Spinners estreia no Maningue Magic em Outubro com mais adrenalina",
+      "titulo_post": "Segunda Temporada de Spinners Chega ao Maningue Magic com Emoção",
+      "slug": "segunda-temporada-de-spinners-chega-ao-maningue-magic-com-emocao",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-18T16:13:33.198929+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "INTIC Diz Que Moçambique Não Deve Apenas Importar Modelos de IA - diarioeconomico.co.mz",
+      "titulo_post": "Moçambique Deve Criar Soluções Próprias de Inteligência Artificial",
+      "slug": "mocambique-deve-criar-solucoes-proprias-de-inteligencia-artificial",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-18T16:13:53.685197+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Prepara Restrições no Uso da Água Face ao El Niño",
+      "titulo_post": "Moçambique Prepara Restrições no Uso da Água Face ao El Niño",
+      "slug": "mocambique-prepara-restricoes-no-uso-da-agua-face-ao-el-nino",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVatIIj-4JqlpmAgXoJQIMnOlaQFxUvnvuIvimxn2bx95HqyT1GvJWql61n_y93NCBZOtUZKrT2pTRCmBAG207hwTaCPRjv82sRTf3HaKewGo7zBk=",
+      "publicado_em": "2026-09-18T16:14:59.255575+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Custo do Crédito Trava Investimento Privado em Moçambique",
+      "titulo_post": "Custo do Crédito Trava Investimento Privado em Moçambique",
+      "slug": "custo-do-credito-trava-investimento-privado-em-mocambique",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTfP2i1_uZNo4L_4HXaBiau03Ll12myQUpn4tsfbtoCgAb-1pq021HFo0MqqhyfkWdbbfUPCpUb2gYrPCD8sFVj_kMY3scDz_zbsOGBrf5ghtabT6By3Ka3RqA9DNCklmYMm2g5ag0P9dKkM_mWyVLmHcfkGFqERZPvgeV3zTCrPio7bplaPNCm_XC2E_R5rR0Lz5lmhiM5pUHzqWfZbc4quxEcTb1YIQBqgtMtV7W9P_h-W8SqSn2LjObfw==",
+      "publicado_em": "2026-09-18T16:15:32.919756+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Reforça Apelo Contra Desinformação e Discurso de Ódio",
+      "titulo_post": "Moçambique Reforça Apelo Contra Desinformação e Discurso de Ódio",
+      "slug": "mocambique-reforca-apelo-contra-desinformacao-e-discurso-de-odio",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-FymyVcZxDvRJ6Z3tr0iJ6zKzOqxrqbQ7b944zVdKzeLJt5sj9i6qwwLp-0R5Jmp84TzRLZKJsgF33mlL-ASRScn7qfdcge97C52T5wL7AEzClO1lZO9WQ3y4gg==",
+      "publicado_em": "2026-09-18T16:16:10.795097+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Prevenção Essencial na Época Chuvosa",
+      "titulo_post": "Malária em Moçambique: Prevenção Essencial na Época Chuvosa",
+      "slug": "malaria-em-mocambique-prevencao-essencial-na-epoca-chuvosa",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-7j-06JaFC-i45GBe9Xpko0lzeywkr4DPDUK2mUEcRVahI6lfJYlEZU0V9GDa-utVO9RFS4edh-lKKwFCKq5ArOnt6JANvJpM8UIGLuv4wa9aaOsvgZhzNaaMVORCx1Dx7OAkB5pUGBYXVzYDXzrrnX0U0huJM0PWQjoLE-szkgHM2VIZeh4enAXY",
+      "publicado_em": "2026-09-18T16:17:25.640720+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "IA para Sistemas Físicos: O Novo Marco da Robótica Autónoma",
+      "titulo_post": "IA para Sistemas Físicos: O Novo Marco da Robótica Autónoma",
+      "slug": "ia-para-sistemas-fisicos-o-novo-marco-da-robotica-autonoma",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7gvMaEODSoZzMQ43AM7vDbft5z2bPpYSO-SHvWXv1mlyVurQd8Xd_JltxFkw-mkgx-j5VZi_gI5wHHkp8VnyWhZTYFAabIlYK7y3qUIMu2Kb7glFBZvdl9MZ77JyA3xFUH1H5QE57974Ioc8fgH5eVIVtnxnYmOQbn_Wxv3fhB3jNRymgrg5A0BDr",
+      "publicado_em": "2026-09-18T16:19:19.128318+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Células que Enganam a Morte Aceleram a Regeneração",
+      "titulo_post": "Biotecnologia: Células que Enganam a Morte Aceleram a Regeneração",
+      "slug": "biotecnologia-celulas-que-enganam-a-morte-aceleram-a-regeneracao",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlk_kCcTjaMPG6SYW2ZG5joZm9Dp86jFxRHX7ATKeITfNKlwjHiYqbPYnfPSdjjXDw173wpzucfMC0k3S_NzdHA5V10tQn6nS67Tt_V2TQW6Jg8huXAhMyoFa91FdJuo1UeUnQlI7dGSxxNJTiiWz-i_Hj",
+      "publicado_em": "2026-09-18T16:20:13.239470+00:00",
       "dry_run": false
     }
   ]
