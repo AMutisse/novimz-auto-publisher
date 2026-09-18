@@ -3,25 +3,6 @@
     {
       "site": "novimz",
       "fonte": "mznews",
-      "titulo_original": "FACIM: Governo anuncia importação de 800 touros para modernizar a pecuária nacional",
-      "titulo_post": "Moçambique vai importar 800 touros para impulsionar a pecuária",
-      "slug": "mocambique-vai-importar-800-touros-para-impulsionar-a-pecuaria",
-      "publicado_em": "2026-09-06T07:10:59.400704+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Governo lança 72 mil jovens no caminho da formação e do empreendedorismo",
-      "titulo_post": "Governo Impulsiona 72 Mil Jovens Rumo ao Empreendedorismo",
-      "slug": "governo-impulsiona-72-mil-jovens-rumo-ao-empreendedorismo",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-06T10:16:29.026384+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
       "titulo_original": "Standard Bank capacita PME em planeamento e execução estratégica",
       "titulo_post": "PME Fortalecem Estratégia de Negócios com Masterclass Inovadora",
       "slug": "pme-fortalecem-estrategia-de-negocios-com-masterclass-inovadora",
@@ -3206,6 +3187,78 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU7SNTnc0QGiNbpMv6kK7Sr0jp62hdPyFW9Ux7aEr-BtXGL4LvdyDoVIXqj5b9hJpbYU15IATLXHv6laEjw96D7fwrh6umWVFkBjvviLjRhwsm39zO0xIo3u4gzxyCiWozWp-gyqqa9A3dPo7AUBaVUC1uGE3oOGe-O_fmyG5W7rrxHGlyN6urJmg6gwWz5RGT74MGfhLBGk7b_SmqP1HIwnl3-WPjCnM=",
       "publicado_em": "2026-09-18T04:14:26.415737+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo quer aprovar regras para Inteligência Artificial nas escolas este ano",
+      "titulo_post": "Moçambique Terá Regras para Inteligência Artificial nas Escolas",
+      "slug": "mocambique-tera-regras-para-inteligencia-artificial-nas-escolas",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-18T10:57:38.492266+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Organização norueguesa estuda plataforma de exportação de amendoim em Moçambique - Portal Impala",
+      "titulo_post": "Noruega Avalia Plataforma Para Exportar Amendoim de Moçambique",
+      "slug": "noruega-avalia-plataforma-para-exportar-amendoim-de-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-18T10:58:23.374780+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "O contraditório entre a ambição regional do Metical e a escassez de divisas no País",
+      "titulo_post": "Metical na SADC: Ambição Regional Enfrenta Falta de Divisas",
+      "slug": "metical-na-sadc-ambicao-regional-enfrenta-falta-de-divisas",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-18T10:58:43.652996+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que SP já tem setembro mais chuvoso em mais de 80 anos — e chuva deve voltar neste fim de semana",
+      "titulo_post": "Chuvas Históricas em São Paulo Batem Recorde de Oito Décadas",
+      "slug": "chuvas-historicas-em-sao-paulo-batem-recorde-de-oito-decadas",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-18T10:59:18.565986+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique admite restrições no uso da água com agravamento do El Niño - Notícias ao Minuto",
+      "titulo_post": "Crise da Água: Moçambique Prevê Restrições com Impacto do El Niño",
+      "slug": "crise-da-agua-mocambique-preve-restricoes-com-impacto-do-el-nino",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-18T10:59:39.159959+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Redução de Casos Exige Mais Testagem Precoce",
+      "titulo_post": "HIV em Moçambique: Redução de Casos Exige Mais Testagem Precoce",
+      "slug": "hiv-em-mocambique-reducao-de-casos-exige-mais-testagem-precoce",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXlREtfBLJ_-151Eq_XP0W64Y6gc3fyKIBIT7FmIvqHiETyMiP8b5aYtwMvzdSi57XKW00tlLsziT9uQmbwwW9FZdply3DzR17rMKltSrGHSWxjnTT2e1N2ief24KLI9D-CXdWONLN3ubbdghXtvHm0R_JH-fkCFCQKV_JMQPMRO0J8xlV8x5OB6istdRb4tOqnAW04F0jsX15v211JIjAx2PhIw==",
+      "publicado_em": "2026-09-18T11:02:46.304008+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Sondas Danuri e LRO Revelam Cratera Inédita de Foguetão na Lua",
+      "titulo_post": "Sondas Danuri e LRO Revelam Cratera Inédita de Foguetão na Lua",
+      "slug": "sondas-danuri-e-lro-revelam-cratera-inedita-de-foguetao-na-lua",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdaImP0-fP485Gxh1W3EHxIdds1TRfb4UuAn_aw0BwwiszZIqYBMwBk8SwkFBkAaJImHHIXhyaM6_UbQ_YwIT5OquwzA18wo3ZslOt5qQw--K2qCyZkOCYpp6UUdjcK_LS1YuIUQXaNEi80CS0bKwcKpXzyBvIUHoyqhrFdHofhoRUmm6MO587DkA_JyMVZB_7aBfB-PbJUP3bV7txv7mfgIKDxAq9kcyo6mAt4360ruKL1XlY-ITpqngKRm_wShlxCDRXM_Yv",
+      "publicado_em": "2026-09-18T11:04:29.891672+00:00",
       "dry_run": false
     }
   ]
