@@ -3690,6 +3690,67 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA4VD_gf5164cEbYOSAOE5Sn-hlQcpCgLP_d6ZCnSJsuDmRlHocrAChA1XLTVHtBKgvUQSjbpBMV6i6wuI6vlbyvi6zcj7f9w5GklJUQ7MBEJiWcj0QoRK4SpdohjbgA==",
       "publicado_em": "2026-09-19T17:10:08.216001+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambicano suspeito de rapto é morto no Maláui durante uma operação de resgate",
+      "titulo_post": "Operação no Maláui expõe rede de rapto com ligações a Moçambique",
+      "slug": "operacao-no-malaui-expoe-rede-de-rapto-com-ligacoes-a-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-19T20:23:43.698117+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Rússia está travando uma 'guerra híbrida' contra a Europa?",
+      "titulo_post": "Guerra Híbrida: O Desafio Invisível Que Alarma a Europa",
+      "slug": "guerra-hibrida-o-desafio-invisivel-que-alarma-a-europa",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-19T20:24:08.869324+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique. UCM gradua 690 estudantes e exorta-os a servir com ética - Vatican News",
+      "titulo_post": "UCM Gradua 690 Novos Quadros e Apela à Ética Profissional",
+      "slug": "ucm-gradua-690-novos-quadros-e-apela-a-etica-profissional",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-19T20:24:28.275464+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que a cafeína deixa algumas pessoas em alerta e outras não sentem nada?",
+      "titulo_post": "Por Que o Cafe Deixa Uns em Alerta e Nao Faz Efeito Noutros?",
+      "slug": "por-que-o-cafe-deixa-uns-em-alerta-e-nao-faz-efeito-noutros",
+      "categoria_id": 9,
+      "publicado_em": "2026-09-19T20:24:43.658832+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Delegação de Moçambique visita o Alentejo para conhecer respostas do IEFP nas áreas do emprego e formação - Rádio Campanário",
+      "titulo_post": "Moçambique Procura no Alentejo Modelos de Emprego e Formação",
+      "slug": "mocambique-procura-no-alentejo-modelos-de-emprego-e-formacao",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-19T20:25:09.332869+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Células Solares Subaquáticas Geram Energia a 10 Metros",
+      "titulo_post": "Células Solares Subaquáticas Geram Energia a 10 Metros",
+      "slug": "celulas-solares-subaquaticas-geram-energia-a-10-metros",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPEATMUaJ6zQsOFU1sgeNCzOOZqV_-M71okbcaLmeC-WMg1eV_cnkAS22ddkObAg4LvnQtF_-ncR3ogd-jWZMinbgMNelMFXaybrsUKT5VLbcNnKhIDo-2m6NRckdjfcMDfDDA1bwFaKuq-8pKg9pP8bTWLZRz4tZ_8zPmM_f8Zp4kIgOTrp-r-vdaApuqX7UH5gNt4fEtz49aPRnGJ1zEWf3UniXy4xg=",
+      "publicado_em": "2026-09-19T20:26:25.200984+00:00",
+      "dry_run": false
     }
   ]
 }
