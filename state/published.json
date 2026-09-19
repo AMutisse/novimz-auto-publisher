@@ -3618,6 +3618,78 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfQ4BWTjA3tnjySu2Vo2aOdJLD2CFwLoz_xUgAui2begCHRHr0rZapR1G-LgNm5wnRZQUeXP6cjvpzszd-A9JuClVUhVQHOSHdBW4cL8Q8BIaW8xisxMTzhlk9_ywFn_YqbZwOdOccETtso7WrMD9zybBdzf0DlOr-m1Sd",
       "publicado_em": "2026-09-19T12:31:37.563371+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Adeptos agridem e arrastam presidente do Textáfrica do Campo Municipal de Chimoio",
+      "titulo_post": "Crise no Textáfrica de Chimoio Gera Incidentes no Campo Municipal",
+      "slug": "crise-no-textafrica-de-chimoio-gera-incidentes-no-campo-municipal",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-19T17:06:32.807083+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
+      "titulo_post": "Mãe vence corrida descalça para comprar material escolar da filha",
+      "slug": "mae-vence-corrida-descalca-material-escolar",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-19T17:07:09.954533+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Sociedade civil alerta para aumento da insegurança em Moçambique",
+      "titulo_post": "Sociedade Civil Alerta Para Desafios da Segurança em Moçambique",
+      "slug": "sociedade-civil-alerta-para-desafios-da-seguranca-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-19T17:07:48.437080+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Perdeu Uma Década de Transformação Económica — E 1,2 Milhão de Empregos Mais Produtivos - O.Económico",
+      "titulo_post": "Moçambique Perde Década de Crescimento e 1,2 Milhão de Empregos",
+      "slug": "mocambique-perde-decada-de-crescimento-e-1-2-milhao-de-empregos",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-19T17:08:05.997956+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique necessita de 4 MM$ para projecto de abastecimento de água e saneamento",
+      "titulo_post": "Moçambique Precisa de 4 Mil Milhões de Dólares para Água",
+      "slug": "mocambique-precisa-de-4-mil-milhoes-de-dolares-para-agua",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-19T17:08:21.783186+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambicana Nomeada Para Prémio de Engenharia na Austrália",
+      "titulo_post": "Moçambicana Nomeada Para Prémio de Engenharia na Austrália",
+      "slug": "mocambicana-nomeada-para-premio-de-engenharia-na-australia",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6NX55F56yffoaTWBfEM69l6ZQz41yahKJ0UteDW2w33XrAEXwrBKMEjnEztkEKmU_RokF8TryQEfMf3QZ6NNt8vVz8oVx2NR5VL88uwzr-e8c2gXHsN8I0ajwTfS6PQrEHow5pFOJU3w4EPq-qZ3PGjX5Yx8xPq5qQ_Jwp1pIqao-qlnRVAo0B92jUuHD60JQoKHYufnK_2irnR8rrevfsT8EmWwrbqm8OgjaTyJG4Nw=",
+      "publicado_em": "2026-09-19T17:09:13.257644+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Leva Diálogo Nacional Inclusivo à Diáspora",
+      "titulo_post": "Moçambique Leva Diálogo Nacional Inclusivo à Diáspora",
+      "slug": "mocambique-leva-dialogo-nacional-inclusivo-a-diaspora",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA4VD_gf5164cEbYOSAOE5Sn-hlQcpCgLP_d6ZCnSJsuDmRlHocrAChA1XLTVHtBKgvUQSjbpBMV6i6wuI6vlbyvi6zcj7f9w5GklJUQ7MBEJiWcj0QoRK4SpdohjbgA==",
+      "publicado_em": "2026-09-19T17:10:08.216001+00:00",
+      "dry_run": false
     }
   ]
 }
