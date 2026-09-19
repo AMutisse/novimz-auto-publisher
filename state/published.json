@@ -2,16 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Direita radical na Alemanha caminha para vitória estadual inédita desde a 2ª Guerra Mundial",
-      "titulo_post": "Reviravolta Política na Alemanha Redefine Cenário Eleitoral",
-      "slug": "reviravolta-politica-na-alemanha-redefine-cenario-eleitoral",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-07T02:15:25.746121+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "sociedade",
       "titulo_original": "FAO reforça segurança alimentar com 350.000 alevinos em Moçambique - SAPO",
       "titulo_post": "Aquacultura: FAO Distribui 350 Mil Alevinos em Moçambique",
@@ -3438,6 +3428,71 @@
       "categoria_id": 6,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHji96stCxOV-9Ew45vtsVh3mCRkAbM5kULbRJEL5bKRA79TpzsmxQWDd0jPzyraG2KOOw416mRms5cBRRTaiD0RCRV07ZHnCgZPUBzXlz7ViK9qqamoqojW_uzEwvRM0AAHWiIj3SXSYXFgcboTwaZ3iQlgvSb3VTGAqmeSYMPPso=",
       "publicado_em": "2026-09-19T00:09:51.008847+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "FUNDEC defende investimento e diversificação para sustentar crescimento económico",
+      "titulo_post": "Moçambique: Diversificação e Investimento para Alavancar o PIB",
+      "slug": "mocambique-diversificacao-e-investimento-para-alavancar-o-pib",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-19T07:13:10.171067+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique e FMI Negociam Novo Programa de Apoio Financeiro",
+      "titulo_post": "Moçambique e FMI Negociam Novo Programa de Apoio Financeiro",
+      "slug": "mocambique-e-fmi-negociam-novo-programa-de-apoio-financeiro",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu08Rw-MOgM9S6wM1BQaZF4lBmoXct4D5gfXx2PDQHRSCAH4zJEUUAHh93_oEB3Y9FXk72ctwjX0MKcbnGYyakorU7FG16_xz6D6XXU7_N5G-RZAOL_XlfsfDxyjWhMYQZDtMfg_4MgqldVW7RbrBzyd5PWY2I8OkpRh5QnyKh6eHCeBKD-wjvDn4CP84cjAi7-VHi5d4fhHq1Sa5c9EZZe2aEtG0hqsSMO8qn",
+      "publicado_em": "2026-09-19T07:14:01.759519+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Julgamento de Venâncio Mondlane Reagendado Para Novembro",
+      "titulo_post": "Julgamento de Venâncio Mondlane Reagendado Para Novembro",
+      "slug": "julgamento-de-venancio-mondlane-reagendado-para-novembro",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjsdD9fmfUhymP_NBqu9kyrERkqKL4lK6WvOMEDVkccyaT9QvBRdnvyxpAiU1VEHNuJx8phm46P5M215FY3OcpK0rHpCAmQYXJpH6DLREHlAsHxmK9RcvCnsfltDy-46Ep_ulHbxF6EvPrjiQRxF-ajg4U1kcp-IsaiuIJwCF62GSp3UOkC3bo6vTBYH5kXZJ-hYfUO5F8zfPVuqPH5jV_8J225hBvwdi35IF_hAjf",
+      "publicado_em": "2026-09-19T07:14:29.520532+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Lenacapavir em Moçambique: Nova Opção de Prevenção do HIV",
+      "titulo_post": "Lenacapavir em Moçambique: Nova Opção de Prevenção do HIV",
+      "slug": "lenacapavir-em-mocambique-nova-opcao-de-prevencao-do-hiv",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW5YoH3evIi4GYhloFVdf1V21o24Ac4RD88vPlgb2NF5aGR45vHf69qtqR2ZBAh8Y29lMeRReSwX3580v8VyVOpX5wCtV5_CAxUJ6DLhmWs1stRtWdtuLgVHxell1fwPyzOmPK8agvpdJtMs9ubc3X-NcrPZAcGJac-7DAJyGhM6Y0-9CRqKU8D3Eu35EEc5QCProSoYtsLmEuBZ7qhcTiz3xCEQhBHvD0RoVKaeO1rMGzplm9edxYPGjUS5YnZAaVuHD_hbi7sD9ZbYzvgpG6",
+      "publicado_em": "2026-09-19T07:15:40.403731+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "MIT Cria HardFlow: IA Generativa Agora Cumpre Regras Rígidas",
+      "titulo_post": "MIT Cria HardFlow: IA Generativa Agora Cumpre Regras Rígidas",
+      "slug": "mit-cria-hardflow-ia-generativa-agora-cumpre-regras-rigidas",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjN7jBqaeMhq2_80rYQddn6v8DWwjZkPTr9GOi3eGAorFHOAxszc_bX-J-08XrrdBYD39tTsUt4MewaGo3zp4KevySK71x5hPCEnCmokrJERx8KAOf6XDZpYiTVcvktkvwHqZfo1W5m_qpNHxt2u-Nc_tG-Ukka1g9VJEotkXJVbk24Ab2MMoWBFCyzBNX-0vs5X-BmrMz3kIhIfc7o34=",
+      "publicado_em": "2026-09-19T07:16:33.239783+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Webb Descobre Estrelas Falhadas com Duas Vezes a Massa de Júpiter",
+      "titulo_post": "Webb Descobre Estrelas Falhadas com Duas Vezes a Massa de Júpiter",
+      "slug": "webb-descobre-estrelas-falhadas-com-duas-vezes-a-massa-de-jupiter",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGttvyV0tjT3YBFqLmwoyQyJg-951mDePa42RsyYWY9kSoezbCurypYE1Vuxs9BDt04CP-6eCrhKJE2ALhEatBYH7tQ3fxRyFjspsvU8gssa7dA9XOzlNoWBe3o_rB4U-PiPDbba1ATpeiF6B0hYQVgelE3MzCNsoTjhvTaXRvkfFt64H5BFo5IK5Hr9YWPBE1DfEccZch1-BW-qiSfBiFcyA==",
+      "publicado_em": "2026-09-19T07:17:04.477233+00:00",
       "dry_run": false
     }
   ]
