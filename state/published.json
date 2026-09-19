@@ -3376,6 +3376,69 @@
       "categoria_id": 3,
       "publicado_em": "2026-09-18T20:44:23.571086+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Assim vai Moçambique - observador.pt",
+      "titulo_post": "Moçambique Hoje: Desafios, Dinâmicas e Novos Horizontes",
+      "slug": "mocambique-hoje-desafios-dinamicas-e-novos-horizontes",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-19T00:04:00.713097+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "EUA e Dinamarca fecham acordo sobre a segurança da Groenlândia",
+      "titulo_post": "EUA e Dinamarca Estabelecem Acordo de Segurança para a Groenlândia",
+      "slug": "eua-dinamarca-acordo-seguranca-groenlandia",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-19T00:04:36.588327+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Chefes de empresas de tecnologia pedem desaceleração da IA — mas o que a China pensa?",
+      "titulo_post": "Corrida da IA: Pedidos de Pausa e o Papel Estratégico da China",
+      "slug": "corrida-da-ia-pedidos-de-pausa-e-o-papel-estrategico-da-china",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-19T00:05:20.207503+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Cuidados Pré-Natais em Moçambique: Guia Essencial para a Gestante",
+      "titulo_post": "Cuidados Pré-Natais em Moçambique: Guia Essencial para a Gestante",
+      "slug": "cuidados-pre-natais-em-mocambique-guia-essencial-gestante",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2sBz4mcG2_VDOmGJnrNYwCsmzdc1uRfkv3jB4MVWDGr2fAgPtLqvEdA9ZVdd5K244CZ60rLbT1a5WNtOjJG9pC3pYb44UEPnzLlvlDWo75vjgcQ==",
+      "publicado_em": "2026-09-19T00:07:55.759608+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Tuberculose em Moçambique: Sinais de Alerta e Avanços no Cuidado",
+      "titulo_post": "Tuberculose em Moçambique: Sinais de Alerta e Avanços no Cuidado",
+      "slug": "tuberculose-em-mocambique-sinais-de-alerta-e-avancos-no-cuidado",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQQyZsVUAChkLfOvUHZ5vqghobARU3aCycmq31vL67J4NcMqnU31QFkG0uc1EpNwuuMliLk-J4fskGEcp6S_c8gVqa31-yxCYZEbEqQS3PAdahp7vnLw9Wi0s1O2LkwRqpnzBNr8Rhq8WW-261Vk9_KZD-UWa5pzsd8eexQYpgkhEuRjizr5g2zzDrceKtKUiMNQ4Q0_XtC95LZTTfV6lGV9B7C-iTrx2SVd8J90u1l8c=",
+      "publicado_em": "2026-09-19T00:08:46.787915+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "IA: Stanford Cria Empresa Virtual com 37 Mil Cientistas Autónomos",
+      "titulo_post": "IA: Stanford Cria Empresa Virtual com 37 Mil Cientistas Autónomos",
+      "slug": "ia-stanford-cria-empresa-virtual-com-37-mil-cientistas-autonomos",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHji96stCxOV-9Ew45vtsVh3mCRkAbM5kULbRJEL5bKRA79TpzsmxQWDd0jPzyraG2KOOw416mRms5cBRRTaiD0RCRV07ZHnCgZPUBzXlz7ViK9qqamoqojW_uzEwvRM0AAHWiIj3SXSYXFgcboTwaZ3iQlgvSb3VTGAqmeSYMPPso=",
+      "publicado_em": "2026-09-19T00:09:51.008847+00:00",
+      "dry_run": false
     }
   ]
 }
