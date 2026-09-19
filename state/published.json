@@ -3494,6 +3494,130 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGttvyV0tjT3YBFqLmwoyQyJg-951mDePa42RsyYWY9kSoezbCurypYE1Vuxs9BDt04CP-6eCrhKJE2ALhEatBYH7tQ3fxRyFjspsvU8gssa7dA9XOzlNoWBe3o_rB4U-PiPDbba1ATpeiF6B0hYQVgelE3MzCNsoTjhvTaXRvkfFt64H5BFo5IK5Hr9YWPBE1DfEccZch1-BW-qiSfBiFcyA==",
       "publicado_em": "2026-09-19T07:17:04.477233+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Floresta das borboletas em Moçambique passa a beneficiar de proteção legal comunitária - SIC Notícias",
+      "titulo_post": "Floresta das Borboletas Ganha Proteção Legal em Moçambique",
+      "slug": "floresta-das-borboletas-ganha-protecao-legal-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-19T12:24:11.234992+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "FMI fecha missão de avaliação a Moçambique e abre caminho para novo financiamento",
+      "titulo_post": "FMI Avalia Moçambique e Abre Caminho a Novo Financiamento",
+      "slug": "fmi-avalia-mocambique-e-abre-caminho-a-novo-financiamento",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-19T12:24:31.107243+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "De 'guardião' da Constituição de 1988 ao centro da política: como o STF ficou tão poderoso",
+      "titulo_post": "Como a Suprema Corte Brasileira Ganhou Tanto Poder Político",
+      "slug": "como-a-suprema-corte-brasileira-ganhou-tanto-poder-politico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-19T12:25:07.089213+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Velório de Ídasse Tembe Malendza realiza-se segunda-feira no Paços do Município de Maputo",
+      "titulo_post": "Maputo Presta Último Tributo ao Artista Plástico Ídasse Tembe",
+      "slug": "maputo-presta-ultimo-tributo-ao-artista-plastico-idasse-tembe",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-19T12:25:25.107589+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique/Ataques: Forças de Defesa rejeitam expansão do terrorismo para Niassa após ataque em acampamento - LUSA",
+      "titulo_post": "Defesa Afasta Risco de Expansão do Terrorismo em Niassa",
+      "slug": "defesa-afasta-risco-de-expansao-do-terrorismo-em-niassa",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-19T12:25:40.941653+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Maputo: Município da Matola lança Xitique” da Mulher para reforçar o acesso ao financiamento",
+      "titulo_post": "Matola Lança Xitique da Mulher para Impulsionar Negócios Femininos",
+      "slug": "matola-lanca-xitique-da-mulher-para-impulsionar-negocios-femininos",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-19T12:26:05.827220+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Mymba Kuéra: como foi o monumental resgate de mais de 30 mil animais durante a construção de Itaipu, entre o Brasil e o Paraguai",
+      "titulo_post": "Mymba Kuéra: O Monumental Resgate de Animais em Itaipu",
+      "slug": "mymba-kuera-o-monumental-resgate-de-animais-em-itaipu",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-19T12:26:31.356208+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Nozdizzy lança EP “Txio Futuro” com colaborações internacionais",
+      "titulo_post": "Nozdizzy Apresenta EP Txio Futuro com Parcerias Internacionais",
+      "slug": "nozdizzy-apresenta-ep-txio-futuro-com-parcerias-internacionais",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-19T12:26:50.261185+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Cólera em Moçambique: Cuidados e Prevenção para Evitar Novos Surtos",
+      "titulo_post": "Cólera em Moçambique: Cuidados e Prevenção para Evitar Novos Surtos",
+      "slug": "colera-em-mocambique-cuidados-e-prevencao-para-evitar-novos-surtos",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBYh7NnvUZm9XnjMUHuxlfCUpXTItY5mYSg21kgFsOTR4Jp4QpLo9TB0cLz-h_e4N5u-lpLA-Cdd8b9RPK-mosah00dyy3dU-60vdSRDZ8nmAe72iKuzuwev6-a6g0gV9fanPkrZqrOyQSueBkJ4vlZJizhqS0Ye7m5P5mg7BVb8HJ9MSxWPFqkw==",
+      "publicado_em": "2026-09-19T12:29:55.447515+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "IA Cria IA: Claude Já Lidera 26% do Desenvolvimento na Anthropic",
+      "titulo_post": "IA Cria IA: Claude Já Lidera 26% do Desenvolvimento na Anthropic",
+      "slug": "ia-cria-ia-claude-ja-lidera-26-por-cento-desenvolvimento-anthropic",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1kU3b967grC2yJrs14jIkSrC4xXttzzxddIkH69ZLpL7H4sWywVb8TpGIQHd6z-xMPaUzc0bNjgWcg0AtnZevLU4PeFh8KimykZbBWdpxtUJYWzjaDNu7136mCEAkU0s1DG3M1ksk9pb4ycbAHNa2tdExZoFp",
+      "publicado_em": "2026-09-19T12:30:25.850087+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Webb Decifra Segredo dos Pontos Vermelhos no Amanhecer Cósmico",
+      "titulo_post": "Webb Decifra Segredo dos Pontos Vermelhos no Amanhecer Cósmico",
+      "slug": "webb-decifra-segredo-dos-pontos-vermelhos-no-amanhecer-cosmico",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgbPpkNSal5HDQZKJc6HohODomxhwUdvFjG_1pWoHkQwg0-hCbVcTfVWb9bZMTR33rQL7jSsA9W9Vsi04vNjv1cEHqJ-ruOlTL1m4Ci0t9wf0WWjTVKx4ds1x7x2vaHwScNMQz-91tHMHPjJkFvwhMiLjnWTfgmpEf6zFa9bE3Vd2z_zoVrpRLSUHHHsD8tROZWSFIxJuthDHalWPPIUmIUz-PQtnv59CAH70f1iwBnyOIclOlgnM44_yg_plh5z_8VaLuBV9mPncbN7ovIECFf2ct2gt8D_chTCQz",
+      "publicado_em": "2026-09-19T12:31:02.426142+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia Cria Células CAR-T Diretamente Dentro do Corpo",
+      "titulo_post": "Biotecnologia Cria Células CAR-T Diretamente Dentro do Corpo",
+      "slug": "biotecnologia-cria-celulas-car-t-diretamente-dentro-do-corpo",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfQ4BWTjA3tnjySu2Vo2aOdJLD2CFwLoz_xUgAui2begCHRHr0rZapR1G-LgNm5wnRZQUeXP6cjvpzszd-A9JuClVUhVQHOSHdBW4cL8Q8BIaW8xisxMTzhlk9_ywFn_YqbZwOdOccETtso7WrMD9zybBdzf0DlOr-m1Sd",
+      "publicado_em": "2026-09-19T12:31:37.563371+00:00",
+      "dry_run": false
     }
   ]
 }
