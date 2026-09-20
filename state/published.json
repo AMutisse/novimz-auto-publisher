@@ -3816,6 +3816,89 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTRliGD4J3e9sTkLSVn3RfnuIaD3zEfsnFF8Cr2zs3CwTT-Yk9ubWMbMweojhV2ggYQPU1WIq5gALQ7MWYkZ_jgECjoGj3Ge8lXBg_6WUpePWRpYavNdg-y4wk_w4tHOGeuLgV4M4ZTmuAQfndKTrh_kamhTnn_ESM-ISJC9FAP3hdPFPUgR1tc_ul",
       "publicado_em": "2026-09-20T04:49:12.144506+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo anuncia reabilitação dos regadios do Limpopo e Chókwè para reforçar gestão hídrica",
+      "titulo_post": "Regadios do Limpopo e Chókwè Serão Reabilitados em Gaza",
+      "slug": "regadios-do-limpopo-e-chokwe-serao-reabilitados-em-gaza",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-20T11:03:22.920459+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Não tenho notícias dele há quase cinco anos': as mães que procuram seus filhos no sistema prisional do regime de exceção de Bukele em El Salvador",
+      "titulo_post": "Mães em El Salvador unem-se na busca por filhos detidos",
+      "slug": "maes-em-el-salvador-unem-se-na-busca-por-filhos-detidos",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-20T11:03:51.415515+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Secretário de Estado do Niassa exige o fim de práticas de linchamentos na província",
+      "titulo_post": "Niassa Reforça Medidas Contra Prática de Linchamentos",
+      "slug": "niassa-reforca-medidas-contra-pratica-de-linchamentos",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-20T11:04:20.081852+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A guerra pode se espalhar pela Europa. Você está psicologicamente preparado?",
+      "titulo_post": "Europa e o Risco de Conflito: O Desafio da Preparação Mental",
+      "slug": "europa-e-o-risco-de-conflito-o-desafio-da-preparacao-mental",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-20T11:04:43.129799+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique busca cooperação energética no fórum de Petróleo e Gás do Rio de Janeiro",
+      "titulo_post": "Moçambique Reforça Atração de Investimento em Petróleo e Gás",
+      "slug": "mocambique-reforca-atracao-de-investimento-em-petroleo-e-gas",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-20T11:05:13.776778+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "BCI Prepara Entrada na Bolsa de Valores de Moçambique em 2027",
+      "titulo_post": "BCI Prepara Entrada na Bolsa de Valores de Moçambique em 2027",
+      "slug": "bci-prepara-entrada-na-bolsa-de-valores-de-mocambique-em-2027",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3m63M_1WSQhyWU1Q3rO9HJYNIs2fEPCDdiT80FW74DMNuIPZjvXLACsMQOiUfdDzAOj99ObRWDnsIW-Od4O3s7q3Ls_tSOOpJPoPx06Ed8ly7I-JlFaDP1181o3IzCeQ5AYqNWLtYmgFaS8E0vUlPao-TY2DxTZ-l3tPfRlLGRZiG7BQBj--r6n52cVvfoTQC4Q5CnzcqjoS7XRleTXGZ7qiMkXHbb-icNyCse8zMq2Pb_zvXCLGYfROOZZZSZ4r8oC5fHdCLh_rwrS2e",
+      "publicado_em": "2026-09-20T11:05:51.295009+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Adesão e Retenção no Tratamento",
+      "titulo_post": "HIV em Moçambique: Adesão e Retenção no Tratamento",
+      "slug": "hiv-em-mocambique-adesao-e-retencao-no-tratamento",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_S4rdQjZrKT2gH-oiS6LkEVXJKd7M3cr0B198Vidpd4NWz4sCDnHejxqa4VZSxDkZPEpJeoPCtzPXQ9Qf2cvDmPOkyYBf0V9JEJNNV1ejn4wGnQzpeyA_th2QSVE5A_ditXUKLoTvoAJ-UtuHtmAat6fQ18WKN-iuPpTYHyML2aVRTd0RRAcF0gOdmh1n0vQCwZJiHWR6MTWOiZLjuiOpz0VD7Jc=",
+      "publicado_em": "2026-09-20T11:07:28.013972+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Gemini do Google Invade Três Empresas em Teste de Segurança",
+      "titulo_post": "Gemini do Google Invade Três Empresas em Teste de Segurança",
+      "slug": "gemini-do-google-invade-tres-empresas-em-teste-de-seguranca",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYJpELgGqygPA5u2mixAAa14r3ZYl90snfTRf_BcYA8Ca66U8LzkEcsXCYSufUp2LUqo8w1hvM1HYcJUkh_WHmCg3j_yq62wdsEIgUXs7bGCluJ_ONWO9MUBkecNbk4Fb_xakzILlmjm-dU5cqHmQ_j-SMYEsINC_XKIfAQ-EJxnSj1Dfmt0SgciJPD5JTCWPG8txebdMHEF2J5NSU3wpHTMCP1Ztcs2AO1RFH-4ywbcso5c1K7F-Jn00XeNRFUZ7u4SjB5VOgGCKhCQg=",
+      "publicado_em": "2026-09-20T11:08:13.451532+00:00",
+      "dry_run": false
     }
   ]
 }
