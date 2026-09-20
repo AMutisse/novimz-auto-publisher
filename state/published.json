@@ -3751,6 +3751,49 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPEATMUaJ6zQsOFU1sgeNCzOOZqV_-M71okbcaLmeC-WMg1eV_cnkAS22ddkObAg4LvnQtF_-ncR3ogd-jWZMinbgMNelMFXaybrsUKT5VLbcNnKhIDo-2m6NRckdjfcMDfDDA1bwFaKuq-8pKg9pP8bTWLZRz4tZ_8zPmM_f8Zp4kIgOTrp-r-vdaApuqX7UH5gNt4fEtz49aPRnGJ1zEWf3UniXy4xg=",
       "publicado_em": "2026-09-19T20:26:25.200984+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "CIRMO abre XXXVII Assembleia Geral e elege novo Conselho Permanente - Vatican News",
+      "titulo_post": "CIRMO Realiza XXXVII Assembleia e Renova Liderança em Moçambique",
+      "slug": "cirmo-realiza-xxxvii-assembleia-e-renova-lideranca-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-19T23:59:43.653507+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Sobrevivência Infantil em Moçambique: Prevenção e Cuidados",
+      "titulo_post": "Sobrevivência Infantil em Moçambique: Prevenção e Cuidados",
+      "slug": "sobrevivencia-infantil-em-mocambique-prevencao-e-cuidados",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjVwVVsGufho99rG4M4Fx8dcMkduZMqWVfg5yEOqvCuClxnA8aYbLf1Zasnk1aN1HNoMClGThkHqD3NHYhnSFQ4OD3lOggeru5sPTUe_lIyh1igcHNTkPyp9mFLQhVfXZE6SFwTfKCbhiGomG_Eg77BUc-iDdIXpZW_bkMxwW_IwedZ_rRlPxWSz5Bwf2avNwENvq6Efmrqgpd8CxH9Tp5NYeLmbU6U6viJvi0BiGT9JjuctiG0_DyeW-6O5KfuvpNtmEiLuQPlgFvHXcFwQ==",
+      "publicado_em": "2026-09-20T00:04:51.962911+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Constelação Cislunar: 30 Satélites Vão Monitorar Espaço Terra-Lua",
+      "titulo_post": "Constelação Cislunar: 30 Satélites Vão Monitorar Espaço Terra-Lua",
+      "slug": "constelacao-cislunar-30-satelites-vao-monitorar-espaco-terra-lua",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-Wh7r4eMmhXcxpwOTyqUFok92NF3ogRr7Mf58sVZeZPJEISd_T5EF8wudOMYMwyVegXx31LoFRlK64z9x5Bptcw43JOOsszAP7m9nC6cJy3Blzc_uZNnTJPPaRNsVs-GA0UzBHD0wXw3mfEBR3l2ACXB0-dbMLFbkDDmq-1IRd4zSyN-br3QgGZIUUnW8zCWVLNGSwrnxvXTy",
+      "publicado_em": "2026-09-20T00:06:08.631871+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Enzima Rara do Fundo do Mar Cria Fertilizante Verde",
+      "titulo_post": "Biotecnologia: Enzima Rara do Fundo do Mar Cria Fertilizante Verde",
+      "slug": "biotecnologia-enzima-rara-do-fundo-do-mar-cria-fertilizante-verde",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj2XGnskV5mBFS8c116e5KtXT9Kx3cZu6UFykQLMp05XVrXm01fwdJkRZTyMfwNyBAa6mYIb5qvoaIbyUADfEwFf2P0Bdg_prfznmT9AsyQoEHQrP7p5dJp3mDUnw8n_Lb7gJNRgfi4NNh0xbEm5DIjut6_WQNygkMO7s98GrDgoIbTBiHRp51_tnY663x5OqLSqg0AKrnt83lmXzshBBx",
+      "publicado_em": "2026-09-20T00:07:08.576858+00:00",
+      "dry_run": false
     }
   ]
 }
