@@ -3992,6 +3992,59 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYjAPv0qiVH6e0zE2C6lsaWSyzDfMAxwVJR3FQd2YJkvu-TwpOXq7i6UW2VfGbCbfcPCvgXSVeQ21ZjaJSCCJKzUlTU_4FGCJlL-EMzF6PbxLe1ZibP9E1GlyVx_o2aIFcH68pOSTVofY-jvH6nBSsOLxmMaB8RCK7SfhXV51kxw6dRayQC3sOkIITxSDV1_jhaRpEzIFTAFpXyq8L3SRFArWcBMdMQ64cVKfpKit5TR6flN_iTjSid7gUbg==",
       "publicado_em": "2026-09-20T15:54:43.523308+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Millennium bim conquista prémio de melhor acção de responsabilidade social e corporativa",
+      "titulo_post": "Millennium bim Premiado por Responsabilidade Social em Moçambique",
+      "slug": "millennium-bim-premiado-por-responsabilidade-social-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-20T18:37:31.644035+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que grandes petroleiras americanas não integram acordo que dá controle de reservas da Venezuela aos EUA de Trump",
+      "titulo_post": "Petróleo da Venezuela: Por Que Gigantes dos EUA Recuam do Negócio",
+      "slug": "petroleo-da-venezuela-por-que-gigantes-dos-eua-recuam-do-negocio",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-20T18:37:47.943252+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Escassez de Divisas e Matérias-Primas Trava Indústria em Moçambique",
+      "titulo_post": "Escassez de Divisas e Matérias-Primas Trava Indústria em Moçambique",
+      "slug": "escassez-de-divisas-e-materias-primas-trava-industria-em-mocambique",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEua3jfOss4RakQQpKRB6XPFhrebi5P3Is3MD1IZyF5Odfhp4i8iO35V8QHTwUbyOHR7Xs-BhX9Wovn5_kYqjVOO3lXNy04NsuyhaNGD7kt6ZgVuZp34bMOJV86j6nOMO_GnQCHi-ZQKfc46hOvPk9m5vCAW1AEyeYioGcqxV_aS_PtAvz_o15JmAeusShhUhgsOt7lUG72XO9XOECAO3TnrQD8jVjGSApKOvlqA==",
+      "publicado_em": "2026-09-20T18:38:31.078213+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Assembleia Geral da ONU Reúne Líderes Sob Crise Histórica",
+      "titulo_post": "Assembleia Geral da ONU Reúne Líderes Sob Crise Histórica",
+      "slug": "assembleia-geral-da-onu-reune-lideres-sob-crise-historica",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECv-TS8ssOG9ERzDUcezGBegj3L20FF9FKs2q9oF1_w3_wHyRfOiP84FJxU6iOncdJ2MFcnqJjd8lUc4Ch_DzJH5bavR22AxdTUiTebzxVKZFFtZblvH5AtW9Vs_O09tri3X8CvIIf0C7Q-vbnVYjL4KoC7Qj4W98aEvL-ZT8_4FZrSQK_O6CfT7h6-96ZjluxHMop4tBGPPmVkyZlaIqH0T4duFDb6sQ=",
+      "publicado_em": "2026-09-20T18:39:42.497862+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "IA BENDER Mapeia 1,1 Milhão de Alvos Contra Doenças Tropicais",
+      "titulo_post": "IA BENDER Mapeia 1,1 Milhão de Alvos Contra Doenças Tropicais",
+      "slug": "ia-bender-mapeia-1-1-milhao-de-alvos-contra-doencas-tropicais",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKhe9gmnAWdbhNSYOZPeAjonsmoHdQBgnGc3xdYf43hkO1HsHo5rDU01KjWJqcD_AKKq5zCH9gB6Y0V2VttHt3AqEbBrRSJP3SPY9MK_qHk7GPsZZ9X3WyTeQ7Mk3yC7ImBMkY5zkrLOEnz4MQjpHGTTHGOC2u_yAuqHNMY75lbFc=",
+      "publicado_em": "2026-09-20T18:41:11.259215+00:00",
+      "dry_run": false
     }
   ]
 }
