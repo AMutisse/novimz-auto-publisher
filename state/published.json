@@ -4045,6 +4045,69 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKhe9gmnAWdbhNSYOZPeAjonsmoHdQBgnGc3xdYf43hkO1HsHo5rDU01KjWJqcD_AKKq5zCH9gB6Y0V2VttHt3AqEbBrRSJP3SPY9MK_qHk7GPsZZ9X3WyTeQ7Mk3yC7ImBMkY5zkrLOEnz4MQjpHGTTHGOC2u_yAuqHNMY75lbFc=",
       "publicado_em": "2026-09-20T18:41:11.259215+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Biblioteca e espaço lúdico sustentam esperança em Massangulo - Sete Margens",
+      "titulo_post": "Biblioteca em Massangulo Transforma Futuro de Jovens",
+      "slug": "biblioteca-em-massangulo-transforma-futuro-de-jovens",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-20T22:19:48.423358+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os cientistas que salvam filhotes de araras de seus pais assassinos",
+      "titulo_post": "Como Cientistas Salvam Filhotes de Araras na América Latina",
+      "slug": "como-cientistas-salvam-filhotes-de-araras-na-america-latina",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-20T22:20:36.458014+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como uma janela de avião é feita? Saiba por que fabricação exige engenharia complexa",
+      "titulo_post": "Como São Feitas as Janelas de Avião e a Engenharia Por Trás",
+      "slug": "como-sao-feitas-as-janelas-de-aviao-e-a-engenharia-por-tras",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-20T22:21:46.466815+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Diagnóstico Rápido e Medidas de Prevenção",
+      "titulo_post": "Malária em Moçambique: Diagnóstico Rápido e Medidas de Prevenção",
+      "slug": "malaria-em-mocambique-diagnostico-rapido-e-medidas-de-prevencao",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiowroKW4SLIGhiALinYs3G_I5BtCvUAOihNWhQZFQmD4flUbU-90XDXEOEvkYbJ861YNJKICoM8jQ1eQ975vySrSf0pEasidwSkuxFe358dL78Je1845bdA==",
+      "publicado_em": "2026-09-20T22:23:53.382511+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Hipertensão e Diabetes em Moçambique: Alerta e Prevenção",
+      "titulo_post": "Hipertensão e Diabetes em Moçambique: Alerta e Prevenção",
+      "slug": "hipertensao-e-diabetes-em-mocambique-alerta-e-prevencao",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1_uD0lxhAYHRKHA1jtVS-gun6RhZJMNU7OWb6kaNNuM_XWu_G6-cZvTT9pwWbllZ8ZMb2eZ6g4iOPFEOZ6MwuWvNZM7rKiPsWDOS2UEKTzDb5fUfGztuY0Rma9WNGSsM3bwL7QqN72yneVLK6_VuxoAh_mFXz3Tw0ct9lSPsKN7pXFHITj0AjbCZqxPTmIGmYunCzTj0epTM=",
+      "publicado_em": "2026-09-20T22:25:34.391243+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Lua 2030: China Revela Fato Espacial e Avança Rumo à Alunagem",
+      "titulo_post": "Lua 2030: China Revela Fato Espacial e Avança Rumo à Alunagem",
+      "slug": "lua-2030-china-revela-fato-espacial-e-avanca-rumo-a-alunagem",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2mURUxva2kGsxa9oaS4LaqQ2SI59iFwW-wGzAmUG7DxLmvCvusu-1vIgO_fLx-Bv3f0Ictm_hTMBrpjbhvcChKeK2XjPxM55YXUqVRsVQKbnjGEZ-nzL1V9Er7rPZf_VOYNU--ldtpVsI02xgVbZGZlbktzwuoTDL1-qtLtJqtiu7aAfDOp51SJJt12sNcUeaU_ConsR742IitGshnls=",
+      "publicado_em": "2026-09-20T22:26:22.673490+00:00",
+      "dry_run": false
     }
   ]
 }
