@@ -3794,6 +3794,28 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj2XGnskV5mBFS8c116e5KtXT9Kx3cZu6UFykQLMp05XVrXm01fwdJkRZTyMfwNyBAa6mYIb5qvoaIbyUADfEwFf2P0Bdg_prfznmT9AsyQoEHQrP7p5dJp3mDUnw8n_Lb7gJNRgfi4NNh0xbEm5DIjut6_WQNygkMO7s98GrDgoIbTBiHRp51_tnY663x5OqLSqg0AKrnt83lmXzshBBx",
       "publicado_em": "2026-09-20T00:07:08.576858+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Chip Fotónico Revolucionário Redireciona a Luz em Femtossegundos",
+      "titulo_post": "Chip Fotónico Revolucionário Redireciona a Luz em Femtossegundos",
+      "slug": "chip-fotonico-revolucionario-redireciona-luz-em-femtossegundos",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtOY5MtEXO-BAXxLGnpwGH12QuE-UBr9TicH1Hqmv6GA-MOXijABR1o0ZrW8qV3YRhjD9DckOE8pG_tbZRSmGQEcriq8763d8c4cSUnP5cRwpdnm0ZMZO7OpvkoJUqlR8ypzcUMfes8SoOcYoJWD3MFf4a1Qx9eVacnwWh6pb7TCcJeJX1UwtRQA==",
+      "publicado_em": "2026-09-20T04:48:37.566643+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Vacina Contra a Malária em Moçambique: Doses e Prevenção Infantil",
+      "titulo_post": "Vacina Contra a Malária em Moçambique: Doses e Prevenção Infantil",
+      "slug": "vacina-contra-a-malaria-em-mocambique-doses-e-prevencao-infantil",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTRliGD4J3e9sTkLSVn3RfnuIaD3zEfsnFF8Cr2zs3CwTT-Yk9ubWMbMweojhV2ggYQPU1WIq5gALQ7MWYkZ_jgECjoGj3Ge8lXBg_6WUpePWRpYavNdg-y4wk_w4tHOGeuLgV4M4ZTmuAQfndKTrh_kamhTnn_ESM-ISJC9FAP3hdPFPUgR1tc_ul",
+      "publicado_em": "2026-09-20T04:49:12.144506+00:00",
+      "dry_run": false
     }
   ]
 }
