@@ -4118,6 +4118,142 @@
       "categoria_id": 4,
       "publicado_em": "2026-09-21T04:25:30.936500+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+      "titulo_post": "Crise no Supremo: Por Que o Debate Jurídico Divide Opiniões",
+      "slug": "crise-no-supremo-por-que-o-debate-juridico-divide-opinioes",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-21T12:31:32.788355+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Maria Helena Pinto lança quatro obras dedicadas à dança, ao corpo e à condição humana",
+      "titulo_post": "Maria Helena Pinto Lança Quatro Obras Dedicadas à Dança",
+      "slug": "maria-helena-pinto-lanca-quatro-obras-dedicadas-a-danca",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-21T12:31:53.505484+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Em Moçambique o Presidente da Conferência Episcopal exige resposta clara sobre o assassinato do Bispo Citora Afonso - RTP África",
+      "titulo_post": "Igreja Exige Esclarecimentos Transparentes Sobre Morte de Bispo",
+      "slug": "igreja-exige-esclarecimentos-transparentes-sobre-morte-de-bispo",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-21T12:32:15.273784+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "UEM lidera a confiança dos profissionais de RH na escolha de talentos, revela pesquisa nacional",
+      "titulo_post": "UEM Lidera Preferência de Recrutadores de RH em Moçambique",
+      "slug": "uem-lidera-preferencia-de-recrutadores-de-rh-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-21T12:32:43.802299+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A nova e implacável tática russa contra moradores da capital da Ucrânia",
+      "titulo_post": "Kiev Sob Pressão: O Impacto da Nova Estratégia nos Moradores",
+      "slug": "kiev-sob-pressao-o-impacto-da-nova-estrategia-nos-moradores",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-21T12:33:01.300168+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique lança fundo para empoderamento económico das mulheres - Observador",
+      "titulo_post": "Moçambique Lança Fundo para Apoiar Negócios Liderados por Mulheres",
+      "slug": "mocambique-lanca-fundo-para-apoiar-negocios-liderados-por-mulheres",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-21T12:33:26.722382+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Relatora da ONU avalia em Moçambique resposta às alterações climáticas - Notícias ao Minuto",
+      "titulo_post": "ONU Avalia Resposta de Moçambique às Alterações Climáticas",
+      "slug": "onu-avalia-resposta-de-mocambique-as-alteracoes-climaticas",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-21T12:34:15.723742+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique e Brasil: Chapo Reforça Diplomacia Energética",
+      "titulo_post": "Moçambique e Brasil: Chapo Reforça Diplomacia Energética",
+      "slug": "mocambique-e-brasil-chapo-reforca-diplomacia-energetica",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_C3MJL5fV8fA3BtepBqm9xHk0z4pSK5j6MuO_2b-Ws0-ZuFsZ8BTlO7tMZFP9McoPaSumEAtvP1UUCfsSC4t21U0ufief7pMVSkSGrBAamfCtV3xmjjtQpLaelDxfSAsW7kTDnyRrSDANgYwEIYmDMG_UmG8qNjLfoROHUMPaLJzOblm1QC5_riPwQlyOtkZ8lTzO4Tb7kZ-hGUiH9B0=",
+      "publicado_em": "2026-09-21T12:35:35.538364+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Crise Política na Alemanha: AfD Avança e Abala Governo de Merz",
+      "titulo_post": "Crise Política na Alemanha: AfD Avança e Abala Governo de Merz",
+      "slug": "crise-politica-alemanha-afd-avanca-abala-governo-merz",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbDq3JbzbV4gkOwpbhy8p9800cx_dcdfujK8xwFRACaA0wnq3jRe1GL5h0bRhpAm3LVIotuRWCtTDAZGCH69ypisa1OfQ8COO6OY4XMGz-z1wsMMi3KSm40UAhUnZRzaM8RJ3RR_M-ji2hmGKwpKHa4tprfI60lpXlnD_7scDAAcIsUkg63puSo6BKh9srPAlvT2AuD0_9ZHUI1zBETLJulUzBLboVvK6bO13BIKFXQp731VspbczHT6KJqkjClF_59Rzou_x1NAnWJxvsXVb1pwm2Nejkngvmmz3NQaJxH_Gik8k5PEmCIhUBvB6WQkN4la-tDwTpkb1W8w25KEHVMiZmT1JjDJ7xNc73AMkaEACT8D0YuYqlPU0MOq9AGluhfAzd9Q==",
+      "publicado_em": "2026-09-21T12:36:24.881990+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Prevenção da Transmissão de Mãe para Filho",
+      "titulo_post": "HIV em Moçambique: Prevenção da Transmissão de Mãe para Filho",
+      "slug": "hiv-em-mocambique-prevencao-da-transmissao-de-mae-para-filho",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHASKOFCVgw0D9T52_4k3EVPyHELZMNWspcjgD_wNqpbNIFLkdKRydncOBmOfCJYpBoorJzQ3AJWfMWFkGi-zTa-RgAI-RyKQjrt9m9EKL--u44oQEjJm8jvyBGU8-cLpkkz0Rixp2OIw==",
+      "publicado_em": "2026-09-21T12:37:17.351965+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "IA do MIT Converte Raios X em Mapas 3D Cirúrgicos em Segundos",
+      "titulo_post": "IA do MIT Converte Raios X em Mapas 3D Cirúrgicos em Segundos",
+      "slug": "ia-do-mit-converte-raios-x-em-mapas-3d-cirurgicos-em-segundos",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRgFnVUYgxVIDlb9bA2kJn7sF0QOWjld226ZyRRca3SiOLDWsqx-oHjq6TPnX6vZAzUz_uoeEOgCkVusy97gQ_FE90AWIkbnpxbyrrCVGc-nNZQhBEGoZYlAB2lpOskj3rLKkgbdQQ3ePf7GeLLpMv0icLodjIni6sJHRXRBg9vSSSdJp8E-lirTpcuVJRId7LR54P",
+      "publicado_em": "2026-09-21T12:38:09.830133+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Telescópio Roman da NASA Duplica Vida Útil para 22 Anos no Espaço",
+      "titulo_post": "Telescópio Roman da NASA Duplica Vida Útil para 22 Anos no Espaço",
+      "slug": "telescopio-roman-da-nasa-duplica-vida-util-para-22-anos-no-espaco",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxTdk9wevOO33B6hPPmFuHf0pzvLG3iNbTD2eWhTr6vWFttu1S3EF-Le8Xh3PSIqav4qVbrP0bDtpQngqG9HsPKScc8N1HCiLy-IZF4Om1VCzMb3hlm1yqD5mebtS-UlOdp7limqz_mEVkkL9cGT4oo93XCI68EWH5ugzl7p9xJWJM8RJB7lVqqtxoyS9lyA2sRfl6pxzcjHzq5h8SUaUOe76UhSw=",
+      "publicado_em": "2026-09-21T12:38:41.690246+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Microalgas Barateiam Carne Cultivada em até 90%",
+      "titulo_post": "Biotecnologia: Microalgas Barateiam Carne Cultivada em até 90%",
+      "slug": "biotecnologia-microalgas-barateiam-carne-cultivada-em-ate-90",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxKfbTOczZgIP1vWjLvzo8bKJDnBuhjNaOc2sD4PZZOKNk964OxzgD7HHQrArGJknCGAWthrvjIFCnP7i7JhtOtijUSIDy_XD6lwf1C35QCVusPluurNUBM1XS-O3Ok16U-nRl5g3rUW_INajhGhR_0hz0AC-a8lWU23hwRxo=",
+      "publicado_em": "2026-09-21T12:39:15.495969+00:00",
+      "dry_run": false
     }
   ]
 }
