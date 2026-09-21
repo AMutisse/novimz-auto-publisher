@@ -4348,6 +4348,81 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEENjLYSyo6_hck2nGX3X4P33ngbClymlGsTZf5a98pW84Kkej43MNeOO_a0owC479WC05ydHSjoW90jbhVEM2g9gJdmPBwkegQx-7VkBLAxaC3vOo38uNPW4nRHwFEcGoRJ5k5D80-U_bTu5c8cfoVBPU=",
       "publicado_em": "2026-09-21T19:18:10.480181+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O luto da professora que perdeu mais de 200 alunos no duplo terremoto na Venezuela: 'Eram como meus filhos'",
+      "titulo_post": "Drama de professora que perdeu centenas de alunos em sismo",
+      "slug": "drama-de-professora-que-perdeu-centenas-de-alunos-em-sismo",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-21T23:07:41.018054+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Morte de Presley Gerber investigada como overdose: a luta do filho de Cindy Crawford contra o vício e os problemas de saúde mental",
+      "titulo_post": "Presley Gerber e o Alerta Sobre Saude Mental na Moda",
+      "slug": "presley-gerber-e-o-alerta-sobre-saude-mental-na-moda",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-21T23:08:57.307126+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Indústria em Moçambique Regista 60 Mil Milhões de Meticais",
+      "titulo_post": "Indústria em Moçambique Regista 60 Mil Milhões de Meticais",
+      "slug": "industria-em-mocambique-regista-60-mil-milhoes-de-meticais",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOZA5znDR5yrniomj37bqy69OqcP6R-seaegrfIVXPWdee7JLbDgHBmidmV4fPdUdFmDf2L-IGBAWihKL59Wgbci7l4NrOsypd8dA-g5XjAlz2KNSfD2TFYS-kEArveTCkrKhUlY5uN7xv6HYM0fi7m3xRT1KiAj5TgVa658F8oARSjSShoMIc3a18So6BpTl4Rf1J0wSNJc_iYYLWme2CHDgQhw==",
+      "publicado_em": "2026-09-21T23:10:58.666372+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Nasa Descobre na Lua Maior Cratera Recente do Sistema Solar",
+      "titulo_post": "Nasa Descobre na Lua Maior Cratera Recente do Sistema Solar",
+      "slug": "nasa-descobre-na-lua-maior-cratera-recente-do-sistema-solar",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIHzEpBnEDJUjvcJiPiuM4SB__f6_QCdNV-KF3P6clq7swRT_j3t31UACUBQfZ3h8Ou0AVa_YAMmDHItZqn-IjAznK8T0E9-14GFLcSKgLQ_v3tsS5SqK-GkbqDoXEX3PHqmLN72gmX1i8lcBM2xu2SqCGd5LqzRIKpyGTZEkfDPXBtOo54Lrz5MtFrgL3l9bRFtCrTkrxKIZxHKcXIkzKDrg=",
+      "publicado_em": "2026-09-21T23:13:04.371435+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "China e EUA Preparam Nova Cimeira Sobre Comércio e IA",
+      "titulo_post": "China e EUA Preparam Nova Cimeira Sobre Comércio e IA",
+      "slug": "china-e-eua-preparam-nova-cimeira-sobre-comercio-e-ia",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbze4C-R1KvaCc1jGKWA6wbeUEf_CtZYJrGrOiCk8aeuILLslv2yRKNAcpOIzac1V4rctQd3jPC3e_j48wo2WFSE4HcXrCRo-2n6n28m5LsJiLslkMGhprwmECKJCyUHf_0MuCpMC97TsLeZ7vCiX6B_vy7lhJJNKVAnHqF2ck5syLFgFSi-zxvbUgn4A-IoO9m5EVIeTBQzXf5JpNnrsa3k2E7Mj5tlF3b2hNnchcWw==",
+      "publicado_em": "2026-09-21T23:14:27.076995+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Avanços Rumo às Metas 95-95-95 de Saúde",
+      "titulo_post": "HIV em Moçambique: Avanços Rumo às Metas 95-95-95 de Saúde",
+      "slug": "hiv-em-mocambique-avancos-rumo-as-metas-95-95-95-de-saude",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTaWPjoavbyuw8AKDnu-VyzJda6h0gpBGan6X1UVQTOeFY71Han4NGFymlQ2D6-sMFPkGPwLdaNT4cY00pXK8JTIRAT01Jgouxc6F-8tyT9IFyJZuWVjDIMAI6djKpGrDEDqBzr9l49PdNqsX_a0JNOTzC2VhUhCCRzb1rp_ImH2twkuPNukOUXbH3E9nIrtKhk2huAvltEMdy6m5spug7",
+      "publicado_em": "2026-09-21T23:16:24.511438+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Fármaco de IA Reduz Idade Biológica em Humanos",
+      "titulo_post": "Biotecnologia: Fármaco de IA Reduz Idade Biológica em Humanos",
+      "slug": "biotecnologia-farmaco-de-ia-reduz-idade-biologica-em-humanos",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM2MBRbBLPyGZMEhi0xoXowa7ZcAjt1Nuam3cMUwISvtajVu2Gf4q6IKeYeZeCb2q7TTAIlK8TXNQFnYSjNXmg8YBx5Gjv95y3R0yfBrcVnGepzwy0PO4JvLsez3ITKwzAMsdVOg=",
+      "publicado_em": "2026-09-21T23:19:12.811514+00:00",
+      "dry_run": false
     }
   ]
 }
