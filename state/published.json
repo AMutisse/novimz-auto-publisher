@@ -4466,6 +4466,90 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz7GYGpJjcHy_bsJLB9SfH8erIzW2L9B8CDjA5lIyFP-GnaP1LvfKjL_W830zsptlgNGoc21UQ17hI1HocOlSdtdIaib3KUsAJ3y7Gt7TcY6bGXFgtMUejhZOb77r9aa8VpoRuQPFAJtDw96x83r1useSAd2Ukkeo3J-GWJXaEvW2Rk6i22IBg0qImAvTb1Uy98AZC2nvMbw3RgdcbHg==",
       "publicado_em": "2026-09-22T04:23:04.718621+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Liderança do PODEMOS confirma cerco financeiro ordenado pela justiça",
+      "titulo_post": "Contas do PODEMOS Congeladas por Ordem Judicial em Moçambique",
+      "slug": "contas-do-podemos-congeladas-por-ordem-judicial-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-22T11:19:32.449972+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Antes de ser escolhido pelo partido, centenas de camisetes de Roque Silva já cruzavam a fronteira: os bastidores de uma sucessão frustrada",
+      "titulo_post": "Bastidores Políticos e a Sucessão Presidencial em Moçambique",
+      "slug": "bastidores-politicos-e-a-sucessao-presidencial-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-22T11:20:32.625619+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Helicóptero com cantor Rick e empresário Bruno Avelar desaparece em Santa Catarina: o que se sabe",
+      "titulo_post": "Buscas por Helicóptero Desaparecido Mobilizam Autoridades no Brasil",
+      "slug": "buscas-por-helicoptero-desaparecido-mobilizam-autoridades-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-22T11:20:51.257391+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Primavera começa nesta terça: o que esperar da estação com o El Niño no Brasil",
+      "titulo_post": "El Niño e Primavera: O Que Esperar do Clima Extremo no Brasil",
+      "slug": "el-nino-e-primavera-o-que-esperar-do-clima-extremo-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-22T11:21:19.476138+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Salários e Dívida Vão Absorver 96% da Receita de Moçambique",
+      "titulo_post": "Salários e Dívida Vão Absorver 96% da Receita de Moçambique",
+      "slug": "salarios-e-divida-vao-absorver-96-da-receita-de-mocambique",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoKxf8U4Kx5zALWvH0qJFnHCRWgcQl7pG765PqfCr0Bj_CujMxAoKPnvMCpTZPpZxpwbh8L5QRZ0NKAnG5v2KSIj4_k3U0HputLlRt1WXFXAMMLZqdcISnIhw1ELBZ0CEq5nsh96lB75ibr2ffGGg2UaCksJ9ctbBgfzepjSgRkolRlykz-_5oQ3O5NIx2_8d21dT_xKdyotEXdOsAPyV0J5VbE9bRKpnE",
+      "publicado_em": "2026-09-22T11:22:26.906855+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "China Instala Primeira Air Fryer na Estação Espacial",
+      "titulo_post": "China Instala Primeira Air Fryer na Estação Espacial",
+      "slug": "china-instala-primeira-air-fryer-na-estacao-espacial",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5pbHTg26RwILfz6hMX1NzhXWQ9zs10c7FShH3FVlSFA3J6L6qJTBpAEh4M7p4w003ZW6zBwglD2rMiKMi4ODZji63u7Sni0o2ScGVB-pZqFUtqpIlBVaJU4NIUvlfkCwxM0X6AbtlUvgIPWOClYlDRIzEtRgRxJG01RgRHlIHsMSXkMUACt9akYw8L_kidIKVOU2sie0vtDHxhAXD7QRdhOl0cNS6FJcGfLh-6pKDlmJOXk2QARkEvTLxfQ==",
+      "publicado_em": "2026-09-22T11:23:59.609669+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "NASA Descobre na Lua Maior Cratera do Século Formada por Impacto",
+      "titulo_post": "NASA Descobre na Lua Maior Cratera do Século Formada por Impacto",
+      "slug": "nasa-descobre-na-lua-maior-cratera-do-seculo-formada-por-impacto",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcqdauiIOyK2p2H9tUnzy5db9nsHIDnH6AL476p71Sh5a88PLJS3rXO__W1pG1Eg9dW3JotjwO9-7coNspxbXLiabmN5VPbeb8OtEVRgvf_tSjrpmlN0azNXR3jDCJ41ws",
+      "publicado_em": "2026-09-22T11:26:16.174776+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia Converte Lixo Plástico em Biscoitos Comestíveis",
+      "titulo_post": "Biotecnologia Converte Lixo Plástico em Biscoitos Comestíveis",
+      "slug": "biotecnologia-converte-lixo-plastico-em-biscoitos-comestiveis",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpflWszeeuZ-ECTkuJx8t7iP0IMGTp-yhwImJm_fcRjC15duAAt0GTek1mLMiZB6nc6Zp8FLXh0paMYY1m7f5arwwTywo02htmbpsVovCy_L76TXu7lXNFFp7g4e_Wc9im",
+      "publicado_em": "2026-09-22T11:27:00.647657+00:00",
+      "dry_run": false
     }
   ]
 }
