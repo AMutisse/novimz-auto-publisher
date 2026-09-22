@@ -4423,6 +4423,49 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM2MBRbBLPyGZMEhi0xoXowa7ZcAjt1Nuam3cMUwISvtajVu2Gf4q6IKeYeZeCb2q7TTAIlK8TXNQFnYSjNXmg8YBx5Gjv95y3R0yfBrcVnGepzwy0PO4JvLsez3ITKwzAMsdVOg=",
       "publicado_em": "2026-09-21T23:19:12.811514+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Presidente de Moçambique defende transição energética justa - Vero Notícias",
+      "titulo_post": "Transição Energética Justa: O Desafio Estratégico de Moçambique",
+      "slug": "transicao-energetica-justa-desafio-estrategico-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-22T04:19:01.070975+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Apoio Psicossocial Chega a 154 Mil Crianças em Moçambique",
+      "titulo_post": "Apoio Psicossocial Chega a 154 Mil Crianças em Moçambique",
+      "slug": "apoio-psicossocial-chega-a-154-mil-criancas-em-mocambique",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPztkOGE5eAHcOq_VUIew2CBoIC5i54ZwG0U6DVBDQtigNhva35OE34EHSAknaZohDtSb8ROMbXgVBnPXPWSeW0y967Ur1gdlatIHRywYbm-CdBKNZhF_okXsMPtgvFsynLLFw2eyUy5dBWoJ73pWZizqkqFkK9u4gbLsokDxigQz2wHF0x6rHGGDjJclgcN5iGaYzyHErdM_onNW9s0yfvjkoR_wn_Ui0grMjmGygPCM=",
+      "publicado_em": "2026-09-22T04:19:58.627337+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Drones com Bigodes Artificiais Navegam no Escuro pelo Toque",
+      "titulo_post": "Drones com Bigodes Artificiais Navegam no Escuro pelo Toque",
+      "slug": "drones-com-bigodes-artificiais-navegam-no-escuro-pelo-toque",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYEe6uzQEq3uZ4EnTAR05tCZmbBuAKXtq1Buy0-SQOq7af3r4sSbd_FAu746L8JhKVL1wOyfTM6eqoGa-HCnayDyOisgCHRrI2cuuQqFDSTF7vOZctMV__q-C7JC0M48S6N8DtGs7rcyCQnNfKKJqPsIM0LXFWt27rgmM8tkOE1RG1UEv4P2SFggOklAPonNF_4qHQOm4U5lekvQA=",
+      "publicado_em": "2026-09-22T04:21:36.244478+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Cancro do Colo do Útero: A Importância do Rastreio em Moçambique",
+      "titulo_post": "Cancro do Colo do Útero: A Importância do Rastreio em Moçambique",
+      "slug": "cancro-do-colo-do-utero-a-importancia-do-rastreio-em-mocambique",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz7GYGpJjcHy_bsJLB9SfH8erIzW2L9B8CDjA5lIyFP-GnaP1LvfKjL_W830zsptlgNGoc21UQ17hI1HocOlSdtdIaib3KUsAJ3y7Gt7TcY6bGXFgtMUejhZOb77r9aa8VpoRuQPFAJtDw96x83r1useSAd2Ukkeo3J-GWJXaEvW2Rk6i22IBg0qImAvTb1Uy98AZC2nvMbw3RgdcbHg==",
+      "publicado_em": "2026-09-22T04:23:04.718621+00:00",
+      "dry_run": false
     }
   ]
 }
