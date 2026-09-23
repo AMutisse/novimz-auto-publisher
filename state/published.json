@@ -2,16 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "FAO reforça segurança alimentar com 350.000 alevinos em Moçambique - SAPO",
-      "titulo_post": "Aquacultura: FAO Distribui 350 Mil Alevinos em Moçambique",
-      "slug": "aquacultura-fao-distribui-350-mil-alevinos-em-mocambique",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-11T12:22:06.569293+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "mznews",
       "titulo_original": "CTA defende maior parceria com investidores sul-coreanos para transferência tecnológica",
       "titulo_post": "Moçambique Quer Tecnologia Sul-Coreana Para Alavancar Negócios",
@@ -4792,6 +4782,121 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_xCTfTz4Wc3KuQPufDIqMC8ZAKFIfGzw6eXeymXDfM9L66g4AeHQVmbcBiFTkJQRH622bxTIBProdtDvUXeZB-90G_25YsWTAMqLko6YXHXr4B0LmxPgS4d404pK1XgOyDTWqsUpYey6G7KLhvw8bOXRLRdf2YzjevGqGyDp1tQ4VORs_yF81QNN9ayK_29TqLceH9Y83qgMSpS8HBjpTx9Wy93w6hw==",
       "publicado_em": "2026-09-23T07:45:02.322059+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que é tão relevante o encontro entre Trump e presidente da Venezuela a 15 km de onde Maduro está preso",
+      "titulo_post": "EUA e Venezuela: O Que Muda Com a Nova Aproximação Diplomática",
+      "slug": "eua-e-venezuela-o-que-muda-com-a-nova-aproximacao-diplomatica",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T13:32:29.788928+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Emílio Cossa relança “Ritmo, Alma e Poesia” e revisita a história do Hip Hop moçambicano",
+      "titulo_post": "Hip Hop Moçambicano: Livro Resgata Memória e Poesia Urbana",
+      "slug": "hip-hop-mocambicano-livro-resgata-memoria-e-poesia-urbana",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-23T13:33:29.007529+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique procura parcerias brasileiras para desenvolver sector de petróleo e gás - SAPO",
+      "titulo_post": "Moçambique atrai Brasil para acelerar sector de gás e petróleo",
+      "slug": "mocambique-atrai-brasil-para-acelerar-sector-de-gas-e-petroleo",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-23T13:34:22.878944+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Novo modelo de aquisições do Estado aposta na contratação pública centralizada",
+      "titulo_post": "Novo Modelo de Compras Públicas Moderniza Gestão em Moçambique",
+      "slug": "novo-modelo-compras-publicas-moderniza-gestao-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-23T13:35:21.105506+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O furacão que colocou litoral do México em alerta em meio ao 'super El Niño'",
+      "titulo_post": "Furacão no México Expõe Impacto do Super El Niño no Clima",
+      "slug": "furacao-no-mexico-expoe-impacto-do-super-el-nino-no-clima",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T13:36:20.345137+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "AEMO celebra centenário de Noémia de Sousa com conferência internacional em Maputo",
+      "titulo_post": "Centenário de Noémia de Sousa Celebrado com Conferência em Maputo",
+      "slug": "centenario-de-noemia-de-sousa-celebrado-com-conferencia-em-maputo",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-23T13:37:16.480295+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "África do Sul Investiga Exportações de Cimento de Moçambique",
+      "titulo_post": "África do Sul Investiga Exportações de Cimento de Moçambique",
+      "slug": "africa-do-sul-investiga-exportacoes-de-cimento-de-mocambique",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaUnZQW552Am9kHouFGXiZns8yhAoOUujkv9mEyzitRltnWePB9v-p59aYrsbAC_C3_yHFaL8cJVB8ksOn-MPz2LJx7-c-2z2WEGyGRbdhM-2NMk9Ulmhqtvg_EBqp6_yMykT2oSigj6g_QZeKnh1_HI4OJzZH53jOUk_DFUVzBorn798LnFjE2X4jzPKC9wglL0xkOR-w6bxP2p6Pt5EZlOVvMsspFvc75UPn-j4WwAMq",
+      "publicado_em": "2026-09-23T13:39:53.930925+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Cientistas Registam Salto Quântico do Som Pela Primeira Vez",
+      "titulo_post": "Cientistas Registam Salto Quântico do Som Pela Primeira Vez",
+      "slug": "cientistas-registam-salto-quantico-do-som-pela-primeira-vez",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1BPXgwG5oxEMe40vdbU9nea5GqfqwNrJgzCaitsyIgHqFhAN8l0qi_iISwC1p-kqi9gP0Ke69iZwbhAu6sX4V59i0V8_Ak2-OHkrWRgfVO_9JT41aiOROa4Ke7eVVgMHeEpIL1iMtcpXCszrfHoignMmKAMmUX5ETjjt6JRWWXGxbp1jZETElY1UyI5FVkIzAwC2kU73ilqzJu0n5vu9uywaIys5G",
+      "publicado_em": "2026-09-23T13:41:00.831736+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil: Moçambique Reforça Protecção a Mães e Bebés",
+      "titulo_post": "Saúde Materno-Infantil: Moçambique Reforça Protecção a Mães e Bebés",
+      "slug": "saude-materno-infantil-mocambique-reforca-proteccao-a-maes-e-bebes",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBkoiZbrehuBUin31_eK3gVSL3Ic2whDzzfKRQJ_Xe02QsH5pZLjmv05SFEk_6EhiZ306eXWTsFGHBkxtjHJrUN6mb8x4XQR2M6NulZ8KNCtjSp3L7kX-6f_FB9baFpvOgMMpKNcpZ_bj6z1I=",
+      "publicado_em": "2026-09-23T13:43:06.016643+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Sonda Juice Volta à Terra em Manobra Gravitacional Rumo a Júpiter",
+      "titulo_post": "Sonda Juice Volta à Terra em Manobra Gravitacional Rumo a Júpiter",
+      "slug": "sonda-juice-volta-a-terra-em-manobra-gravitacional-rumo-a-jupiter",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpacK7X8PKNchgluThclzu9LHmp54VMQlAavUX8hhOwJSI0W6w3ctyyQtobBDle3QFER0xrSWscw_AwVFyyuNASe1XF5kivVt6xbCME1lDgYjVzvUBJFBdcL2AUBLbiYutaTOvtypB3yYlsp9IQrflE3gv2_bExK8bKjvNGpPUnyiiYzSWC5DWQzCR700ArM5KWnMfsWKLMD6Dn5bMI3YaZ7o=",
+      "publicado_em": "2026-09-23T13:45:14.693148+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Anthropic Abre Laboratório Físico para Testes com IA",
+      "titulo_post": "Biotecnologia: Anthropic Abre Laboratório Físico para Testes com IA",
+      "slug": "biotecnologia-anthropic-abre-laboratorio-fisico-para-testes-com-ia",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFlO3Z6SKc3cWUiGvwJ8IXcdOJ7vSsyasb-2n-U0pUsgJPxz3_c01eN2p3_8qghYDOvq8KdvOspKRgnIUfnBPXS2xnSwO7viCMwdwZGj8xDHgExvZd1EmOobNuOzYQ_GonSHVKgaCovcIQvUNdQjepHkHREp6kga5Vvz4hwiwVP0uyhCEoe2UpPRy74oF2ezSqcvKnHcZnqPemypsFWF9cuLlUOLVyhLyOoyr16BSF7iXrTQ==",
+      "publicado_em": "2026-09-23T13:46:26.953022+00:00",
       "dry_run": false
     }
   ]
