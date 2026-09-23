@@ -4898,6 +4898,89 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFlO3Z6SKc3cWUiGvwJ8IXcdOJ7vSsyasb-2n-U0pUsgJPxz3_c01eN2p3_8qghYDOvq8KdvOspKRgnIUfnBPXS2xnSwO7viCMwdwZGj8xDHgExvZd1EmOobNuOzYQ_GonSHVKgaCovcIQvUNdQjepHkHREp6kga5Vvz4hwiwVP0uyhCEoe2UpPRy74oF2ezSqcvKnHcZnqPemypsFWF9cuLlUOLVyhLyOoyr16BSF7iXrTQ==",
       "publicado_em": "2026-09-23T13:46:26.953022+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Negociações entre Moçambique e FMI entram em nova fase após missão de 10 dias - SAPO",
+      "titulo_post": "Moçambique e FMI: Negociações Económicas Entram em Nova Fase",
+      "slug": "mocambique-e-fmi-negociacoes-economicas-entram-em-nova-fase",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-23T18:20:55.227832+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
+      "titulo_post": "Eleições 2026: Os Eixos Centrais das Propostas Presidenciais",
+      "slug": "eleicoes-2026-os-eixos-centrais-das-propostas-presidenciais",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T18:21:49.983977+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Praça Pública - DW - 23 de Setembro de 2026 - DW.com",
+      "titulo_post": "Voz dos Cidadãos: A Força do Debate Público em Moçambique",
+      "slug": "voz-dos-cidadaos-a-forca-do-debate-publico-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-23T18:22:20.879553+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Shell e IBP avaliam oportunidades de cooperação com Moçambique no sector energético - SAPO",
+      "titulo_post": "Shell e IBP Exploram Parcerias no Sector Energético em Moçambique",
+      "slug": "shell-e-ibp-exploram-parcerias-no-sector-energetico-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-23T18:22:40.581782+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Quando será o próximo debate presidencial da eleição 2026?",
+      "titulo_post": "Eleições 2026: O Futuro dos Debates Presidenciais em Jogo",
+      "slug": "eleicoes-2026-o-futuro-dos-debates-presidenciais-em-jogo",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T18:23:09.519423+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "EUA Quebram Tradição e Excluem Observadores da OSCE em Eleições",
+      "titulo_post": "EUA Quebram Tradição e Excluem Observadores da OSCE em Eleições",
+      "slug": "eua-quebram-tradicao-e-excluem-observadores-da-osce-em-eleicoes",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjzPisScC3QQ58Rfpvyn8YeC7c-fr5nBMNoe5Ip5Qo4mIZ82HwONvMryjvhaRCYGmo1PalClbIK9bJi-fkDoT7D0tQAsg4KFqfMvDUdIbOVLyF-eCG7lM=",
+      "publicado_em": "2026-09-23T18:24:47.803166+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "IA Detecta Doenças Cardíacas Graves em Menos de Dois Segundos",
+      "titulo_post": "IA Detecta Doenças Cardíacas Graves em Menos de Dois Segundos",
+      "slug": "ia-detecta-doencas-cardiacas-graves-em-menos-de-dois-segundos",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLee77f7WXtERIDwKPGdeDgjKepNk6BD1OskvRWLv1eow0AVFaDq7tSBFmbu7-08IMafvmyp1w9uwr-iDEO5mORtqBTRFfMQeeGs5ifrkaZbDPLs7NTm7ONhTOrK2IS85X5eoz-GRYBNqoKEmLRxy1MRRdBwO8Y6w6NcrF4UlHLaIeRBKBfjijJrVK_OsxS1m-q9mItiy_060Caw2Very9_yDx_lBe5aIoZ8YC8t_hZGFXdmdaOgzF",
+      "publicado_em": "2026-09-23T18:26:18.866735+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Hubble Completa 200 Mil Órbitas e Caça Supernova Rara",
+      "titulo_post": "Hubble Completa 200 Mil Órbitas e Caça Supernova Rara",
+      "slug": "hubble-completa-200-mil-orbitas-e-caca-supernova-rara",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ6EQ6DfBWXdiig4kQXE4jwPvavW_HU2JrhIsLIjVLAVuzefDmbMtnDltZhbNKNyDc9KJp46Z7gQMWDblBQk4UenWQ44aJBxFzXu0zZxnm6bnXPNSfARw2fDInEK9LQ7-k32ywTH1nFpRHJupBMtL3Vudnu4Il2GVrnumtq97TW-mcuXpLrE84rbpEeqe_D39B86PKVayI",
+      "publicado_em": "2026-09-23T18:26:47.746516+00:00",
+      "dry_run": false
     }
   ]
 }
