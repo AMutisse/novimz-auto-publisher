@@ -2,118 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "CTA defende maior parceria com investidores sul-coreanos para transferência tecnológica",
-      "titulo_post": "Moçambique Quer Tecnologia Sul-Coreana Para Alavancar Negócios",
-      "slug": "mocambique-quer-tecnologia-sul-coreana-para-alavancar-negocios",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-11T19:35:04.708620+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Fachin dá 24 horas para que Mendonça libere mais documentos do caso Master em meio a críticas sobre 'seletividade'",
-      "titulo_post": "STF Determina Divulgação Ampla de Documentos Judiciais",
-      "slug": "stf-determina-divulgacao-ampla-de-documentos-judiciais",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-11T19:35:25.296057+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Mineração ilegal matou pelo menos nove pessoas em três dias no centro de Moçambique - Lusa",
-      "titulo_post": "Garimpo Ilegal em Moçambique: Desafios e Riscos no Centro do País",
-      "slug": "garimpo-ilegal-mocambique-desafios-riscos-centro-pais",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-11T19:36:08.189363+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo",
-      "titulo_post": "Supremo Tribunal Federal Investiga Negócios no Cinema",
-      "slug": "supremo-tribunal-federal-investiga-negocios-no-cinema",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-11T19:36:23.607134+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "6 perguntas para entender inquérito contra Flávio Bolsonaro — e o o que falta ser esclarecido",
-      "titulo_post": "Inquérito a Flávio Bolsonaro: Entenda Pontos Chave e Rumos",
-      "slug": "inquerito-a-flavio-bolsonaro-entenda-pontos-chave-e-rumos",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-11T20:16:22.647361+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "A disputa pela sucessão dentro da família real de Uganda após a morte do monarca mais jovem do mundo",
-      "titulo_post": "Disputa Sucessória Sacode Reino Tradicional de Tooro no Uganda",
-      "slug": "disputa-sucessoria-sacode-reino-tradicional-de-tooro-no-uganda",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-11T20:16:46.719484+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
-      "titulo_post": "Investigação apura ligações entre senador e banqueiro no Brasil",
-      "slug": "investigacao-apura-ligacoes-entre-senador-e-banqueiro-no-brasil",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-11T20:50:02.777607+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "NASA e IBM criam inteligência artificial para mapear gelo na Lua",
-      "titulo_post": "NASA e IBM criam inteligência artificial para mapear gelo na Lua",
-      "slug": "nasa-ibm-inteligencia-artificial-mapear-gelo-lua",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNlIf9FK6Ur-yg2HOFNrYdDMxJPYYygs9Jnwwg5YQr7w8dEzi3ZW-EEw7oU0fe2Li51MplruTpVvDmDiwzmDbJOIVWWTH3QZN5N9IM5glhNv6YzGEGjUcRNBEJs4xyAPP-7UlLW6UToyf5cnAadAA0_eQ8TYn3I6LAHGjzzq185Q6ixnHWJyUSLACmIdcqEA==",
-      "publicado_em": "2026-09-11T20:51:03.346790+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "panorama",
-      "fonte": "sociedade",
-      "titulo_original": "El Niño em Moçambique: alerta de saúde pública mobiliza o país",
-      "titulo_post": "El Niño em Moçambique: alerta de saúde pública mobiliza o país",
-      "slug": "el-nino-em-mocambique-alerta-de-saude-publica-mobiliza-o-pais",
-      "categoria_id": 31,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsbsvcdFdru__QEv99W9t8gF5J5tBg03pOxDB62Bs4tP_4LaYgwoQIKOUSky8Sj9bTL_MiSIT-jaz7-YUa5QLInfWadlDmUnb8h-imlFXlB1j6u6AC5emWDkZdQw_TRCRAFJRVESe4-gmGtHNlPjqETsGyaaaar_QnwRBq7hCnwjgGLZEYBIpxP61Whe54rfe-QWQt61ke2-fje_Nawq61yFasntUs4Ec=",
-      "publicado_em": "2026-09-11T20:58:41.573475+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Moçambique e Zâmbia reforçam partilha de informação para combater crime - Notícias ao Minuto",
-      "titulo_post": "Moçambique e Zâmbia Unem Forças Contra o Crime Transfronteiriço",
-      "slug": "mocambique-e-zambia-unem-forcas-contra-o-crime-transfronteirico",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-11T22:17:32.640710+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
-      "titulo_post": "PF Investiga Financiamento de Filme Biográfico no Brasil",
-      "slug": "pf-investiga-financiamento-de-filme-biografico-no-brasil",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-11T22:19:38.934315+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "sociedade",
       "titulo_original": "A luta continua, o Moçambique de Samora Machel - Buala.org",
       "titulo_post": "O Legado de Samora Machel e a Memória Histórica de Moçambique",
@@ -4980,6 +4868,90 @@
       "categoria_id": 7,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ6EQ6DfBWXdiig4kQXE4jwPvavW_HU2JrhIsLIjVLAVuzefDmbMtnDltZhbNKNyDc9KJp46Z7gQMWDblBQk4UenWQ44aJBxFzXu0zZxnm6bnXPNSfARw2fDInEK9LQ7-k32ywTH1nFpRHJupBMtL3Vudnu4Il2GVrnumtq97TW-mcuXpLrE84rbpEeqe_D39B86PKVayI",
       "publicado_em": "2026-09-23T18:26:47.746516+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "EUA oferece alimentação escolar para 170 mil crianças na província de Maputo - aimnews.org",
+      "titulo_post": "Apoio dos EUA Garante Merenda Escolar a 170 Mil Alunos em Maputo",
+      "slug": "apoio-dos-eua-garante-merenda-escolar-a-170-mil-alunos-em-maputo",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-23T22:51:46.508434+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por que governo Lula vê 'cavalo de Troia' em ação coordenada dos EUA e mais 14 países contra facções como PCC e CV",
+      "titulo_post": "EUA e Aliança Regional Geram Tensão Diplomática na América Latina",
+      "slug": "eua-e-alianca-regional-geram-tensao-diplomatica-na-america-latina",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T22:52:07.653541+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Petrobras Assina Acordo Para Ampliar Atuação No Setor De Petróleo E Gás Em Moçambique - Taktá No AR",
+      "titulo_post": "Petrobras Reforça Presença no Setor de Petróleo e Gás em Moçambique",
+      "slug": "petrobras-reforca-presenca-setor-petroleo-gas-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-23T22:52:26.534421+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Xi Jinping nos EUA: o 'príncipe' que perdeu tudo antes de se tornar o líder mais poderoso da China",
+      "titulo_post": "A Trajetoria de Xi Jinping: Do Exilio Rural ao Poder Global",
+      "slug": "a-trajetoria-de-xi-jinping-do-exilio-rural-ao-poder-global",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T22:52:46.113392+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Huawei Lança WAN Inteligente Para Redefinir Redes na Era da IA",
+      "titulo_post": "Huawei Lança WAN Inteligente Para Redefinir Redes na Era da IA",
+      "slug": "huawei-lanca-wan-inteligente-para-redefinir-redes-na-era-da-ia",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNVyV20UDCg9M4vnAYr-4H_0rNWoZ0lj-rbwddEBdXnkE0hyb8oFNEXJqNx3Gh9YlTI3_LGPoMMBZYXgbdB1pOR_sHkhlngs82UGBJuKlOWQpst20BvwQwI4kg_7HF0L84EIckflxBToCCfH5tdaP67t3apl_8LDXeOUdfrgQJs0GvWEM2TWPequcaM54-1pfwUBPoJkSGcDwYSw8MEug8__IYnlSpD-U1Sd0nftwXBUrpB5x09SIvtQEALe8juzHBRbxsSiUFPADNtMe4Jqv8Rq-9y9O25dk3vJl2zV0=",
+      "publicado_em": "2026-09-23T22:54:19.726728+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Sintomas de Alerta e Cuidados no Lar",
+      "titulo_post": "Malária em Moçambique: Sintomas de Alerta e Cuidados no Lar",
+      "slug": "malaria-em-mocambique-sintomas-de-alerta-e-cuidados-no-lar",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4cub1SJwNoyLAzmWZ5prjlNfE2dETxLUge8V9HzSWJMGiGLohtPrYyl2dBCaLTIQj9n-bBpeAvnhONlgdsaPqblEtwM-7xDA7QHVjJvP55x7kIOrWIZ4WMg5W5w2ATAzOAkr0eHGBTn0KdpuDHV2kYK8tkUwilZFCjFfH87DmgzLA0hZtPrBUsWO_4Rph08aZHlyhNWXffxgBamz_Skj6ElpUvF2yAsC-klMplU_PVEBw0CRsnRO6",
+      "publicado_em": "2026-09-23T22:55:05.556813+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Líderes de Inteligência Artificial Pedem Controlo Urgente à ONU",
+      "titulo_post": "Líderes de Inteligência Artificial Pedem Controlo Urgente à ONU",
+      "slug": "lideres-de-inteligencia-artificial-pedem-controlo-urgente-a-onu",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL1ld9YVXuWgqrQhUrZi6H1TVVdL4mh-ZVbKOj9MDwP-UUgHfRsIAfpyZRAvARQmBxklxviSu2RsTZGMF0T8N2aAfzJC9UqTMPAdg7lF-HEptKclBTkJa2Bf0HUdcxvX2dEXfGsR5jZSpk_t6JLRBMskMpLh0Zz7Z_KzCuPoIVoAPf7OzWBC9dltfRPQujfodKMrefsim1yR2dfkV0Fs6S",
+      "publicado_em": "2026-09-23T22:56:56.182492+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Vacinas de RNA Vão Proteger Árvores Contra Extinção",
+      "titulo_post": "Biotecnologia: Vacinas de RNA Vão Proteger Árvores Contra Extinção",
+      "slug": "biotecnologia-vacinas-de-rna-vao-proteger-arvores-contra-extincao",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3gqqk5wnf1RJ-zbxhVfiH4mjD6y5iZzvOtYETgS5njp9UwduolL1EHiLgr8_pu_J16N0Y7iNDEqltamfkAmwlD0U14Rn7KPWTbX_L-rk2HRSs1I-jtQLqO1I54VS4Ht3nTbPTxenxstM6T3q4YCXkxiRZwnHtVFpL1ReFVbkZY4hpTBLEdolEJDuFN2JmM7_JHuVDQGYqMe-Fzo_w9yNki669HeqAWyV8JJpYm5XC76tGQ=",
+      "publicado_em": "2026-09-23T22:57:48.223896+00:00",
       "dry_run": false
     }
   ]
