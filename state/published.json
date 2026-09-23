@@ -4678,6 +4678,48 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdd-Co4onQ_NTV54lTRxgiAU61wfD6u7TisXq8Cp73YyQukJRvUyc4lmWC2wFvJfNCsTQtvpLDwL__gqiyCnDZAlNsdpcSmtSJwLUnIMTBBN93XYNE9ghykeEOIgkC-ebc_Bk2g8wVk1K27OOPPKrmKsDvUz1cvXu0Upc_5dEG8X5oXYaOgyXMkRnK7OUvAHuce66RSCQmaQo=",
       "publicado_em": "2026-09-22T21:13:57.406045+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Ameaça militar de Trump na ONU pressiona América Latina às vésperas das eleições brasileiras",
+      "titulo_post": "Tensao Geopolitica: Como Discursos na ONU Impactam a America Latina",
+      "slug": "tensao-geopolitica-como-discursos-na-onu-impactam-a-america-latina",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T00:12:58.660374+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Hayden Panettiere: o que autópsia revela sobre causa da morte da atriz",
+      "titulo_post": "Caso Panettiere: O que revela a autópsia sobre a morte trágica",
+      "slug": "caso-panettiere-o-que-revela-a-autopsia-sobre-a-morte-tragica",
+      "categoria_id": 6,
+      "publicado_em": "2026-09-23T00:13:59.535556+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Privatização da Tmcel Disputada por Três Grupos Internacionais",
+      "titulo_post": "Privatização da Tmcel Disputada por Três Grupos Internacionais",
+      "slug": "privatizacao-da-tmcel-disputada-por-tres-grupos-internacionais",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Xxja7uw5VlUTJTFrjaFCRRU0oIgPF1Iaxk_NGZBvdg3Jn9Tq5uxiyviiqoTLYljfbWIRXDY2LXiSzxIA73WLnSeqc2tqk6ldXnjD_CzZ1NO7II-18us2RczFEbXxpy6a2QYzFaoVRKO-n0m36gkDUZb6zjCxE5Qe1hQEQxH0TnShRvyyLg1UHBOqyh7H2ZkyNel3B0MXEKjAXKJbSQ==",
+      "publicado_em": "2026-09-23T00:15:30.192627+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Escudo das Américas: 14 Países e EUA Selam Aliança Contra Facções",
+      "titulo_post": "Escudo das Américas: 14 Países e EUA Selam Aliança Contra Facções",
+      "slug": "escudo-das-americas-14-paises-e-eua-selam-alianca-contra-faccoes",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHDK5wN3wFmPTl0dOq76-m5eh6cFtWk4SHLcu1t8kCxhCWgG3b_k1S99ifOwUTm24cAl7WT1-kI_ZokAwbXyo3-V9CNwNPcFQ8k5JlTxy5SCHmZasjt-NP9ENWfhJQWNlFfCb7eAXEi7Gp2AEGXbitLcTmU6Jm5WBhLpzeXzPN7zwpwpKssn9MS6IquDNsC96pe1cNOBnjlKcElJy2mGLbZnyDM_S3iLuaPeOELmE1TMNizLc=",
+      "publicado_em": "2026-09-23T00:16:53.742884+00:00",
+      "dry_run": false
     }
   ]
 }
