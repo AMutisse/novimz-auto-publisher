@@ -4720,6 +4720,79 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHDK5wN3wFmPTl0dOq76-m5eh6cFtWk4SHLcu1t8kCxhCWgG3b_k1S99ifOwUTm24cAl7WT1-kI_ZokAwbXyo3-V9CNwNPcFQ8k5JlTxy5SCHmZasjt-NP9ENWfhJQWNlFfCb7eAXEi7Gp2AEGXbitLcTmU6Jm5WBhLpzeXzPN7zwpwpKssn9MS6IquDNsC96pe1cNOBnjlKcElJy2mGLbZnyDM_S3iLuaPeOELmE1TMNizLc=",
       "publicado_em": "2026-09-23T00:16:53.742884+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Gioergieva diz que FMI está pronto a ajudar Moçambique a desbloquear potencial - Executive Digest",
+      "titulo_post": "FMI Reafirma Apoio Para Desbloquear Potencial em Moçambique",
+      "slug": "fmi-reafirma-apoio-para-desbloquear-potencial-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-23T07:36:37.719279+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Urna eletrônica: só Brasil, Cuba e Venezuela usam?",
+      "titulo_post": "Urna Electrónica: Como Funciona e Quem Usa no Mundo",
+      "slug": "urna-electronica-como-funciona-e-quem-usa-no-mundo",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-23T07:37:48.057496+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Produção de rubis em Moçambique aumenta 61% no primeiro semestre - Executive Digest",
+      "titulo_post": "Produção de Rubis em Moçambique Dispara 61% no Semestre",
+      "slug": "producao-de-rubis-em-mocambique-dispara-61-no-semestre",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-23T07:38:14.948069+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os deepfakes que tentam te enganar — e gerar dinheiro",
+      "titulo_post": "Deepfakes e Golpes Digitais: Como a IA é Usada para Lucrar",
+      "slug": "deepfakes-e-golpes-digitais-como-a-ia-e-usada-para-lucrar",
+      "categoria_id": 2,
+      "publicado_em": "2026-09-23T07:39:52.118135+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Consultas Pré-Natais em Moçambique: Guia para uma Gravidez Segura",
+      "titulo_post": "Consultas Pré-Natais em Moçambique: Guia para uma Gravidez Segura",
+      "slug": "consultas-pre-natais-em-mocambique-guia-para-uma-gravidez-segura",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJKb0SYxjNz3iHNTyYRov_mb2XjkrfMFoMqUg5QRwjcM-V88NYMhOqBLip_6TKsJTPhscrymjocDhLUogn-crl0VBgW6OHD7nHfqkky6L8RjVZAoHFefzbyZZOCChN8srDi8mgiJ5gGSaNJZbiWG4CYPEclQV8vlwl3_Kgvx9xMsWx-bTRUPws5BGiQ0_dz23tClRMeb3_Xw0Pe8-owWyJFoHc-cKJWOzIgAfzhjUR",
+      "publicado_em": "2026-09-23T07:43:08.717071+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Hubble Descobre Decágono Misterioso no Polo Sul de Saturno",
+      "titulo_post": "Hubble Descobre Decágono Misterioso no Polo Sul de Saturno",
+      "slug": "hubble-descobre-decagono-misterioso-no-polo-sul-de-saturno",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe6MfJAvnAGGxgIr-IQTFDU-pA8BN1NxjyCVKPN1IiXLWz_CLz__lfP2-7G4B3lKEMX0XeV2xRl9kPG5JlTPOY_r3lcVvKNuoxYKnfSkggAx00q67QPDRMzh0bXlabjjw=",
+      "publicado_em": "2026-09-23T07:44:16.590070+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Stanford Cria Empresa com 37 Mil Agentes de IA",
+      "titulo_post": "Biotecnologia: Stanford Cria Empresa com 37 Mil Agentes de IA",
+      "slug": "biotecnologia-stanford-cria-empresa-com-37-mil-agentes-de-ia",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_xCTfTz4Wc3KuQPufDIqMC8ZAKFIfGzw6eXeymXDfM9L66g4AeHQVmbcBiFTkJQRH622bxTIBProdtDvUXeZB-90G_25YsWTAMqLko6YXHXr4B0LmxPgS4d404pK1XgOyDTWqsUpYey6G7KLhvw8bOXRLRdf2YzjevGqGyDp1tQ4VORs_yF81QNN9ayK_29TqLceH9Y83qgMSpS8HBjpTx9Wy93w6hw==",
+      "publicado_em": "2026-09-23T07:45:02.322059+00:00",
+      "dry_run": false
     }
   ]
 }
