@@ -2,46 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Caifadine Manasse e Banco Mundial reúnem-se para reforçar políticas sociais e protecção da juventude em Moçambique",
-      "titulo_post": "Moçambique e Banco Mundial Unem Forças Para Apoiar a Juventude",
-      "slug": "mocambique-e-banco-mundial-unem-forcas-para-apoiar-a-juventude",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-12T12:18:50.117062+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "O celular de Vorcaro: os pedidos de ministros do STF para acesso a conteúdo — e a reposta de Mendonça",
-      "titulo_post": "Disputa no STF Revela Tensões Sobre Sigilo e Dados Digitais",
-      "slug": "disputa-no-stf-revela-tensoes-sobre-sigilo-e-dados-digitais",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-12T12:19:53.529888+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Moçambique e Zimbábue aceleram cooperação pelo empoderamento feminino com foco em acções práticas",
-      "titulo_post": "Moçambique e Zimbabué Reforçam Acordo de Empoderamento Feminino",
-      "slug": "mocambique-e-zimbabue-reforcam-acordo-de-empoderamento-feminino",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-12T12:20:13.054139+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Trump tenta interferir na eleição brasileira e o preocupante é que muitas vezes isso funciona, diz cientista político alemão",
-      "titulo_post": "O Impacto da Influência Externa nas Eleições da América Latina",
-      "slug": "o-impacto-da-influencia-externa-nas-eleicoes-da-america-latina",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-12T12:20:30.813946+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "sociedade",
       "titulo_original": "Moçambique: 3 detidos por tentarem roubar 800.000 litros de combustível - Notícias ao Minuto",
       "titulo_post": "Combustível em Moçambique: Travado Desvio de 800 Mil Litros",
@@ -5068,6 +5028,165 @@
       "categoria_id": 35,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJVV9oLphyag9iTxXd5veQvWiITbWUk0Nph7xeei1-RPrubBPcQYTArrpKE9WG1Z5JNBwsW0zouF_r3YKOTyq94nrIuWoCXNM1f2A2WTHd8Yhcq1-g8dU=",
       "publicado_em": "2026-09-24T11:37:46.428430+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Drogas levam quase 18 mil pessoas aos serviços de saúde em seis meses em Moçambique - Lusa",
+      "titulo_post": "Drogas Levam Quase 18 Mil Pessoas aos Hospitais em Moçambique",
+      "slug": "drogas-levam-quase-18-mil-pessoas-aos-hospitais-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-24T16:54:53.938222+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "ONU denuncia aumento de instabilidade armada e de raptos em Cabo Delgado",
+      "titulo_post": "Cabo Delgado: ONU Alerta Para Aumento de Insegurança e Rapto",
+      "slug": "cabo-delgado-onu-alerta-para-aumento-de-inseguranca-e-rapto",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-24T16:55:13.696601+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista da Universidade de Michigan explica",
+      "titulo_post": "Voto Envergonhado nas Urnas: Mito ou Realidade Política?",
+      "slug": "voto-envergonhado-nas-urnas-mito-ou-realidade-politica",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-24T16:55:48.130294+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique cria coligação para mobilizar quase mil ME para energia até 2030 - SAPO",
+      "titulo_post": "Moçambique Mobiliza Mil Milhões de Euros para Energia até 2030",
+      "slug": "mocambique-mobiliza-mil-milhoes-de-euros-para-energia-ate-2030",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-24T16:56:25.441558+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Clube de Petróleo e IPEME reforçam apoio às PMEs no sector energético",
+      "titulo_post": "PMEs no Sector Energético: Novo Acordo Abre Portas em Moçambique",
+      "slug": "pmes-no-sector-energetico-novo-acordo-abre-portas-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-24T16:56:46.106297+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC",
+      "titulo_post": "Eleições no Brasil: Lula e Flávio Empatam em Nova Sondagem",
+      "slug": "eleicoes-no-brasil-lula-e-flavio-empatam-em-nova-sondagem",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-24T16:57:03.323675+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Sociedade Civil Propõe Fundo Soberano Para Financiar Educação",
+      "titulo_post": "Sociedade Civil Propõe Fundo Soberano Para Financiar Educação",
+      "slug": "sociedade-civil-propoe-fundo-soberano-para-financiar-educacao",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBlX3bi5QV9gRVVp17oXJXSMXvTt6HAW7Ftz8jVsbIC4FE8Zms2GzRkIFWQw6nV0QTGwlyxo1w9jlnM-4UP42L5VG8tv87Cn8RXlN7XyXxJmeRQMc0dXFNczOHINy_AaoO9kFLN4PyWCbcRWCxydX8U8JyCPggG2H2DCtlDmGOJ3mu5EkYap9HvUwCL7TKHOlPKZk9Rd3gE3iPYP7KoCa16mLei-XS0-A=",
+      "publicado_em": "2026-09-24T16:58:21.754299+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Acelera Digitalização dos Serviços Públicos até 2029",
+      "titulo_post": "Moçambique Acelera Digitalização dos Serviços Públicos até 2029",
+      "slug": "mocambique-acelera-digitalizacao-dos-servicos-publicos-ate-2029",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG01QKkvJall_PwL-4PEQg1t-1ig0VZwIwQRVjiNH95amjRQDpE0aNIyz6YIzItLmR20CfSiUiK6PvHHVQDKdFsrEG8Dlw_vajDh83HdQOdxDfx-zZ3MgA6k45TmsN5NdikAa-_CXY0zliLHRdHOw8FMccQpZiwjtU5nkS3IGk632-NFKbaCCJbR9AZt_wR-WYhsAdWP1EFWWVAgXkwFR8W",
+      "publicado_em": "2026-09-24T16:59:40.533244+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Novo Chip Desvia Luz em 74 Femtossegundos e Muda a Computação",
+      "titulo_post": "Novo Chip Desvia Luz em 74 Femtossegundos e Muda a Computação",
+      "slug": "novo-chip-desvia-luz-em-74-femtossegundos-e-muda-a-computacao",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgCuYINc-y9NZHxEuUHOGtnDlvwFBHkbfy0dV-LV-hbkwh9DjVoD7dpt8HIb6W2eKvBMNLMWuccxu4vSYqfVbzKZDQBalSqnL3dD4WlVIdrFxMdiUY8zS7FKTudqcB9hPt0E71BGzjd8vIWDOCyRM5kb9fgHIf6LDAHo-ZueOYtwCWvQQEc9UuNQ==",
+      "publicado_em": "2026-09-24T17:00:22.810633+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Na ONU, Guterres Pede Assento Africano e Alerta Superpotências",
+      "titulo_post": "Na ONU, Guterres Pede Assento Africano e Alerta Superpotências",
+      "slug": "na-onu-guterres-pede-assento-africano-e-alerta-superpotencias",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8kD5E5ZBoPPXJiINJc1qq8Fhk4BaU6deZFbjVJKO_y865Z5An1z2a_atRu_6jy4wzyhmCQwzg1qLWkyFfkAYYdPupwSJNAw7moDSCWVrbsr6JihnjN54BD1gMH_2f4hWa26YEhYoALt81EXb4M6s1NNqE3gjlCjQu9RXfOQkgIgbIiWqxvq4BnJ4XTVUFhn1SzxPXWuUa71DH4h1J79y1_4UQ6ZU=",
+      "publicado_em": "2026-09-24T17:01:14.540344+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Vacina da Malária em Moçambique: Protecção e Prevenção Infantil",
+      "titulo_post": "Vacina da Malária em Moçambique: Protecção e Prevenção Infantil",
+      "slug": "vacina-da-malaria-em-mocambique-proteccao-e-prevencao-infantil",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbY_0qVr0J4qiJyu89r-aVgyYIcoQ8TB_m-R2AR9SRF4sNonVpd7s7kQ1B2286EbQdg2WqY6d1hj53-hBZsYjZ2iOArLt2loG1qDpk66S8VqR_vNR60HI5OjTz55cWlbeK1uWQPutpMA==",
+      "publicado_em": "2026-09-24T17:01:47.259576+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Nova Opção de PrEP Injectável e Prevenção",
+      "titulo_post": "HIV em Moçambique: Nova Opção de PrEP Injectável e Prevenção",
+      "slug": "hiv-em-mocambique-nova-opcao-de-prep-injectavel-e-prevencao",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfTeU-j1CUyutuQekN8ve8Dpys0mL-3vvT7sU4Vp5CYYTuOiS-_vkf6pJ7bvYUWwVYAINpjmMLWLx5CqabRWI2uGz5igSZVi9_NJUhfcNIcUW7ZHyuTWthvWeHiNTR8aiqhTIUt0pFpQosj5YrsFpip6yNz4nO6H-V4zHhOXBRrm9zGJRJ4lv3Ikm-vlc4cQGEyfEs9Cjyp6pX5EMyCouOlAH9IqjRAxRhpPowjbZoaFzZgarY_U1Gj5njj6c79jFlrf5Q9-PEpWjOrz2t6QQ=",
+      "publicado_em": "2026-09-24T17:02:31.922948+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Sobrevivência Infantil em Moçambique: Novo Plano de Acção",
+      "titulo_post": "Sobrevivência Infantil em Moçambique: Novo Plano de Acção",
+      "slug": "sobrevivencia-infantil-em-mocambique-novo-plano-de-accao",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFY3a4OdE5reKML22BE0fb5daUbNEvUxiWII6V4Kgh-m2T0f2er5TVz_hry3vLccNsao6g8lw_HbVtqtVHcma4tJU-wcSm-6YKOJNWJGT37dKZv5ffU20XDqP4mtFMKwWii2yDfBsECXLN5RS9nFtXYgidfJdIpbBQLVYwYdT_quIIJnpUCBap-JHxUhbU6OhhYm76SjTj3vFSnpTlvgMVn_g2cY55qE7uO5WRLKkR3urrN1nBIUBP6C7lkYhEbDevaHXQfcfuA0S7hwDE5w==",
+      "publicado_em": "2026-09-24T17:03:20.039116+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Exploração Espacial: NASA e Vast Anunciam Histórica Missão Privada",
+      "titulo_post": "Exploração Espacial: NASA e Vast Anunciam Histórica Missão Privada",
+      "slug": "exploracao-espacial-nasa-e-vast-anunciam-historica-missao-privada",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaYQe5cF3EogQaD-4sLlq-NOVFWzzsuMNK8x5TH-PGtb-TnVaruNfNvxjCWztC91QXZ0rQjChrhg3KDPJx5b6Mh9AYufrK6jjpIjT-J6ucP7qV_B17oJrSNjyfNG3EERWM7lrK7yo4TYI3k4vKFwL5KkEoIHLPHkTae1fnG3hzFc-ttgIZIR_IITJtmTlZ7GQvG5eRwcs_z7U_bVrcjFjaNjV88frjjEyvpdYjmu8=",
+      "publicado_em": "2026-09-24T17:04:24.975740+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: FDA Concede Estatuto Inovador à Terapia GLM101",
+      "titulo_post": "Biotecnologia: FDA Concede Estatuto Inovador à Terapia GLM101",
+      "slug": "biotecnologia-fda-concede-estatuto-inovador-a-terapia-glm101",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeq81GDqfhFVB6BA_Upuu_2clUBs452GqoAyi8Q4a-gUUAGKJIGg7Ki8AkuGp7wnbTODRjYVVDe6J_0i3tzxQ3HB2mrTdIhM3LPiQrCaxhB0AsoL7ONVETb0GlKZX8pv76AomHnPAbKot_kYoYxfQEPiim1nql412NcYxLo-oLZcZDl3Erww-OIB6Ji_yP1a50ykV9Bp1tTgRa",
+      "publicado_em": "2026-09-24T17:05:05.916187+00:00",
       "dry_run": false
     }
   ]
