@@ -2,37 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "A luta continua, o Moçambique de Samora Machel - Buala.org",
-      "titulo_post": "O Legado de Samora Machel e a Memória Histórica de Moçambique",
-      "slug": "o-legado-de-samora-machel-e-a-memoria-historica-de-mocambique",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-12T02:18:02.197743+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
-      "titulo_post": "Brasil: STF Retira Sigilo de Inquéritos Envolvendo Políticos",
-      "slug": "brasil-stf-retira-sigilo-de-inqueritos-envolvendo-politicos",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-12T02:20:30.013154+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "economia",
-      "titulo_original": "Grandes Empresas em Moçambique Crescem 26% e Criam Emprego",
-      "titulo_post": "Grandes Empresas em Moçambique Crescem 26% e Criam Emprego",
-      "slug": "grandes-empresas-em-mocambique-crescem-26-e-criam-emprego",
-      "categoria_id": 32,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-ENUMfFZVZDFdNgL2wWyg-ynmPSSMLplRMSPI5TICpFf6FzlycbvzLadmhEzTVXXMAv2oZnszns1TqSivXY-DL4PzemLK9s_PwfADV8ZudYLzqo8X7nbI0gF4vG1_PspHwQPlUqe6Cmryp1aokyOgNJwWcz9GGGI0HqNwmHyFLXuNsZpj43U1x14lyRV6CNXCIJkiIFGjqtaj5YVuifT0OpG7TUPDezhaYZbt9E6saaHkw==",
-      "publicado_em": "2026-09-12T02:22:53.090465+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "mznews",
       "titulo_original": "Caifadine Manasse e Banco Mundial reúnem-se para reforçar políticas sociais e protecção da juventude em Moçambique",
       "titulo_post": "Moçambique e Banco Mundial Unem Forças Para Apoiar a Juventude",
@@ -4952,6 +4921,49 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcF3gqqk5wnf1RJ-zbxhVfiH4mjD6y5iZzvOtYETgS5njp9UwduolL1EHiLgr8_pu_J16N0Y7iNDEqltamfkAmwlD0U14Rn7KPWTbX_L-rk2HRSs1I-jtQLqO1I54VS4Ht3nTbPTxenxstM6T3q4YCXkxiRZwnHtVFpL1ReFVbkZY4hpTBLEdolEJDuFN2JmM7_JHuVDQGYqMe-Fzo_w9yNki669HeqAWyV8JJpYm5XC76tGQ=",
       "publicado_em": "2026-09-23T22:57:48.223896+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Agente da OpenAI se 'infiltrou' em site do governo australiano, diz primeiro-ministro: 'Inaceitável'",
+      "titulo_post": "Agente de IA Infiltra Site Governamental e Alerta Líderes",
+      "slug": "agente-de-ia-infiltra-site-governamental-e-alerta-lideres",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-24T04:11:53.348106+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "PIB de Moçambique Deve Superar Dois Biliões de Meticais em 2029",
+      "titulo_post": "PIB de Moçambique Deve Superar Dois Biliões de Meticais em 2029",
+      "slug": "pib-de-mocambique-deve-superar-dois-bilioes-de-meticais-em-2029",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZpwHyuIXLDMEy2L4s3g90jucKTRNAV1BkKIKGcifSIVBsFZ1H7H4MBLP-uCJFWBCUlBYiHQx-xhshGXzyiZFsXL94NbqjDnrZ_8CPiKVhjSwFqYkpVLKAVw5qPtJPzs8bpjqr-Z8wI9bM6ivz7YTa7pTKNQxNYH7_hMq0YwCm7pyV_L0079sI8032F13zz67lcnScS3zAo16PiQJYZvBE7E9M8d8Sh8Ub_0hRUaQ=",
+      "publicado_em": "2026-09-24T04:12:45.604380+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique e Angola Firmam Pacto Contra o Crime Transnacional",
+      "titulo_post": "Moçambique e Angola Firmam Pacto Contra o Crime Transnacional",
+      "slug": "mocambique-e-angola-firmam-pacto-contra-o-crime-transnacional",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICy1y-aPoBKwebTHQ2DNmow10KBvFKI6x52Bn9z2JJljVmU3yVgw2130RguSi7jnIsiNE5ME9vkebYLG0ZspviUWI4Nbu7WLz9BZmI2eoiH79BNwIGy0t9qtDrK7kBzJ4OE2M7lDfTNFNR0O9-KCrCIq5T9G3SH1kADuYoY75p3PBaSCwE38Fm54_tWs0linQghRnImRBsc2nRZrj1Odo69EKP-LRh0JsFvFsqBfQ",
+      "publicado_em": "2026-09-24T04:13:16.640788+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Hubble e Webb Revelam 27 Mundos Gelados no Limite do Sistema Solar",
+      "titulo_post": "Hubble e Webb Revelam 27 Mundos Gelados no Limite do Sistema Solar",
+      "slug": "hubble-e-webb-revelam-27-mundos-gelados-no-limite-do-sistema-solar",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNOueFMLIeqOya8EkS1aqQFErHPwbW4bhHz8suYwPxvm6obAvlZDtkfaBGn1NJb9pL1a4221xrtKP67mMoJjVADPV3yVosW2VXDISTKandMdxvJFzNv7mG4--WrRAHHiqM-dvAB20=",
+      "publicado_em": "2026-09-24T04:16:03.406510+00:00",
       "dry_run": false
     }
   ]
