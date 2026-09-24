@@ -4965,6 +4965,110 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNOueFMLIeqOya8EkS1aqQFErHPwbW4bhHz8suYwPxvm6obAvlZDtkfaBGn1NJb9pL1a4221xrtKP67mMoJjVADPV3yVosW2VXDISTKandMdxvJFzNv7mG4--WrRAHHiqM-dvAB20=",
       "publicado_em": "2026-09-24T04:16:03.406510+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Dinheiro a circular em Moçambique sobe há quatro meses e atinge 1.049 milhões de euros em julho - Jornal Económico",
+      "titulo_post": "Dinheiro em Circulação em Moçambique Cresce Pelo Quarto Mês",
+      "slug": "dinheiro-em-circulacao-em-mocambique-cresce-pelo-quarto-mes",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-24T11:29:05.447733+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "A recente missão do FMI em Moçambique deixou o Governo sem prazos para novo programa financeiro",
+      "titulo_post": "FMI e Moçambique: Novo Programa Financeiro Segue Sem Prazos",
+      "slug": "fmi-e-mocambique-novo-programa-financeiro-segue-sem-prazos",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-24T11:29:33.886762+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "titulo_post": "Brasil 2026: Pesquisas Eleitorais Indicam Novo Empate Técnico",
+      "slug": "brasil-2026-pesquisas-eleitorais-indicam-novo-empate-tecnico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-24T11:30:23.625574+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique: Milhões de dólares mobilizados para proteger comunidades afectadas pelo El Niño",
+      "titulo_post": "El Niño: Moçambique Mobiliza 400 Milhões Para Apoiar Comunidades",
+      "slug": "el-nino-mocambique-mobiliza-400-milhoes-para-apoiar-comunidades",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-24T11:30:53.407534+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Por que decidi gastar dinheiro em vez de deixá-lo de herança para meus filhos'",
+      "titulo_post": "Por Que Mais Aposentados Preferem Gastar a Deixar Heranca",
+      "slug": "por-que-mais-aposentados-preferem-gastar-a-deixar-heranca",
+      "categoria_id": 9,
+      "publicado_em": "2026-09-24T11:32:24.400551+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Clique aqui",
+      "titulo_post": "Eleições 2026 no Brasil: O Papel dos Agregadores de Sondagens",
+      "slug": "eleicoes-2026-no-brasil-o-papel-dos-agregadores-de-sondagens",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-24T11:32:56.452604+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "ExxonMobil Perto de Decisão Final de Investimento no Rovuma LNG",
+      "titulo_post": "ExxonMobil Perto de Decisão Final de Investimento no Rovuma LNG",
+      "slug": "exxonmobil-perto-de-decisao-final-de-investimento-no-rovuma-lng",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63Wj0jNK24fr_MzPNf8o0G3F4k6nKesUfOIsMNAsrKbTEDbQJp5WKl226L8xo2PKT-qNr4fR6RyU_s2CdHvIZU0suAjpXPZsSR5ukKib8e-iJjcWXCn9GF3T9issOUso_78WRj_oNxdB6dQcna103FZHisnqsToriDCPHJe4PcIjMmQCEN1JDmYV0wHAXkc1FNe4OPCIxu53ZUGFPEpt3aqoyYYFJZKwhhUvmX6IAQzxirSni_ZqwmONkBXwWVWN-ssKnhoFwuasilxfIJiMWbcyoQA0SSOqp",
+      "publicado_em": "2026-09-24T11:34:10.324533+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Chapo Apresenta Reformas do Estado e Nova Dinâmica em Nova Iorque",
+      "titulo_post": "Chapo Apresenta Reformas do Estado e Nova Dinâmica em Nova Iorque",
+      "slug": "chapo-apresenta-reformas-do-estado-e-nova-dinamica-em-nova-iorque",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFerOZSAUC-CKE4t5kXhR_rpGPB8Ud_PZ9ZwyAIr5BLYL5oNSlFUnuumifkBQ2P4sSebbqvpgvDmSsZCqVbDcOUpmOZFECnOfN2vOcR4X7WfOSnbk2-dn1nqjfwaX8a_sBMqNa8brCdCW0F0V23zq_DisAVDFeGoTvAQ43P8Z_9Pid6sBYh_6jf0d_g61Prts4VGtgr3Tns8XcQCucD9FWLInBB",
+      "publicado_em": "2026-09-24T11:35:36.018658+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Cientistas Descobrem Como Fazer IA Admitir as Próprias Incertezas",
+      "titulo_post": "Cientistas Descobrem Como Fazer IA Admitir as Próprias Incertezas",
+      "slug": "cientistas-descobrem-como-fazer-ia-admitir-as-proprias-incertezas",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8ECoPKU4qWPO8-P2tkysGojoBtpmUGqH-Fvqrr6xWdvlb5NyGGk0XKOYLq2gBVmBMOLZiJFEepqCKIcI_lAphAyahXvN1TsInNtzlN0SLvLh8NCgFlRAGmOJZeDyCH5dJR4wJT0aEUYYJIyUtgXrpvb4hWbqRYOza",
+      "publicado_em": "2026-09-24T11:36:56.273602+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Agente de IA Invade Portal de Saúde e Alerta Governo Australiano",
+      "titulo_post": "Agente de IA Invade Portal de Saúde e Alerta Governo Australiano",
+      "slug": "agente-de-ia-invade-portal-de-saude-e-alerta-governo-australiano",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJVV9oLphyag9iTxXd5veQvWiITbWUk0Nph7xeei1-RPrubBPcQYTArrpKE9WG1Z5JNBwsW0zouF_r3YKOTyq94nrIuWoCXNM1f2A2WTHd8Yhcq1-g8dU=",
+      "publicado_em": "2026-09-24T11:37:46.428430+00:00",
+      "dry_run": false
     }
   ]
 }
