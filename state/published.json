@@ -3,68 +3,6 @@
     {
       "site": "novimz",
       "fonte": "sociedade",
-      "titulo_original": "Moçambique: 3 detidos por tentarem roubar 800.000 litros de combustível - Notícias ao Minuto",
-      "titulo_post": "Combustível em Moçambique: Travado Desvio de 800 Mil Litros",
-      "slug": "combustivel-em-mocambique-travado-desvio-de-800-mil-litros",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-12T20:04:44.006473+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Cachê de Jim Caviezel como Bolsonaro próximo ao de Joaquin Phoenix em 'Coringa': os valores pedidos por Flávio a Vorcaro para fazer 'Dark Horse'",
-      "titulo_post": "Cinema: Cachê milionário em produção biográfica gera debate",
-      "slug": "cinema-cache-milionario-em-producao-biografica-gera-debate",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-12T20:04:55.957602+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Floresta das borboletas em Moçambique passa a ser área protegida - Executive Digest",
-      "titulo_post": "Floresta das Borboletas em Moçambique Torna-se Área Protegida",
-      "slug": "floresta-das-borboletas-em-mocambique-torna-se-area-protegida",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-12T20:05:09.678060+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Ela postou, sem saber, sobre uma festa de Daniel Vorcaro no Madame Satã e sua vida sofreu um terremoto: 'Só agora entendi tudo'",
-      "titulo_post": "Redes sociais e poder: criadora perde perfil após postagem",
-      "slug": "redes-sociais-e-poder-criadora-perde-perfil-apos-postagem",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-12T20:05:25.180070+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "panorama",
-      "fonte": "politica",
-      "titulo_original": "Supremo de Moçambique Adia Julgamento de Venâncio Mondlane",
-      "titulo_post": "Supremo de Moçambique Adia Julgamento de Venâncio Mondlane",
-      "slug": "supremo-de-mocambique-adia-julgamento-de-venancio-mondlane",
-      "categoria_id": 33,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvmEzp4jAkGdLRjOW_BChf9qg4p8syQXGw5AJvqySMrsRh0r5al5hvKQzlgKBJCNq81F_IRqu1O-LwjXd-M3C5fGiXsudsqMZ7D1q7LJR52-kJYXMgYHeCMJia1LK85FE4lE4Ap9h3Fi9WxkaoYNBUT3F4882ooBlYSdTwkqFRR9NncQYB6KCkW340HuuWPoa7rFiGWTjgtTlehrzWyMQzw==",
-      "publicado_em": "2026-09-12T20:06:43.673267+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "França investiga suspeita de sabotagem em descarrilamento de trem",
-      "titulo_post": "França investiga suspeita de sabotagem em descarrilamento de trem",
-      "slug": "franca-investiga-suspeita-de-sabotagem-em-descarrilamento-de-trem",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcz939m5qEx3zwlBfrkgxkyk2M_cNp4SFSrXALbawV01N9tCscidx17WuOBUmTxeMSwxic_j467fYT2cOR1MiQsyEJ1RncePQ8ghVbjbi6e2U=",
-      "publicado_em": "2026-09-12T20:07:20.282169+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
       "titulo_original": "Novo regulamento vai reorganizar setor mineiro em Moçambique, diz Chapo - Notícias ao Minuto",
       "titulo_post": "Novo Regulamento Mineiro Promete Transformar Setor em Moçambique",
       "slug": "novo-regulamento-mineiro-promete-transformar-setor-em-mocambique",
@@ -5187,6 +5125,90 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeq81GDqfhFVB6BA_Upuu_2clUBs452GqoAyi8Q4a-gUUAGKJIGg7Ki8AkuGp7wnbTODRjYVVDe6J_0i3tzxQ3HB2mrTdIhM3LPiQrCaxhB0AsoL7ONVETb0GlKZX8pv76AomHnPAbKot_kYoYxfQEPiim1nql412NcYxLo-oLZcZDl3Erww-OIB6Ji_yP1a50ykV9Bp1tTgRa",
       "publicado_em": "2026-09-24T17:05:05.916187+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Senegal x Moçambique Palpite – Análise e notícias (25/09) - LANCE!",
+      "titulo_post": "Senegal e Moçambique: Análise Tática e Expectativas no Futebol",
+      "slug": "senegal-e-mocambique-analise-tatica-e-expectativas-no-futebol",
+      "categoria_id": 2,
+      "publicado_em": "2026-09-24T21:22:39.125644+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Saberes da Bahia em África: Uesb realiza missão artístico-acadêmica em Moçambique - uesb.br",
+      "titulo_post": "Moçambique e Brasil: Uesb Leva Missão Cultural a Maputo",
+      "slug": "mocambique-e-brasil-uesb-leva-missao-cultural-a-maputo",
+      "categoria_id": 7,
+      "publicado_em": "2026-09-24T21:23:00.824736+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Viagens internacionais e jatinho de Vorcaro: os vínculos de Flávio Bolsonaro com Willer Tomaz, alvo da PF no escândalo do INSS",
+      "titulo_post": "Conexões Políticas e Voos Privados Geram Escrutínio no Brasil",
+      "slug": "conexoes-politicas-e-voos-privados-geram-escrutinio-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-24T21:23:23.105539+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Brasil 'dá as costas ao futuro' em eleição com candidatos 'desoladores', diz The Economist",
+      "titulo_post": "The Economist Alerta para Riscos Políticos e Económicos no Brasil",
+      "slug": "the-economist-alerta-para-riscos-politicos-e-economicos-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-24T21:23:44.705002+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Nascente Reemerge Após 40 Anos e Alaga Dezenas de Casas no Bilene",
+      "titulo_post": "Nascente Reemerge Após 40 Anos e Alaga Dezenas de Casas no Bilene",
+      "slug": "nascente-reemerge-apos-40-anos-e-alaga-dezenas-de-casas-no-bilene",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEczPAuxaNMldx6CvjjFrF9PtOqi0yfUdFDAHlpY5ZkhVJCScZ_jdzY1p0FQJ7OmWiiChKf1hlbfnfpIZmMkXtjOQHoxvqwt06bvu0Uz9zhac3n8xyKPFY-yIyna3kSZJNrSjf0JfiCZBkk",
+      "publicado_em": "2026-09-24T21:24:12.470373+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Reforça Fiscalização nas Compras e Contratos Públicos",
+      "titulo_post": "Moçambique Reforça Fiscalização nas Compras e Contratos Públicos",
+      "slug": "mocambique-reforca-fiscalizacao-nas-compras-e-contratos-publicos",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0mmO72DQwYWGq_EZtBHgyKXPug0qsutSp0lZOHiwkZ1VD89QZfcjTh-tEfqJnjUzRSGly81IVVxGm-RA7e40UxDx4P04bNg69x7AW7fXPB6OnqQFpNjW3dFEuEKp3ykZSyMOtYlC0fGt_5je-SHfllOTchJ2qSKxB0OT-iDMkkHeSyQRiLpNBeng1l54K",
+      "publicado_em": "2026-09-24T21:25:01.809188+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Itália Aprova Lei Para Retomar Energia Nuclear Após Quase 40 Anos",
+      "titulo_post": "Itália Aprova Lei Para Retomar Energia Nuclear Após Quase 40 Anos",
+      "slug": "italia-aprova-lei-para-retomar-energia-nuclear-apos-quase-40-anos",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy7Jzb9bK35e7Njm8mmVIthJ1wqaK7Xs5PImmhAcq2ChhV-QsXtc0cw3EhX3xewTd-9zfHJUxjarrIbqoEXku8rZfn2Ln75n2ychvvrHIS9ndWegpStvNLQzhf_pFPGf8Bhmnn554nDBueGRJtmdgPj1HnMnQ_XsQYYycOJRGxbh-6T-nEqqA8N7QwTd7GqqsViM3OILLnljxe5CnJQJMyWP2nqHxInyezwA==",
+      "publicado_em": "2026-09-24T21:25:38.922067+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Google Apresenta WeatherNext 3: Nova IA Prevê o Clima a Cada Hora",
+      "titulo_post": "Google Apresenta WeatherNext 3: Nova IA Prevê o Clima a Cada Hora",
+      "slug": "google-apresenta-weathernext-3-nova-ia-preve-o-clima-a-cada-hora",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFtKtlA2BBCmBOqkO3nIo0IbLLnQ-Q6wegUdfG8NA3_NRgxHkIXJp5XT3VlE8eabT52rep22T69vGQaHXnDe46kYRs9FQSRy-0mQkkpqtDVgM=",
+      "publicado_em": "2026-09-24T21:27:07.582507+00:00",
       "dry_run": false
     }
   ]
