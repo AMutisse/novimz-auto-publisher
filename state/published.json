@@ -3,102 +3,6 @@
     {
       "site": "novimz",
       "fonte": "sociedade",
-      "titulo_original": "Top - 10 mais Sem Espinhas (Semanal) Episódio 35 - de 13 set 2026 - rtp.pt",
-      "titulo_post": "Musica Lusofona em Destaque nos Tops Semanais Africanos",
-      "slug": "musica-lusofona-em-destaque-nos-tops-semanais-africanos",
-      "categoria_id": 7,
-      "publicado_em": "2026-09-13T02:15:41.591828+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
-      "titulo_post": "Supremo Tribunal Federal Reorganiza Processos Financeiros e Judiciais",
-      "slug": "supremo-tribunal-federal-reorganiza-processos-financeiros-e-judiciais",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-13T02:15:56.798655+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Por que alguns chefões do Vale do Silício rejeitam previsão de que IA pode extinguir a humanidade",
-      "titulo_post": "IA Vai Extinguir a Humanidade? Executivos Rejeitam o Pânico",
-      "slug": "ia-vai-extinguir-a-humanidade-executivos-rejeitam-o-panico",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-13T02:16:16.583266+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Uso de IA no Trabalho Sobe para 45%, Aponta Estudo do Fed",
-      "titulo_post": "Uso de IA no Trabalho Sobe para 45%, Aponta Estudo do Fed",
-      "slug": "uso-de-ia-no-trabalho-sobe-para-45-aponta-estudo-do-fed",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkhO9TQ-fVUx8b74DIzbumHilCwJe9BL5mTbOcsXcWsnTIwln6Qz63gPOfPIS5r6kVpw1VqYClPNQlWjHcmG5KGZXnEnwl72Dgrfi_ynU9U99xUFl83O5HwWjKFuZ9cGo=",
-      "publicado_em": "2026-09-13T02:17:33.414229+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Califórnia Veta Redes Sociais Viciantes para Menores de 16 Anos",
-      "titulo_post": "Califórnia Veta Redes Sociais Viciantes para Menores de 16 Anos",
-      "slug": "california-veta-redes-sociais-viciantes-para-menores-de-16-anos",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG39gd3rOC5nyx9u1zCpZJL4hbiKPmW7SOxqrBEuuHBgXX2V3RTztkE2oqbcStwE1jWT8fJly2TU8jS6WAowHRw2Z-yquQXvAOOgzExkIKBpqUMFOzMUZ0NvqIY2PGcoxsJ-__ydFMyWUyMKqdpDpAyusUGpbONjiWlntnPdag7RgT8Zdw20860ZRj6CfCgBt2rrM9nAOavA3zcdapU7ciz84yVX_8RESZGCMwsibQdqH5XP8bRUcZSWRVtMJI=",
-      "publicado_em": "2026-09-13T02:17:59.477682+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "politica",
-      "titulo_original": "Frelimo Acelera Preparativos Para o 13º Congresso em Moçambique",
-      "titulo_post": "Frelimo Acelera Preparativos Para o 13º Congresso em Moçambique",
-      "slug": "frelimo-acelera-preparativos-para-o-13-congresso-em-mocambique",
-      "categoria_id": 33,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqn9IQLK6R4ltWZ8qFNFcV056Ha2756capz9m4D6FVyIKYPbIRauI5u_wYGliAyWdB_82N3h_2_EFLFM9skkBNE35-AMDIKX2PkaNtlNYhm1dOxw==",
-      "publicado_em": "2026-09-13T04:17:08.687028+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Nanolaser inovador pode reduzir consumo de energia em computadores",
-      "titulo_post": "Nanolaser inovador pode reduzir consumo de energia em computadores",
-      "slug": "nanolaser-inovador-pode-reduzir-consumo-de-energia-em-computadores",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA1dJPtuiOAgbH8xZ7ADw__7JmfPyGOKgcUGpJgzsGT0gKgFu2UYHf3r4F8nvkoNCxLN4d2MSeR6aymB8Xu4XYfm3Iika3XZ74ih3DBf2D17Z_CTH44dzeFvkYig9fspPYyOET6b-veaKZ9WzXXYKQ",
-      "publicado_em": "2026-09-13T04:17:35.093262+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Jato da Embraer que Pousa Sozinho Recebe Certificação Tripla",
-      "titulo_post": "Jato da Embraer que Pousa Sozinho Recebe Certificação Tripla",
-      "slug": "jato-da-embraer-que-pousa-sozinho-recebe-certificacao-tripla",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyudRE15hc8VkFLB7HWgPBXxORVxdo2Qa2ADNVXTX4VB1h2QH_T1Xc-5gr3pAaE2i7NG8gUlLlbw0XJTcNd48jKCbGKhL0F44dFxgQYF3yEX2M9Bc0k9MR_QnPMCO45d1UqCitXt6Go5wYL8rj927oYNdcw1KMy7dD2YAv-EDn7a4wKkRD1x5gXE6gqMWmsCla-dbq1cMtLXF2iRES",
-      "publicado_em": "2026-09-13T06:24:59.120432+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Zelensky Propõe Reunião com Putin no G20 em Miami e Kremlin Responde",
-      "titulo_post": "Zelensky Propõe Reunião com Putin no G20 em Miami e Kremlin Responde",
-      "slug": "zelensky-propoe-reuniao-com-putin-no-g20-em-miami-e-kremlin-responde",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb3mS8bVe09vItlv1BKVIQ5JxqkJk2_q8aW5Pe1iCpY385rAfmG6vOxe6HVkbFl9mzZ9mZrlgqbolseH3i0TpKYfSC2ZzTzzwtDlFxERiaystbgzCiSsvAN3Ega8aA07kM5QgJo84EKbA_i0RMdDAwaBFGQG8rAxIK37iVat4a3399DcT06VutuT33uqCikbuLHneyd5zw",
-      "publicado_em": "2026-09-13T06:25:30.112146+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
       "titulo_original": "Portugal acerta apoio sobre arquivo militar com Moçambique em visita de Nuno Melo - RTP",
       "titulo_post": "Moçambique e Portugal Reforçam Parceria para Arquivo Militar",
       "slug": "mocambique-e-portugal-reforcam-parceria-para-arquivo-militar",
@@ -5222,6 +5126,81 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0IJ9g_5K9u_R099cT2qaCUFw8Q33L7fsgXj4S4KjjKu-ZgTxYqutIYoagSV7ScEF_ycmoh599UL-5ZF9QphAfq4nFpkZVtYKq1hnUOrnCSv6I8Ln8FdKKeGPZISUb9ke8M_aPppyA1OaUd9WB7a7_8mcAr6_5WjpOAXCQeYjSyvhMqMs=",
       "publicado_em": "2026-09-25T00:30:04.237710+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Nova exigência de 30 camiões ameaça empresas de transporte de carga",
+      "titulo_post": "Transporte de carga: Exigência de 30 camiões gera receio no sector",
+      "slug": "transporte-de-carga-exigencia-de-30-camioes-gera-receio-no-sector",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-25T07:29:33.531149+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Adriano Maleiane, Coanai e Janfar Abdulai citados na polémica venda de aviões da LAM",
+      "titulo_post": "Venda de Aviões da LAM Sob Análise do Tribunal Administrativo",
+      "slug": "venda-de-avioes-da-lam-sob-analise-do-tribunal-administrativo",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-25T07:31:14.995965+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique e Botswana Reforçam Cooperação Estratégica",
+      "titulo_post": "Moçambique e Botswana Reforçam Cooperação Estratégica",
+      "slug": "mocambique-e-botswana-reforcam-cooperacao-estrategica",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVcn9eLcl8tThcMJofdRoMR-kyQGbunSSnGMFPrZhgoY6Hgy7LotQjPdcHBzrJgjJRVTHjO4P_jKpdinAZ6us-3xLlPaUZa5SmgjDBDgCBIAlLg7NCuHVpdPVI54eoCamigw==",
+      "publicado_em": "2026-09-25T07:33:28.633616+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Autoteste do HIV em Moçambique: Como Fazer e Importância",
+      "titulo_post": "Autoteste do HIV em Moçambique: Como Fazer e Importância",
+      "slug": "autoteste-do-hiv-em-mocambique-como-fazer-e-importancia",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEIHI_TTNKxsOjrHEPPwM4oMoiOEpCdqMjpAGlX9F7V7nYLq2esu02aGw0W30VyBY42QoAEyUgCcoK1bIZRawrm4iz9cMiQp2wXg6T1QHn0-Un02iRsXaKiGXad4kU-igisxXItHDP4G3Xr8QSFr5ol3UlLthKX62e2UBTzuEVYqYvCWSDjQ0Wp5qWAuVUYnzgejE68RRUm4bmr1xmcRMaZKYmew==",
+      "publicado_em": "2026-09-25T07:36:38.956912+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Alibaba Revela Zhenwu V900, o Chip de IA Mais Poderoso da China",
+      "titulo_post": "Alibaba Revela Zhenwu V900, o Chip de IA Mais Poderoso da China",
+      "slug": "alibaba-revela-zhenwu-v900-o-chip-de-ia-mais-poderoso-da-china",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13dXnqXklcYGOcOJN6VY-AM5W7iDEbBKcx-5tH9Q3K8WEmJw8J2tShJcF2L3QB5tHndppe_QUoyNW4yf28f_8nifeZ2AxaBNHffvf6MEbfh99uRLZNp0l3i1Jfij-RkM_",
+      "publicado_em": "2026-09-25T07:39:04.542974+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "ESA Lança Plano Decisivo para Conquistar Autonomia na Lua e Marte",
+      "titulo_post": "ESA Lança Plano Decisivo para Conquistar Autonomia na Lua e Marte",
+      "slug": "esa-lanca-plano-decisivo-para-conquistar-autonomia-na-lua-e-marte",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8WXkffXkiaGicF8Sk8KED5ch00cckXj6jrnQsb0VPsqnGX_IFJUTB_OFTn0Y0QABXuqoyX6LudmwOHXaEPDS8iGTmRlLM2Ve0GhEuP0RxWIP2Qp7behMQFGhyokpK5y4sePe-WcrMYeUvzGXleor5iG9s5vgGBQ4XbxZEU4mgfOCRHgP4DF6W3FMLorr4tjyU2o1XHT8=",
+      "publicado_em": "2026-09-25T07:40:46.470439+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Enzima Rara do Fundo do Mar Gera Amónia a 90 °C",
+      "titulo_post": "Biotecnologia: Enzima Rara do Fundo do Mar Gera Amónia a 90 °C",
+      "slug": "biotecnologia-enzima-rara-fundo-mar-gera-amonia-90-c",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_kkKgSQh-Fi6hBwL4khWGx6VPyNl_eKxuZkoxI-N6KJwdlZYCj8Opt1rAUFj-hbQqrisbf0zATzqGZbjb1ci6nX0pb4V2CdoY1qZ26flzADoPzB7mQQtQH23txZejSj21bM9ifdcuYT5f0ytoXcvSGIBvQQ==",
+      "publicado_em": "2026-09-25T07:42:25.441332+00:00",
       "dry_run": false
     }
   ]
