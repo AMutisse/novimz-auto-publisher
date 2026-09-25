@@ -3,69 +3,6 @@
     {
       "site": "novimz",
       "fonte": "sociedade",
-      "titulo_original": "Novo regulamento vai reorganizar setor mineiro em Moçambique, diz Chapo - Notícias ao Minuto",
-      "titulo_post": "Novo Regulamento Mineiro Promete Transformar Setor em Moçambique",
-      "slug": "novo-regulamento-mineiro-promete-transformar-setor-em-mocambique",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-12T22:14:11.532487+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
-      "titulo_post": "Cinema e Milhões: Os Bastidores Financeiros de Dark Horse",
-      "slug": "cinema-e-milhoes-os-bastidores-financeiros-de-dark-horse",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-12T22:14:27.631991+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "A disputa entre ministros do STF sobre conteúdo em celular de Vorcaro — e a resposta de Fachin",
-      "titulo_post": "Disputa no STF expõe debate sobre sigilo de dados em processos",
-      "slug": "disputa-no-stf-expoe-debate-sobre-sigilo-de-dados-em-processos",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-12T22:14:53.244048+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "economia",
-      "titulo_original": "Cimentos de Moçambique Investe 150 Milhões na Produção Nacional",
-      "titulo_post": "Cimentos de Moçambique Investe 150 Milhões na Produção Nacional",
-      "slug": "cimentos-de-mocambique-investe-150-milhoes-na-producao-nacional",
-      "categoria_id": 32,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3Gaa82y_8YrA4AwvzGlL6XHu_QdRwGFnl7fgxW--fKx8AzAoonj_pQkizXwD-IJDYgRl7JLSoghZfGvJEpU6w-q8gc-nsdgFIrkggBWxbQmdABQ==",
-      "publicado_em": "2026-09-12T22:15:28.342568+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "James Webb Revela Segredo dos Pequenos Pontos Vermelhos",
-      "titulo_post": "James Webb Revela Segredo dos Pequenos Pontos Vermelhos",
-      "slug": "james-webb-revela-segredo-dos-pequenos-pontos-vermelhos",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFQH-pENuSCpqhel9OLBwA5XdJ10FE7GpH6fM0XjwDECrmvnf4l1dZ7ovgJeVrMuv6lFJ-arH1SQIxGvDQ9lQAsO4M2A4CnYuomr2aKVEC_p0aXo1NXZO3S2wmww6g8e_4XrV72lhmfHIVchrDbnvl1dWBQfCAR8VM9xwVC7YjjgMLczWaWUPKwQEha00jmqfx87xOQ4YtjZJ5GhYwOV2FNe6LNZ8NKTbWNCbWgEA1Pc_3LNSd56VNvcP2Wuh6o5KpZEs=",
-      "publicado_em": "2026-09-12T22:16:15.095699+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Brics Condena Tarifas e Avança no Uso de Moedas Locais",
-      "titulo_post": "Brics Condena Tarifas e Avança no Uso de Moedas Locais",
-      "slug": "brics-condena-tarifas-e-avanca-no-uso-de-moedas-locais",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3B5jQqO76hDmQOZi48-x9nNkv21_m-dgNZHoZA7oYXGapES5sotdDsMg39IxpIYX0uQk6Eq5PMS3_qENsOW-Sj6LNGd7hVRuH_-DVmwN-J3oovj5go65YhhOikMBiEooSSKE_V3v2Xdk90dehgQ_b9zRpI8UMaDQViUb6kv8_FKu1RRMCRwN8qeFPudoLDj2atQB_O35N50F_HKhhI_afrwA7Ofmx8ltN1VlCaElxNk7_rSBs4kLWKOKa5JewpaU=",
-      "publicado_em": "2026-09-12T22:16:51.267224+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
       "titulo_original": "Top - 10 mais Sem Espinhas (Semanal) Episódio 35 - de 13 set 2026 - rtp.pt",
       "titulo_post": "Musica Lusofona em Destaque nos Tops Semanais Africanos",
       "slug": "musica-lusofona-em-destaque-nos-tops-semanais-africanos",
@@ -5209,6 +5146,82 @@
       "categoria_id": 6,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFtKtlA2BBCmBOqkO3nIo0IbLLnQ-Q6wegUdfG8NA3_NRgxHkIXJp5XT3VlE8eabT52rep22T69vGQaHXnDe46kYRs9FQSRy-0mQkkpqtDVgM=",
       "publicado_em": "2026-09-24T21:27:07.582507+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Eu não sabia que meu namorado me estuprava enquanto eu dormia'",
+      "titulo_post": "Consentimento em Relações: O Debate Jurídico e Psicológico",
+      "slug": "consentimento-em-relacoes-o-debate-juridico-e-psicologico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-25T00:24:13.150460+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Dinheiro em Circulação em Moçambique Atinge Máximo Histórico",
+      "titulo_post": "Dinheiro em Circulação em Moçambique Atinge Máximo Histórico",
+      "slug": "dinheiro-em-circulacao-em-mocambique-atinge-maximo-historico",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERpBmZ7o39dJREBw-BqkxVOJAz6pRXUC_IEiuOvAtPyTD6SwgydNL1Ahb35iyrBQRLPJOULg9VzLSNY2uJmh7YIDcWg0jbyt2-TyduxpDPUdPDrfYc8CRfpWLRTUAVEGmlbU0GY4H3QHQyPMXbszwQStJEU0dUGgu124l6QqYYjJ0ZfUl-eeG3UIh_gR75zLikkEMAcc2XRT8TZrNdAIyzKjvWuGDQhBT9RIQIcEZdnqX9nMKyd2Czv3rLljc8evI=",
+      "publicado_em": "2026-09-25T00:24:56.711683+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Adesão ao TARV em Moçambique: O Desafio de Manter o Tratamento",
+      "titulo_post": "Adesão ao TARV em Moçambique: O Desafio de Manter o Tratamento",
+      "slug": "adesao-ao-tarv-em-mocambique-o-desafio-de-manter-o-tratamento",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMlU4W1vUAUZm8YrPedsJOa1eXEFwXX14zu3ESh8e8kLzH1OtOuaYhvrtAdp3SvdczIZPSZvNIBunB2uqfUlMn0ST5_Ma9Na-aWvzrT7J034_bGk7pM77BSX4xYHBqutL4yRf2e12hVnFYNIvr-spDAFaD1pYRBRqIM9X7JgY-WilF_g5SssClG5LDXAIuY2DW5JbA_FzFADnhldGX98DEdOGItrU=",
+      "publicado_em": "2026-09-25T00:27:24.506824+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Consultas Pós-Parto em Moçambique: Cuidados no Puerpério",
+      "titulo_post": "Consultas Pós-Parto em Moçambique: Cuidados no Puerpério",
+      "slug": "consultas-pos-parto-em-mocambique-cuidados-no-puerperio",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd6KS8FvKXa0RFdLHBpvtxpa12XJF8vHyJaPJ5IR890zZRBadsb6bpAFnKa0jFI4Arb_a1n269W0O1gYX34e-y0O8zK1klIgwRsxcragIY-23M3R11UF-Rxt-6iP_m2qNXzsk8Nee5_v4jcno6M3EXKtZQb27H-kRuneK80cdq0tWgAP3rE0S994nmgZzat6KDF6HJ6ZGb1_04-EGBZp2Q",
+      "publicado_em": "2026-09-25T00:27:56.441365+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Meta Revela Agente de IA Muse Integrado a Óculos Inteligentes",
+      "titulo_post": "Meta Revela Agente de IA Muse Integrado a Óculos Inteligentes",
+      "slug": "meta-revela-agente-de-ia-muse-integrado-a-oculos-inteligentes",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr1KnpIV_7CvA3hQkSQ_MLXPWWsChQVVhuxhOB1cTVKUi7XlEF0TkyqSeqegAgPYWrthThnvLBYFZCPaIkvMSfuuXizWMLEC4YWSONqE36Hc7DprPbeqWCHLOhT7dZE8Etfc6L3vPENmvKLzpC-Ggx1X4PLd9thEENeN_stLvFKI4Awj2_88PqDazByVtSPGmOpquOIsrO_djtmO3MbMQeyNJAm4tjra0qgzw=",
+      "publicado_em": "2026-09-25T00:28:58.589453+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "NASA Aprova Novo Telescópio Espacial PRIMA de 1 Bilhão de Dólares",
+      "titulo_post": "NASA Aprova Novo Telescópio Espacial PRIMA de 1 Bilhão de Dólares",
+      "slug": "nasa-aprova-novo-telescopio-espacial-prima-de-1-bilhao-de-dolares",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0z6LpPsT2E-QXCm6HiH8LoAxQBYbfTKZx79gfa0qj58vIXfCVN45ZGI8Gl-ptLJq4GKaOq5ENFXD49RgVr8GAgIE2NcDHElFV7lmLP3YugcN-peXS24_6wLNP7SKq",
+      "publicado_em": "2026-09-25T00:29:36.462507+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia Blinda Trigo e Arroz Contra Fungo Devastador",
+      "titulo_post": "Biotecnologia Blinda Trigo e Arroz Contra Fungo Devastador",
+      "slug": "biotecnologia-blinda-trigo-e-arroz-contra-fungo-devastador",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0IJ9g_5K9u_R099cT2qaCUFw8Q33L7fsgXj4S4KjjKu-ZgTxYqutIYoagSV7ScEF_ycmoh599UL-5ZF9QphAfq4nFpkZVtYKq1hnUOrnCSv6I8Ln8FdKKeGPZISUb9ke8M_aPppyA1OaUd9WB7a7_8mcAr6_5WjpOAXCQeYjSyvhMqMs=",
+      "publicado_em": "2026-09-25T00:30:04.237710+00:00",
       "dry_run": false
     }
   ]
