@@ -2,37 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Empresários moçambicanos dizem que actividade económica acelerou no 2° trimestre - RFI",
-      "titulo_post": "Economia de Moçambique Acelera no Segundo Trimestre",
-      "slug": "economia-de-mocambique-acelera-no-segundo-trimestre",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-13T14:14:52.524474+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic",
-      "titulo_post": "Inteligência Artificial: Alerta Global Sobre Riscos Futuros",
-      "slug": "inteligencia-artificial-alerta-global-sobre-riscos-futuros",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-13T14:15:41.485794+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "sociedade",
-      "titulo_original": "Justiça Amiga da Criança Mobiliza Moçambique e Região",
-      "titulo_post": "Justiça Amiga da Criança Mobiliza Moçambique e Região",
-      "slug": "justica-amiga-da-crianca-mobiliza-mocambique-e-regiao",
-      "categoria_id": 31,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbTvh7BP7ti8xQGB6PyoPOQfwZfvwPqMFK4uckd1sGqpWqn-V-m2kgMvLXVqfgHob7ZwCLNS6bWIV7LWqKIMhx9GkTE8zAD1cD2PmQ7uPUwIwCg0=",
-      "publicado_em": "2026-09-13T14:16:25.513167+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "bbc_portuguese",
       "titulo_original": "Os pais palestinos preocupados com ataques a escolas na Cisjordânia ocupada: 'O que fazer quando colonos atiram em seus filhos?",
       "titulo_post": "Cisjordânia: O Desafio da Educação e Segurança nas Escolas",
@@ -5243,6 +5212,91 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1DCxfoyE_iwgjNg1M_gAhx8NVaP8WrQEqjCyVqSXDwtFTU_5taxTWiwEQF8iBsLU8xrgYa8t79MDUk9CbqvbrTjckMWRd5RrudveVVaLUnIY_3eoOqSf-zuKQ8msnyFEFqTGt3UnAcBVPDjisCqsz7vP7sSAcs_t8Y4Mq7FkzlB4FZ-Vkei2KF08MGnsoXK6cgrLnkMBmtY3Ajo0PA6cnyji4eRc8s4qVTUkO6Pit9IHvOFPXoZ5q8bzzzRGphIR_v-hbEHR25jHRImrsyNUivaXvXgo-P3rXucJSpEYDrAta50CJo-WNos8h4PbDA7MT9Fe0tgFwJ72zIHeM86uc-IIp0OgnPW4DIkv-gIsv-uQpKj0IaNwfn18HuZbn9cRux96JdIJcK3r8ZzFlvWQsW3L7",
       "publicado_em": "2026-09-25T13:38:20.262754+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Proibição das bets: os pontos que o governo Lula ainda fecha na última hora",
+      "titulo_post": "Regulação de Apostas Online: Brasil Prepara Novas Restrições",
+      "slug": "regulacao-de-apostas-online-brasil-prepara-novas-restricoes",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-25T18:25:14.321528+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Geny Catamo marca no empate de Moçambique com o Senegal - A Bola",
+      "titulo_post": "Geny Catamo Brilha no Empate dos Mambas Frente ao Senegal",
+      "slug": "geny-catamo-brilha-no-empate-dos-mambas-frente-ao-senegal",
+      "categoria_id": 2,
+      "publicado_em": "2026-09-25T18:25:46.286371+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Lula proibir bets é 'desespero por votos' e pode ter impacto em eleição apertada, afirma professor da USP",
+      "titulo_post": "Regulação das Apostas no Brasil e o Impacto no Xadrez Político",
+      "slug": "regulacao-das-apostas-no-brasil-impacto-xadrez-politico",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-25T18:26:18.428594+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Peso nos Hospitais e Medidas Chave",
+      "titulo_post": "Malária em Moçambique: Peso nos Hospitais e Medidas Chave",
+      "slug": "malaria-em-mocambique-peso-nos-hospitais-e-medidas-chave",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzAEeaQXU-q3lx5_LYtkGcndTulmoiGGxsckv03zGoJXXzsGlhjzx4KRIbg3yBFhlCWKrYvGSWkD6oEQWUJJj0gyDiNEHBCzuUqIpwyUvdvyKMntx6NBLDpTXniLPb91I8Xoiey_QwL5AiFx4fSUQS8gX4DA9XJgVXgc7t-g_SD1GPepc1CcUsASCrj8nV5t3YFRf9aeIZ8FguSbqfjyQBn_JZ5hvdkAoOkCL3tkcqlLO5NPLIgW5MHw==",
+      "publicado_em": "2026-09-25T18:29:20.217364+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Transmissão Vertical do HIV: Como Proteger o Bebé em Moçambique",
+      "titulo_post": "Transmissão Vertical do HIV: Como Proteger o Bebé em Moçambique",
+      "slug": "transmissao-vertical-do-hiv-como-proteger-o-bebe-em-mocambique",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnKb7RN6MMXEyiY3l1yKVfs3le7R5zPc7ZIeJfX--sO8OoSRqsn49KH8mrMX3_2C09tGQeGNIJB7auL6wemLS9pd4LR_XKyv1iqjS9KYxUkPS3FTQb0HBojjAW85PcAAGR2t8Df8BlXA==",
+      "publicado_em": "2026-09-25T18:30:22.188926+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil: A Importância dos Agentes Comunitários",
+      "titulo_post": "Saúde Materno-Infantil: A Importância dos Agentes Comunitários",
+      "slug": "saude-materno-infantil-papel-agentes-comunitarios",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjS5kZc9GDTJJ9YSVvyTcMC6b_HBL292gywj0Zc0SCdAk8An_J-7T9scO2dDUNoi3GyTafbFKsTr9whrkTfsJVs0tD4cJ8DBMWuBErIQVZM3iibNTAWwmruAbL2OP6kyq7yKvFN18neazwNc_L9wfxZeo8ZdqgZ5zDli8sJZeUG1eHbXyG2Awc7ee-pCAZR7iY9j0Z1vpP",
+      "publicado_em": "2026-09-25T18:30:45.140327+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Cólera em Moçambique: Situação Actual e Medidas de Prevenção",
+      "titulo_post": "Cólera em Moçambique: Situação Actual e Medidas de Prevenção",
+      "slug": "colera-em-mocambique-situacao-actual-e-medidas-de-prevencao",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpUwsYL0mWX-1cDK58Xw6eTriy5X-FBEjP4nQQPwAfMhIZRXr0PnsO1-6MvDTPgFflLjn_xchn5yzUohTAARlwRpU1xxQIzNB-LmZF7xerAkQHfu4I5-9hCzDDxR_FvQjjj4aKNO1I5KuzGonItn-2zSEzsGrKrVRHG9-HimjAtPs7Ztdob_soEdly4wv1PMICmdHAeyvOnoMcXpk=",
+      "publicado_em": "2026-09-25T18:31:28.742656+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Bactérias Magnéticas Prolongam a Vida em 43% e Blindam Células",
+      "titulo_post": "Bactérias Magnéticas Prolongam a Vida em 43% e Blindam Células",
+      "slug": "bacterias-magneticas-prolongam-a-vida-em-43-e-blindam-celulas",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv-aFwp5cy1Fw6wantvD-SwQxqdCXTmOr8aJzhmrwW3X5ldUpBavHlvEuwgdLXk2T2AVzdnFMPP2MEB-O0PwvqGfYgF-YcQfL1xqKneXuCze1gYk-yo-KGX99iHOnVPDRCqamlR2pbURLb-oDIo1hRHOuU",
+      "publicado_em": "2026-09-25T18:32:58.868636+00:00",
       "dry_run": false
     }
   ]
