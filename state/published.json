@@ -3,26 +3,6 @@
     {
       "site": "novimz",
       "fonte": "bbc_portuguese",
-      "titulo_original": "Os pais palestinos preocupados com ataques a escolas na Cisjordânia ocupada: 'O que fazer quando colonos atiram em seus filhos?",
-      "titulo_post": "Cisjordânia: O Desafio da Educação e Segurança nas Escolas",
-      "slug": "cisjordania-desafio-educacao-seguranca-escolas",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-13T22:15:32.904246+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
-      "titulo_post": "Disputa Judicial no STF Envolve Dados de Telemóvel de Banqueiro",
-      "slug": "disputa-judicial-no-stf-envolve-dados-de-telemovel-de-banqueiro",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-13T22:15:51.020778+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
       "titulo_original": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'",
       "titulo_post": "Brasil: STF Levanta Sigilo em Inquérito Sobre Filme de Bolsonaro",
       "slug": "brasil-stf-levanta-sigilo-inquerito-filme-bolsonaro",
@@ -5297,6 +5277,80 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv-aFwp5cy1Fw6wantvD-SwQxqdCXTmOr8aJzhmrwW3X5ldUpBavHlvEuwgdLXk2T2AVzdnFMPP2MEB-O0PwvqGfYgF-YcQfL1xqKneXuCze1gYk-yo-KGX99iHOnVPDRCqamlR2pbURLb-oDIo1hRHOuU",
       "publicado_em": "2026-09-25T18:32:58.868636+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Acidente aéreo mata dois altos oficiais militares na RDC",
+      "titulo_post": "Tragédia Aérea na RDC Envolve Cúpula da Justiça Militar",
+      "slug": "tragedia-aerea-na-rdc-envolve-cupula-da-justica-militar",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-25T23:12:34.729685+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Mambas dividem pontos com Senegal e viram página para o próximo jogo",
+      "titulo_post": "Mambas Empatam com Senegal e Ganham Força na Corrida ao CAN",
+      "slug": "mambas-empatam-com-senegal-e-ganham-forca-na-corrida-ao-can",
+      "categoria_id": 2,
+      "publicado_em": "2026-09-25T23:13:35.746295+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Bets cogitam ir à Justiça e cobrar até dano moral de Lula: 'Setor não vai acabar amanhã'",
+      "titulo_post": "Setor de apostas pondera recurso judicial no Brasil",
+      "slug": "setor-de-apostas-pondera-recurso-judicial-no-brasil",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-25T23:14:18.411854+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Dívida Pública de Moçambique Sobe Para 75,9% do PIB",
+      "titulo_post": "Dívida Pública de Moçambique Sobe Para 75,9% do PIB",
+      "slug": "divida-publica-de-mocambique-sobe-para-75-9-do-pib",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz3OEGg8gv5QuhPtnsyF_4o7RM5cuKhfVbkWWfxEgMumaWbyUBd9jrmiMx9d7WAOKA7R90jpE9JDqb0e6BX6IUNVCNoox1ZSvHv8wQaDne1dOkRaU_AUCzIJ0Hj0EsPUbIXoGwIHtjlxX8I7zv1Ybw7w6g-jjEPg2qsCoij7r_lx2zqcrQuSfBYr1qeUUwGA==",
+      "publicado_em": "2026-09-25T23:15:36.230196+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Robôs Cientistas com IA Aceleram Descoberta de Novos Medicamentos",
+      "titulo_post": "Robôs Cientistas com IA Aceleram Descoberta de Novos Medicamentos",
+      "slug": "robos-cientistas-com-ia-aceleram-descoberta-de-novos-medicamentos",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzgRryAG02xrClS4jXRPCv8AiMMR7k4nR4TMbWzqs_h3FISq8iHUcf1_60N4GHrFi_ianol8TJqoFrXWc47zqUNuiefvXYssSpXaam8llNQjPfvh-Gs30Ul_G13WTdwq6K4c_ZsKFKVlbCHPprJI7ctEMUS5k59bkJMzsU-_GnzA1v4BO9uw82uKui-ejqc7WIkswvas9S6A==",
+      "publicado_em": "2026-09-25T23:16:47.038544+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Avanços e Desafios nas Metas 95-95-95",
+      "titulo_post": "HIV em Moçambique: Avanços e Desafios nas Metas 95-95-95",
+      "slug": "hiv-em-mocambique-avancos-e-desafios-nas-metas-95-95-95",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyIjXkT1XRlJEG1cPvV0o8CnumwVO4g7etAACww61ZUq6TXlCw9giXTg3Tw2FyT_WJkAUcajj1AC6QHevicWeQL_sG3QodBA4IvgCjoyL_FutlX1JLr8EbUACDKV9cVOaFoXESzR-9Kp8qBZewn2cIRAC9TCJNX5VwgAABvjAJw4Xl285gDQTEkcudzZfdUHRBuvHBIhf_Jio33ijpXs2_",
+      "publicado_em": "2026-09-25T23:18:26.364489+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Saúde Mental em Moçambique: Apoio no Uso de Substâncias",
+      "titulo_post": "Saúde Mental em Moçambique: Apoio no Uso de Substâncias",
+      "slug": "saude-mental-em-mocambique-apoio-no-uso-de-substancias",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCkbdc5vZHsNyS1zXG82Q4joL-HIJddbTJdJzFuZIkZCt9YJpf8NAUGLsBLAoAPL2qNimq67_SK7Rjd56Hz_b2kJ3utI9nr6rbz4kcPdPUgpw3gW4-V0zMcTGLMM-2BycnuW4tW5HNb-H77RzdWnkgawgPrgj_E7YRjHg-faO3e8Djp5bDzus01Eny-vHWQWucFUD-_NA3Fziobq1NNXKIVUW8CJYNsEDvlGaUonHw",
+      "publicado_em": "2026-09-25T23:19:32.689021+00:00",
       "dry_run": false
     }
   ]
