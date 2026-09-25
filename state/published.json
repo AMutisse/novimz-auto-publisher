@@ -3,58 +3,6 @@
     {
       "site": "novimz",
       "fonte": "sociedade",
-      "titulo_original": "Portugal acerta apoio sobre arquivo militar com Moçambique em visita de Nuno Melo - RTP",
-      "titulo_post": "Moçambique e Portugal Reforçam Parceria para Arquivo Militar",
-      "slug": "mocambique-e-portugal-reforcam-parceria-para-arquivo-militar",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-13T08:16:19.473954+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Afrotaças: Black Bulls avança na Taça CAF e UD Songo cai de pé frente ao Petro",
-      "titulo_post": "Afrotaças: Black Bulls Brilha e UD Songo Despede-se com Honra",
-      "slug": "afrotacas-black-bulls-brilha-ud-songo-despede-se-com-honra",
-      "categoria_id": 2,
-      "publicado_em": "2026-09-13T08:16:49.174138+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Governo de Moçambique anuncia interrupção temporária no CorreioGOV para manutenção técnica",
-      "titulo_post": "CorreioGOV Passa por Manutenção para Melhorar Segurança",
-      "slug": "correiogov-passa-por-manutencao-para-melhorar-seguranca",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-13T08:17:06.359493+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "economia",
-      "titulo_original": "Empresários em Moçambique Pedem Crédito Acessível e Câmbio Estável",
-      "titulo_post": "Empresários em Moçambique Pedem Crédito Acessível e Câmbio Estável",
-      "slug": "empresarios-em-mocambique-pedem-credito-acessivel-e-cambio-estavel",
-      "categoria_id": 32,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhBMBkS_r8fIbL7kyWeMPHmFO9GOK1MKBBBzA8LLtcEl0DbPxywcwb3NKJSIgizDoRcM7hRZRnUyjghzcqd2-4rn0CFZPJk_BbfJMMWG3pWTF1stF26s3VaQqGAY5SprFxEV2AaSduYIM0C_FsV7q_sNKWLCMZsR6XOXB1tFyRJsrgC8wZPZZBvm1redgrMiudotFSoil8HIFQ6oH7e60Ge_m6jsPAJ3M=",
-      "publicado_em": "2026-09-13T08:18:12.751188+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Líderes da IA Concordam em Desacelerar Avanço Tecnológico",
-      "titulo_post": "Líderes da IA Concordam em Desacelerar Avanço Tecnológico",
-      "slug": "lideres-da-ia-concordam-em-desacelerar-avanco-tecnologico",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEikVjRddgqdjFUuLOMm_p27GiqtXATqIfCXYZnHnq4l8TXduGCtTpaZDHZMEFXg3eHdCBpwE2BJvkLZlKMBPxBZiz3IYZlviXB2N7qQJJrczX6XVIXNRSB7cS1EDdfsl_QaEMbIRpGAB0_OkCCLY-7DcjvzekovzXJqGz-S0XRAaa-FghC41F8BWyQUN0ChbyH7knmebuBJnbq0z8xb9oJTfWP36QkEAngY8YYQZ4jfE39JhsPbyhZhrs-J-8_pA==",
-      "publicado_em": "2026-09-13T08:18:57.197477+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
       "titulo_original": "Empresários moçambicanos dizem que actividade económica acelerou no 2° trimestre - RFI",
       "titulo_post": "Economia de Moçambique Acelera no Segundo Trimestre",
       "slug": "economia-de-mocambique-acelera-no-segundo-trimestre",
@@ -5201,6 +5149,100 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_kkKgSQh-Fi6hBwL4khWGx6VPyNl_eKxuZkoxI-N6KJwdlZYCj8Opt1rAUFj-hbQqrisbf0zATzqGZbjb1ci6nX0pb4V2CdoY1qZ26flzADoPzB7mQQtQH23txZejSj21bM9ifdcuYT5f0ytoXcvSGIBvQQ==",
       "publicado_em": "2026-09-25T07:42:25.441332+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique aceita 284 recomendações da ONU sobre a proteção dos direitos humanos - SAPO",
+      "titulo_post": "Moçambique Reforça Compromisso com Direitos Humanos perante a ONU",
+      "slug": "mocambique-reforca-compromisso-com-direitos-humanos-perante-a-onu",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-25T13:30:40.878269+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "ENH e Petrobras reforçam parceria estratégica no sector de petróleo e gás",
+      "titulo_post": "ENH e Petrobras selam aliança estratégica para gás e petróleo",
+      "slug": "enh-e-petrobras-selam-alianca-estrategica-para-gas-e-petroleo",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-25T13:31:02.366676+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Trump estendeu tapete vermelho para Xi — mas líder chinês não conseguiu tudo o que queria",
+      "titulo_post": "EUA e China: Cimeira de Alto Nível Deixa Questões Chave em Aberto",
+      "slug": "eua-e-china-cimeira-de-alto-nivel-deixa-questoes-chave-em-aberto",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-25T13:32:38.770654+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como opera a empresa por trás de despejo de idosa de 87 anos na Espanha",
+      "titulo_post": "Crise Imobiliária: O Modelo de Negócio por Trás dos Despejos",
+      "slug": "crise-imobiliaria-o-modelo-de-negocio-por-tras-dos-despejos",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-25T13:33:08.417486+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique. Forças Armadas de Defesa celebram o seu dia - RTP África",
+      "titulo_post": "Dia das Forças Armadas de Moçambique: Compromisso e Soberania",
+      "slug": "dia-das-forcas-armadas-de-mocambique-compromisso-e-soberania",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-25T13:33:30.814222+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Aceita 284 Recomendações da ONU Sobre Direitos Humanos",
+      "titulo_post": "Moçambique Aceita 284 Recomendações da ONU Sobre Direitos Humanos",
+      "slug": "mocambique-aceita-284-recomendacoes-da-onu-sobre-direitos-humanos",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNBstvXfYr_n7hWeAKlKklF17MY8xXgsNWT09NSuI56AjSDJ8HsGOWBRlRDrwYMueMv9nasHhGVbL588ugN63pQKTq4C56sUkII6zhKOO33IACCErNb6waLgL33a8SHKAx9vWcHvsPlFsOcLSRb_Zg1eELey-YE9lWeAbKgDlN8ycQ788gYAyvbCaGrw==",
+      "publicado_em": "2026-09-25T13:34:13.770670+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Cientistas Criam Relógio Atómico Mais Preciso do Mundo com Lutécio",
+      "titulo_post": "Cientistas Criam Relógio Atómico Mais Preciso do Mundo com Lutécio",
+      "slug": "cientistas-criam-relogio-atomico-mais-preciso-do-mundo-com-lutecio",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWU_moFWFn0Gv0QWVAjC9jPrYn10evfNmIVqPnZvK-xdXk-Tdt6efXgvji2vFSeKZYgzBKd288PzOoKQtBTnmUfI9zSbSuePWmdF47R3S7AbpXCfDhvmwur4rnpuDNWnuKEj-OcEOh6B1rdbvD",
+      "publicado_em": "2026-09-25T13:35:34.520902+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Prevenção da Malária em Moçambique: Cuidados e Diagnóstico Rápido",
+      "titulo_post": "Prevenção da Malária em Moçambique: Cuidados e Diagnóstico Rápido",
+      "slug": "prevencao-da-malaria-em-mocambique-cuidados-e-diagnostico-rapido",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGti8dSmBngD8Sdf3KzaIobY85bFc7XCuWoyMDX6DOD37zddpuCcIryHRmqlEnjJG98EEldn6BP69qsgB-BlE4WIbhf7u_Yb5BnCvN5RZLWi6edgVPtFt3yCXam_e_JU3c0bC4DX2xSjG5gPeWo7HtgZ8oE6o_4jQXG_Ow3C0wEpy4hSREbCPKAJ4s54XChG45MzX4-lyrGZDeEtmULKcy1uo74FOU6GGLFAxPjUH8fayqmpRxumh_ww==",
+      "publicado_em": "2026-09-25T13:36:18.732280+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: Enzima Lê Alfabeto Genético com 8 Letras",
+      "titulo_post": "Biotecnologia: Enzima Lê Alfabeto Genético com 8 Letras",
+      "slug": "biotecnologia-enzima-le-alfabeto-genetico-com-8-letras",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1DCxfoyE_iwgjNg1M_gAhx8NVaP8WrQEqjCyVqSXDwtFTU_5taxTWiwEQF8iBsLU8xrgYa8t79MDUk9CbqvbrTjckMWRd5RrudveVVaLUnIY_3eoOqSf-zuKQ8msnyFEFqTGt3UnAcBVPDjisCqsz7vP7sSAcs_t8Y4Mq7FkzlB4FZ-Vkei2KF08MGnsoXK6cgrLnkMBmtY3Ajo0PA6cnyji4eRc8s4qVTUkO6Pit9IHvOFPXoZ5q8bzzzRGphIR_v-hbEHR25jHRImrsyNUivaXvXgo-P3rXucJSpEYDrAta50CJo-WNos8h4PbDA7MT9Fe0tgFwJ72zIHeM86uc-IIp0OgnPW4DIkv-gIsv-uQpKj0IaNwfn18HuZbn9cRux96JdIJcK3r8ZzFlvWQsW3L7",
+      "publicado_em": "2026-09-25T13:38:20.262754+00:00",
       "dry_run": false
     }
   ]
