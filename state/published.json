@@ -2,71 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'",
-      "titulo_post": "Brasil: STF Levanta Sigilo em Inquérito Sobre Filme de Bolsonaro",
-      "slug": "brasil-stf-levanta-sigilo-inquerito-filme-bolsonaro",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T00:23:22.788913+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "economia",
-      "titulo_original": "Preços em Moçambique Caem em Agosto e Inflação Recua para 6,45%",
-      "titulo_post": "Preços em Moçambique Caem em Agosto e Inflação Recua para 6,45%",
-      "slug": "precos-em-mocambique-caem-em-agosto-e-inflacao-recua",
-      "categoria_id": 32,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_8KkXA-BPsHBYu_PmzTnTbzzyLUcRnCjVimwFkqry7Y_8-iZrimLtaiRFYU97p_NFapZ8nQ1pGXPFyGE2RuDcYfGk2g6TemBPA7vdhunmRZHhVaLCuEaD_QAAkQ==",
-      "publicado_em": "2026-09-14T00:24:17.061535+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Cientistas do MIT Criam Transístores Vivos com Bactérias",
-      "titulo_post": "Cientistas do MIT Criam Transístores Vivos com Bactérias",
-      "slug": "cientistas-do-mit-criam-transistores-vivos-com-bacterias",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjMJPjGKLBYSaldwa7SZx5BthHb80UaJnqpN3J_TqIufnfX_dH_khnwonYUZhfSjihKu-PU5RDAZuUHxB8y2jZUAG5z1I3iQjFL-_dIEKOEtVptvlWgQHYnXlHoq4dzvLOfegDOAMKGU9r6iPqqy1OHnKk",
-      "publicado_em": "2026-09-14T00:25:21.401544+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "politica",
-      "titulo_original": "Moçambique e França Reforçam Parceria no Combate ao Terrorismo",
-      "titulo_post": "Moçambique e França Reforçam Parceria no Combate ao Terrorismo",
-      "slug": "mocambique-e-franca-reforcam-parceria-no-combate-ao-terrorismo",
-      "categoria_id": 33,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRmbTd6Pg3A_4JqdCEvGT9z28c44gdRDc8RkuD8rlW0TcvaEiZOTNwitJGNiVaqyxsqAqh5gFpkrkCS3nk5tjpVgP0nn0dSE1BR97coAi9AIYYCPvazqiMP39r-z-hxY1A0DF6GK2ORH_DXRAkHwlVWj53uVRe8lzoS5u93P0H3E67DAGjSAXeickUG9aqvg2VZ5-kaJAKNPVxYIUM64OeXuKbVv_5Vh2SPwZ-JNvNlf_lDg==",
-      "publicado_em": "2026-09-14T02:17:46.815477+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Cientistas Criam Painéis Solares que Funcionam a 10 Metros Sob o Mar",
-      "titulo_post": "Cientistas Criam Painéis Solares que Funcionam a 10 Metros Sob o Mar",
-      "slug": "cientistas-criam-paineis-solares-que-funcionam-a-10-metros-sob-o-mar",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFni-PaS_blbZsNmHQvJdHErYQlCCcPKBIOYHCOm9qipnYwbxbiBz_Ky78IESTlrdZBp4jpS2JzvgQo7PGw50BRt_2fibHlDvzeY_84q8seZePRL5TuDuYm6S5apuEh09nPEv7Ew==",
-      "publicado_em": "2026-09-14T02:18:12.315161+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Centro-Esquerda Lidera Eleições na Suécia e Trava Extrema-Direita",
-      "titulo_post": "Centro-Esquerda Lidera Eleições na Suécia e Trava Extrema-Direita",
-      "slug": "centro-esquerda-lidera-eleicoes-na-suecia-e-trava-extrema-direita",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpGGEFPH_dUcZPp0SzsZ8vYJGxtqOIcCSmZAMkB430OG2-ces5C1vo-wrXuTS9o0KDo9T2fho0MmjB3pL51iLvR8YJD7RiEaULvTXB9bsTA4RXgaSXQUsYa11zX5wVoTPUykpJOtVXe5YvovgvB2QABXnpMzUS03oZX7T2MmMgrnrbsGIieOEVFnOsLeLMN6qD0J4VVHkyiMT9QWNKTFVPhtLxhqhs2Q==",
-      "publicado_em": "2026-09-14T02:18:50.209591+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "sociedade",
       "titulo_original": "Novas regulações introduzem mais garantias laborais para trabalhadores domésticos em Moçambique - executivedigest.sapo.pt",
       "titulo_post": "Moçambique reforça direitos dos trabalhadores domésticos com nova lei",
@@ -5351,6 +5286,49 @@
       "categoria_id": 11,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCkbdc5vZHsNyS1zXG82Q4joL-HIJddbTJdJzFuZIkZCt9YJpf8NAUGLsBLAoAPL2qNimq67_SK7Rjd56Hz_b2kJ3utI9nr6rbz4kcPdPUgpw3gW4-V0zMcTGLMM-2BycnuW4tW5HNb-H77RzdWnkgawgPrgj_E7YRjHg-faO3e8Djp5bDzus01Eny-vHWQWucFUD-_NA3Fziobq1NNXKIVUW8CJYNsEDvlGaUonHw",
       "publicado_em": "2026-09-25T23:19:32.689021+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Mambinhas na final da COSAFA e garantem presença no CAN Sub-20",
+      "titulo_post": "Mambinhas Apuram-se para a Final da COSAFA e Garantem CAN Sub-20",
+      "slug": "mambinhas-apuram-se-para-a-final-da-cosafa-e-garantem-can-sub-20",
+      "categoria_id": 2,
+      "publicado_em": "2026-09-26T04:29:06.299135+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Irão Propõe Plano de Sete Dias Para Reabrir Estreito de Ormuz",
+      "titulo_post": "Irão Propõe Plano de Sete Dias Para Reabrir Estreito de Ormuz",
+      "slug": "irao-propoe-plano-de-sete-dias-para-reabrir-estreito-de-ormuz",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHml-8Gz_Zf_kTJ9UEuASfSMXbxU6U_Wbw-PpSDxSL0y4JEE9MVEWbVp7Pfa3M3U7G9_1z1iJBRFltnIzo-UnJuFCOKWvp0AYyDwpEv6-fp34T0jEY5z5HCMvUM3wEwWEi465ll_OnQB4G5ACHCz2oDc_-tX7ndJ9SKRQJKh33a626rFv5GOr2YWrzrM6hDh7_C95j3szuGUf7TjtSO6ST8gqY=",
+      "publicado_em": "2026-09-26T04:31:06.600325+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária e Clima em Moçambique: Cuidados para a Época Chuvosa",
+      "titulo_post": "Malária e Clima em Moçambique: Cuidados para a Época Chuvosa",
+      "slug": "malaria-e-clima-em-mocambique-cuidados-para-a-epoca-chuvosa",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTvTPS4N5GB-euJtQmZyckkzJUHvngT7iWdS6RvHhulffp-4ESTIpf_xheO0VAVJO4jCdStIWgxtkjSi7_PaeUIKzmaVY3vcbJpYgtErDsOisN6uC1P5r7JKivaMmRFM_qTkltDh37kjIt_Hs5N43EVMzTp3bCXVdfSiCg_h5IPvKho1s5tUOSrBOKV3fNFg2gPmJ8jp6xTYjr_1h_nmmOoi1IJpcZdcQmB7XmptBZk992",
+      "publicado_em": "2026-09-26T04:31:31.158073+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia: CRISPR Blinda Células em Terapia de Leucemia",
+      "titulo_post": "Biotecnologia: CRISPR Blinda Células em Terapia de Leucemia",
+      "slug": "biotecnologia-crispr-blinda-celulas-em-terapia-de-leucemia",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3SXFv4bzDTD5m_KuBdusHLPJs-PkvyDrSZ8mfe52YmN7RczQSD28OZ3BhgkV2RtObKqds2smoBpstol3C_Brt9UdtKwAhr-qEuAmygJmI5CAIkHgJJ50ITuwkqxUPx8tsY6zf9S2Gk70DMhOk-uMh_SfmQg==",
+      "publicado_em": "2026-09-26T04:33:44.252037+00:00",
       "dry_run": false
     }
   ]
