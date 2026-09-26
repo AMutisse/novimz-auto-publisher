@@ -60,7 +60,6 @@ jobs:
 
       - name: Gravar histórico anti-duplicados (se mudou)
         run: |
-        
           if ! git diff --quiet -- state/published.json; then
             git config user.name "novimz-auto-publisher-bot"
             git config user.email "actions@users.noreply.github.com"
