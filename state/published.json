@@ -2,120 +2,6 @@
   "publicados": [
     {
       "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Novas regulações introduzem mais garantias laborais para trabalhadores domésticos em Moçambique - executivedigest.sapo.pt",
-      "titulo_post": "Moçambique reforça direitos dos trabalhadores domésticos com nova lei",
-      "slug": "mocambique-reforca-direitos-dos-trabalhadores-domesticos-com-nova-lei",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T06:22:53.358461+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Moçambique procura investimento da Coreia do Sul para industrializar recursos",
-      "titulo_post": "Moçambique Quer Capital Sul-Coreano para Industrializar Recursos",
-      "slug": "mocambique-quer-capital-sul-coreano-para-industrializar-recursos",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-14T06:23:09.020368+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Reservas internacionais moçambicanas recuam para mínimos de mais de um ano - executivedigest.sapo.pt",
-      "titulo_post": "Reservas Internacionais de Moçambique Recuam Para Mínimos de Um Ano",
-      "slug": "reservas-internacionais-de-mocambique-recuam-para-minimos-de-um-ano",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-14T06:23:25.435096+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "economia",
-      "titulo_original": "Moçambique e FMI Negociam Novo Programa de Crédito Alargado",
-      "titulo_post": "Moçambique e FMI Negociam Novo Programa de Crédito Alargado",
-      "slug": "mocambique-e-fmi-negociam-novo-programa-de-credito-alargado",
-      "categoria_id": 32,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF_bAyvxDzGaRP_5dJEizcccHux97IWrA9MYGz8tvLUbAuhXlHq0PRcX8ueWUbbukfKJqSEOv88ByoMqx7Ju5rTxRkMpLq81Lq",
-      "publicado_em": "2026-09-14T06:24:21.136132+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Kosovo Reelege Albin Kurti mas Crise Política Mantém País em Alerta",
-      "titulo_post": "Kosovo Reelege Albin Kurti mas Crise Política Mantém País em Alerta",
-      "slug": "kosovo-reelege-albin-kurti-mas-crise-politica-mantem-pais-em-alerta",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbQAB8DGwFZAcdYDLeGAcH2qgkXcp9S3cFLIAbK8D2ks3ZK57dhISymL0Bj3QIAVpBC7nq44RaKrHJh5ubLN3ksU28j2ncNwf_j7sTEjFIuNwgU_TJwWoQoMclkWKFsgSN_7aR5L_caCtiITFjrGkFCC95_kPR5IXPYklcIdPYuTF_N5zTxmhZ9ukmpJdTOs2ca1dro7YkgHHj5EVfutwgidA=",
-      "publicado_em": "2026-09-14T06:25:25.562631+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Adriano Nuvunga exige explicações sobre partilha de dados de saúde entre Moçambique e EUA",
-      "titulo_post": "Acordo de Saúde de 1,7 Mil Milhões Gera Debate Sobre Dados em Moçambique",
-      "slug": "acordo-saude-1-7-mil-milhoes-debate-dados-mocambique",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T08:17:36.669541+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Por dentro da rede de influenciadores que ataca o voto feminino no Brasil",
-      "titulo_post": "Redes digitais e o debate sobre o voto feminino no Brasil",
-      "slug": "redes-digitais-e-o-debate-sobre-o-voto-feminino-no-brasil",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T08:17:54.456302+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Standard Bank lança plataforma digital “Empreenda” para impulsionar capacitação de jovens e PME",
-      "titulo_post": "Plataforma Empreenda: Novo Impulso Para Jovens e PME Nacionais",
-      "slug": "plataforma-empreenda-novo-impulso-para-jovens-e-pme-nacionais",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-14T08:18:33.486767+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Mais dez mortos em minas ilegais no centro de Moçambique - DW.com",
-      "titulo_post": "Mineração Artesanal em Moçambique: Riscos e Desafios Urgentes",
-      "slug": "mineracao-artesanal-em-mocambique-riscos-e-desafios-urgentes",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T08:18:57.129774+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "IA Prevê Evolução do Glaucoma com Apenas Uma Fotografia",
-      "titulo_post": "IA Prevê Evolução do Glaucoma com Apenas Uma Fotografia",
-      "slug": "ia-preve-evolucao-do-glaucoma-com-apenas-uma-fotografia",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAY_TOjlNi7BWzE0bwEp-xE0X-2WsBXU0JFSkU6dhiJQKkJU-3L_Z6RNPdqUafiLTOyrygsDz8YCcVjOqt9NOblB3kBwGFYTFGBDOR6cLwaTl7cqP9CAFGoK3U7EKJl7OihA2F1EShyJZZaPedy6G3b21XmZqaKa1Bak=",
-      "publicado_em": "2026-09-14T08:21:17.247060+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "UE Sofre Pressão Para Criar Lei Urgente de Resiliência Climática",
-      "titulo_post": "UE Sofre Pressão Para Criar Lei Urgente de Resiliência Climática",
-      "slug": "ue-sofre-pressao-para-criar-lei-urgente-de-resiliencia-climatica",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjFGlj0g9BNI-cHgWCDVXWq_xmfTBdOyR0NDlR5NJmHgLufRdKogOoxMPuwjuypG5rN2egAv5GLh1MOcw_6MN-zaLXBIK8JMONmA==",
-      "publicado_em": "2026-09-14T08:21:52.959971+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
       "fonte": "mozentretenimento",
       "titulo_original": "Ernie Smith revisita palcos de Maputo com noite dedicada ao jazz e R&B",
       "titulo_post": "Ernie Smith Regressa a Maputo para Grande Noite de Jazz e R&B",
@@ -5329,6 +5215,89 @@
       "categoria_id": 8,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3SXFv4bzDTD5m_KuBdusHLPJs-PkvyDrSZ8mfe52YmN7RczQSD28OZ3BhgkV2RtObKqds2smoBpstol3C_Brt9UdtKwAhr-qEuAmygJmI5CAIkHgJJ50ITuwkqxUPx8tsY6zf9S2Gk70DMhOk-uMh_SfmQg==",
       "publicado_em": "2026-09-26T04:33:44.252037+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Crédito à economia moçambicana recua 0,4% em Julho e prolonga queda iniciada após máximos em Maio - SAPO",
+      "titulo_post": "Crédito à Economia em Moçambique Recua e Prolonga Queda",
+      "slug": "credito-a-economia-em-mocambique-recua-e-prolonga-queda",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-26T11:08:54.887027+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Soberania' no altar: falas de bispos católicos e rumores sobre Nossa Senhora viralizam e viram ativo da campanha de Lula na reta final",
+      "titulo_post": "Eleicoes e Fe: Como a Religiao Move o Eleitorado",
+      "slug": "eleicoes-e-fe-como-a-religiao-move-o-eleitorado",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-26T11:09:36.313235+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique/Ataques: Supostos terroristas raptam civis em Mocímboa da Praia - executivedigest.sapo.pt",
+      "titulo_post": "Cabo Delgado: Tensão e Desafios de Segurança em Mocímboa da Praia",
+      "slug": "cabo-delgado-tensao-e-desafios-de-seguranca-em-mocimboa-da-praia",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-26T11:09:55.235468+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Aumento de tarifas de transporte em cima da mesa devido a falhas nas compensações",
+      "titulo_post": "Transportes em Moçambique: Operadores Avaliam Subida de Tarifas",
+      "slug": "transportes-em-mocambique-operadores-avaliam-subida-de-tarifas",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-26T11:11:10.122596+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Brasil proíbe casas de apostas e determina bloqueio das plataformas",
+      "titulo_post": "Brasil proíbe casas de apostas online e bloqueia plataformas",
+      "slug": "brasil-proibe-casas-de-apostas-online-e-bloqueia-plataformas",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-26T11:11:37.967238+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "China Atinge 270 Milhões de Pessoas com Ensino Superior",
+      "titulo_post": "China Atinge 270 Milhões de Pessoas com Ensino Superior",
+      "slug": "china-atinge-270-milhoes-de-pessoas-com-ensino-superior",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQnVqZKPRwkIscRTFbyyxWLEsfXmDRRvD_AUwaYQI8VKKY4ofzrWdo5RnFK99WhPQYeYP8y-fDVS-VfRXIrDI5rYj9JbCXlMai2IHqAZuCChoKySFcTlE8ijevaBuIbegcQ77JYC62LBBd8gJZv2MOTM48daYPUvIfDqIAwqWP-QGmTplyzagVC8-Zd2YOwh1nrEWXmXctaeug6pAexa7qkLc2UvJFGTiKaA==",
+      "publicado_em": "2026-09-26T11:13:12.665445+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Prevenção Combinada do HIV: Estratégias e Cuidados em Moçambique",
+      "titulo_post": "Prevenção Combinada do HIV: Estratégias e Cuidados em Moçambique",
+      "slug": "prevencao-combinada-do-hiv-estrategias-e-cuidados-em-mocambique",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0BSdM1QNo44ffohiExCqhoQppSPU9lPsj0DQK_RJhbUe1uGanHje_dRI5-UCtD1Pz7vi2CpyXdxG4iz8JIEYdfsnYXudhi3wsR8x2SflUwV0czdQ_upnJodQolx2dMM6xceCq-kS1Nzyq4efLHBTZFOE3k4HtL8N_9ZIGqOgVt_6tC9cgYdx0Dzb6mUDjopREHznZsx8BAjzsXudKiTjrHPHSl21FBmHcSMyZzjTP74TWWcaUmdB9P1RM7uR7fCsbVz5pZCAegmDtvAZF1_3y",
+      "publicado_em": "2026-09-26T11:14:20.986539+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Google Leva Chips de Inteligência Artificial ao Espaço",
+      "titulo_post": "Google Leva Chips de Inteligência Artificial ao Espaço",
+      "slug": "google-leva-chips-de-inteligencia-artificial-ao-espaco",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0A1HINNQCKLs5MVw0MtlUTfjdf6dRUNa3XS0Z4DWdoUoaZuXgdv5zxKyjJoo7mcRQQ8K7_kiduSWqnUQB-D_bHXRHZZYqb1No7X6pXp4QF5W5y_I7DEpKx28a57FtetTENLpZW3wJ_vsIGLsCoJmUHyPt2IDNriqNhij_QO44ukkR1TzKFa5O",
+      "publicado_em": "2026-09-26T11:15:09.031278+00:00",
       "dry_run": false
     }
   ]
