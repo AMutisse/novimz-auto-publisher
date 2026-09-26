@@ -1,151 +1,6 @@
 {
   "publicados": [
     {
-      "site": "panorama",
-      "fonte": "sociedade",
-      "titulo_original": "Moçambique Antecipa Ações Contra Riscos do El Niño na Saúde",
-      "titulo_post": "Moçambique Antecipa Ações Contra Riscos do El Niño na Saúde",
-      "slug": "mocambique-antecipa-acoes-contra-riscos-do-el-nino-na-saude",
-      "categoria_id": 31,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmM9ubGEQ8_LuVGlO6FwTSeVUksBdrbu8d_Jz5lpnoHHDBRB4b1fJYPNdgPvsSxg2PtpOXb-0fVq9gGi4rghDuqZ59yfMa0XxGo8ulQ4iCN--I2g3RlyY5Ln5IrZA_gaXcwFxAzGAESM0Kmo8MFAMopfP6-laq-4qA4uEEjxLh_a2UUCdCQ4jP4jX6hR55GbicsQ==",
-      "publicado_em": "2026-09-14T16:20:33.424196+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Google Alerta Para Ciberataques com IA Cada Vez Mais Autónomos",
-      "titulo_post": "Google Alerta Para Ciberataques com IA Cada Vez Mais Autónomos",
-      "slug": "google-alerta-para-ciberataques-com-ia-cada-vez-mais-autonomos",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvM1tVtxazeNIM4NYxhY6X03_gAhhJxq_9AuWAML9FzI49MGNFqOvxK-isj97rrYVKZ_6ZIMnEaqAkPNtXQi3oxto7RKg52AR7_gjkseujjwQ-1QQBhRsmvgKRdYezu_vfDHoDJyLMPOmpMsj4uoHPbNB0bobFTHIferqCMwjntDsI_mwuXgQMRYw=",
-      "publicado_em": "2026-09-14T16:22:08.225527+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Finlândia Adere ao Escudo Nuclear Francês Para Conter a Rússia",
-      "titulo_post": "Finlândia Adere ao Escudo Nuclear Francês Para Conter a Rússia",
-      "slug": "finlandia-adere-ao-escudo-nuclear-frances-para-conter-a-russia",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5fS2jg8WGjRYcPkvrWnSqD1attUEvTOcCzWJSBd3cXVXq3J4CNvWceiqfoGPpda2du2E3YBh1Yw7vkI5Oj9eKgewnrO4S9UBG5_Qq1RkQK__5IoXJ2O2otw9sKdU9k-xQsM6K6zqeEcPybbH0e8E8vT5GZVrykmznSi04Ebo4zKIjVn199M-hWSG4tyLnZ6yeWvTh8myP1iVMCFGi863vwKOzit6r3ot1Qo8m6qvzh5RiJ_JmCh6zEksEkWo4hIiIn9pRHAFwH6RKgD1LXqiGXq-m07mh9VBiMdkAyjJet_c1GIdIAcyOtaQzfkvyYqq3gOPP1QMIAJ-4WwjL0McA76ogLxKyx-XizmkwHyiwzL8XUNmBPPtTemtMUVGGCQv7fsNzBA==",
-      "publicado_em": "2026-09-14T16:23:01.610829+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "mznews",
-      "titulo_original": "Desafios da economia informal marcam abertura da reunião nacional do INSS",
-      "titulo_post": "INSS quer integrar economia informal no sistema de protecção social",
-      "slug": "inss-quer-integrar-economia-informal-no-sistema-de-proteccao-social",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-14T18:18:12.527955+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF",
-      "titulo_post": "O Equilíbrio de Poder no STF e o Futuro Judicial do Brasil",
-      "slug": "o-equilibrio-de-poder-no-stf-e-o-futuro-judicial-do-brasil",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T18:18:28.937691+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Elas foram melhores amigas por décadas, até que um exame de DNA revelou que são irmãs",
-      "titulo_post": "Amigas Há Décadas Descobrem Que São Irmãs Biológicas",
-      "slug": "amigas-ha-decadas-descobrem-que-sao-irmas-biologicas",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T18:18:57.011655+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Moçambique e Brasil aprofundam cooperação para modernizar gestão pública - aimnews.org",
-      "titulo_post": "Moçambique e Brasil Unem Forças para Modernizar a Gestão Pública",
-      "slug": "mocambique-brasil-cooperacao-gestao-publica",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T18:19:24.384275+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Praça Pública - DW - 14 de Setembro de 2026 - DW.com",
-      "titulo_post": "O Papel do Debate Público no Futuro Social de Moçambique",
-      "slug": "o-papel-do-debate-publico-no-futuro-social-de-mocambique",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T18:19:56.236000+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Ataque no Estreito de Ormuz Adia Negociações Diplomáticas em Omã",
-      "titulo_post": "Ataque no Estreito de Ormuz Adia Negociações Diplomáticas em Omã",
-      "slug": "ataque-no-estreito-de-ormuz-adia-negociacoes-diplomaticas-em-oma",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedFKF-I0JB78KAZkpIseOjZWTn0ulmIGYTIlbHsDeXBhTSjm6OX8S-UblrRqlqyx5GEURC9I7ky7nf80zLXwtnQEIhpquE6GZMI9wpP83l71_yeSmo_9K2Idr2nr3kXXtn9OdBZ6AYOrXyTKWFiPluACQqIq0CVXMKAxfzn0gPuUdPo7aw_mJFSGRNvgmx1BfJgI=",
-      "publicado_em": "2026-09-14T18:22:17.486428+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Partido moçambicano Anamola denuncia assassinato de 57 membros desde a sua criação - Observador",
-      "titulo_post": "Moçambique: Partido Anamola Alerta Para Clima de Segurança",
-      "slug": "mocambique-partido-anamola-alerta-para-clima-de-seguranca",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T20:16:12.383390+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "UE diz que é do interesse de todos apoiar Moçambique contra insurgência - Executive Digest",
-      "titulo_post": "Apoio a Moçambique é do Interesse Global, Alerta União Europeia",
-      "slug": "apoio-a-mocambique-e-do-interesse-global-alerta-uniao-europeia",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T20:16:41.540474+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Os anticorpos que atravessam a placenta: como vacina da mãe protege o bebê antes mesmo do parto",
-      "titulo_post": "Vacinas na Gravidez: O Escudo Vital Que Protege o Bebé",
-      "slug": "vacinas-na-gravidez-o-escudo-vital-que-protege-o-bebe",
-      "categoria_id": 9,
-      "publicado_em": "2026-09-14T20:17:01.238312+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-      "titulo_post": "Pesquisas no Brasil Mostram Disputa Equilibrada para 2026",
-      "slug": "pesquisas-no-brasil-mostram-disputa-equilibrada-para-2026",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T20:17:23.772135+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Reino Unido em Crise: Três Nações Exigem Referendos de Independência",
-      "titulo_post": "Reino Unido em Crise: Três Nações Exigem Referendos de Independência",
-      "slug": "reino-unido-em-crise-tres-nacoes-exigem-referendos-de-independencia",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXEupFf6NAhjaGijvPJKVpeRTdnINZA_gTjVtuE5WdqCW-_4UmKJdJZF_IwW_nwSlIatb-DpG3js6Rb5nnsDQVvuzudP7_CID_vWNYoPr5oEMisYgzizm6U9teQ3w9OC7MEYUc69o8n2YK8pHsQu5hTmGjTq-dHuAy8Hya9eNDehktZzAdpP6hMl2lsYk8wNciksqZXFgsZxZRt3_00Nd",
-      "publicado_em": "2026-09-14T20:19:49.463816+00:00",
-      "dry_run": false
-    },
-    {
       "site": "novimz",
       "fonte": "sociedade",
       "titulo_original": "Inspeção moçambicana apreende 17.279 bebidas alcoólicas - Notícias ao Minuto",
@@ -5209,6 +5064,59 @@
       "categoria_id": 6,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmOwmjJwFe31VWuXCezvl7aRAsaq3PJ35C5_jZ5LR6BhqS261XHzwt-n7JEhGTHQQKsMUsobiNK_nH9Ri-Ob2qSebKZoOrGjjjywzbMrii7C-ZgxKMxUSIcbxUIQg9Fkew8FBMNRFE_Kji_z-x3bOzSPYaddQ-kRQG57UiiI8sFa71mKTC0S4Qk88ugXBJvR_HluGxPcPSQM_HbfOgsU_1_7JweFhoJrlisBY=",
       "publicado_em": "2026-09-26T16:19:02.902121+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Como a nova direita que governa a América Latina se alinha a Trump diante dos olhos do mundo",
+      "titulo_post": "A Nova Direita na América Latina e a Aliança com os EUA",
+      "slug": "a-nova-direita-na-america-latina-e-a-alianca-com-os-eua",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-26T20:56:01.852828+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "As 'melhores cidades' do mundo em 2026 — e por que elas se destacam",
+      "titulo_post": "As Melhores Cidades do Mundo em 2026 e o Segredo do Sucesso",
+      "slug": "as-melhores-cidades-do-mundo-em-2026-e-o-segredo-do-sucesso",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-26T21:01:33.258925+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Incêndio no Infantário 1.º de Maio em Maputo Mobiliza Resgate",
+      "titulo_post": "Incêndio no Infantário 1.º de Maio em Maputo Mobiliza Resgate",
+      "slug": "incendio-no-infantario-1-de-maio-em-maputo-mobiliza-resgate",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUfuPTWX9VSSr2x7XOJece7xT7zoc6iXpqnFdQ-Ps_tUJL0I0PXjJ0CNIGCI18Nd7Ckn1crSbLT3QA7DRbF6ilF8PvmDEVDFuE96DNxdmDx-Wg_ZqMoRDtGEEDhEsxlOlyss28o1xsUIHbg3S7rgVK26qxRQO2YTIY-RPE-ZOS5Fc2NCwIhnNu7yvV5Da2-uc=",
+      "publicado_em": "2026-09-26T21:02:30.463270+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Astrónomos Detectam Primeiro Sinal de Rádio de um Exoplaneta",
+      "titulo_post": "Astrónomos Detectam Primeiro Sinal de Rádio de um Exoplaneta",
+      "slug": "astronomos-detectam-primeiro-sinal-de-radio-de-um-exoplaneta",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW5mihD0NhOGj_9uilT_xfnSdwECuCUsDGKxsETf05RUGrzcq9YEgpUJHATwWOVVn6pMWUsN5UiIVMj0a9WYxqeBo5kIkPxT2L0twkJ6im_ecUKn5QhFh-stq3QDZxBEhMtVnV0qhGAU74vSgau0xuqHpz7DpidODkDjXGw3nZPg==",
+      "publicado_em": "2026-09-26T21:04:00.469860+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Agentes de IA da OpenAI Vazam Imagens de Utilizadores",
+      "titulo_post": "Agentes de IA da OpenAI Vazam Imagens de Utilizadores",
+      "slug": "agentes-de-ia-da-openai-vazam-imagens-de-utilizadores",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFONSvcqN_B5ttk_ImBiPXbA5uUs2Feg75YK0dwchGlOV9bsqugJL05qg5-Qbdp516B33a9VVkr5T9pJKSSYz8SJ1lxkG4MNn58yNB_Uh7V442_smCWEGEzIQ3OpG0A32goeTGSJ21jvb7-Hh2g2qfxd_g=",
+      "publicado_em": "2026-09-26T21:05:44.485602+00:00",
       "dry_run": false
     }
   ]
