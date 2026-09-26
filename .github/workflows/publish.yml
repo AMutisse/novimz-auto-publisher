@@ -49,6 +49,8 @@ jobs:
           SAUDEMZ_WP_APP_PASSWORD: ${{ secrets.SAUDEMZ_WP_APP_PASSWORD }}
           WAYDIGITAL_WP_USER: ${{ secrets.WAYDIGITAL_WP_USER }}
           WAYDIGITAL_WP_APP_PASSWORD: ${{ secrets.WAYDIGITAL_WP_APP_PASSWORD }}
+          CNINEMA_WP_USER: ${{ secrets.CNINEMA_WP_USER }}
+          CNINEMA_WP_APP_PASSWORD: ${{ secrets.CNINEMA_WP_APP_PASSWORD }}
         run: |
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             python main.py --dry-run
@@ -58,6 +60,7 @@ jobs:
 
       - name: Gravar histórico anti-duplicados (se mudou)
         run: |
+        
           if ! git diff --quiet -- state/published.json; then
             git config user.name "novimz-auto-publisher-bot"
             git config user.email "actions@users.noreply.github.com"
