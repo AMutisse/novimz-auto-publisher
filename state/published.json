@@ -1,172 +1,6 @@
 {
   "publicados": [
     {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Inspeção moçambicana apreende 17.279 bebidas alcoólicas - Notícias ao Minuto",
-      "titulo_post": "Fiscalização Apreende Milhares de Bebidas em Moçambique",
-      "slug": "fiscalizacao-apreende-milhares-de-bebidas-em-mocambique",
-      "categoria_id": 4,
-      "publicado_em": "2026-09-14T22:16:03.167024+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Caso Moraes-Vorcaro: o que está em jogo no STF e quem fala primeiro na sessão",
-      "titulo_post": "STF sob Pressão: Entenda os Ritos e Tensões no Plenário",
-      "slug": "stf-sob-pressao-entenda-os-ritos-e-tensoes-no-plenario",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T22:16:32.709453+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Moçambique e Portugal partilham arquivos militares - O País - A verdade como notícia",
-      "titulo_post": "Moçambique e Portugal Cooperam na Partilha de Arquivos Militares",
-      "slug": "mocambique-e-portugal-cooperam-na-partilha-de-arquivos-militares",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T22:17:02.831004+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Por que cofundador da Anthropic defende um 'botão de desligamento' obrigatório para IA",
-      "titulo_post": "Inteligência Artificial: Proposta de Botão de Desligar Gera Alerta",
-      "slug": "inteligencia-artificial-proposta-de-botao-de-desligar-gera-alerta",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T22:17:32.543707+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Reino Unido reforça parceria com Moçambique na protecção dos recursos naturais - O País - A verdade como notícia",
-      "titulo_post": "Reino Unido e Moçambique Reforçam Protecção de Recursos",
-      "slug": "reino-unido-e-mocambique-reforcam-proteccao-de-recursos",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T22:17:57.452837+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Hyrox se desculpa por permitir continuação de corrida após incontinência fecal de atleta",
-      "titulo_post": "Hyrox pede desculpa após incidente de higiene em prova de fitness",
-      "slug": "hyrox-pede-desculpa-apos-incidente-de-higiene-em-prova-de-fitness",
-      "categoria_id": 9,
-      "publicado_em": "2026-09-14T22:18:30.076202+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Moçambique e Portugal discutem novo pacote de cooperação na Defesa - Observador",
-      "titulo_post": "Moçambique e Portugal Negociam Novo Acordo de Cooperação na Defesa",
-      "slug": "mocambique-e-portugal-negociam-novo-acordo-de-cooperacao-na-defesa",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-14T23:11:08.278335+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "bbc_portuguese",
-      "titulo_original": "Homem admite ter drogado e estuprado a esposa por 20 anos no Reino Unido",
-      "titulo_post": "Reino Unido: Homem confessa abusos contra a esposa por 20 anos",
-      "slug": "reino-unido-homem-confessa-abusos-contra-a-esposa-por-20-anos",
-      "categoria_id": 5,
-      "publicado_em": "2026-09-14T23:11:36.153561+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "sociedade",
-      "titulo_original": "Moçambique Lança Distribuição Massiva de Medicamentos",
-      "titulo_post": "Moçambique Lança Distribuição Massiva de Medicamentos",
-      "slug": "mocambique-lanca-distribuicao-massiva-de-medicamentos",
-      "categoria_id": 31,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyNSLfFSlDPenjOQwkfFYlUdgh_Y1idYTaNvX-9W52r2d5sn3hU_WXsVzCtyJr7zFdkoULpd_Go_MPVVPFxFFmXrlIjOn_FL5e7EbXUJtIQM_DsIS8TnJxgIuLAI_lKlfwQNDCnnWpuREng8-8ZmMY4NI76KbFTrIT_04zKHCbrcdHWw==",
-      "publicado_em": "2026-09-14T23:12:24.974498+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "saudemz",
-      "fonte": "malaria",
-      "titulo_original": "Malária em Moçambique: Cuidados, Sinais de Alerta e Prevenção",
-      "titulo_post": "Malária em Moçambique: Cuidados, Sinais de Alerta e Prevenção",
-      "slug": "malaria-em-mocambique-cuidados-sinais-de-alerta-e-prevencao",
-      "categoria_id": 8,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS5lQjg2TjPzBrWYIhWOC9jOvNTa-oLO-zoaP__AWuVVTp0MMKdFyfdBrGIQmwpaKBaBbkhFDbijSTNwgIiVNmaBUZn0zwy8qIL-VK0PFm407nzBKyDuwnTlRe72JbxfzFuEwRZT9G4N54U6vFFf6m-i39FBqJHEoNpL9C84hhWVopsth9SFsPsMonn_qw3udGf39UReA7aZNhE-uuZxnm4tAiZroI7SKbqNCXgtib424=",
-      "publicado_em": "2026-09-14T23:14:09.219077+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "saudemz",
-      "fonte": "hiv_sida",
-      "titulo_original": "HIV em Moçambique: Avanços no Tratamento e a Importância do Teste",
-      "titulo_post": "HIV em Moçambique: Avanços no Tratamento e a Importância do Teste",
-      "slug": "hiv-em-mocambique-avancos-no-tratamento-e-a-importancia-do-teste",
-      "categoria_id": 9,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM87Y_FXvqZ89W0UHqAgIyF_AKRhUarWhOeS650ZhKhDwx3Nw2daJWzIL4C86yFA38eCWHjyhgPcc6pq9p0vUr6p2IgS9RSYBG_vADNCGNqd_zRRaWYyrOEE3EelHBw4mv9TNQav9ExKcvb_NbMnjnnXFkj96zWgnmSKBRa1e3Dt7RsPehAq5jpMk4A==",
-      "publicado_em": "2026-09-14T23:14:47.233110+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "saudemz",
-      "fonte": "saude_materno_infantil",
-      "titulo_original": "Saúde Materno-Infantil: Cuidados Pré-Natais e Vacinas Salvam Vidas",
-      "titulo_post": "Saúde Materno-Infantil: Cuidados Pré-Natais e Vacinas Salvam Vidas",
-      "slug": "saude-materno-infantil-cuidados-pre-natais-vacinas",
-      "categoria_id": 10,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8S8UyWkbjL61RaCYtXQXRKftlzeh37Vri2Rmf5SR8RoRj4nr8dTZdjRM1A8ffmtOvNJowNyOzxorczGGxTjaiD52FDT9z1wKLiLE5qVT3d6Pbu19WIQFjPPveC1eQ3pqHRTtazqwww0h3gg==",
-      "publicado_em": "2026-09-14T23:15:19.332505+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "Ministro da Defesa defende mais apoio da UE em Moçambique - Observador",
-      "titulo_post": "Moçambique Reforça Parceria de Defesa com Portugal e UE",
-      "slug": "mocambique-reforca-parceria-de-defesa-com-portugal-e-ue",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-15T00:23:41.489490+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "novimz",
-      "fonte": "sociedade",
-      "titulo_original": "MEC participa de abertura virtual de formação de moçambicanos - folhaestado.com.br",
-      "titulo_post": "Brasil e Mocambique reforcam cooperacao na formacao docente",
-      "slug": "brasil-e-mocambique-reforcam-cooperacao-na-formacao-docente",
-      "categoria_id": 3,
-      "publicado_em": "2026-09-15T00:24:13.333888+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Cúpula do BRICS Encerra em Nova Délhi com Defesa do Livre Comércio",
-      "titulo_post": "Cúpula do BRICS Encerra em Nova Délhi com Defesa do Livre Comércio",
-      "slug": "cupula-do-brics-encerra-em-nova-delhi-com-defesa-do-livre-comercio",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoFU0Icw5N5g610-4CJkMY53rOMie4q9yddep5CUyzTbvNRztjXTlPJ_71nmb7pdSwZhIb0XTDFV7FPDJJ5UeBFMWZJXdd55aE02Rv2RSMga7HFKuF1c1OjBKCrQFzrrpVuOxqZm1aksUfDa5s7afgk6kcUtv2bWgZNqAfQqdv5NamK6Xl6kpYEvML3f9rB4Ld2MGAnxuEFx3bJOm6",
-      "publicado_em": "2026-09-15T00:26:36.731542+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "saudemz",
-      "fonte": "malaria",
-      "titulo_original": "Vacina contra Malária em Moçambique: Protecção e Cuidados Infantis",
-      "titulo_post": "Vacina contra Malária em Moçambique: Protecção e Cuidados Infantis",
-      "slug": "vacina-contra-malaria-em-mocambique-proteccao-e-cuidados-infantis",
-      "categoria_id": 8,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYAuc5UHxyXEnGsMhY9m-8DLU2Cy7oe8y4VxxzgvrhwrtVHcuLkjc2XlYJ1xYI2yLeKw35UoTmyjJ41WlsPFMv_zDT35JtaSlNoXPR7KrIQ1oJdipK4I8PdBv196jRNfw_uwAz4NIyxuwWb3vfJDGFJ1i0FXDvcKx-lJQtO7O9CUPEQMQd9ppLuZ5Pex8a1uXDCb5ilYV6ajIqlz6tysZaOOJX_zvbxLFMleklVFj309U=",
-      "publicado_em": "2026-09-15T00:27:27.380739+00:00",
-      "dry_run": false
-    },
-    {
       "site": "saudemz",
       "fonte": "hiv_sida",
       "titulo_original": "Prevenção do HIV em Moçambique: A Nova Opção de PrEP Injectável",
@@ -5117,6 +4951,27 @@
       "categoria_id": 6,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFONSvcqN_B5ttk_ImBiPXbA5uUs2Feg75YK0dwchGlOV9bsqugJL05qg5-Qbdp516B33a9VVkr5T9pJKSSYz8SJ1lxkG4MNn58yNB_Uh7V442_smCWEGEzIQ3OpG0A32goeTGSJ21jvb7-Hh2g2qfxd_g=",
       "publicado_em": "2026-09-26T21:05:44.485602+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O que é o kratom, a 'heroína dos postos de gasolina' que provoca alarme nas autoridades americanas",
+      "titulo_post": "O que é o Kratom e Porque Preocupa Autoridades nos EUA",
+      "slug": "o-que-e-o-kratom-e-porque-preocupa-autoridades-nos-eua",
+      "categoria_id": 5,
+      "publicado_em": "2026-09-27T00:23:35.880978+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "NASA Revela Cratera Gigante na Lua Criada por Impacto Raro",
+      "titulo_post": "NASA Revela Cratera Gigante na Lua Criada por Impacto Raro",
+      "slug": "nasa-revela-cratera-gigante-na-lua-criada-por-impacto-raro",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiGGU3IsoJv8YAZGqoLUVXv7mUTvFUMxfMQuN38p59j0uuWSu5Y7yLqjS4uKlyxTFo2cz22XsVXuRZJk3oM5suDMt4VEaDbP8bRg5k658N4sSNnmPm6j9kU39hop1kQtFAqghmMdxj-f4VAwikSiD2P-qaOUDJofRx8xO5QWmpo6X10XjMERk9axkv1AXtHN__K5hKbfMdKerSolmxpMjzfas-onYSbRyIFf43Z96WJY7qihPIXNtHvQ==",
+      "publicado_em": "2026-09-27T00:28:05.072392+00:00",
       "dry_run": false
     }
   ]
