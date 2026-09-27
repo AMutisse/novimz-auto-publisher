@@ -475,45 +475,45 @@ sites:
 # Comentado ate existirem os secrets CNINEMA_WP_USER /
 # CNINEMA_WP_APP_PASSWORD no GitHub Actions.
 #
-#   - id: cninema
-#     nome: "Coisas de Cinema"
-#     modo: "pesquisa_gemini"
-#     wordpress_base_url: "https://www.cninema.com"
-#     wordpress_user_env: "CNINEMA_WP_USER"
-#     wordpress_app_password_env: "CNINEMA_WP_APP_PASSWORD"
-#     categoria_map:
-#       "CRITICAS_DE_FILMES": 2
-#       "NOTICIAS_DE_CINEMA": 3
-#       "LISTAS_E_RANKINGS": 4
-#       "STREAMING": 5
-#       "CURIOSIDADES_E_BASTIDORES": 6
-#       "CINEMA_PORTUGUES_E_LUSOFONO": 7
-#       "CLASSICOS_DO_CINEMA": 8
-#       "TRAILERS_E_LANCAMENTOS": 9
-#     categoria_fallback: 2
-#     alvo_publicacoes_por_tema: 1
-#     temas_pesquisa:
-#       - id: criticas_de_filmes
-#         categoria: "CRITICAS_DE_FILMES"
-#         instrucao_pesquisa: "uma critica ou analise recente de um filme em estreia nos cinemas"
-#       - id: noticias_de_cinema
-#         categoria: "NOTICIAS_DE_CINEMA"
-#         instrucao_pesquisa: "uma noticia recente da industria cinematografica (producao, elenco, premios ou festivais)"
-#       - id: listas_e_rankings
-#         categoria: "LISTAS_E_RANKINGS"
-#         instrucao_pesquisa: "uma lista ou ranking recente dos melhores filmes por genero, decada ou tema"
-#       - id: streaming
-#         categoria: "STREAMING"
-#         instrucao_pesquisa: "uma novidade ou recomendacao recente de filmes ou series na Netflix, HBO Max, Disney+ ou Prime Video"
-#       - id: curiosidades_e_bastidores
-#         categoria: "CURIOSIDADES_E_BASTIDORES"
-#         instrucao_pesquisa: "uma curiosidade ou historia de bastidores recente sobre um filme ou producao cinematografica"
-#       - id: cinema_portugues_e_lusofono
-#         categoria: "CINEMA_PORTUGUES_E_LUSOFONO"
-#         instrucao_pesquisa: "uma noticia ou novidade recente sobre cinema de Portugal, Brasil, Angola, Mocambique ou outros paises lusofonos"
-#       - id: classicos_do_cinema
-#         categoria: "CLASSICOS_DO_CINEMA"
-#         instrucao_pesquisa: "um filme classico ou obra-prima do cinema e a sua importancia historica"
-#       - id: trailers_e_lancamentos
-#         categoria: "TRAILERS_E_LANCAMENTOS"
-#         instrucao_pesquisa: "um trailer ou data de estreia recente de um filme muito aguardado"
+  - id: cninema
+    nome: "Coisas de Cinema"
+    modo: "pesquisa_gemini"
+    wordpress_base_url: "https://www.cninema.com"
+    wordpress_user_env: "CNINEMA_WP_USER"
+    wordpress_app_password_env: "CNINEMA_WP_APP_PASSWORD"
+    categoria_map:
+      "CRITICAS_DE_FILMES": 2
+      "NOTICIAS_DE_CINEMA": 3
+      "LISTAS_E_RANKINGS": 4
+      "STREAMING": 5
+      "CURIOSIDADES_E_BASTIDORES": 6
+      "CINEMA_PORTUGUES_E_LUSOFONO": 7
+      "CLASSICOS_DO_CINEMA": 8
+      "TRAILERS_E_LANCAMENTOS": 9
+    categoria_fallback: 2
+    alvo_publicacoes_por_tema: 1
+    temas_pesquisa:
+      - id: criticas_de_filmes
+        categoria: "CRITICAS_DE_FILMES"
+        instrucao_pesquisa: "uma critica ou analise recente de um filme em estreia nos cinemas"
+      - id: noticias_de_cinema
+        categoria: "NOTICIAS_DE_CINEMA"
+        instrucao_pesquisa: "uma noticia recente da industria cinematografica (producao, elenco, premios ou festivais)"
+      - id: listas_e_rankings
+        categoria: "LISTAS_E_RANKINGS"
+        instrucao_pesquisa: "uma lista ou ranking recente dos melhores filmes por genero, decada ou tema"
+      - id: streaming
+        categoria: "STREAMING"
+        instrucao_pesquisa: "uma novidade ou recomendacao recente de filmes ou series na Netflix, HBO Max, Disney+ ou Prime Video"
+      - id: curiosidades_e_bastidores
+        categoria: "CURIOSIDADES_E_BASTIDORES"
+        instrucao_pesquisa: "uma curiosidade ou historia de bastidores recente sobre um filme ou producao cinematografica"
+      - id: cinema_portugues_e_lusofono
+        categoria: "CINEMA_PORTUGUES_E_LUSOFONO"
+        instrucao_pesquisa: "uma noticia ou novidade recente sobre cinema de Portugal, Brasil, Angola, Mocambique ou outros paises lusofonos"
+      - id: classicos_do_cinema
+        categoria: "CLASSICOS_DO_CINEMA"
+        instrucao_pesquisa: "um filme classico ou obra-prima do cinema e a sua importancia historica"
+      - id: trailers_e_lancamentos
+        categoria: "TRAILERS_E_LANCAMENTOS"
+        instrucao_pesquisa: "um trailer ou data de estreia recente de um filme muito aguardado"
