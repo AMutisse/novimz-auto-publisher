@@ -1,28 +1,6 @@
 {
   "publicados": [
     {
-      "site": "panorama",
-      "fonte": "tecnologia",
-      "titulo_original": "Supercomputador Jaci Revoluciona Previsão do Tempo com Modelo Monan",
-      "titulo_post": "Supercomputador Jaci Revoluciona Previsão do Tempo com Modelo Monan",
-      "slug": "supercomputador-jaci-revoluciona-previsao-do-tempo-com-modelo-monan",
-      "categoria_id": 34,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-jb_Z4gCkIFyJvS93mcOepVsKHx_4z1MG4FfbPzr6U0tqjUgs3bRcdxEto5btKRUg7mVzHWJ-36tnWIFyIJKsLELHGtz8vzUftlYfcWOfbFQ1eOL7XCq7gOe_x6NMsr6peZXSVLBI9BFkdkkvGGw68gF6Y2BznYMHsIT8j74fM0iYwVTnMu9k64ox0E4gG8gSTAr42VQk-IW5L3IXOX0ijSSEGBITBUz3UiL9Wg1iaXlpIfljQjR5iTHQsFMsgpyPYTEaVUU=",
-      "publicado_em": "2026-09-15T04:18:51.228809+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "saudemz",
-      "fonte": "hiv_sida",
-      "titulo_original": "Prevenção da Transmissão Vertical do HIV: Cuidados em Moçambique",
-      "titulo_post": "Prevenção da Transmissão Vertical do HIV: Cuidados em Moçambique",
-      "slug": "prevencao-da-transmissao-vertical-do-hiv-cuidados-em-mocambique",
-      "categoria_id": 9,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWDC6ijl8YpxeF9OTs8PFYkpN_F7wwsaA2-5oohZKFEFcSU-Jx5Qwswqaswtl6z8XEcM1m3bvY5RseE6OL9aeVJtA3w2g6I_zN-Yq6ITD1jibMVK7Wyi9rMQh12iQZfIldsEMqN0rrPg==",
-      "publicado_em": "2026-09-15T04:20:10.037452+00:00",
-      "dry_run": false
-    },
-    {
       "site": "novimz",
       "fonte": "sociedade",
       "titulo_original": "Moçambique estreia-se em fórum sobre comércio de madeiras tropicais em Macau - RTP",
@@ -4983,6 +4961,82 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFV-juZNgEA4cMfgq8XV7IuIWza6TzrfzyTR4NAIwRXMC2Zdjb2EnNmZ2dZvTknezRzf5TaWSBGw6QA8kWM85uL6sihoLZVKMYObypzqWaN_dpr3txkX7i3EOqHhFx2gfsQK3Rv0YXDhF4YnSEtU0MIRbVwTsYAuVXTe7n12zv4sg2dQsq1xNeKA==",
       "publicado_em": "2026-09-27T03:10:57.137428+00:00",
       "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique é o primeiro país distinguido como Campeão Leap da Gavi - HealthNews",
+      "titulo_post": "Moçambique Torna-se Primeiro Campeão Leap da Gavi na Saúde",
+      "slug": "mocambique-torna-se-primeiro-campeao-leap-da-gavi-na-saude",
+      "categoria_id": 3,
+      "publicado_em": "2026-09-27T05:47:37.616606+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica de Minha Melhor Amiga: O Triunfo da Comédia e do Afeto",
+      "titulo_post": "Crítica de Minha Melhor Amiga: O Triunfo da Comédia e do Afeto",
+      "slug": "critica-de-minha-melhor-amiga-o-triunfo-da-comedia-e-do-afeto",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJIpiM0XAj6jucYi-GRX_6oyIkLQ_jJIMCC0-rGZlg98FjulkRZKSKkC-jIuelZYwnE2YGyVCQaszihc1VtdX1F0fXJHGhNxQhpqBM1q8AjWOnoq3weMjdBdT3-M90JrQHGwUEWTo=",
+      "publicado_em": "2026-09-27T05:52:27.402131+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "streaming",
+      "titulo_original": "A Hipótese do Amor Chega ao Prime Video e Conquista o Topo",
+      "titulo_post": "A Hipótese do Amor Chega ao Prime Video e Conquista o Topo",
+      "slug": "a-hipotese-do-amor-chega-ao-prime-video-e-conquista-o-topo",
+      "categoria_id": 5,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp4qEf_SWHSIbKr26Xm-5pTeQ3PG2UlGTdG3d_b_dgnm1rqzUlLbKmeWv2uKSYoON8PzEwDruG1D2XYYbpD2_-LqbZe-8m6xBWXluazpmufGkwDVdqzHzryie9JGoEyDuHBEvw-czXiY3U0yyELHJORAFAsQZrUSWdbiZqh5m_l3SDORzKUTqkQ7Ia",
+      "publicado_em": "2026-09-27T05:53:23.788706+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "curiosidades_e_bastidores",
+      "titulo_original": "Cara-de-Barro: Os Bastidores da Cena que Chocou a Equipe no Set",
+      "titulo_post": "Cara-de-Barro: Os Bastidores da Cena que Chocou a Equipe no Set",
+      "slug": "bastidores-cara-de-barro-cena-chocou-equipe",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwD8dbpXJ766ADjmOtQzsXb4IIIZGPr5-2H3nhXS6DtVvQcmtDAIqK6GyBC28Kn4XWTxo3ES_CFmw6i7pn0nfGRGZIiOFv1uvmohbh-aOw4-fewMN1zyoxeypfi_O7Ouc7s59Dy-RSgrElVlddqaQbdIMw-hM=",
+      "publicado_em": "2026-09-27T05:53:58.280171+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "FESTin 2026: Lisboa Celebra o Cinema Lusófono com 60 Filmes",
+      "titulo_post": "FESTin 2026: Lisboa Celebra o Cinema Lusófono com 60 Filmes",
+      "slug": "festin-2026-lisboa-celebra-o-cinema-lusofono-com-60-filmes",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcf-IPqwqw8s4ZqzlxOy_kFhj1qemxPXN-xU83r1rO9nLsZNGQsVyGWRtluUhMgAl6b8ZkhPgIc3HTv2gZTaoFsCKOp99tZKeOD2b9zs0znHCCVDJxfHUFHT9RKvixpd8SzpBUhOQWYKkvz_8ClCFyE5Drjm8AI_sCyS0bDMpLtAAEHx_lHSfcnbLXAzrsdqL9wUQ6qJ2uqmrZc-twW4ro49Z6DK2uGimWtg==",
+      "publicado_em": "2026-09-27T05:54:28.548389+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "Ran: A Obra-Prima de Akira Kurosawa Volta aos Cinemas",
+      "titulo_post": "Ran: A Obra-Prima de Akira Kurosawa Volta aos Cinemas",
+      "slug": "ran-a-obra-prima-de-akira-kurosawa-volta-aos-cinemas",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRDirt7kRnyGjTOknCMewp3RgpbTzWo5f-EpCOAl4cbnyfr6PcqOG8OMwSc8z_ZbimI6F3NCSdzzg0GxkPbFNk0WJkq6LahoZ-sEE_B87j_PJW70zaAnHbyyQGotz4PB1dbPH34OCfJOV7zC-a8g==",
+      "publicado_em": "2026-09-27T05:54:55.371036+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "trailers_e_lancamentos",
+      "titulo_original": "Tigre de Papel: Trailer Revela Suspense com Adam Driver e Miles Teller",
+      "titulo_post": "Tigre de Papel: Trailer Revela Suspense com Adam Driver e Miles Teller",
+      "slug": "tigre-de-papel-trailer-revela-suspense-adam-driver-miles-teller",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtbBqm84zFFiMvOCfGxSk9ZSoBPn2zpuTM2NpCl_kzCUj65mUtyrsgIm0vzEFTXgf93gZzyFeR-0Wf5cCfaDsAH9i6k3HH4pwapAMyB6fCWynDqjHBBZHyDGhjCRNDo_3dETK-QM6DQ3VbT24rDyPqSUemdENsLrcczRf-mTBhQAzH4BHIoqCK9yaINAz6326uhbJKQc18j9t52Xqxjng2G_gR",
+      "publicado_em": "2026-09-27T05:55:34.966304+00:00",
+      "dry_run": false
     }
   ]
 }
