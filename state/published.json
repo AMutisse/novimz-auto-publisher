@@ -1,61 +1,6 @@
 {
   "publicados": [
     {
-      "site": "saudemz",
-      "fonte": "hiv_sida",
-      "titulo_original": "Prevenção do HIV em Moçambique: A Nova Opção de PrEP Injectável",
-      "titulo_post": "Prevenção do HIV em Moçambique: A Nova Opção de PrEP Injectável",
-      "slug": "prevencao-do-hiv-em-mocambique-a-nova-opcao-de-prep-injectavel",
-      "categoria_id": 9,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHppJ9qmBnf42-p7z1VD1hNf42mPg2BPDTpg1K6fXoSiQh1I_TEdk3acRvty10GGy0c5VNmNHjaYt6e_b-Vc6svL0TtxtDUsBTO7-XGY_5V5P3D5S-eKCSaGO8VXzXCYggWoke19DvC1HGqe1IxxWYmvwG0IoLJJlKzOlV7c8F7h4v21kJO56zg-dS1op0NKEONz0hQONUcM8ZGjqu5Ce4H5nBO0tYwoubVSdzOOJeQME4o7kUKC054qFp1OZAnhy03YbvdxtfCfNl7ZDKAK3A=",
-      "publicado_em": "2026-09-15T00:28:37.356649+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "saudemz",
-      "fonte": "saude_geral",
-      "titulo_original": "Prevenção da Cólera em Moçambique: Cuidados com Água e Higiene",
-      "titulo_post": "Prevenção da Cólera em Moçambique: Cuidados com Água e Higiene",
-      "slug": "prevencao-da-colera-em-mocambique-cuidados-com-agua-e-higiene",
-      "categoria_id": 11,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFveKqEiNa5YJBHEN_Yl4h_bGOwGeRvWuY9WSrtKMBlRW3lj3JtvEcA9dwQWQmsD0MruoY7FMMOssfv_CkhrZR2cVIvgug8pkTi_91alpQxwLHH3HV3Aj6N9I5BtdatP1G6yeuhKFgjQkcwK9igyjJmxv2cOAZhtDHTLtOGJDRY-Dv7oH5OjP-8Kt5sC7dH5lzLMAoQ1jlMiFir89sMFYJCeC-Tz6ANELSy5bg=",
-      "publicado_em": "2026-09-15T00:29:47.237983+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "economia",
-      "titulo_original": "Reservas de Moçambique Caem Para o Mínimo de Mais de Um Ano",
-      "titulo_post": "Reservas de Moçambique Caem Para o Mínimo de Mais de Um Ano",
-      "slug": "reservas-de-mocambique-caem-para-o-minimo-de-mais-de-um-ano",
-      "categoria_id": 32,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJStJ57Zuoln5Mbnq8SGhzQ_vO6SzjfgYrHwCwWO0gVPuGjfZ_PvvzaeYtQK_A7FSIVnw_z-lWcsg6Oli3YoGnzjFcgAz4ubLyPSYNOYRQtDla_Q-mSoYwhE7tBJXvWdGi2piK8SvsmH8j1lUuQ7cRl_nQ3ty96x0thE3Gr7tTKLu-o3A9bupmOFy68i8S_t3urFjaOmvMIX7eh4StInG_f9yYDf9jiHseAr46HQw=",
-      "publicado_em": "2026-09-15T02:17:54.532451+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Suprema Corte dos EUA Barra Restrições ao Voto por Correio",
-      "titulo_post": "Suprema Corte dos EUA Barra Restrições ao Voto por Correio",
-      "slug": "suprema-corte-dos-eua-barra-restricoes-ao-voto-por-correio",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOQeoermR9BqI8q0J8K-yRay0OxuqclGdO_dlBL8Zmhh_Y08Qxsn_zRLVJajLuGoubotQVAAQqi3YCAV8aG_1Z9d2ie1fVQXDYrzBQdclqa9mnPVgf_q2mWBKebbLf9LjC7xqT85irAYpAMZU4ZI4JI9SFWyJyPrgX6VOwlgIbvssqBBNEuRN8_fB2wzTjW4keykDN8llP6G63uHkSC-VVhDFY29S5wvpvhNhi37GsCZtHuNT6IkWIzesnNnI5lyK2pjMf-rUGqxy7xPMShpxFGz0uaa-gDMZR4_zL_-5P0uWWp5lv7kchgA==",
-      "publicado_em": "2026-09-15T02:19:35.649690+00:00",
-      "dry_run": false
-    },
-    {
-      "site": "saudemz",
-      "fonte": "hiv_sida",
-      "titulo_original": "HIV em Moçambique: O Que Significa Ter a Carga Viral Suprimida",
-      "titulo_post": "HIV em Moçambique: O Que Significa Ter a Carga Viral Suprimida",
-      "slug": "hiv-em-mocambique-o-que-significa-ter-a-carga-viral-suprimida",
-      "categoria_id": 9,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE97Q_-g3fdpTwE4KAaJDGcW6FUGUx4Zdn7IiFtD6c4-d7lNbSQWCM6W_UCL3unEo5qeHOWBghLa5JdvbVjxVNLh3JT-Y9KFJXgA7vbNOLQpN-OyUHHvKLD-gMgY2y72fYsr52Et2EWnskfO12HcoED1eQgANP7dU-Xf_tR9s9AJC1zkXYsz_9evg8LS_3t_371uWRx9ssb9bpVTpiKPek=",
-      "publicado_em": "2026-09-15T02:20:21.860424+00:00",
-      "dry_run": false
-    },
-    {
       "site": "panorama",
       "fonte": "tecnologia",
       "titulo_original": "Supercomputador Jaci Revoluciona Previsão do Tempo com Modelo Monan",
@@ -4973,6 +4918,71 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiGGU3IsoJv8YAZGqoLUVXv7mUTvFUMxfMQuN38p59j0uuWSu5Y7yLqjS4uKlyxTFo2cz22XsVXuRZJk3oM5suDMt4VEaDbP8bRg5k658N4sSNnmPm6j9kU39hop1kQtFAqghmMdxj-f4VAwikSiD2P-qaOUDJofRx8xO5QWmpo6X10XjMERk9axkv1AXtHN__K5hKbfMdKerSolmxpMjzfas-onYSbRyIFf43Z96WJY7qihPIXNtHvQ==",
       "publicado_em": "2026-09-27T00:28:05.072392+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "FIT 2026: Intermac Assistance chega à África com operação inédita em Moçambique - Panrotas",
+      "titulo_post": "Intermac Assistance Entra em Moçambique com Operação Inédita",
+      "slug": "intermac-assistance-entra-em-mocambique-com-operacao-inedita",
+      "categoria_id": 4,
+      "publicado_em": "2026-09-27T03:06:19.496055+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Energia Eléctrica Chega a Cinco Mil Habitantes em Marara",
+      "titulo_post": "Energia Eléctrica Chega a Cinco Mil Habitantes em Marara",
+      "slug": "energia-electrica-chega-a-cinco-mil-habitantes-em-marara",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfSopVoeMGM-0RQu196vofbvplxSQzQmYSYb3OgG4QFLtXQkeLaqB1veDkJqed4hK8-wWjoso8BNY_8EyawCB-vG2XGmu5fsYm1LQyaTcLbr19swDjp8M1R8GTxvTlCEM638QaZ2RUN1FBzRzTHSvLhKtJeRs3bvXAvC0z3dbRkgRrKcv01QUTRCrYocZj38mgUTVzdDmJuFbNOBiFPr8i0PdWfne_BZJx_FXToqlVE8fTYvEOwh0RcBWyWoWTzdVAsOthqV6wBfbq-snb7fSdug8HqhM_bw==",
+      "publicado_em": "2026-09-27T03:06:48.446250+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Chapo Promete Modernizar as Forças Armadas Para os Próximos 50 Anos",
+      "titulo_post": "Chapo Promete Modernizar as Forças Armadas Para os Próximos 50 Anos",
+      "slug": "chapo-promete-modernizar-as-forcas-armadas-para-os-proximos-50-anos",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFECVzq7tyNCvufzE9WgrwPu3yFYry-Ca3WA_3gNAh3msSMghxukhbLivjMlYZe6KQPRSvBY6dUSUgZwc5XA2vbr6URzaGOT6sdNHIWvAvGCPQlRzDJrdHEpwt-hQ==",
+      "publicado_em": "2026-09-27T03:07:28.618028+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "IA Quebra Barreira de 50 Anos na Produção de Hidrogénio Verde",
+      "titulo_post": "IA Quebra Barreira de 50 Anos na Produção de Hidrogénio Verde",
+      "slug": "ia-quebra-barreira-de-50-anos-na-producao-de-hidrogenio-verde",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaI7_H_Hd6izuVZBV0BceSJNb9rVvrKFNCvrXJz9c8-S-kooqTAPIl0FBw1TBmGeNEuDuFJccaEdjIpR4Y-cgGPjlX6NaO95jra2e1isQbtDw9vR_V7eXvXEqP0STnONJcZVtPukQ1cmkZ9NOk1QWshukq4wn92Nx_5S-YkmWxJK9BqLqzUvtdLh4pwjSJ",
+      "publicado_em": "2026-09-27T03:08:05.596821+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Google Acelera Gemini 4 e Promete Lançamento Antecipado da Nova IA",
+      "titulo_post": "Google Acelera Gemini 4 e Promete Lançamento Antecipado da Nova IA",
+      "slug": "google-acelera-gemini-4-e-promete-lancamento-antecipado-da-nova-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmWopjMiP0jyvq_0mEepwG5GbXGfTw7FKnctqjHqI1TEb5_kLm2EgK83GvXiAf-u0iNEhDY0RoLftQG5tEjnSkxPC1lxBVFQi-zHZxmDkQll9MtRUEVUZ8EQpQHYk6j3yHzRPWRT7ZVvJg4cgJ1610wphdAJam5A==",
+      "publicado_em": "2026-09-27T03:09:49.745455+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica de Antártida: Thriller Polar Impressiona, Mas Vacila",
+      "titulo_post": "Crítica de Antártida: Thriller Polar Impressiona, Mas Vacila",
+      "slug": "critica-de-antartida-thriller-polar-impressiona-mas-vacila",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFV-juZNgEA4cMfgq8XV7IuIWza6TzrfzyTR4NAIwRXMC2Zdjb2EnNmZ2dZvTknezRzf5TaWSBGw6QA8kWM85uL6sihoLZVKMYObypzqWaN_dpr3txkX7i3EOqHhFx2gfsQK3Rv0YXDhF4YnSEtU0MIRbVwTsYAuVXTe7n12zv4sg2dQsq1xNeKA==",
+      "publicado_em": "2026-09-27T03:10:57.137428+00:00",
+      "dry_run": true
     }
   ]
 }
