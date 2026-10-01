@@ -51,6 +51,8 @@ jobs:
           WAYDIGITAL_WP_APP_PASSWORD: ${{ secrets.WAYDIGITAL_WP_APP_PASSWORD }}
           CNINEMA_WP_USER: ${{ secrets.CNINEMA_WP_USER }}
           CNINEMA_WP_APP_PASSWORD: ${{ secrets.CNINEMA_WP_APP_PASSWORD }}
+          JEITOAUTO_WP_USER: ${{ secrets.JEITOAUTO_WP_USER }}
+          JEITOAUTO_WP_APP_PASSWORD: ${{ secrets.JEITOAUTO_WP_APP_PASSWORD }}
         run: |
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             python main.py --dry-run
