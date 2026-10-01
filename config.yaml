@@ -517,3 +517,51 @@ sites:
       - id: trailers_e_lancamentos
         categoria: "TRAILERS_E_LANCAMENTOS"
         instrucao_pesquisa: "um trailer ou data de estreia recente de um filme muito aguardado"
+# NOVO (2026-10-01) — site "Jeito Auto" (jeitoauto.com), pedido pelo
+# Abilio: blog automotivo brasileiro (noticias, lancamentos, mecanica,
+# dicas, automobilismo e esportes a motor). Modo "pesquisa_gemini" com o
+# prompt de sistema GLOBAL (sem override); as instrucoes de pesquisa pedem
+# foco no mercado brasileiro e escrita em portugues do Brasil.
+#
+# 6 categorias reais JA EXISTIAM no WordPress (confirmadas via
+# /wp-json/wp/v2/categories em 2026-10-01): Noticias=25, Lancamentos=26,
+# Dicas=27, Mecanica=28, Esportes=30, Automobilismo=31 (mais
+# "Uncategorized"=1, nao usada). Nao foi preciso criar categorias.
+#
+# Bloco COMENTADO ate existirem os secrets JEITOAUTO_WP_USER e
+# JEITOAUTO_WP_APP_PASSWORD no GitHub Actions.
+#
+#   - id: jeitoauto
+#     nome: "Jeito Auto"
+#     modo: "pesquisa_gemini"
+#     wordpress_base_url: "https://jeitoauto.com"
+#     wordpress_user_env: "JEITOAUTO_WP_USER"
+#     wordpress_app_password_env: "JEITOAUTO_WP_APP_PASSWORD"
+#     categoria_map:
+#       "NOTICIAS": 25
+#       "LANCAMENTOS": 26
+#       "DICAS": 27
+#       "MECANICA": 28
+#       "ESPORTES": 30
+#       "AUTOMOBILISMO": 31
+#     categoria_fallback: 25
+#     alvo_publicacoes_por_tema: 1
+#     temas_pesquisa:
+#       - id: noticias
+#         categoria: "NOTICIAS"
+#         instrucao_pesquisa: "uma noticia recente do mercado automotivo brasileiro (vendas, precos, montadoras, legislacao de transito), escrita em portugues do Brasil"
+#       - id: lancamentos
+#         categoria: "LANCAMENTOS"
+#         instrucao_pesquisa: "um lancamento ou apresentacao recente de um carro ou moto novo no Brasil, escrito em portugues do Brasil"
+#       - id: dicas
+#         categoria: "DICAS"
+#         instrucao_pesquisa: "uma dica pratica e atual para motoristas brasileiros (economia de combustivel, seguranca, documentacao ou compra de carro), escrita em portugues do Brasil"
+#       - id: mecanica
+#         categoria: "MECANICA"
+#         instrucao_pesquisa: "um tema recente de mecanica e manutencao automotiva (recall, revisao, pecas ou tecnologia de motores), escrito em portugues do Brasil"
+#       - id: esportes
+#         categoria: "ESPORTES"
+#         instrucao_pesquisa: "uma noticia recente de esportes a motor com foco em pilotos ou campeonatos brasileiros (Stock Car, MotoGP, rali), escrita em portugues do Brasil"
+#       - id: automobilismo
+#         categoria: "AUTOMOBILISMO"
+#         instrucao_pesquisa: "uma noticia recente da Formula 1 ou de outra categoria internacional de automobilismo, escrita em portugues do Brasil"
