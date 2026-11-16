@@ -750,6 +750,9 @@ def processar_site(
                 }
             )
             resumo["publicados"] += 1
+            # Gravar o histórico logo a seguir a cada publicação: se a execução for
+            # cortada por tempo, o que já foi publicado fica registado (evita duplicados).
+            save_state(state)  # gravar já
 
         except Exception as exc:  # noqa: BLE001
             log(f"[{site['id']}/{fonte['id']}] ERRO ao processar item {item['titulo']!r}: {exc}")
@@ -850,6 +853,9 @@ def processar_site_pesquisa(
                     }
                 )
                 resumo["publicados"] += 1
+                # Gravar o histórico logo a seguir a cada publicação: se a execução for
+                # cortada por tempo, o que já foi publicado fica registado (evita duplicados).
+                save_state(state)  # gravar já
 
             except Exception as exc:  # noqa: BLE001
                 log(f"[{site['id']}/{tema['id']}] ERRO ao processar tema: {exc}")
