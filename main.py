@@ -351,14 +351,48 @@ def gerar_artigo_gemini_pesquisa(
 # Cloudflare Workers AI (imagem)
 # ---------------------------------------------------------------------------
 
-def gerar_imagem_cloudflare(cfg: dict, account_id: str, api_token: str, alt_text: str) -> bytes:
+# Regras de composição (2026-11-16): a maioria das reprovações vinha de
+# texto ilegível (letreiros, ecrãs, livros, matrículas) e de mãos/corpos
+# deformados em pessoas em primeiro plano — defeitos típicos do
+# flux-1-schnell. Estas regras evitam essas cenas logo à partida, para que
+# a imagem seja aprovada à primeira.
+IMAGEM_REGRAS_COMPOSICAO = (
+    "Composition rules: absolutely no text, letters, numbers, signs, posters, "
+    "banners, screens, monitors, book covers, labels or license plates anywhere "
+    "in the image. No people in the foreground: any people must be small in the "
+    "frame, seen from a distance or from behind, with no visible hands. Prefer "
+    "wide shots of places, landscapes, architecture, nature or objects. Shallow "
+    "depth of field, clean uncluttered background."
+)
+
+# Prompt de recurso usado quando uma imagem é reprovada: composição sem
+# pessoas e sem texto (natureza-morta/paisagem simbólica), que quase nunca
+# tem defeitos — assim uma reprovação não faz perder o artigo.
+IMAGEM_PROMPT_SEGURO = (
+    "Professional editorial still-life or landscape photograph symbolising: "
+    "{alt_text}. No people at all, no hands, no text, no letters, no signs, no "
+    "screens, no logos. Natural light, realistic colours, simple clean "
+    "composition, landscape format, high quality."
+)
+
+
+def gerar_imagem_cloudflare(
+    cfg: dict, account_id: str, api_token: str, alt_text: str, modo_seguro: bool = False
+) -> bytes:
     modelo = cfg["definicoes_globais"]["cloudflare_model"]
     url = f"{CLOUDFLARE_API_BASE}/{account_id}/ai/run/{modelo}"
 
-    prompt = cfg["cloudflare_image_prompt_template"].format(alt_text=alt_text)
+    if modo_seguro:
+        prompt = IMAGEM_PROMPT_SEGURO.format(alt_text=alt_text)
+    else:
+        prompt = (
+            cfg["cloudflare_image_prompt_template"].format(alt_text=alt_text)
+            + " "
+            + IMAGEM_REGRAS_COMPOSICAO
+        )
     payload = {
         "prompt": prompt,
-        "steps": cfg["definicoes_globais"]["cloudflare_image_steps"],
+        "steps": max(int(cfg["definicoes_globais"]["cloudflare_image_steps"]), 8),  # 8 = máximo do flux-1-schnell; mais passos = menos defeitos
     }
     headers = {
         "Authorization": f"Bearer {api_token}",
@@ -393,7 +427,10 @@ IMAGEM_QA_PROMPT = (
     "maos ou membros deformados, a mais ou em falta; texto ou letras "
     "ilegiveis/sem sentido em letreiros, banners, roupa ou logotipos dentro "
     "da imagem; ou qualquer outro artefacto visualmente quebrado que pareca "
-    "pouco profissional para uma fotografia de noticias. Se a imagem parecer "
+    "pouco profissional para uma fotografia de noticias. Ignora detalhes "
+    "pequenos, desfocados ou de fundo que um leitor nao notaria ao ver a "
+    "imagem no tamanho normal de um artigo; reprova apenas defeitos "
+    "claramente visiveis. Se a imagem parecer "
     "uma fotografia editorial normal, coerente e sem estes defeitos, aprova-a "
     "mesmo que nao seja perfeita esteticamente."
 )
@@ -469,7 +506,7 @@ def gerar_imagem_validada(
 
     ultimo_motivo = ""
     for tentativa in range(1, max_tentativas + 1):
-        imagem_bytes = gerar_imagem_cloudflare(cfg, cf_account_id, cf_token, alt_text)
+        imagem_bytes = gerar_imagem_cloudflare(cfg, cf_account_id, cf_token, alt_text, modo_seguro=tentativa > 1)
         if not verificar:
             return imagem_bytes, ""
 
@@ -482,7 +519,7 @@ def gerar_imagem_validada(
         ultimo_motivo = resultado["motivo"]
         log(
             f"Imagem reprovada na verificação (tentativa {tentativa}/{max_tentativas}): "
-            f"{ultimo_motivo!r} — a tentar gerar de novo."
+            f"{ultimo_motivo!r} — a tentar de novo com composição segura (sem pessoas nem texto)."
         )
 
     return None, ultimo_motivo or "imagem reprovada repetidamente na verificação de qualidade"
