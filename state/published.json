@@ -1,3 +1,37 @@
 {
-  "publicados": []
+  "publicados": [
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Cúpula da ASEAN reúne líderes mundiais para debater crises globais",
+      "titulo_post": "Cúpula da ASEAN reúne líderes mundiais para debater crises globais",
+      "slug": "cupula-da-asean-reune-lideres-mundiais-para-debater-crises-globais",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR1o92Q2SsbMMLGCyDJegLuVuE84P0NWaPDsfEv2MrEZJ6LaB1DXcUxUmNg99I-2SAj8VbNKTkMCm4COIqSGe4gyTVgreZpv557JOAQK7b56W4c0rQCjHpCgR7AW-t8kSfx8MTJhkRA-nvmDN0A9b_Bdmq2pXl22JXX-8nr5slVmsYxczw0c4VQ-yoYJGmpSpCyXWELcRl6WBqwEWueLQXj3D-eOmd_XPMUdGCHw==",
+      "publicado_em": "2026-11-16T04:10:09.993031+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Feito Pipa Inicia Campanha para o Oscar em Los Angeles",
+      "titulo_post": "Feito Pipa Inicia Campanha para o Oscar em Los Angeles",
+      "slug": "feito-pipa-inicia-campanha-para-o-oscar-em-los-angeles",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYR1H8aOemdCF-VxaGc1QDGAz_ANIKge65O9_TJpOlB4fSckehjVxeMm2vNmLxOWR6wtoSgT7ZPRuKuxAU6xjI3qX6oDBkEBj0oBG3jos6cjEp1szDHl33XyYDqDUvAK4BTSgYEBVOHYts3tZjhS7mAG4z3p8yYv94wC7jIJOBEWYUiKZGwzQEbqLlbzk47Xj4N6Bpmf5UHogc0I-spTW4x74V",
+      "publicado_em": "2026-11-16T04:15:04.627997+00:00",
+      "dry_run": true
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "Ranking Elege os Melhores Filmes de Terror do Século 21",
+      "titulo_post": "Ranking Elege os Melhores Filmes de Terror do Século 21",
+      "slug": "ranking-elege-os-melhores-filmes-de-terror-do-seculo-21",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnY-LQo9e4_O5jyblgQ5Y-EsRnntBiOtt3MKJ3fzcI3ldKWqRK_dB6G4d7aSQuUtcn9Y9SIevf79jq7hDEJPY9O_XkVaf2TTTetEfnrybK7bcNnw-Oc98XEHCJAM1TlG9XTpw_70MBGnyP76qhmLCO3hxmDs48N4V4icIsNmRTxFMXmMI=",
+      "publicado_em": "2026-11-16T04:15:46.280133+00:00",
+      "dry_run": true
+    }
+  ]
 }
