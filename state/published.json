@@ -32,6 +32,134 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnY-LQo9e4_O5jyblgQ5Y-EsRnntBiOtt3MKJ3fzcI3ldKWqRK_dB6G4d7aSQuUtcn9Y9SIevf79jq7hDEJPY9O_XkVaf2TTTetEfnrybK7bcNnw-Oc98XEHCJAM1TlG9XTpw_70MBGnyP76qhmLCO3hxmDs48N4V4icIsNmRTxFMXmMI=",
       "publicado_em": "2026-11-16T04:15:46.280133+00:00",
       "dry_run": true
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique apreende 9 900 toneladas de cereais à Companhia Industrial da Matola - Correio da Manhã",
+      "titulo_post": "Apreensão de Cereais na Matola Alerta Mercado Moçambicano",
+      "slug": "apreensao-de-cereais-na-matola-alerta-mercado-mocambicano",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-16T15:23:39.024592+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Colaboradores do UBA recolhem meia tonelada de resíduos recolhida na Costa do Sol no âmbito do Movimento da Acção Climática",
+      "titulo_post": "UBA Recolhe Meia Tonelada de Lixo na Praia da Costa do Sol",
+      "slug": "uba-recolhe-meia-tonelada-de-lixo-na-praia-da-costa-do-sol",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-16T15:24:27.267643+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique aprova Regulamento da Lei do Caju - AICEP",
+      "titulo_post": "Moçambique aprova Novo Regulamento da Lei do Caju",
+      "slug": "mocambique-aprova-novo-regulamento-da-lei-do-caju",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-16T15:25:50.011732+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Desnutrição afeta 37% dos moçambicanos, com 40% em regiões do norte - Notícias ao Minuto",
+      "titulo_post": "Desnutrição Crónica em Moçambique Atinge Níveis Críticos no Norte",
+      "slug": "desnutricao-cronica-em-mocambique-atinge-niveis-criticos-no-norte",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-16T15:28:46.839992+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Boom da IA desafia redes eletricas e amplia custos de data centers",
+      "titulo_post": "Boom da IA desafia redes eletricas e amplia custos de data centers",
+      "slug": "boom-da-ia-desafia-redes-eletricas-e-amplia-custos-de-data-centers",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyP_Pzv-z6NUWvE8IRweMjDfgtIOoEf1bZxY3ZnR2rMUpTd-cn8Y5yyo_mqejxMCZdARZeWx8ge6nHAP7VTKyR3pf5UXIlEYlYpPwEPJ-8D00ZsG-YaiiasyOBn89hToujd93DgcJvkUFV0PEZ_uwTKp109pqyNH9bFh9daNTDpwPN1a7w",
+      "publicado_em": "2026-11-16T15:32:16.842326+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Avanços na Prevenção Combinada e Acesso ao TARV",
+      "titulo_post": "HIV em Moçambique: Avanços na Prevenção Combinada e Acesso ao TARV",
+      "slug": "hiv-em-mocambique-avancos-na-prevencao-combinada-e-acesso-ao-tarv",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMY49qIxdbPySt2kHPDfwmMTT1s0A88kZ3eWbmgK4_2ZawBSlrl4D1C0TO1ZdU9TWkzJ9i7Zqp8l_LFIHvYpxKt8kjoJFst1ZaYSVbPDaog-WDedm4Y9GiTT9IowwmXZgFAxzjA7edmS-o4Ug8yN5jV5SgVkYF9ceJ5Qeg1h43wvAb1OEh3xEBouDi-K038dkCUnA4NTapWPnDwZ9Nk38O",
+      "publicado_em": "2026-11-16T15:35:43.523930+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Hipertensão em Moçambique: Rastreio e Cuidados de Prevenção",
+      "titulo_post": "Hipertensão em Moçambique: Rastreio e Cuidados de Prevenção",
+      "slug": "hipertensao-em-mocambique-rastreio-e-cuidados-de-prevencao",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbWE_X390WQXvWrijncJBCdnFiFegsS-ElThVXMA3kx4pCeYy9w1gk5ceQE9VJtZD4fwwNq4t6FE_r1t4HQQUKawnCin3D6DNinPbuQMoExMRcWnMe6Bf1nELF09NYKItU9jomGOOMuHgKbXV2XWLbpbtcvL0vIHw4jh-ZBfbsfltoMMtZJtHFweCLm6CQiA3-LcjvEnpQ8tjK0yhYgL9QLVUtJF-",
+      "publicado_em": "2026-11-16T15:37:14.228091+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Alibaba Lança Qwen4-Max: O Novo Gigante da Inteligência Artificial",
+      "titulo_post": "Alibaba Lança Qwen4-Max: O Novo Gigante da Inteligência Artificial",
+      "slug": "alibaba-lanca-qwen4-max-o-novo-gigante-da-inteligencia-artificial",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrT40h-iWDAIkVWNsoG-7gurnaWQWuKiJp4PSLwmPTmNG7UXSsv6z9t01ASEDCkvEr_lolWA8dH9m1TAMpSuwPd4TH031ORnORK_WgjW6mycMA_LtyfcpKdXH0ZBywTYCeelrQ5tuNXC_PWBXzKgA5PnsBAVAz",
+      "publicado_em": "2026-11-16T15:38:26.424160+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "Caminhos do Cinema Português Arranca em Coimbra",
+      "titulo_post": "Caminhos do Cinema Português Arranca em Coimbra",
+      "slug": "caminhos-do-cinema-portugues-arranca-em-coimbra",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0YePTqwusokx5L5LY8MX4EtCby1221Oq9KY2lqYFIYm1vC48Sxi21JdyMeEd218wJBEGJSal7gZs1Trkl4bumXxtg1Vw332jOrTCEGUpaGVCdaGnPTJyat8h_05U8Xt6BAUwJYWfj4gY-qjRyu73SUB0Ml2QVaGGwiMmfjJt9Xcoj9bc0coH7EFz3qt3dHyVxm1zdLb6GJuh08L0gX6ksAQu5xOwy",
+      "publicado_em": "2026-11-16T15:43:47.224287+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "A Doce Vida: A Obra-Prima de Fellini e o Seu Impacto Histórico",
+      "titulo_post": "A Doce Vida: A Obra-Prima de Fellini e o Seu Impacto Histórico",
+      "slug": "a-doce-vida-a-obra-prima-de-fellini-e-o-seu-impacto-historico",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxOrAFqAtccRswhPgRvWSehNe0-YRHlHZsm2iSUGp0vU499wT-ICCQWgZlnQTGzbgPzJ5IFGsL_83RL4lkCVsHogzTfuVcRc5oC9wKqL14cqrZf5-FOWDy2DMYsW4vKzPKl65ASaaWTFFKohP6gbD6DfH9KsNmgs9eKarZia_jJeAK3JF0hgFzkAb4RBiuS6C2NY0S-hPV2HY_MbfhWl4kYU6xABle_KScq_Ry1Z5QTrRvMw0GFbr6acLjrpNXgWRs5EiUY5GfjXwDB1yuuMfM",
+      "publicado_em": "2026-11-16T15:44:34.703507+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "Jetour G700 estreia no Brasil: SUV híbrido de 905 cv por R$ 469.900",
+      "titulo_post": "Jetour G700 estreia no Brasil: SUV híbrido de 905 cv por R$ 469.900",
+      "slug": "jetour-g700-estreia-no-brasil-suv-hibrido-de-905-cv",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMsMfA5m7RAWDsGIMuutktcvkHHh4kuidDODmH8gpf5q0ebybeBz4y-7XkKswv1QushW0_1zRPSxChZ_t6gcgxFdf9whvSflgXzhEx2FloTE5rPCdRu3TEYAFINpeiePrwG7x5oHOd3u_fhvcONahlpk5EFP7VE2RS87vNTHRjbAe79UMHhLKK6JCJts9JhKkH8-g3ZdMw9w==",
+      "publicado_em": "2026-11-16T15:46:38.742830+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "mecanica",
+      "titulo_original": "Recall da Ram 2500 por falha nos freios ABS alerta motoristas",
+      "titulo_post": "Recall da Ram 2500 por falha nos freios ABS alerta motoristas",
+      "slug": "recall-da-ram-2500-por-falha-nos-freios-abs-alerta-motoristas",
+      "categoria_id": 28,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPqB4Y95AIljzIA3MrgPbt3ZY68rliP_ciscuBIxVtY4o72ktsxos3Vmtj96mQ1zh1YAnAPbITlvevRbfa1zEHcm4iStOoUgVIVCbaOY_roCcoRkJo5PuMlMxWVnLo0PLdCmDTvFzdhNsswnW0O-Q5m_Yua3vFbR4vcuK_XnvXsJcM0uuJ5CBasVzjMoIuQfqb5kvfC3lAoI_t5_pVKXZhBX9JGX_bnGIeG1cSAmYHe6H0ZDfu2-fa0XXB7cIxSkmKby1mLkP1qKBTm7-LKCgYRv7ao9A=",
+      "publicado_em": "2026-11-16T15:48:47.112498+00:00",
+      "dry_run": false
     }
   ]
 }
