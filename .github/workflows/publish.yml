@@ -23,7 +23,7 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
@@ -37,6 +37,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Correr o publicador
+        # Pára o script antes do limite do job, para o passo seguinte
+        # (gravar histórico) ainda ter tempo de correr.
+        timeout-minutes: 26
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -61,6 +64,9 @@ jobs:
           fi
 
       - name: Gravar histórico anti-duplicados (se mudou)
+        # Corre sempre, mesmo que o passo anterior seja cortado por tempo,
+        # para não perder o registo do que já foi publicado.
+        if: always()
         run: |
           if ! git diff --quiet -- state/published.json; then
             git config user.name "novimz-auto-publisher-bot"
