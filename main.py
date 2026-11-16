@@ -376,6 +376,21 @@ IMAGEM_PROMPT_SEGURO = (
 )
 
 
+# Palavras que levam o flux a desenhar texto ou pessoas/mãos (ecrãs, livros,
+# letreiros, médicos, bebés...). No modo seguro são retiradas da descrição,
+# para que a nova tentativa não repita a mesma cena problemática.
+PALAVRAS_RISCO_IMAGEM = re.compile(
+    r"\b(monitor(es)?|ecr[ãa]s?|telas?|computador(es)?|port[áa]te(is|l)|laptops?|"
+    r"telem[óo]ve(is|l)|celular(es)?|smartphones?|tablets?|livros?|cartaz(es)?|"
+    r"letreiros?|placas?|painel|pain[ée]is|documentos?|jornal|jornais|"
+    r"pessoas?|homens?|homem|mulher(es)?|crian[çc]as?|beb[éê]s?|m[ãa]os?|"
+    r"m[ée]dicos?|m[ée]dicas?|enfermeir[ao]s?|profission(al|ais)|cientistas?|"
+    r"investigador(es|as)?|atletas?|jogador(es|as)?|estudantes?|jovens?|"
+    r"trabalhador(es|as)?|multid[ãa]o|grupo)\b",
+    re.IGNORECASE,
+)
+
+
 def gerar_imagem_cloudflare(
     cfg: dict, account_id: str, api_token: str, alt_text: str, modo_seguro: bool = False
 ) -> bytes:
@@ -383,7 +398,8 @@ def gerar_imagem_cloudflare(
     url = f"{CLOUDFLARE_API_BASE}/{account_id}/ai/run/{modelo}"
 
     if modo_seguro:
-        prompt = IMAGEM_PROMPT_SEGURO.format(alt_text=alt_text)
+        alt_seguro = re.sub(r"\s{2,}", " ", PALAVRAS_RISCO_IMAGEM.sub("", alt_text)).strip()
+        prompt = IMAGEM_PROMPT_SEGURO.format(alt_text=alt_seguro or alt_text)
     else:
         prompt = (
             cfg["cloudflare_image_prompt_template"].format(alt_text=alt_text)
