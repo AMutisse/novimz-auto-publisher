@@ -160,6 +160,179 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPqB4Y95AIljzIA3MrgPbt3ZY68rliP_ciscuBIxVtY4o72ktsxos3Vmtj96mQ1zh1YAnAPbITlvevRbfa1zEHcm4iStOoUgVIVCbaOY_roCcoRkJo5PuMlMxWVnLo0PLdCmDTvFzdhNsswnW0O-Q5m_Yua3vFbR4vcuK_XnvXsJcM0uuJ5CBasVzjMoIuQfqb5kvfC3lAoI_t5_pVKXZhBX9JGX_bnGIeG1cSAmYHe6H0ZDfu2-fa0XXB7cIxSkmKby1mLkP1qKBTm7-LKCgYRv7ao9A=",
       "publicado_em": "2026-11-16T15:48:47.112498+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Clientes relatam problemas no acesso aos serviços de grandes bancos dos EUA: o que se sabe",
+      "titulo_post": "Falhas no Internet Banking Afectam Milhares de Clientes nos EUA",
+      "slug": "falhas-no-internet-banking-afectam-milhares-de-clientes-nos-eua",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-17T00:06:56.614289+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "As Nossas Promessas às Crianças - Unicef",
+      "titulo_post": "Promessas às Crianças: O Desafio de Garantir Futuro",
+      "slug": "promessas-as-criancas-o-desafio-de-garantir-futuro",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-17T00:07:44.049489+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Praça Pública - DW - 16 de Novembro de 2026 - DW.com",
+      "titulo_post": "Debate Cívico em Moçambique: A Voz dos Cidadãos Ganha Força",
+      "slug": "debate-civico-em-mocambique-a-voz-dos-cidadaos-ganha-forca",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-17T00:08:23.726658+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique lança nova estratégia escolar contra a desnutrição",
+      "titulo_post": "Moçambique lança nova estratégia escolar contra a desnutrição",
+      "slug": "mocambique-lanca-nova-estrategia-escolar-contra-a-desnutricao",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd2d0KhaJpASgBKjHKz8N84BQz_Fvg_zk0LB2wuLB14I3Fff4Upg0DSCzRVXQM5GI6tctkdWxE4Zv_Eeu6ZkZ-GxiSDe5p8f8O7oscICjcABMwHHsFZ_DNqj8DXG4=",
+      "publicado_em": "2026-11-17T00:09:44.637045+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Novo sensor dispensa baterias e capta energia da fiação",
+      "titulo_post": "Novo sensor dispensa baterias e capta energia da fiação",
+      "slug": "novo-sensor-dispensa-baterias-e-capta-energia-da-fiacao",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGioHLb22KLpnNFEIIqIhuMR8Ywoz46lela3u3Vcjb8cvLiZWKFomsNHDYntqj3vjAuRPiqPceaCQqQVdBf1nZQIS5Jk9bVlb9jSg7i99RZscsKCLUq5X5-mF7SCxZhFaW9MHIcgTsYECqoMIz7ors7JC8cCx4hGYl7Yyx_lX5YjPCz2hsP6uV0ypHaeQTgJJojUjluXfAd6g==",
+      "publicado_em": "2026-11-17T00:11:57.974100+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Acordo Europeu Preve Envio de Migrantes Rejeitados para Ruanda",
+      "titulo_post": "Acordo Europeu Preve Envio de Migrantes Rejeitados para Ruanda",
+      "slug": "acordo-europeu-preve-envio-de-migrantes-rejeitados-para-ruanda",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoDV3NQsd_znt8P0WUQrOJDrzxnKMSEgcoM2XQLOC3jxpkJGCx-_hw9JN_2i-zzYwgP7kpIkVrCb059lnj7yjIdx8V7yGc0rjvr-CVP_-jd9uxm96Q9H8gZik=",
+      "publicado_em": "2026-11-17T00:12:46.599339+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil: Moçambique Reforça Cuidados Pré-Natais",
+      "titulo_post": "Saúde Materno-Infantil: Moçambique Reforça Cuidados Pré-Natais",
+      "slug": "saude-materno-infantil-mocambique-reforca-cuidados-pre-natais",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9yfO4Sche-1txPqUw3y3GoH2bV0mROhrSOGiom-dR1z2n6FMyQnf1lbOIldrIxcfWmeyXVLbAOblWU_cY87OkpNjkmftP770IOPJx0By1ScwVVQ==",
+      "publicado_em": "2026-11-17T00:15:28.681868+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Prevenção da Cólera em Moçambique: Cuidados e Sinais de Alerta",
+      "titulo_post": "Prevenção da Cólera em Moçambique: Cuidados e Sinais de Alerta",
+      "slug": "prevencao-da-colera-em-mocambique-cuidados-e-sinais-de-alerta",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1SKCM1GihkdliHDXacRnNesjaV2HM-t1NGvUwyjBYDd3EFGrxsJN-NJ5ik_Cm5FSbIEce_5xcdurk0EBofczFE7fNtgv7dpaVMYXgCE1kE3AGqy3FAvzkDUK1plrkrCb5Pk44rwP7UGImS-NgbU48p66ydqyw5rMCduRVMPodX6ic5_uOHECLX8h9A_xWSrHEt0P1mUc=",
+      "publicado_em": "2026-11-17T00:16:53.515455+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Novo CRISPR Compacto Revoluciona a Edição Genética no Corpo Humano",
+      "titulo_post": "Novo CRISPR Compacto Revoluciona a Edição Genética no Corpo Humano",
+      "slug": "novo-crispr-compacto-revoluciona-a-edicao-genetica-no-corpo-humano",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFapPG4Ciwlu1FpnzEC5mvyu4_NyG9YSCkY4NTNzI3YcjGO1KyyCNHVG8b_8dPm9IO9UQY4-_AUsLwgs3otPmR98HWXvrq1yvk7ljyxCjWijaSWke_T9q4e3Uc0KTjiU2US8zsK40cZ9a3X2aQSgUb5ghf4dV9wEAOOm8O0MxQziyyLp2_PtSa6jWJvyyEgnHfgrb_IMbQH6f-fDVtrDw==",
+      "publicado_em": "2026-11-17T00:19:00.251646+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica: Como Roubar um Banco Reinventa o Cinema de Assalto",
+      "titulo_post": "Crítica: Como Roubar um Banco Reinventa o Cinema de Assalto",
+      "slug": "critica-como-roubar-um-banco-reinventa-o-cinema-de-assalto",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7yBDz_4NWJVS49jNT4NnPGZ9QpS92-0T1cgcviNGOBhXxMBViOIXLakqTS-3wWq77fKMdzMez1BW9kNl26pe6t345k5Jq0sHVU33Cd1WuHz7UcCMPVphqzg==",
+      "publicado_em": "2026-11-17T00:19:56.916025+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "streaming",
+      "titulo_original": "Black Doves: Segunda Temporada Domina o Streaming na Netflix",
+      "titulo_post": "Black Doves: Segunda Temporada Domina o Streaming na Netflix",
+      "slug": "black-doves-segunda-temporada-domina-o-streaming-na-netflix",
+      "categoria_id": 5,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_4-bEbFFHC3UVRbxC6x5Kb58slV7uVIm5RcY4RpY2ZmtPYs23GMYe36F8ITX_z7damqfp3t-7U9vG4xA8KuMgHXa5GcQM21q94MahzOnJRByGu0DaUEq7XLXiGOfcvQ==",
+      "publicado_em": "2026-11-17T00:21:55.792341+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "A Margem do Rio Brilha na Europa e Conquista Prémios na Grécia",
+      "titulo_post": "A Margem do Rio Brilha na Europa e Conquista Prémios na Grécia",
+      "slug": "a-margem-do-rio-brilha-na-europa-e-conquista-premios-na-grecia",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuxT7c2t7ogQBXFO1fFHjreRQoCvN0YjU1UDhSrGN7Sj7_jwI0njDJzKOeyxUhooc7k6P41FL9DBwtn0g242YpVoksV-KujB8y5aNdElZZFJakxd7z8fIF-zFQ98UTY3kIP9RAAhA7y5XkGypf_XXXz4jnZeMUkeZbHXtTxOg6Um5NkX8SknKDmCjyqGp_Y0KSIPAMa97pnDK334r70FWQ6o6i5D5oMA==",
+      "publicado_em": "2026-11-17T00:23:22.089840+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "Limite: A Obra-Prima Que Redefiniu a História do Cinema Brasileiro",
+      "titulo_post": "Limite: A Obra-Prima Que Redefiniu a História do Cinema Brasileiro",
+      "slug": "limite-a-obra-prima-que-redefiniu-a-historia-do-cinema-brasileiro",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsrdtWHldFPdFimZqQAKv-jjUsFaPMz-qNHtKP1b8QSxD6ukn0lMrIDx8niQQeZAKG6mKdzr8_LLb0Nab05Lps-wlc682HdXlL_ELs6InZifJd30K1Q5ufGauvGOKh6j-tzUj21msegkf-lFRy1PuUI1eZlx4fsnOgFo10wqYPDTx3LwOrDNezgKHnZHhdxtsol7ybnxWxLywcZixfOPbE4w==",
+      "publicado_em": "2026-11-17T00:24:28.042216+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "trailers_e_lancamentos",
+      "titulo_original": "Missão: Impossível 8 Ganha Primeiro Trailer e Data de Estreia",
+      "titulo_post": "Missão: Impossível 8 Ganha Primeiro Trailer e Data de Estreia",
+      "slug": "missao-impossivel-8-ganha-primeiro-trailer-e-data-de-estreia",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbAI6qDqcrXbS4f4ylcPJ1GBgOn9D6cY-atNvZvolWXwAfgpsYTA7e7Gq3MN_5OoXzwa1UeMQzLz8fcxkHyp3M0LnKu3aoI9fdad0oAPl0OWEQkxNev3d7DECZ1z08XTZvUYVX3uPW5dWQum3zx7NBwl5qrtFZsJaeUFAz7ooSx888rRg=",
+      "publicado_em": "2026-11-17T00:25:23.493541+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "mecanica",
+      "titulo_original": "Volvo EX30: Justiça exige plano para troca de baterias em recall",
+      "titulo_post": "Volvo EX30: Justiça exige plano para troca de baterias em recall",
+      "slug": "volvo-ex30-justica-exige-plano-para-troca-de-baterias-em-recall",
+      "categoria_id": 28,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW41aUeetYA0bVQIKJiH07cNFnjv27esUb1w4U7Pn0p8TGqQe7KhMq7JfYd9QwQ_arJC6tBMf44dpZGY2D6i6bzEX8e7S7m19LDBF3B2Leyitw59oM-TjPkAt7c2QKpncezF0WdKwR4csUkWkpeSN3GMbM9b0j3cK4LNPc1YE1hc0uw1pfW-6AdPUlNEKlndDAyNkK__qcIeIRyJ-nY6_oBZmxvDvDhP41L9nmHwkk1vyPum1lx1nOSJCBlw==",
+      "publicado_em": "2026-11-17T00:29:59.760681+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "esportes",
+      "titulo_original": "Diogo Moreira encara desafio com a Honda no GP de Portugal",
+      "titulo_post": "Diogo Moreira encara desafio com a Honda no GP de Portugal",
+      "slug": "diogo-moreira-encara-desafio-com-a-honda-no-gp-de-portugal",
+      "categoria_id": 30,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcxxluX6Q49Vd88vjqzhQHu2BTlzG08_znIksvtRyLyfztiG348yhfpcZDm5n6mWu5Eq6mI3UuVp956HXOjSHyDGp4w0yEzkxZ9VvjAp4T9MzWAuHLgvlHeFdrkJiaXkT",
+      "publicado_em": "2026-11-17T00:30:38.872546+00:00",
+      "dry_run": false
     }
   ]
 }
