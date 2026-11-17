@@ -5,7 +5,7 @@ on:
     # A cada 2 horas — mais frequente do que o agendamento "Every 3 hours" usado no Make.com.
     # O horário exacto dentro da hora pode variar um pouco (comportamento
     # normal do agendador do GitHub Actions em períodos de muita carga).
-    - cron: "0 */2 * * *"
+    - cron: "23 */2 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
