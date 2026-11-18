@@ -687,6 +687,173 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOvBYwb5cOd8ChzjfRNM9PBYz0xKEFroqr0u89e84_78kHLfEWaMeocJEa4Wbqpq6_KeUqDqWeZnVR4LjNsQUtGZ0-yVez4oEWhQ-6afM9EHZIPfjj8R1YwwMdUi63qct9dZpaKl2v1V8FBG68myjO5UwJsFFkYiFtZIQlzXktNoYjfqhzSOXkZw==",
       "publicado_em": "2026-11-18T02:52:49.404758+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Angola: Pobreza atinge mais de 14 milhões de pessoas e afecta mais as crianças e as mulheres",
+      "titulo_post": "Pobreza em Angola Afecta Milhões com Forte Impacto em Crianças",
+      "slug": "pobreza-em-angola-afecta-milhoes-com-forte-impacto-em-criancas",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-18T13:15:04.097211+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz consultora de documentário sobre o caso",
+      "titulo_post": "Crime Real e Sociedade: Por Que Casos Extremos Geram Tanta Comoção",
+      "slug": "crime-real-e-sociedade-por-que-casos-extremos-geram-tanta-comocao",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-18T13:15:42.740582+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique e Nigéria assinam três acordos - E-Global",
+      "titulo_post": "Moçambique e Nigéria Firmam Três Novos Acordos Bilaterais",
+      "slug": "mocambique-e-nigeria-firmam-tres-novos-acordos-bilaterais",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-18T13:16:23.294168+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Millennium bim reúne nomes da arte moçambicana num encontro dedicado ao património",
+      "titulo_post": "Arte Moçambicana: Encontro Histórico Debate Valor do Património",
+      "slug": "arte-mocambicana-encontro-historico-debate-valor-do-patrimonio",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-18T13:16:56.951306+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Turbulência em voos: por que episódios como o da JetBlue na Flórida podem ficar mais comuns",
+      "titulo_post": "Turbulência em Voos: Por Que o Fenómeno Está a Aumentar",
+      "slug": "turbulencia-em-voos-por-que-o-fenomeno-esta-a-aumentar",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-18T13:17:57.919594+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Pausa de 30 minutos: MP insiste em afastar advogado de Mondlane e defesa questiona a legalidade de gravações telefónicas",
+      "titulo_post": "Tribunal Supremo: Defesa Contesta Escutas em Julgamento",
+      "slug": "tribunal-supremo-defesa-contesta-escutas-em-julgamento",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-18T13:19:31.121887+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Férias, alistamento militar e 'viagem falsa': as loucuras de fãs pelo lançamento de 'GTA 6'",
+      "titulo_post": "GTA 6: As Loucuras dos Fãs e o Recorde Bilionário de Vendas",
+      "slug": "gta-6-as-loucuras-dos-fas-e-o-recorde-bilionario-de-vendas",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-18T13:20:11.740026+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Crédito à economia moçambicana recupera para 4,6 mil milhões de euros em Setembro - Forbes África Lusofona",
+      "titulo_post": "Crédito à Economia em Moçambique Atinge 4,6 Mil Milhões de Euros",
+      "slug": "credito-a-economia-em-mocambique-atinge-4-6-mil-milhoes-de-euros",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-18T13:20:45.382528+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "UEM gradua estudantes de 18 países e reforça internacionalização do ensino superior em Moçambique",
+      "titulo_post": "UEM Gradua Estudantes de 18 Países e Reforça Ensino Superior",
+      "slug": "uem-gradua-estudantes-de-18-paises-e-reforca-ensino-superior",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-18T13:21:21.979814+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique e Nigéria Reforçam Aliança com Três Acordos",
+      "titulo_post": "Moçambique e Nigéria Reforçam Aliança com Três Acordos",
+      "slug": "mocambique-e-nigeria-reforcam-alianca-com-tres-acordos",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6EkoljUYuHtXqyRbJ-6fdzsj7qxJSKCkN5-Aa3asRyIvNhwCW-kEy9QEdOc2Burr5m5QeM3E1enKe-A64eloiq51326Zt17v-u23Q3D2JU-UzkqeYFrDUFhI3zQ==",
+      "publicado_em": "2026-11-18T13:23:50.290826+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Cúpula da APEC debate megazona de livre comércio em Shenzhen",
+      "titulo_post": "Cúpula da APEC debate megazona de livre comércio em Shenzhen",
+      "slug": "cupula-da-apec-debate-megazona-de-livre-comercio-em-shenzhen",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUH-Rk3stc9A5B_C2pd9UhTqD6xo_m4odsf8xm8FiwkUhjEJ_dR3DAbA0M78k1nIE6A7Q57K8FHwdyNoaRmD1lAtRr7wNzfDB2zJZo9mrC-Pmv-2uROrZNz5r9Yw6M2pJPg1OXZ1UfnunW3thHyM9GUUPStQGg99pa5b-tJB_FSrYYUXfVWJeHu3Ufz-IoAdpxXAP4N5Kaiml_aXminmwRsBz8rmAfUKGcEQhM69mykB15CPcmJXAV-RHrZw==",
+      "publicado_em": "2026-11-18T13:25:30.432881+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Casos Caem 17% mas Prevenção Segue Vital",
+      "titulo_post": "Malária em Moçambique: Casos Caem 17% mas Prevenção Segue Vital",
+      "slug": "malaria-em-mocambique-casos-caem-17-mas-prevencao-segue-vital",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1CpAWsLDnjxkK1vRZ0oHL93fZOsQwfXdjUNImjHX9s50sYQnT19HhIDLFqcK-sodcGvYEAjOUzMcPbEIkI3yP-GXqn9qScNklIIAtOm3eY0cENN0Qw2qvwCLlpjBt9drAlTDjDbJFJVGgciGAak_31uu0__8KDj1wYkssui4T3tqM-TPEcHHWak3JpJfp",
+      "publicado_em": "2026-11-18T13:26:13.466757+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "streaming",
+      "titulo_original": "Os Altruístas: Minissérie da Netflix Revela Escândalo da FTX",
+      "titulo_post": "Os Altruístas: Minissérie da Netflix Revela Escândalo da FTX",
+      "slug": "os-altruistas-minisserie-da-netflix-revela-escandalo-da-ftx",
+      "categoria_id": 5,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7_E3NEXrRWBzXTbyuUjTBSi7SKxnB5OmHuUUdbmcDgitPPCe1DifhYdWNnyTepVsfCCxe8xixAs0Xi3M7P8xnMy2oun9Qoc1zMRY-TMqMINJ1pex3Z9oXCpi2alWddGw=",
+      "publicado_em": "2026-11-18T13:32:59.716436+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "Porto/Post/Doc Arranca com Destaque para o Cinema Lusófono",
+      "titulo_post": "Porto/Post/Doc Arranca com Destaque para o Cinema Lusófono",
+      "slug": "porto-post-doc-arranca-com-destaque-para-o-cinema-lusofono",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjqrYn_fk6iSTX7eMhoxp0GPq_wG1UOsIET-EyQTUQlLpJgyMK-tPYVPKCwco4dILssILhIxUZCZsylgAuNJK0BsFt0ZCsUpFaASD2rR1Vmj-gleW4-ujgOOzCNH83_15VLg3a4qmBHMEhbUGMgV32f_utQenRfWOcevgcCoaztoEAIqF-TaF2h-9rkGsp",
+      "publicado_em": "2026-11-18T13:35:23.330991+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "dicas",
+      "titulo_original": "Nova lei da CNH: dicas para renovar mais rápido e evitar multas",
+      "titulo_post": "Nova lei da CNH: dicas para renovar mais rápido e evitar multas",
+      "slug": "nova-lei-da-cnh-dicas-para-renovar-mais-rapido-e-evitar-multas",
+      "categoria_id": 27,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd2lWrX8YKPdIMAKRhO15m7PFIfo21b4sBpmBVOchL_ycGo66QAahnTe91ZEsuTw34FC_pG9CYV8qc9RJJeYW22kVcDqmRZ2gMGX89FKDw0RKjE1QtXlVB_U38TrsJFsriXBorB5kkjmuKbLMhK-xYqbFHjKtOigdXWyEP1OYOBR02Mf2wEKpN5Dv6aELMwG4pvzbl7Zsua4LZ291_BjHqvTxxucaMpxreiAMHwtROBW0iLxwjaR2a6_jnNXZyLo3K4ecip_kHc7hbPO_ZUA==",
+      "publicado_em": "2026-11-18T13:38:53.662836+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "mecanica",
+      "titulo_original": "Recall da BMW: falha na bomba do motor gera alerta de fogo",
+      "titulo_post": "Recall da BMW: falha na bomba do motor gera alerta de fogo",
+      "slug": "recall-da-bmw-falha-na-bomba-do-motor-gera-alerta-de-fogo",
+      "categoria_id": 28,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHouGJ4AGCQIG4mOm_7HCEt4e8JIZvps1IfciObkqO92o5-z6yWb4WYoKqmdPULsjWfoQkxj6K11oTbsbYg_yi7Aq1QooRP_UxcYUSkpWRuwGNpcebD4mfXoKYLljfvTvoRFxD9Uyo9Lq-e-Izm2fe0b4d07R780_ReKC4-h3ToIhSsjFN_pKG3xpZwfk4jSmPRKJF16XNXRA==",
+      "publicado_em": "2026-11-18T13:40:22.286809+00:00",
+      "dry_run": false
     }
   ]
 }
