@@ -513,6 +513,180 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdJEyWKjipJYUN2-N4EK8KdIe_ZzP8JR5S-ZEuYwr3EWU7C1lHjmIuiWSrAYMY98jLxVn0fOE47psg5NH0Fkf7a7-A1EzwIpCUWGVxZOk4eo2B23GzRHvV1ZaoPjWJNmZptjz5z7lx-40W5emleGG8G2_AK-pq8PfWkdIvZiF_YpEXHcdC8a7dgOfz0r2WXrvjLHcdRojtpIoDr95cySqxF4ObHHiLUzehf9hH",
       "publicado_em": "2026-11-17T19:39:24.326932+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "“Queremos erguer uma pujante economia diversificada”, diz ministro moçambicano - Jornal Económico",
+      "titulo_post": "Moçambique quer erguer uma economia forte e diversificada",
+      "slug": "mocambique-quer-erguer-uma-economia-forte-e-diversificada",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-18T02:29:53.743213+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+      "titulo_post": "Ajuste Fiscal no Brasil: O Debate que Divide Economistas",
+      "slug": "ajuste-fiscal-no-brasil-o-debate-que-divide-economistas",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-18T02:30:28.538210+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Reforça Cuidados Pós-Alta para Bebés Prematuros",
+      "titulo_post": "Moçambique Reforça Cuidados Pós-Alta para Bebés Prematuros",
+      "slug": "mocambique-reforca-cuidados-pos-alta-para-bebes-prematuros",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSYS3p4PGMQBev_PR5RSJylXtaRXV2utqGDAKPOBJOaWNSkh9rcONv57r8PEYto4fm9-PKLosD1eCjCB4tplfErga_hdsjfmpuvXAy_s0exV5-Q6Gf47XPpFIs7dZ9ZfirFX1haRyYRlCmi6gEatuSiGwGnHiTPb90DAMcboZqQarXlIH8qXTFm10z0W3_PT1yFF8jZRmqUeHptVgY5veSXMaCbEKrMCU9quI=",
+      "publicado_em": "2026-11-18T02:31:48.231555+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Aprova Mudança no Rovuma LNG Para Reduzir Custos",
+      "titulo_post": "Moçambique Aprova Mudança no Rovuma LNG Para Reduzir Custos",
+      "slug": "mocambique-aprova-mudanca-no-rovuma-lng-para-reduzir-custos",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuNlc3kYWp8q2fn-NPM7ugSnKEhFqPd2L9tSKcgCAtJ4SDjLbCoM0xIBF-LlQwHl4VyORW_F-5S7g057I-BJtLtDM2CYqcX_X2xEKJBD7phprFA7t4-IZL3LEwzPQ067EQOjrNJo4X5v0tp0v7oxTRs8h1WOP4rzbUn_cJYDLnhNDbDCqTC8g8NRIljJpWli_86X4hL015HwUjWxIPNz8NjcTt",
+      "publicado_em": "2026-11-18T02:32:42.840365+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Quer Criar Indústria de Defesa com Foco em Inovação",
+      "titulo_post": "Moçambique Quer Criar Indústria de Defesa com Foco em Inovação",
+      "slug": "mocambique-quer-criar-industria-de-defesa-com-foco-em-inovacao",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH77_lfISiVsgtf5o0z24lu7FPZIQTnnPtC4QuvnAKqldBNJDU9BNa7z3JuxMU4VAXblw_j7d7qEQPi2HoWn1mYbMtIQGkxXYhqV0Z5zi-9_yU4ZOqI1bQq_bkFhWtNUQXJiOe58Qw=",
+      "publicado_em": "2026-11-18T02:33:34.345858+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Combate ao Tracoma em Moçambique: Prevenção e Cuidados com a Visão",
+      "titulo_post": "Combate ao Tracoma em Moçambique: Prevenção e Cuidados com a Visão",
+      "slug": "combate-ao-tracoma-em-mocambique-prevencao-e-cuidados-com-a-visao",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfedgTp7npzUlHzaXUwwz0Av5G5wrO_Q4O1xoUbI_Ag065q5SgfMTyKS8P4Ro5AZW5NbsQL02CalHHq7jYDkaFy-2OwNWbGcAlCNgnn0CgboCOWXMw4eNKw87uasIgn4Dh_ORL",
+      "publicado_em": "2026-11-18T02:37:16.076676+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "OpenAI Lança Modelos GPT-6.2 Astra e Sol com Foco em Eficiência",
+      "titulo_post": "OpenAI Lança Modelos GPT-6.2 Astra e Sol com Foco em Eficiência",
+      "slug": "openai-lanca-modelos-gpt-6-2-astra-e-sol-com-foco-em-eficiencia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM4zZzI3aS_aMxdg4RXDkeL2C9U6K7RJMmO4BFSIL0bYXkyeIxwpZtWAB5lcdlA3dAg7slxyOHZ6ECKPWqfCSXDxUPCw5uK6iq2y6TmNJWAs54LBBfay1YFHy9zZZ3HOQcEU07Ev-Vc4yxnCqax8sZAkc=",
+      "publicado_em": "2026-11-18T02:38:05.350151+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Sonda Hera Alcança Asteroide Atingido Pela Missão DART",
+      "titulo_post": "Sonda Hera Alcança Asteroide Atingido Pela Missão DART",
+      "slug": "sonda-hera-alcanca-asteroide-atingido-pela-missao-dart",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaIomsM1FHyqqOGaDIzeOheYXwF_1eXG0QWMuN5uVBmRsliSeH0L3G1A4fwph1wqm991UP_F-IWS-s4NxgHi0CyetTrkW8t0re3Bj5IjO7-btZ_BgO6vgC-uv6dMydMJf7PLq0Ykw7q4XLtRAlYf2UHFlUdiqPOg4430RDH6n3RcRm1I3P8w0KyfRSJQ_aaa0351NvtYIy7URcu-vw0kt3q9uSaVe5Lza-E8s1hkwWgsTtEBCFezXgH7pQ5afarB-gRfa5me-lNjddQJogVgJwJKPAMnwGC1Dc4lZZSQw=",
+      "publicado_em": "2026-11-18T02:38:56.157417+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Nova Biotecnologia Cria Defesa Inédita Contra Nematódeos na Soja",
+      "titulo_post": "Nova Biotecnologia Cria Defesa Inédita Contra Nematódeos na Soja",
+      "slug": "nova-biotecnologia-cria-defesa-inedita-contra-nematodeos-na-soja",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx1rJFK20p0BaRlQ-38IN5-Sn8D67OxfSyGrUMio46A5BiW3vr5tcLy4CAPD6ttybRj-wbShG9fQOhp4t-2VKRzrfmFJZXH908Ig3FhDhaqxaa1_tey6qNVbfrFLJodvBAZEG--67xSs3L9hP3O0I773gS79IivLE=",
+      "publicado_em": "2026-11-18T02:39:53.586363+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Robert Pattinson é Oficialmente o Novo James Bond em Bond 26",
+      "titulo_post": "Robert Pattinson é Oficialmente o Novo James Bond em Bond 26",
+      "slug": "robert-pattinson-e-oficialmente-o-novo-james-bond-em-bond-26",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOGOwoDzloONbfMuPWxc8JY5ue_JeMiqiE4XF3U98xxCS7YVOsmOe2lAYukCzNgUzr6ikyuSpuQW2eyCu0bGcKqa0FNIofvMo2dHsfyFwekc5UXwdpYkr9B50-FIT-TUyGw6rtFxiFK9HwqzW3bvVmGtiDTZDECWRxOvyEd3jwziYdUSoSCUWP-8w2VrvNijnd",
+      "publicado_em": "2026-11-18T02:41:45.267833+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "Os Melhores Filmes de Ação Sul-Coreanos: O Ranking Definitivo",
+      "titulo_post": "Os Melhores Filmes de Ação Sul-Coreanos: O Ranking Definitivo",
+      "slug": "os-melhores-filmes-de-acao-sul-coreanos-ranking-definitivo",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThKL7ENsaMMW7i3DeF_UwcNgkgG8Wj0VsD534rzIVaoXPNBdUwZdijx6yDEuvpSwE9mV6Irk6V0_JgJU5qFim-iRZnkiw-ThVhiWy7_Wmt6dXJG2oE4HELxc12UhnGT6yREabiTPvAUYakREXPyoQc0QCcBxvqWFhnAG7zq3eDw==",
+      "publicado_em": "2026-11-18T02:43:05.038025+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "Festival de Goiânia Arranca com Leite em Pó e Vinícius de Oliveira",
+      "titulo_post": "Festival de Goiânia Arranca com Leite em Pó e Vinícius de Oliveira",
+      "slug": "festival-de-goiania-arranca-com-leite-em-po-e-vinicius-de-oliveira",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn5qDQHcyQTZxy2CnhfU35vvD0Hfk8R8BhpU9P2e72CyoUVCpb3UMJEhChP0wKe-pkYgwe-L-oV8cNNd8ISf3dBbrJr_jwaB7B4RJ5Sv1kilOl1lRNZ8Untv0pAo19xtbuReh5HKJnaEt-DnVxkKH8leTMlw0pwlcHklsgPx-zkom4E0SCmdcfOZ3-BQhoZPUwyGJoQWPy2AV1lpcTDJSdNrnyeT5Xq73n0D6vEZy_kXr87lUfjV8F2cY=",
+      "publicado_em": "2026-11-18T02:46:28.921975+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "Andrei Rublev: 60 Anos da Obra-Prima e Seu Legado no Cinema",
+      "titulo_post": "Andrei Rublev: 60 Anos da Obra-Prima e Seu Legado no Cinema",
+      "slug": "andrei-rublev-60-anos-da-obra-prima-e-seu-legado-no-cinema",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOJ7rxMor0xlmegkqEsKVdx7SqwdX8MRlctmN3zXNJ2GGY6JVyF_cXYnflONBZroVP3YPlzGcVEabIx8M0BKEbbdoj_XCsd7uyhamOsOQ46bviQ2_4qVL86t77ozqMImG07YWAAGL7Y6lNRaGc5OWGnJl42ACi08jdFYKuZohuX5Foe4=",
+      "publicado_em": "2026-11-18T02:47:48.343033+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "TVS estreia 4 motos no Brasil com preços a partir de R$ 15.200",
+      "titulo_post": "TVS estreia 4 motos no Brasil com preços a partir de R$ 15.200",
+      "slug": "tvs-estreia-4-motos-no-brasil-com-precos-a-partir-de-r-15200",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqXU49MYP_QRh3dyAa07ouPWQKX9woS_UwdXFihEBtaHIQMKKtjTVQPG1O5kgpNg7_glKWFYsBJWEF-iKZdzAIfIzU_nS-J3pMLB0VQ08YSWWFP2gibe2uAQChltQq9_3AFtq8jfQu5NEMnKS7eR-ZetNdt4AaePVwoWp0tWYO",
+      "publicado_em": "2026-11-18T02:50:15.029848+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "dicas",
+      "titulo_original": "Economia de combustível: dicas práticas para gastar menos no Brasil",
+      "titulo_post": "Economia de combustível: dicas práticas para gastar menos no Brasil",
+      "slug": "economia-de-combustivel-dicas-praticas-para-gastar-menos-no-brasil",
+      "categoria_id": 27,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCGdJDSy2_9ymsRu9IF0fQGQUm5S4MQXkwl1UUbwz6G0g6WaYIev8rzOwJ56pvkOYuV_ApHPA6FzvM9yRbX9J8YtzzuoMyTP8L19OW3ZcB23Au-1_mHnP_DIePSgKqKJ1cpPEDIYvKSkXQ8xaIJmeImdpKEXx7vVLSyP0gpHIxWSyAVBA8-mjA3iPn0_OUoCeKop8Ohn8Acifi7ytk0MK6FIHFFVcNhQ==",
+      "publicado_em": "2026-11-18T02:51:29.014771+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "mecanica",
+      "titulo_original": "Recall da VW convoca 150 mil carros por falha no freio de mão",
+      "titulo_post": "Recall da VW convoca 150 mil carros por falha no freio de mão",
+      "slug": "recall-da-vw-convoca-150-mil-carros-por-falha-no-freio-de-mao",
+      "categoria_id": 28,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOvBYwb5cOd8ChzjfRNM9PBYz0xKEFroqr0u89e84_78kHLfEWaMeocJEa4Wbqpq6_KeUqDqWeZnVR4LjNsQUtGZ0-yVez4oEWhQ-6afM9EHZIPfjj8R1YwwMdUi63qct9dZpaKl2v1V8FBG68myjO5UwJsFFkYiFtZIQlzXktNoYjfqhzSOXkZw==",
+      "publicado_em": "2026-11-18T02:52:49.404758+00:00",
+      "dry_run": false
     }
   ]
 }
