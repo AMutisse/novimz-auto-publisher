@@ -1312,6 +1312,130 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZNVEcIwu-iOZl8vDvNP0F7UCuOjhOYfIbVfOHkceSKMWjbcOD6QUO77_ud9RidUvhzr0kZQgHN8O_CfbCwaRSbOg41OM3zWUBx8DB8Q-uPeUbRmWTm_CkHU35f44215sHcm8iBz_Bz9jK1TRiWqgKoZ2aCAayuNqqO21draWujy18sjY=",
       "publicado_em": "2026-11-19T13:59:20.514766+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Vinte artistas apresentam diferentes perspectivas sobre o conflito em exposição colectiva no Núcleo de Arte",
+      "titulo_post": "Núcleo de Arte Reúne 20 Criadores em Mostra Sobre Conflitos",
+      "slug": "nucleo-de-arte-reune-20-criadores-em-mostra-sobre-conflitos",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-19T22:21:19.765621+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Ordem dos Advogados de Moçambique proíbe comentários sobre julgamentos - Notícias ao Minuto",
+      "titulo_post": "OAM Restringe Comentários de Advogados Sobre Processos Judiciais",
+      "slug": "oam-restringe-comentarios-de-advogados-sobre-processos-judiciais",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-19T22:22:25.181318+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Mambinhas goleiam Dinamarca na estreia absoluta em Mundiais de futebol de 11",
+      "titulo_post": "Mambinhas Fazem Historia com Goleada Marcante no Mundial Sub-17",
+      "slug": "mambinhas-fazem-historia-com-goleada-marcante-no-mundial-sub-17",
+      "categoria_id": 2,
+      "publicado_em": "2026-11-19T22:23:15.044728+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Livro de Sarita Henriksen e Camilo Ussene reúne 16 artigos sobre educação inclusiva em Moçambique",
+      "titulo_post": "Educação Inclusiva em Moçambique: Nova Obra Propõe Transformação",
+      "slug": "educacao-inclusiva-em-mocambique-nova-obra-propoe-transformacao",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-19T22:24:53.208361+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O drama das pessoas com deficiências afetadas pela política de Milei na Argentina: 'Estão presos em suas casas, sem futuro'",
+      "titulo_post": "Apoio a Pessoas com Deficiência Enfrenta Crise na Argentina",
+      "slug": "apoio-a-pessoas-com-deficiencia-enfrenta-crise-na-argentina",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-19T22:26:16.239712+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "GOtv Essencial passa a incluir Maningue Magic e mantém preço de 395 MT",
+      "titulo_post": "GOtv Adiciona Canal Maningue Magic ao Pacote Essencial por 395 MT",
+      "slug": "gotv-adiciona-canal-maningue-magic-ao-pacote-essencial-por-395-mt",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-19T22:27:06.445018+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Cinco formas surpreendentes de aumentar seus níveis de ferro sem depender da carne",
+      "titulo_post": "Como Aumentar o Ferro no Organismo Sem Precisar de Carne",
+      "slug": "como-aumentar-o-ferro-no-organismo-sem-precisar-de-carne",
+      "categoria_id": 9,
+      "publicado_em": "2026-11-19T22:27:42.977520+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Énia Lipanga leva poesia e performance moçambicana a encontros literários no Brasil",
+      "titulo_post": "Poesia moçambicana ganha destaque em palcos culturais no Brasil",
+      "slug": "poesia-mocambicana-ganha-destaque-em-palcos-culturais-no-brasil",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-19T22:28:47.516911+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique: Só 12% das Pequenas Empresas Estão no Setor Formal",
+      "titulo_post": "Moçambique: Só 12% das Pequenas Empresas Estão no Setor Formal",
+      "slug": "mocambique-so-12-das-pequenas-empresas-estao-no-setor-formal",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiBUGFK57SM2NyTJyjMZjrl_xIcLFntCWfqg_NbjVJ43niHivRhrI7QHwfnhgnK9fWj5Y2IukY2YhoucSJdMfVkTCl54EModNc3kWXHhqtqnJAqPRMZbriu8kKdODvfUf3SG310NJA9nVb_VMoqUJKwUGe0S5QLsUZHggNE0F8kV4L00xYWGx4Cro5W5nbLPgxvoYRgu20_UaFSa8GImD3x7upXEF7f9rgLlCTVnA=",
+      "publicado_em": "2026-11-19T22:30:03.762746+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Dinamarca Aprova Acordo Militar com EUA e Groenlândia no Ártico",
+      "titulo_post": "Dinamarca Aprova Acordo Militar com EUA e Groenlândia no Ártico",
+      "slug": "dinamarca-aprova-acordo-militar-com-eua-e-groenlandia-no-artico",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7G0UqSbMVg7RsNBwcMpjgk-Qck7vpTsVNL7uRwcUp0HJulcs1AhEwacrI-HC_9pCP85kizfKi3RRauS2KP7ccusETDBCTAYooojbiPhBQTF4Y9egb6gfFN4HGOW60S2SKN4oKOibuY2zxROSIUSSbpL0JeeTvJ-tHE3YZBFRmTD8U0RcnB8MjHUW6NIbN1Q7QbANcXHJRBWv_D-ZlbcjdSs0vRFXznDkeN7AkIbB887PiHLmazzw=",
+      "publicado_em": "2026-11-19T22:32:25.267224+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia e IA: Isomorphic Labs Capta 5 Mil Milhões de Dólares",
+      "titulo_post": "Biotecnologia e IA: Isomorphic Labs Capta 5 Mil Milhões de Dólares",
+      "slug": "biotecnologia-e-ia-isomorphic-labs-capta-5-mil-milhoes-de-dolares",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG949ILc0p8mB8_mlu-duvydf6Q_sj5-Nt9XEGHqadizfCJUsUVs1Qixj5W94emO3cJLoBxqiF06cnNYvVPfBAAPTP3wKTmlxAd7TrHB78ChSM_ig1Dbz3V_fijO1nNV8u3R-6B769TkSjP2L6pIo5EFuPwbELfMi8JD6B4wRMXDibs1d25aLUmnsIIBpp0XRCaKM8T-gRe",
+      "publicado_em": "2026-11-19T22:36:56.251048+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "Mercedes-Benz lança 4 novos carros no Brasil a partir de R$ 364.900",
+      "titulo_post": "Mercedes-Benz lança 4 novos carros no Brasil a partir de R$ 364.900",
+      "slug": "mercedes-benz-lanca-4-novos-carros-no-brasil-a-partir-de-r-364-900",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH85s6Wc-wnOOmqSSplUJEYK9jj1TgHPTvTVhE1DLa9UtllbODHTKYIWw5LwAHJZVQltygnC3VEnsqCd4viZwEr7Da7vRZ3juGKqYSnN2ZaxHzuPBRZwlVVzLAef7GRFlDQZ_mJSLYWTBM3vO7E0Lyn6TrUzAlHNR_tW2Tjq1fRZPaXNCZkY04YiUnp3pwBsbXANtw6gLbrz8-6P2albCeX3B0gmEqiGjqTzY1Fw3Y=",
+      "publicado_em": "2026-11-19T22:44:02.309888+00:00",
+      "dry_run": false
     }
   ]
 }
