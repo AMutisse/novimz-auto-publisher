@@ -1154,6 +1154,164 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXtB_SUAqVsaU_69ZAEP0XZGp5dcnzfo2eTMy9l9JKWuHVj6GMW0TYn4vhGP1l1JKyn86JThp7hg2mHgaCZ9fGHIlXSLTkneGeNnpPzjt2VBG2RqrnY3r0UQORgift5w2jlK5J8VuoaTRNwWUH0jOKtiDc3T0pGP2l7ksApuzKamYtAph5w50yYr6IpoAtmNRkZzUjBiRiBDHA03O0OlXHxhMDHtCRowCUd3iPlLkUgbO0fCN4OEpwojfCqwcvdWbi",
       "publicado_em": "2026-11-19T04:04:28.858417+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "FUNDEC quer aproximar investidores turcos de oportunidades de negócio em Moçambique",
+      "titulo_post": "FUNDEC Quer Conectar Investidores Turcos ao Mercado Nacional",
+      "slug": "fundec-quer-conectar-investidores-turcos-ao-mercado-nacional",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-19T13:36:05.574582+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Trump, Xi e Putin em encontro histórico na China: o que cada um falou e quer na cúpula",
+      "titulo_post": "Cúpula Global Reúne Potências em Encontro Diplomático",
+      "slug": "cupula-global-reune-potencias-em-encontro-diplomatico",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-19T13:36:42.614266+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "MDN capacita responsáveis para prevenir fuga de informação sensível",
+      "titulo_post": "Defesa Nacional Reforça Segurança de Documentos em Moçambique",
+      "slug": "defesa-nacional-reforca-seguranca-de-documentos-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-19T13:38:41.841247+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Trump encontra Putin: 'Ele é meu amigo'",
+      "titulo_post": "Trump e Putin: Relações Diplomáticas e os Efeitos Globais",
+      "slug": "trump-e-putin-relacoes-diplomaticas-e-os-efeitos-globais",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-19T13:39:15.580233+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique: Recuperação das empresas moçambicanas continua condicionada pelos custos de produção e dificuldades de financiamento - E-Global",
+      "titulo_post": "Empresas em Moçambique Enfrentam Altos Custos e Falta de Crédito",
+      "slug": "empresas-em-mocambique-enfrentam-altos-custos-e-falta-de-credito",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-19T13:40:03.197664+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Chapo defende criação de indústria de defesa para reduzir dependência externa de Moçambique",
+      "titulo_post": "Moçambique quer criar indústria de defesa para reforçar soberania",
+      "slug": "mocambique-quer-criar-industria-de-defesa-para-reforcar-soberania",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-19T13:41:09.465172+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Lucia, 1ª protagonista feminina do GTA, é um ponto de virada para mulheres nos games?",
+      "titulo_post": "GTA VI: Primeira Protagonista Feminina Transforma os Games",
+      "slug": "gta-vi-primeira-protagonista-feminina-transforma-os-games",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-19T13:41:46.976058+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Quer Erradicar a Violência nas Escolas até 2030",
+      "titulo_post": "Moçambique Quer Erradicar a Violência nas Escolas até 2030",
+      "slug": "mocambique-quer-erradicar-a-violencia-nas-escolas-ate-2030",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvK8MBcnXEoPpqY0JXsUILisRpbgA8QgjU1U2N5rh8pCz69svo5UjMeFUJRxzV0dVtiITnNGQURrDs_dxiYYpHnm2gi12opTqN6VTf0URDvcHKkppY_aajG0Ik9Py6lU-f_17SCL3T6mJWGNe7w3jMj0vvSsZ0Mia4IyKeYLRC9MfD36FJWrcxmB0rjjfgBq9KOOJq4l9a3j_k_oWj",
+      "publicado_em": "2026-11-19T13:43:17.730706+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Crédito à Economia em Moçambique Recupera Após Três Meses de Queda",
+      "titulo_post": "Crédito à Economia em Moçambique Recupera Após Três Meses de Queda",
+      "slug": "credito-a-economia-em-mocambique-recupera-apos-tres-meses-de-queda",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4peTgH7S42gVeqjftSTzRZhSa0O7t2WR8OAFD7op1pdhOjFxdDAMyW8o7_qs2Tj8N8RCATLbGWDu9HkBSv3167zDycqu448Kj3Q2xz9J4LNIFP8thcgsTSDG9hzbs_4AprwoCnj75H67XyrJKO8kth7e6PJX4_mpVXMIy8OGCXzuxfWmGZvz66zPjtyvn5cyASYhd7kDW72GJxOu37_7uHYkhJLJmxtQ=",
+      "publicado_em": "2026-11-19T13:44:16.528237+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique aprova nova Estratégia de Segurança Social Básica",
+      "titulo_post": "Moçambique aprova nova Estratégia de Segurança Social Básica",
+      "slug": "mocambique-aprova-nova-estrategia-de-seguranca-social-basica",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8Auyv-JflFcyKSfN5G0RjIXXRQhtsxVL7Prv_HgLZa9tu7W0yccTI6sCqbfBOC3z3ItYD6FEOh1KCrXjOG7v0Ch0vVv0MBTiaKaaLlwJoFmVBww==",
+      "publicado_em": "2026-11-19T13:45:14.184755+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "MIT Desenvolve Método Capaz de Desmascarar Textos Gerados por IA",
+      "titulo_post": "MIT Desenvolve Método Capaz de Desmascarar Textos Gerados por IA",
+      "slug": "mit-desenvolve-metodo-capaz-de-desmascarar-textos-gerados-por-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFssm90hUeZx6k4L7oX4SQNZRYUQSM_WIe2VSmeMr3emhk98sCP0mrWqrHaLnhgHfAWWzXKv8pnRhDwh3pDr-phx6PqmlBH7Zyg38-n7bhbncTjmVcUab_ZeQUCAcFm8UR40jgUg0L1u1bW6Me-DtVqzGMKYEOsL7L-jmCsL2QDykv1_3NLzgKxlwjOu6PUvyvQaA==",
+      "publicado_em": "2026-11-19T13:50:59.286990+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "James Webb Revela Fusão Estelar Inédita na Galáxia de Andrômeda",
+      "titulo_post": "James Webb Revela Fusão Estelar Inédita na Galáxia de Andrômeda",
+      "slug": "james-webb-revela-fusao-estelar-inedita-na-galaxia-de-andromeda",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFftUhH66c22C0JAP2tgABcV9BnuvUw5PMYUs-DTABKDVSBVrqq-blG82CYFAO1fc8JAf63aUxLK9RlcpwC3ImPim5jDmotjcaRCN30qVJOTVYSGrK7FEVzAbLNEBiUGE7k2Y0w5LsXEvotxmVPTpEJDdn-_6BcIAzyBQ-jmlpYDpE=",
+      "publicado_em": "2026-11-19T13:51:51.483357+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica: Cavalo Selvagem Nove Brilha com John Malkovich",
+      "titulo_post": "Crítica: Cavalo Selvagem Nove Brilha com John Malkovich",
+      "slug": "critica-cavalo-selvagem-nove-brilha-com-john-malkovich",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRJCc2lorBL81Re5jQwyN2oLjdNIxQj_KaZ8h0LtRXZ4p7N_guXI4bDKSvjAqdlDwaGlzcNTYYxhMPrWBgg5OFVRR33Vznmek5oQhAz9cfe1PY6aXxVGW8EarCz5uRBLsqV7SrjZBVtrhSyLArL_fEu4zY4Fo=",
+      "publicado_em": "2026-11-19T13:53:39.460411+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "O Estrangeiro: O Clássico Noir de Orson Welles e o Seu Legado",
+      "titulo_post": "O Estrangeiro: O Clássico Noir de Orson Welles e o Seu Legado",
+      "slug": "o-estrangeiro-o-classico-noir-de-orson-welles-e-o-seu-legado",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFitmswISptZeymB3eItq9dFaGEpPlrsoHxsNsiapakz3P1GOU_Pg4AobYTvcE55len1s7ktnfCPCR5sZxxix18MS0JkWUqZGptcuageuzsVF7-1w=",
+      "publicado_em": "2026-11-19T13:58:26.556358+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "trailers_e_lancamentos",
+      "titulo_original": "Vingadores: Doutor Destino Ganha Trailer Final e Data de Estreia",
+      "titulo_post": "Vingadores: Doutor Destino Ganha Trailer Final e Data de Estreia",
+      "slug": "vingadores-doutor-destino-ganha-trailer-final-e-data-de-estreia",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZNVEcIwu-iOZl8vDvNP0F7UCuOjhOYfIbVfOHkceSKMWjbcOD6QUO77_ud9RidUvhzr0kZQgHN8O_CfbCwaRSbOg41OM3zWUBx8DB8Q-uPeUbRmWTm_CkHU35f44215sHcm8iBz_Bz9jK1TRiWqgKoZ2aCAayuNqqO21draWujy18sjY=",
+      "publicado_em": "2026-11-19T13:59:20.514766+00:00",
+      "dry_run": false
     }
   ]
 }
