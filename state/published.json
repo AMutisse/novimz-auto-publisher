@@ -1022,6 +1022,138 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESNZ7wXX0cVp9zcwbkWHdg2RRCtjkRJvRph2ooRXk4H-e1eHKD2DI9BB3lBw14t9q7D31mYvtDHdapJ9rru7IOxyDEcn2Nr8gB3wghOgnDFw7f6AFZp5EqyKhGZOvrYmsinAZPsJb7jJgPYWZ4Rejd8ARuDJFcXpiP7K1Kr1R-eE9qIk0oyW6VL58u7UKnIHMsfpvD-RBnQR3ZsiZx-6F1B00I3uXXuVrL",
       "publicado_em": "2026-11-18T22:32:58.204533+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Crescimento Populacional Desafia Saneamento Básico em Moçambique",
+      "titulo_post": "Crescimento Populacional Desafia Saneamento Básico em Moçambique",
+      "slug": "crescimento-populacional-desafia-saneamento-basico-em-mocambique",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpM4se9oJzbZ2VuRRgN8oE83q9jBwRDO6JDE8VMUrM8R7gvhPGtTmCFo8miQnrInujuQuCRs1AfEBt2-hWPwOUlbmq3xRnFCttyzU3649MKM9sv89CCx00Hgl71k_uUGUcK4gxHAr4QheLQCi7xrIS9abP8rxIaeLsOadtLLUhUdcMb7B2U5qF7WsV6sozcAGKYNafN6jBHuOR",
+      "publicado_em": "2026-11-19T03:43:20.320664+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Baterias do Futuro: Panasonic Fecha Acordo Bilionário com a Sila",
+      "titulo_post": "Baterias do Futuro: Panasonic Fecha Acordo Bilionário com a Sila",
+      "slug": "baterias-do-futuro-panasonic-fecha-acordo-bilionario-com-a-sila",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Adz5cgC5h_rQuBWNftzdRUSAr9qnihm4gDv6Co6L-dkzDkHMUvoOjZn3MqMew2sVKWk-PG1P5_0GIFwG2Bl0Bh_bgP0GNck0nsZaPDEcRR1YvzenMyzl0OgTi1HdrDdWx-Wt57wOw-wohSjHY5EEzyA2uxYnx1KDrpfMEdpQJJ0dEQPVM9tqcuoyyXtu_XxxZiMdT3c5C8brKofE9HiT4jPpAwnpU6r83ZjD",
+      "publicado_em": "2026-11-19T03:46:24.133040+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Pulverização contra Malária em Maputo: Cuidados e Prevenção",
+      "titulo_post": "Pulverização contra Malária em Maputo: Cuidados e Prevenção",
+      "slug": "pulverizacao-contra-malaria-em-maputo-cuidados-e-prevencao",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7L-x3apeUKx0MJ9rjfUjMmMEKPyOKs2jbyr4kIi6SsopVe9AHbWmRwEkP3QXPgEceFb5Xrtv0id7OOzQXI2o14XScgySFNI8F7oybbLB8Nv6kubax22ToVASLLoPZxkLP2RcZcf6Regba0aIKOOolS20Y8ZZvmmEp8R71rB00dpJitUc8ZyK2BVnzNBFX",
+      "publicado_em": "2026-11-19T03:48:02.410312+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: PrEP Injectável Reforça a Prevenção",
+      "titulo_post": "HIV em Moçambique: PrEP Injectável Reforça a Prevenção",
+      "slug": "hiv-em-mocambique-prep-injectavel-reforca-a-prevencao",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg2mYvn9MqJilGH6swXfZDVydH7HSKM8a7AN_d7Grn6pPLWuSFayqQmO-uSC0bHs4YO2p2ZSFANCRH47LOPXkVClV4DP5nSc5bbZDa9zG0og0HPRyuQMt184GzcqtkLf6HZ5aeTMlRXRmcrlcMGDNDUomEro7m_YrEgl28IFDqhtiUnRg2Rz8u-G0luzJo2GdeRe_ssNNRvoOVIOquKa5ODcBeatytCV1ffUTgrhcX9cxq6vrR5ZDXUzeyXNGycgQpOR8idBUWIDcg2yERvzSY",
+      "publicado_em": "2026-11-19T03:48:57.408305+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Complexo da Fiocruz Vai Quadruplicar Produção de Vacinas no Brasil",
+      "titulo_post": "Complexo da Fiocruz Vai Quadruplicar Produção de Vacinas no Brasil",
+      "slug": "complexo-da-fiocruz-vai-quadruplicar-producao-de-vacinas-no-brasil",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk9GQoTS3wvhQRyCGMu5o9WcNWw-P0cf0gC-nt0sMA7MmzcYNIgsQ3INIrGfeayFDD7Yepdk4NAVxXGg945rGLocDmkYV-noitOpknHwSIC4EOpTXbRZmcQsw3CIS2AypE",
+      "publicado_em": "2026-11-19T03:52:25.693028+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica: Amanhecer na Colheita Revitaliza Jogos Vorazes",
+      "titulo_post": "Crítica: Amanhecer na Colheita Revitaliza Jogos Vorazes",
+      "slug": "critica-amanhecer-na-colheita-revitaliza-jogos-vorazes",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRDwQSSFHoTuco5gvDnsGdGOsPgsc1ItRlnRRU3rbvMmK95MMIduYq1HWZ2zOPXXfUsrmKsA8xsZQR8DV0EdtmUH6bpMB3pehZvvLz8NfMiMcumbpPbOgoxqYZXXjmBXQrh3NALGlcncYFlJRJNZNr0iXfvMk5IOEdeYDnaOaBAiMRiimCbFGjnXEnVTKLQnwxfJ4EyF2WQ-ioVaLhHt1NCYUotWIFlGQUAxkRQ3abgdD7YXy-qCu7f12Mm9BvJte6_yg=",
+      "publicado_em": "2026-11-19T03:53:24.700311+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Festival de Marrakech Revela Seleção de Peso e Mira Prémios",
+      "titulo_post": "Festival de Marrakech Revela Seleção de Peso e Mira Prémios",
+      "slug": "festival-de-marrakech-revela-selecao-de-peso-e-mira-premios",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9GaJ9bFXRQM0H1dFIhb1W7mjHWmhvPCwcfzvlkG3P2G0yTR8jg_49h8PrtrGZLxIkCZkfgYPLpZddD5h9zLhQnMZO7SrwTsbwy5xN2LgzgEgnhNFcY6r0WHahZyfwP9JB006Q9aTyKcX0SSwAw1GcZN1knww9Hi04WGGDB4U9fPs-HBWTEgaZwiWCfnAw7-VG2rfnDKiqH8_Ly0tdBvGMCKGyR0XyLQgi_jjR2tk83lfe0DGn",
+      "publicado_em": "2026-11-19T03:54:09.273503+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "As 100 Melhores Sequências do Cinema: Ranking Surpreende no Topo",
+      "titulo_post": "As 100 Melhores Sequências do Cinema: Ranking Surpreende no Topo",
+      "slug": "as-100-melhores-sequencias-do-cinema-ranking-surpreende-no-topo",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRpakB_8DAX-BKUnvDsQkREN0pghIw2JTIDUAVBHRgsXDPer40WnI0CNQyMVABPVaV2Ny1gvs7nO-n-clRZFaS5M3qSNu7XMspCywUNqcUTo85PZKDI8AnYzt-QlW9WLrK_8X5F5r91F4yfR-zLrrFMiT2bdbH_IhocYRsAQoOlmQjjsyl0I_w9pC-X4YWfPYDK5QBKBTbaRI=",
+      "publicado_em": "2026-11-19T03:55:43.931538+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "Rocky: O Clássico Que Conquistou o Mundo e Mudou o Cinema",
+      "titulo_post": "Rocky: O Clássico Que Conquistou o Mundo e Mudou o Cinema",
+      "slug": "rocky-o-classico-que-conquistou-o-mundo-e-mudou-o-cinema",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxeYGQ8XihQ5BNVrJT2eC3BY6s0H4IIzdnL2u4F6JGSO82pPmoUFXNXfqOevoRLWhptsioQcrHoZKl2qAlXAL2BOZI8h2TcHcLSEwRMlGAX-YEcDJUxxZMXWPlurQlB4vSElMkygimVRwXhV-nUqNA6a0OQ_VRbj_Hx7Ah6-pAaCB1B05L8jwFFcW5eA6bHEKf1RUVAdNL0NXWKvO5HH9f7yfwGRybO7DcfD1Waw==",
+      "publicado_em": "2026-11-19T03:58:58.044133+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "noticias",
+      "titulo_original": "Guerra das picapes: S10 supera Ranger e mexe com ranking no Brasil",
+      "titulo_post": "Guerra das picapes: S10 supera Ranger e mexe com ranking no Brasil",
+      "slug": "guerra-das-picapes-s10-supera-ranger-e-mexe-com-ranking-no-brasil",
+      "categoria_id": 25,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhL6grJt2hXMSNm7ngILngIRuA7uZk2ZdOlnm1SBQAx6KI9e-R9KUqGnwHTAGbLug_D-celpT4GHtVwgR4HqpDLKswjX_L_cKzPwC7HwbvYDbnOUCzGh36iy3-ScS7j0dmsmXVPjqWpKJKcg0FbOp4pEyCrcEdBrlgB17DFoVZRLCFEqTwKWRln8k=",
+      "publicado_em": "2026-11-19T04:01:31.874273+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "Novo BAIC Arcfox T1 chega ao Brasil a partir de R$ 129.900",
+      "titulo_post": "Novo BAIC Arcfox T1 chega ao Brasil a partir de R$ 129.900",
+      "slug": "novo-baic-arcfox-t1-chega-ao-brasil-a-partir-de-129900",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKu7X2P01bxvKnsgYgqbKseSkEVlIgRY5uKDoKXSlYE8YOS3B2t65r2SYTRZKffPRjMZZyjzi3P6nibHOhuESJe5LMv9Xmk2JYKObdvGv4t4P6Oivh81TPq313pqAEFoDszSEcqOxNIeqzd4GboWgEyMasPHsir0tupPUwJTHV0fY3vk3mGQgpj9Ilpc_MWiboiqKVzQjxgAuyg0BwHFYjzSWcO-L3hLbYvP8Mul8=",
+      "publicado_em": "2026-11-19T04:03:26.090067+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "dicas",
+      "titulo_original": "Checklist de fim de ano: o que revisar no carro antes de viajar",
+      "titulo_post": "Checklist de fim de ano: o que revisar no carro antes de viajar",
+      "slug": "checklist-de-fim-de-ano-o-que-revisar-no-carro-antes-de-viajar",
+      "categoria_id": 27,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXtB_SUAqVsaU_69ZAEP0XZGp5dcnzfo2eTMy9l9JKWuHVj6GMW0TYn4vhGP1l1JKyn86JThp7hg2mHgaCZ9fGHIlXSLTkneGeNnpPzjt2VBG2RqrnY3r0UQORgift5w2jlK5J8VuoaTRNwWUH0jOKtiDc3T0pGP2l7ksApuzKamYtAph5w50yYr6IpoAtmNRkZzUjBiRiBDHA03O0OlXHxhMDHtCRowCUd3iPlLkUgbO0fCN4OEpwojfCqwcvdWbi",
+      "publicado_em": "2026-11-19T04:04:28.858417+00:00",
+      "dry_run": false
     }
   ]
 }
