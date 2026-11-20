@@ -1436,6 +1436,83 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH85s6Wc-wnOOmqSSplUJEYK9jj1TgHPTvTVhE1DLa9UtllbODHTKYIWw5LwAHJZVQltygnC3VEnsqCd4viZwEr7Da7vRZ3juGKqYSnN2ZaxHzuPBRZwlVVzLAef7GRFlDQZ_mJSLYWTBM3vO7E0Lyn6TrUzAlHNR_tW2Tjq1fRZPaXNCZkY04YiUnp3pwBsbXANtw6gLbrz8-6P2albCeX3B0gmEqiGjqTzY1Fw3Y=",
       "publicado_em": "2026-11-19T22:44:02.309888+00:00",
       "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique e Infinity Power Firmam Parceria de 160 MW Renováveis",
+      "titulo_post": "Moçambique e Infinity Power Firmam Parceria de 160 MW Renováveis",
+      "slug": "mocambique-e-infinity-power-firmam-parceria-de-160-mw-renovaveis",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx_wkjj7f30WTUeboKlg3pqvTEU1KdAjNlaRzZGjJjmc-_NztAQtpwqvwCuNaoOKUYs9nyjBHj_otzcPwWPQCS2sp0beCGVyEcpUx3AZOTWyZvE87j",
+      "publicado_em": "2026-11-20T03:36:09.741213+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Pobreza na América Latina Atinge Menor Nível Histórico, Diz Cepal",
+      "titulo_post": "Pobreza na América Latina Atinge Menor Nível Histórico, Diz Cepal",
+      "slug": "pobreza-na-america-latina-atinge-menor-nivel-historico-diz-cepal",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqpDsbZwNx3sktLxClL6vAQRoVYmBYZpiJrB4Aq4zmtBrBgCaBApM1vImKk0D__MW6300_WxgYSfyeqKvwD7Oyztto4Gx6CcqOQJosIf0Vi3XKkj8=",
+      "publicado_em": "2026-11-20T03:39:40.321487+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Vacina R21 contra Malária: Nova Etapa na Protecção em Moçambique",
+      "titulo_post": "Vacina R21 contra Malária: Nova Etapa na Protecção em Moçambique",
+      "slug": "vacina-r21-contra-malaria-nova-etapa-na-proteccao-em-mocambique",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEoLUSLwxN2vkYEMqJOh6TRJZ_OWaoI0WVnx3I5TV8xSwZulPQnimB66zXv3Zp0RezZ3KXOJL544X_czz9vTMmeMQxEkfUPd0lPpDmA0yL3BkpmLcxEVaxMw0P0GoCEzBKJGyy0axNa6oNxeyMyr471FqOCg6oYcNdblFXPCDVmT1X7XPQFcNvq5U6",
+      "publicado_em": "2026-11-20T03:40:46.908050+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Google Revela Gemini 4 Carbon com Esquadrões de Agentes de IA",
+      "titulo_post": "Google Revela Gemini 4 Carbon com Esquadrões de Agentes de IA",
+      "slug": "google-revela-gemini-4-carbon-com-esquadroes-de-agentes-de-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlAqU91tn_G9NmCTDa4u0wwsh4JocYwr3rQEZTNpnO74CPROskND5X0YAgPbSAudX3LnN35kSvYF2PNr3NAh9GMVrJmgwfdaQFvDTd-xrY5P0tKS8XVaHNkJGG8ubfHmVDBCUOcNUgG4uh6NyfmQitHaIedd5K-mgJ-NpluK2xTfmQRJAfTMQtLxsMthV0Ht4x1ux6chHByz0=",
+      "publicado_em": "2026-11-20T03:43:31.098295+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "streaming",
+      "titulo_original": "Percy Jackson: 3ª Temporada Chega ao Disney+ com 100% de Aprovação",
+      "titulo_post": "Percy Jackson: 3ª Temporada Chega ao Disney+ com 100% de Aprovação",
+      "slug": "percy-jackson-3-temporada-chega-ao-disney-com-100-de-aprovacao",
+      "categoria_id": 5,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElRUN-HENNI7Y4JSCTkc6ZPpMEy6RiwWFdDzhX3M0rq7Tuy4XcfdsepyDs1my37exnc8esHfKL7_lBqD41_6npNkMtMlp9ALiqf3oLOrdwy1HaiYMjMXNdD5RdwXoWmeXux9pCCWS6t4nyyvd61HAGssQO5apYKJbRsxohMoA=",
+      "publicado_em": "2026-11-20T03:47:45.713054+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "curiosidades_e_bastidores",
+      "titulo_original": "A Odisseia: Revelados os Segredos dos Bastidores do Épico de Nolan",
+      "titulo_post": "A Odisseia: Revelados os Segredos dos Bastidores do Épico de Nolan",
+      "slug": "a-odisseia-revelados-os-segredos-dos-bastidores-do-epico-de-nolan",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6bnQIAvAGMw5GrFThsDDSXzgYnft5C2nXl-07pl7H6jczh-7f4qD9fQvghaEJPiz7uZY4cjbFXz0ChV-9hJ3-y9CgMyYh0KqzLE4uKt1akdunNAHxHdPP3ycB_kCW2QwYzqoPiFnm27cjNgVruzpEMCQX",
+      "publicado_em": "2026-11-20T03:49:01.968876+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "dicas",
+      "titulo_original": "Pedágio Free Flow: como consultar, pagar e evitar multa de R$ 195",
+      "titulo_post": "Pedágio Free Flow: como consultar, pagar e evitar multa de R$ 195",
+      "slug": "pedagio-free-flow-como-pagar-evitar-multa-cnh",
+      "categoria_id": 27,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFECp4gGXceS-SwxKQ5CM7w00reoGENtXoQURcY3FrcfJ_bBXPwl8twteTmehWXgp3qjoHWhREP5Ubas1o61saF9Gxd2KeUFs4TcVhXqHNsdxgXszGCmJ9dcp_Vf4U=",
+      "publicado_em": "2026-11-20T03:53:28.881341+00:00",
+      "dry_run": false
     }
   ]
 }
