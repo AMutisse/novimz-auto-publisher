@@ -1513,6 +1513,153 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFECp4gGXceS-SwxKQ5CM7w00reoGENtXoQURcY3FrcfJ_bBXPwl8twteTmehWXgp3qjoHWhREP5Ubas1o61saF9Gxd2KeUFs4TcVhXqHNsdxgXszGCmJ9dcp_Vf4U=",
       "publicado_em": "2026-11-20T03:53:28.881341+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "FECOP Alarga Parceria a Seis Instituições Financeiras Para Facilitar Crédito às PME em Moçambique - O.Económico",
+      "titulo_post": "Crédito a PME em Moçambique Ganha Impulso com Expansão do FECOP",
+      "slug": "credito-a-pme-em-mocambique-ganha-impulso-com-expansao-do-fecop",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-20T13:15:34.525188+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A batalha na Justiça para apagar homenagem a expoente do racismo científico no Brasil",
+      "titulo_post": "Brasil Debate na Justiça Fim de Homenagem a Teórico Racista",
+      "slug": "brasil-debate-na-justica-fim-de-homenagem-a-teorico-racista",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-20T13:17:17.383590+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Tribunal autoriza Shamir Mendes a permanecer junto da equipa de defesa de Venâncio Mondlane",
+      "titulo_post": "Tribunal Valida Apoio Técnico na Defesa de Venâncio Mondlane",
+      "slug": "tribunal-valida-apoio-tecnico-na-defesa-de-venancio-mondlane",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-20T13:18:31.664835+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O que se sabe (e o muito que não se sabe) sobre a história de Zumbi, que inspirou o Dia da Consciência Negra",
+      "titulo_post": "Zumbi dos Palmares: Os Mitos e Factos do Líder Histórico",
+      "slug": "zumbi-dos-palmares-os-mitos-e-factos-do-lider-historico",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-20T13:19:37.146277+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Assistente do processo pede intervenção do tribunal contra declarações de Mondlane à imprensa",
+      "titulo_post": "Tribunal Chamado a Avaliar Declarações à Imprensa em Julgamento",
+      "slug": "tribunal-chamado-a-avaliar-declaracoes-a-imprensa-em-julgamento",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-20T13:20:23.441402+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A história de racismo e especulação imobiliária por trás do 1º gibi a cair na Fuvest",
+      "titulo_post": "Banda Desenhada Histórica Entra na Lista Literária da Fuvest",
+      "slug": "banda-desenhada-historica-entra-na-lista-literaria-da-fuvest",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-20T13:21:27.762110+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Geny Catamo volta a agitar o mercado de inverno mesmo antes de arrancar",
+      "titulo_post": "Geny Catamo: Futuro do Craque Moçambicano Agita Mercado",
+      "slug": "geny-catamo-futuro-do-craque-mocambicano-agita-mercado",
+      "categoria_id": 2,
+      "publicado_em": "2026-11-20T13:22:19.338484+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Poupanças em Moçambique Recuam Pelo Quinto Mês Consecutivo",
+      "titulo_post": "Poupanças em Moçambique Recuam Pelo Quinto Mês Consecutivo",
+      "slug": "poupancas-em-mocambique-recuam-pelo-quinto-mes-consecutivo",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHng5fDMG8LIyMngLIiZNexSZe6dBFPZotE5DH4ay7svMsyQBYe3qROYR1FxxeiGtK58PzLtXsfir-83UWY8dzSaZ6RLpPKPDGFkc1Cqk3hvTEZ3vXaPVu5igOlU_Abt-bH4eF5a3Xa8K9IO9k2XfLlDD_zpRHeyFXHhN3PSm3XigQ2R9g4PXhBfVVAVrpgGOW3nfpj1xLHvapubOc6EPmbwO1AWv7OWtg_ybGdGsoIzco=",
+      "publicado_em": "2026-11-20T13:24:16.313332+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materna e Neonatal: Apoio a Zonas Críticas em Moçambique",
+      "titulo_post": "Saúde Materna e Neonatal: Apoio a Zonas Críticas em Moçambique",
+      "slug": "saude-materna-e-neonatal-apoio-a-zonas-criticas-em-mocambique",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBS6mcfh77Q0vL6KzDBNjhK3qK6glW5en18i4KuppD1rZiVkgfrsIDlgOqnG5UI0UBU3KW-aE2oqxcnf1IPYQUY7kz0VlN4pjnWIMECP-wS_T2sO3-1l5NIFYdc7qaT41TSLMgk-IXQXJwNmR1LT6fwCsR0OYiByUyGDqmvwQ9YzliZo3Z7fhqZY_y_zNUNFjZNcoggCpB_0rfrTush9H9tw==",
+      "publicado_em": "2026-11-20T13:28:34.570797+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Nova Biotecnologia Torna Anticorpos Contra o Cancro 90% Mais Seguros",
+      "titulo_post": "Nova Biotecnologia Torna Anticorpos Contra o Cancro 90% Mais Seguros",
+      "slug": "nova-biotecnologia-torna-anticorpos-contra-o-cancro-90-mais-seguros",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfN8GwD3jpzrt0lGWvQT_0eZUHjlqNzQm8bU_S__KE6jqhJ7klH6qe9NIbkmuPGi80Cdf_g0vxh9Rppm6H30ej_Pzuocg0mjVx6TR3mj6axli2i5YyfOxXY9G3uHhdZKZhxptKxCNUkf83ipvQDlKawXUu8-UweUg0Vs2xcXSjFzbyoRUOuciQaeLb4fSIF_lKecUW1Z4yz3uZGr4eGriPsEEQ9zW4cg==",
+      "publicado_em": "2026-11-20T13:32:04.602435+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Governors Awards: Glenn Close Recebe Óscar Honorário da Academia",
+      "titulo_post": "Governors Awards: Glenn Close Recebe Óscar Honorário da Academia",
+      "slug": "governors-awards-glenn-close-recebe-oscar-honorario-da-academia",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOfk0AZAN12uBOL_XuHK_fkjp02FZWLLzYsLGizPKrS0RiIaXs90kC2yzFntPhc8NLLua-tETYeD5FfkFG6jayAOkdPAo0TRTjnJLikK_mmHJcV8KpE1Mumdk5UqyZtXg6VnrLU6kpTR7HfLoLuthVxdUJpjaOQOi6HrzbF3TT4OH9uu7ZYmUQqF15tVnqvpZw5XOdVsDbTp2UKpDoKlvCXu-ApU94jdIUbePuE_bTVF-S23t_GQcMt9gGAEa0QJBVICfpBDtsGFk77STNhBbRsFUXLBVR60dkhy7uyT43XglRWZGqpYg4qM7r0qpsMxguq_RTM7e-ORAl1-SC0LGsTuc10EgAJ5XsvBTX2gEjLxGdPRqXvEJ6lPpBOy9QJo71L3dh4Q==",
+      "publicado_em": "2026-11-20T13:34:04.769919+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "Os 10 Melhores Filmes de Ficção Científica dos Últimos 5 Anos",
+      "titulo_post": "Os 10 Melhores Filmes de Ficção Científica dos Últimos 5 Anos",
+      "slug": "os-10-melhores-filmes-de-ficcao-cientifica-dos-ultimos-5-anos",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPmV1qWnjU2Z3r8UEfGFSMEexXnFuBeRax-ttB0loEVpVfXWJtoqshkzcPCSca4AnhWs3aJ_evoT24b3pVHSUTC6IWJCf1J2blsPCmge9N3sXz90J3g7McVcuBBuqI0KNcGXO3SjZhCDsVbYETs94HC_0Q-BL3K2N_YQEcD6m7mljhY0tuVgdan7ktzuia61cfj43aJ2TdSFSlwYISYEKNn0_Pd8zc",
+      "publicado_em": "2026-11-20T13:35:21.408064+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "curiosidades_e_bastidores",
+      "titulo_original": "Como De Volta para o Futuro Quase se Chamou Spaceman from Pluto",
+      "titulo_post": "Como De Volta para o Futuro Quase se Chamou Spaceman from Pluto",
+      "slug": "como-de-volta-para-o-futuro-quase-se-chamou-spaceman-from-pluto",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQsvfQ1KhgnLyEnBJ8yBJ3OAtQ5IgjqOOHxYBasRRs_3mFg4sta351QwmE5na9Gc-Ee--B0roCS_geI4QdmRSA0ueZxooUm5xHQTieQFDVRbpDzcWNHq8eo52JttBDW4rHa8BSpe42iGz5FDL122xBMF27_YL8gx1JXRE-M5_SfnBKotUjcARokT4hXFitAji3QwN0FptAbZo4SgEkcIkjWQN2KPWZ6ISO-_h6cG1tc7ex9A==",
+      "publicado_em": "2026-11-20T13:38:03.381688+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "São Paulo Sociedade Anônima: A Obra-Prima do Cinema em 4K",
+      "titulo_post": "São Paulo Sociedade Anônima: A Obra-Prima do Cinema em 4K",
+      "slug": "sao-paulo-sociedade-anonima-a-obra-prima-do-cinema-em-4k",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhkDx5OH1AQlALJBd1U6VzmObRq9H_QC9M6tpCF638Pty2_oFVOLk3ozCQN9dBxz_tdA7rvR_RXheQvAJbsbowvNXl-eiK0uDv4x7rvOn2gCAimd_9Qwk_BGeTxa_flz5s3wB2NzCeDYKszm2hzON1YDV18b2QOoX-LFJ6fnY_t1hNqglP03htNp7Av-_tKkVr5wm5R_uZ_JxmL7WBp8A1htNUN3gL",
+      "publicado_em": "2026-11-20T13:39:38.051223+00:00",
+      "dry_run": false
     }
   ]
 }
