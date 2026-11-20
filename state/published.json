@@ -1660,6 +1660,145 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhkDx5OH1AQlALJBd1U6VzmObRq9H_QC9M6tpCF638Pty2_oFVOLk3ozCQN9dBxz_tdA7rvR_RXheQvAJbsbowvNXl-eiK0uDv4x7rvOn2gCAimd_9Qwk_BGeTxa_flz5s3wB2NzCeDYKszm2hzON1YDV18b2QOoX-LFJ6fnY_t1hNqglP03htNp7Av-_tKkVr5wm5R_uZ_JxmL7WBp8A1htNUN3gL",
       "publicado_em": "2026-11-20T13:39:38.051223+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Arquidiocese de Nampula celebra Dia Mundial dos pobres com almoço de confraternização - Vatican News",
+      "titulo_post": "Arquidiocese de Nampula Promove Almoço Solidário com a Comunidade",
+      "slug": "arquidiocese-de-nampula-promove-almoco-solidario-com-a-comunidade",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-20T21:53:57.432850+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
+      "titulo_post": "Temporal Devastador Causa Danos Graves no Rio Grande do Sul",
+      "slug": "temporal-devastador-causa-danos-graves-no-rio-grande-do-sul",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-20T21:54:36.752574+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique goleia Dinamarca por 4 a 0 na estreia histórica na Copa do Mundo Sub-17 e assume liderança do Grupo C - Jornal Grande Bahia",
+      "titulo_post": "Mundial Sub-17: Moçambique Faz História com Goleada de 4-0",
+      "slug": "mocambique-faz-historia-com-goleada-de-4-0-no-mundial-sub-17",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-20T21:55:36.094506+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
+      "titulo_post": "Tensão na Europa: Queda de Míssil na Polónia Alerta a NATO",
+      "slug": "tensao-na-europa-queda-de-missil-na-polonia-alerta-a-nato",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-20T21:56:24.989174+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Robustez Empresarial em Moçambique Sobe Para 28% no 3.º Trimestre",
+      "titulo_post": "Robustez Empresarial em Moçambique Sobe Para 28% no 3.º Trimestre",
+      "slug": "robustez-empresarial-em-mocambique-sobe-para-28-no-3-trimestre",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBAoME7WoSQOV3mbLmDUiQTKoIO6gnnVJ_jOoHKQQDM7JNrnPyOSOQSNGLlwV11w9Uz69ZYupnhOfO_HWVD6Wvkys6rAHzo4DPmw4NIdIlzbkcWXbzogczLwpez4p7W55q2PbEViASzzLmcKfLFWgBubEkh1tU3EmvHfHlgWKA4Rik8LC5v63jJl6nOdRfHU4D_OO-dCUjtWgYvbLqNtHMdh5Pi5yB_OT21oCHVol1SftN-fHY",
+      "publicado_em": "2026-11-20T21:58:27.531527+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Promulga Revisão do PESOE 2026 com Reforço Orçamental",
+      "titulo_post": "Moçambique Promulga Revisão do PESOE 2026 com Reforço Orçamental",
+      "slug": "mocambique-promulga-revisao-pesoe-2026-reforco-orcamental",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX3vFq92x0eKjW96BbXinXZo1tyy-L2madTze2HLpgzDtujR5ePMjjvIKBVrYLu_Z5MUAu4wohCnBPr7Lk_x5k5FPPCpjeoOclTqfkfzV4bMVo7aGoTUFOhxke",
+      "publicado_em": "2026-11-20T21:59:34.743166+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Vigilância da Malária em Moçambique: Genómica e Prevenção",
+      "titulo_post": "Vigilância da Malária em Moçambique: Genómica e Prevenção",
+      "slug": "vigilancia-da-malaria-em-mocambique-genomica-e-prevencao",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5qBnLGPasTGBhhjEQNrPvdiU-tHhqOF_hNqpvXdnNTizwZk5hFfXnlKPpLJgmZpqWQ40xU6crTZLs2oSgVmLwppwkWnD-B02ebu7VavtlW8y8EM6fDfi5K6CoQp72NpGLu9l__zmDRbbvm5SV2X--XNwxP8Ht8u1oAVVYaPcvjX5jVliJmsapr8EZ",
+      "publicado_em": "2026-11-20T22:03:11.912442+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Saúde e Clima em Moçambique: Novo Plano Prevê Evitar 30 Mil Mortes",
+      "titulo_post": "Saúde e Clima em Moçambique: Novo Plano Prevê Evitar 30 Mil Mortes",
+      "slug": "saude-e-clima-em-mocambique-novo-plano-preve-evitar-30-mil-mortes",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNRdNptG4QDiOhRThKkwNLhPpG1elGyu5FjNH4SMdxh4QVevGmiHL_1acmSn2mw-WRFwx9bOF6PHX6eVLMvgg6Olb9-xZmWlM3ZTrYlpgQRBnNNqnZLW8Y5SBIFmb-MoTogGvFGFnG08ufXFU2YawPRBfpSnJBYZEEhLociTVDLGR7FvZP9Dj-z8Jqa1MzZfhKIQmCAJK35TJWC1KSecL2YLcE9g1poir7DA==",
+      "publicado_em": "2026-11-20T22:05:21.035980+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia Cria Levedura Capaz de Fabricar Medicamento Raro",
+      "titulo_post": "Biotecnologia Cria Levedura Capaz de Fabricar Medicamento Raro",
+      "slug": "biotecnologia-cria-levedura-capaz-de-fabricar-medicamento-raro",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnDq_0fPCWRT_zf9ho3dzu7btk58LLX_Pw7IQYoK9G1zNyyzm4tscQTC8PbzwrtZ-18WXkdLMZKw-Moa0kMPrPg2i1x8hkky58-MbhzaiaIclQV-EAGkXeUXRlKnSQ9V8Q7iWs3SvxjD9CjY0dBhS4oLoOpy198GwfUvOCI_13ruYjAVFwSmnKlM2SEbw7jKJOzILN5aL52DQSjKif9n_Y0GZhpboupZnTWvmHcbHP",
+      "publicado_em": "2026-11-20T22:07:48.497161+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica: Os Christophers Brilha com Ian McKellen e Michaela Coel",
+      "titulo_post": "Crítica: Os Christophers Brilha com Ian McKellen e Michaela Coel",
+      "slug": "critica-os-christophers-brilha-com-ian-mckellen-e-michaela-coel",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWUNVLR0yTGfzIiZOGQXyRXYjh1flQuidJgEtKfuNz7UyZI60oPKe69n3a-fsjseNSMOywd2fWLdQiePH-VWOthrV66QCbkAJkFLLETpuXcx5LwIMTzTroqnbtwUruTmmrarQRzUqV23OzEE=",
+      "publicado_em": "2026-11-20T22:09:00.320225+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "The Nightingale: Irmãs Fanning Estrelam Primeiro Trailer Oficial",
+      "titulo_post": "The Nightingale: Irmãs Fanning Estrelam Primeiro Trailer Oficial",
+      "slug": "the-nightingale-irmas-fanning-estrelam-primeiro-trailer-oficial",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgzC-kJVSnLRT80wjaQrpX0M57OsIwF5uyrMPDbSPaHdE4l8rIzZfc1XueYXmznTMvU_LqwaW2rQpq0TmenTNvLQ89LTtwqgsL5a6S8iWUsbqCEJfTHv8BXIy0ThJNihu5GHHi0J4z6g==",
+      "publicado_em": "2026-11-20T22:10:31.937682+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "streaming",
+      "titulo_original": "Vienna Game: Sátira Histórica Chega ao Disney+",
+      "titulo_post": "Vienna Game: Sátira Histórica Chega ao Disney+",
+      "slug": "vienna-game-satira-historica-chega-ao-disney-plus",
+      "categoria_id": 5,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd5OGrmC_9bfjO6WMiRkBPuZoKLigvNeC523f59AHUhcYvddEuk6tuhVeUxGwg3KMhWyn7b7Qei9YeG3X5cQVnACL3-CsWV9t7I5lR7-b2e1-MN9iH3rU0PezU3rCtfNPKTTCznFfh7b_sOQ==",
+      "publicado_em": "2026-11-20T22:12:20.196270+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "dicas",
+      "titulo_original": "Transferência de veículo pelo celular: como fazer sem ir ao cartório",
+      "titulo_post": "Transferência de veículo pelo celular: como fazer sem ir ao cartório",
+      "slug": "transferencia-de-veiculo-pelo-celular-como-fazer-sem-ir-ao-cartorio",
+      "categoria_id": 27,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBlAqTfAgKnsL5A3sFwngVJMjAeH_hUymRwkfNgudtUXnF2MKt4XVlugQQPV1PJ6z516cKeEo8M0gnENuO9Msaxjf1Vc8xRjoIFRhAGMq3OVNGJN5HFhgw5GlYGq9SZ8o=",
+      "publicado_em": "2026-11-20T22:19:13.406567+00:00",
+      "dry_run": false
     }
   ]
 }
