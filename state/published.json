@@ -1908,6 +1908,99 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA8qNNcnknYxvrzG9rR8BIyhTtuEvouDBniW5XTgsDT3vjJRbCfg6VnNwQ6skdhLspPlkoHnHqjmzbmC5sh4GA8BDAxS9UhLkE7PiHOLdBOhiVDaqAVOOvFh0HvhpYC3OGnlOxfhCR1od3A9ALrkyn_63IfeB5k7S-ALqWFA==",
       "publicado_em": "2026-11-21T03:37:02.959592+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Construção do futuro parlamento em Moçambique vai reduzir assimetrias - Notícias ao Minuto",
+      "titulo_post": "Novo Parlamento em Moçambique Promete Reduzir Assimetrias",
+      "slug": "novo-parlamento-em-mocambique-promete-reduzir-assimetrias",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-21T12:50:33.320829+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Daniel Chapo inaugura ponte sobre o rio Lua-Lua e restabelece ligação em Derre",
+      "titulo_post": "Ponte sobre o Rio Lua-Lua Restabelece Ligação Vital em Derre",
+      "slug": "ponte-sobre-rio-lua-lua-restabelece-ligacao-vital-em-derre",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-21T12:51:31.974814+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Seu filho mente? Por que este pode ser um bom sinal",
+      "titulo_post": "Crianças que Mentem: Saiba Por Que Isso Pode Ser Positivo",
+      "slug": "criancas-que-mentem-saiba-por-que-isso-pode-ser-positivo",
+      "categoria_id": 9,
+      "publicado_em": "2026-11-21T12:52:04.120031+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Sebastião Coana eterniza legado de Xidimingwana num mural na cidade de Maputo",
+      "titulo_post": "Mural em Maputo homenageia legado de Xidimingwana na marrabenta",
+      "slug": "mural-em-maputo-homenageia-legado-de-xidimingwana-na-marrabenta",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-21T12:52:39.464885+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O que uma antiga cidade subterrânea da Turquia pode nos ensinar sobre como escapar do calor e do frio extremos",
+      "titulo_post": "Cidades Subterrâneas: A Lição Ancestral Contra o Clima Extremo",
+      "slug": "cidades-subterraneas-a-licao-ancestral-contra-o-clima-extremo",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-21T12:53:51.404251+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Peça “Por Baixo da Maquiagem” estreia no Cine-Teatro Scala e aborda diferentes formas de violência contra a mulher",
+      "titulo_post": "Por Baixo da Maquiagem Leva Reflexão Social ao Cine-Teatro Scala",
+      "slug": "por-baixo-da-maquiagem-leva-reflexao-social-ao-cine-teatro-scala",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-21T12:54:26.637502+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique: Estado Absorve Mais do Dobro do Crédito das Empresas",
+      "titulo_post": "Moçambique: Estado Absorve Mais do Dobro do Crédito das Empresas",
+      "slug": "mocambique-estado-absorve-mais-do-dobro-do-credito-das-empresas",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa4pWmmb5FTSJP20hEO-SY7MALigALFprWFR5U_1Ynt39Zmky3y41fvip4itd-SEeZoQCKY5S55pqXJaOQP1ypcI5ge_eV8oKfNYArShLbJxbs82e_2XzD35eTSCIjDLMNi6S-T2O1OW2UF0rCla1C6qqz9Pp1-uUvOTTxEc6dhQL90A0Xd3g_x1q_4gwC68FNmvrLGu-CZexykA==",
+      "publicado_em": "2026-11-21T12:56:15.764197+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Inicia Construção da Nova Sede do Parlamento em Mocuba",
+      "titulo_post": "Moçambique Inicia Construção da Nova Sede do Parlamento em Mocuba",
+      "slug": "mocambique-inicia-construcao-da-nova-sede-do-parlamento-em-mocuba",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-cejAoiDZnkjpGtBDUlIHVMlzzNRfy-iNcVk8UAZXUumpFP4rcLPomOprkkczi8gHSN-fxD4ZZOGk4o3cdLv0rEaV1UDAbtXCFOa5gl8fpHJthk_yK0SrmBA8wHivqAn-e93JGxWmRUIcseZOHzxwIsw8XdUyswfuaIe29mC4IAwf8KFBYTlD-gO6N3r0C2myC5btr4qYQaE4fWNRElQwKBhZ4EU5MKOrGztkXspjmzdCZ38Akcr3ohZ_Sxs1wNsg-KwCbWo=",
+      "publicado_em": "2026-11-21T12:57:25.802993+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "ONU Acorda Roteiro Para Regular Robôs Assassinos e Armas com IA",
+      "titulo_post": "ONU Acorda Roteiro Para Regular Robôs Assassinos e Armas com IA",
+      "slug": "onu-acorda-roteiro-para-regular-robos-assassinos-e-armas-com-ia",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD2TsJqKW6F-qflkKBaCBF7NAgeMNNV_Yma1yVgXi1oVRma2EEGf4q_iRiZ3UGiwIQCDgvdT_3ntaQplYn4PmLN0AfF8vzzUcKDXsYhzNiYNlY5wXhQhtMCI2QyYL5IFHWuyYD79IJnW2xvoc-Z3gzfRaLI9MowJCvwUAt5pOYCBLIY4uou_QONc3tyr-bCJsljekp78ozbQ25NUsCPwRIuk9nFRdp",
+      "publicado_em": "2026-11-21T12:59:18.007110+00:00",
+      "dry_run": false
     }
   ]
 }
