@@ -2172,6 +2172,114 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz6bRLOrpjtngT_5P9xONi-KpQZaFo9cFfKGv1QAWrjpij8aJAscvMc7n5e1hWGVFYGM_B_4vnK2jG1O0KJ8j22pRFbpFCZIbRmQpYUKDVANIBcWHWss6IqNFYUfCXTtn1kivf8iMouMRxaXPP1ZnvyZay",
       "publicado_em": "2026-11-21T21:00:58.039631+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "TENNIS TOUR: QUALIFICAÇÕES ARRANCAM HOJE APÓS MOÇAMBIQUE FALHAR FINAL - Jornal Desafio",
+      "titulo_post": "Circuito de Ténis: Qualificações Avançam em Moçambique",
+      "slug": "circuito-de-tenis-qualificacoes-avancam-em-mocambique",
+      "categoria_id": 2,
+      "publicado_em": "2026-11-22T02:23:00.131784+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "As medidas extremas da Coreia do Sul para combater a cola no vestibular",
+      "titulo_post": "Como a Coreia do Sul Blinda o Vestibular Contra Fraudes",
+      "slug": "como-a-coreia-do-sul-blinda-o-vestibular-contra-fraudes",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-22T02:23:53.160484+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Suspende Subsídios de Chefia no Aparelho do Estado",
+      "titulo_post": "Moçambique Suspende Subsídios de Chefia no Aparelho do Estado",
+      "slug": "mocambique-suspende-subsidios-de-chefia-no-aparelho-do-estado",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa84fhIRQSt4510nserKZCKubxr_4z8SaLY9G0xOnm5lbhtor9XSvycUmhYFbhpcRT2im6FkmTbjuGPAsd6xtMjnt1TRfOgccrYFCxfvHBFdBzPSXU5Dz8InxLl4OTqRn4WP8CBv_uci6eKhQxXcx4uqLQTX5D2RkpCOiR_oTNU02rsX9tOSERcT-YW94keRAi2YOSHspcuVQpkZjtyVBrr7iPEDZltR8=",
+      "publicado_em": "2026-11-22T02:26:29.227867+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Prevenção da Cólera em Moçambique: Cuidados Essenciais",
+      "titulo_post": "Prevenção da Cólera em Moçambique: Cuidados Essenciais",
+      "slug": "prevencao-da-colera-em-mocambique-cuidados-essenciais",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOnEU-NV2ot86hpteTfmu7WG3SutTMkjSA85ovliyzLBWCzlQLMQB_bOI11w0hM-DQM_VBf3teUpOMyvF2yFO9mZcm1t3oEUCOuZOhgIbvPH8MsmlP6R08kPGtaWZjauBlIfIBMfANre8UeoW3_bg0kMwZZVDmEc01FmYrRIrndzNi8cKFUM_nC3fOYY9PJCCIRlZ-gLYooNFeaeTi5FruktGQ",
+      "publicado_em": "2026-11-22T02:30:34.287556+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "IA da Anthropic Ajuda a Resolver a Lendária Hipótese de Riemann",
+      "titulo_post": "IA da Anthropic Ajuda a Resolver a Lendária Hipótese de Riemann",
+      "slug": "ia-da-anthropic-ajuda-a-resolver-a-lendaria-hipotese-de-riemann",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgiA7vyR0ypXDX2W7eJFTcIGIpMnYcqmk7DEZn5NEFiVt1axRsJCWlX0Vfckpw4EL23TsXpEjb4TJUj_4gbKlWwiLfM4frNeqlavuvvZ0T5fV3kWL98h2-mz4JuK2UMZkEXuraA19iSIZdZCHRharB-2wzAXeoAynehNVEA3fCApli5Q==",
+      "publicado_em": "2026-11-22T02:31:22.640332+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "Os 25 Melhores Filmes de Terror do Século 21 Revelados",
+      "titulo_post": "Os 25 Melhores Filmes de Terror do Século 21 Revelados",
+      "slug": "os-25-melhores-filmes-de-terror-do-seculo-21-revelados",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXAAbLV78n4eRXUC0KF4tkEzgjxgBQAD5nJqa1xfbgM68s-oYlFqL6773jKx3H69J9hwrR3G_MB5wYKwKq78TUpHihIN4rM7yAFmIUu65AW1R54z0dlY9nDe2JLWA52KXXWY-2XHPgSPs7lNPqgyPFu3xnipnISw-Q8aPckOZpGcCfe2bPpYXlKMBk3aCiub0d3w_YHgjRQ==",
+      "publicado_em": "2026-11-22T02:35:03.987308+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "streaming",
+      "titulo_original": "Madden no Prime Video: Nicolas Cage Conquista o Topo do Streaming",
+      "titulo_post": "Madden no Prime Video: Nicolas Cage Conquista o Topo do Streaming",
+      "slug": "madden-no-prime-video-nicolas-cage-conquista-o-topo-do-streaming",
+      "categoria_id": 5,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkakQr-BKF4Cre3ChnaKmo64HVN2eZ30sR8CvQtCauH2U3FKTES0jAIvRM1RK2UUnn3EvL2-a5nS8PNuJKMM9Dg3dvEJzKNBik-YiGZS7QmnCX1cmlbBWFCCQDIIwwJ99_ia_SxfgULUnYNiI4yTjOJ_k_tcP-JoZbP1yYlPH1o4h5TjkyQmpdrGKh3IqllVJuINbekRvV10t9vdCDfA==",
+      "publicado_em": "2026-11-22T02:36:03.349612+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "Viana: A Lenda dos Corações de Ouro Revoluciona Animação em Portugal",
+      "titulo_post": "Viana: A Lenda dos Corações de Ouro Revoluciona Animação em Portugal",
+      "slug": "viana-a-lenda-dos-coracoes-de-ouro-revoluciona-animacao-em-portugal",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNOfx3Gu4F4bmyg3UtdcRLXP45jRTdOelnp3bc82-JhdpEvajLWyIdX8hFrz7wjUosTaoE1wiZHnx5PpdHFJsdZE2a5ZqeNloNxY78bOmY60ciDglhohqdffFqLXZM7DgXkfoAza7Vzm54l1JJu7mjgdPdyHQdXeENc4zGBfPPkPv1TXuIWni1zlC79oKYseM00uRK76QJ7kUsLVPTpT3sgV-m7n5qimRmzSwafsrv9o-2wbhIafvdBJBLF4-M3aRxmUAIea_GqKsfRA==",
+      "publicado_em": "2026-11-22T02:38:31.539526+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "noticias",
+      "titulo_original": "BYD prepara fábrica de R$ 1 bilhão e três estados disputam",
+      "titulo_post": "BYD prepara fábrica de R$ 1 bilhão e três estados disputam",
+      "slug": "byd-prepara-fabrica-de-1-bilhao-e-tres-estados-disputam",
+      "categoria_id": 25,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe172qEb0Yho0UgorsOVNlkZrv418xMAdTQp1yyUjknqXstzyVstb7nV8lT4eXjo8SXmE_E5Mec0RSPmOmB79LTkji4eVG1X69X0H9rPr80waQG4Kn63OcKRbqLc3CUHnSYwl5ctUjwT6M1PWIzzBSfu_jetokCo1CeLp9R5gBevHCTGQPQMBQmlDEcUhpQ7i89UiRHO_DTBRIhEziwioHZnEfDKszkoEJ1V_0UXQTGmc=",
+      "publicado_em": "2026-11-22T02:41:33.397649+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "automobilismo",
+      "titulo_original": "GP de Las Vegas: Verstappen herda pole após punição de Antonelli",
+      "titulo_post": "GP de Las Vegas: Verstappen herda pole após punição de Antonelli",
+      "slug": "gp-de-las-vegas-verstappen-herda-pole-apos-punicao-de-antonelli",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr_l8JzyJsAbGQTG4BXeoRO0kzQPVxRowRacX96SdDLC3riS5SfLyDn4iHBOwhgw7cdlVzyWurYwRN1dgqe53U7Cd9d7GHCrChA4gLZndPNbUy-woQfoFjP5XTru8CSiZA2SE8nrRG578QS7NS4REIWiF60FKLlTkUuHxdQJ2M",
+      "publicado_em": "2026-11-22T02:45:20.260043+00:00",
+      "dry_run": false
     }
   ]
 }
