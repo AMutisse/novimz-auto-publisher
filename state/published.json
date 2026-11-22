@@ -2280,6 +2280,101 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr_l8JzyJsAbGQTG4BXeoRO0kzQPVxRowRacX96SdDLC3riS5SfLyDn4iHBOwhgw7cdlVzyWurYwRN1dgqe53U7Cd9d7GHCrChA4gLZndPNbUy-woQfoFjP5XTru8CSiZA2SE8nrRG578QS7NS4REIWiF60FKLlTkUuHxdQJ2M",
       "publicado_em": "2026-11-22T02:45:20.260043+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Governo entrega 87 embarcações para reforçar pesca artesanal em Moçambique - MZNews",
+      "titulo_post": "Governo Entrega 87 Barcos Para Impulsionar Pesca em Moçambique",
+      "slug": "governo-entrega-87-barcos-para-impulsionar-pesca-em-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-22T10:02:40.632300+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Primeira-Dama lança em Pemba formação de 4.800 actores no combate à violência baseada no género",
+      "titulo_post": "Combate à Violência: 4.800 Agentes Formados em Moçambique",
+      "slug": "combate-a-violencia-4800-agentes-formados-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-22T10:03:18.954288+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Por dentro do antigo gasoduto onde a Ucrânia vem lutando em uma guerra subterrânea",
+      "titulo_post": "Guerra Subterrânea: Como Gasodutos Viraram Trincheiras na Ucrânia",
+      "slug": "guerra-subterranea-gasodutos-trincheiras-ucrania",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-22T10:04:20.351238+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Chapo lança primeira pedra para construção da sede do Parlamento em Mocuba",
+      "titulo_post": "Mocuba Acolhe Futura Sede do Parlamento em Passo Histórico",
+      "slug": "mocuba-acolhe-futura-sede-do-parlamento-em-passo-historico",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-22T10:06:17.462343+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária em Moçambique: Novos Kits Reforçam Cuidados Comunitários",
+      "titulo_post": "Malária em Moçambique: Novos Kits Reforçam Cuidados Comunitários",
+      "slug": "malaria-mocambique-novos-kits-reforcam-cuidados-comunitarios",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyZ4grkmEKdNJIPceYBO15nfszUIAUp8WgxTSRABRUnMQB87tygUjJ7GxhYAW7e4rvnpAqfZywPXKOGx0Df5EsqNkM1NFgcaVW7hpCmRpDjD0YGkNmoj2oXgwyf9U4G9pQcHj1r9f2N8hDMR0H0VfmkcU9R0jV9JfgiGWoPCDQ2aTosz_Z0bhSfmI0rEfjPO3RkI1tNqZBVW2LHWuf3cbiMb3VDf6nk-90fmksdlWgCbDGWbg_uVz-rup_oZCA-gxvKm0h",
+      "publicado_em": "2026-11-22T10:10:18.621645+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Sterling K. Brown Negocia Papel no Novo Longlegs com Nicolas Cage",
+      "titulo_post": "Sterling K. Brown Negocia Papel no Novo Longlegs com Nicolas Cage",
+      "slug": "sterling-k-brown-novo-longlegs-nicolas-cage",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGokm-o8nQ9wR13uYL1ui5ET3Bc9pR_spw_ZfRqhAe7_fBmEXsT3KIcehs3hlbeXsJvx2UV5z1QAF7x3-fi1iIDpjvN_ZB1FSSPAZRRlJtZWRlHT1AQmZPAASrzbizgqXSabQB7vIvM8nmxrGmK7aqpt7RGeoec2loTEFsHDM91PL1k0SdssgbNDcrlDMuQ-pvM_66cFg==",
+      "publicado_em": "2026-11-22T10:17:13.822381+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "streaming",
+      "titulo_original": "Protegendo Estrelas Conquista Topo da Netflix com Romance Inusitado",
+      "titulo_post": "Protegendo Estrelas Conquista Topo da Netflix com Romance Inusitado",
+      "slug": "protegendo-estrelas-conquista-topo-da-netflix-com-romance-inusitado",
+      "categoria_id": 5,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnNUgHJuaQ9FIYXBryJmWqvQC15f9ClEkyHLgv4BBlgEvAndiHw_raGROzVlYFOislniJgdNAH-SLEyzcJIbQLLc0fzwRyvJQEm21LcwbL-jlacHdfDO_WJai1dTdZB7eqsY2fR3A-2Ac5d_VDm3lRq1I9b6NqUCHYbTNwnb4Q",
+      "publicado_em": "2026-11-22T10:19:36.277248+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "curiosidades_e_bastidores",
+      "titulo_original": "Segredos de Bastidores de Hector Babenco São Revelados em Mostra",
+      "titulo_post": "Segredos de Bastidores de Hector Babenco São Revelados em Mostra",
+      "slug": "segredos-de-bastidores-de-hector-babenco-sao-revelados-em-mostra",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVo9-ypkvSC1dneSrr4j6GIuUWlDA-ao8vJa9g7vlvkfxkszzynk3UJszgjhnN7p7AidslLRUN3Xz8dVfz7YSEIFx829nkoyZht0xLNozXmTLQUdOuNrU3wNzLh2-rFRlD",
+      "publicado_em": "2026-11-22T10:20:48.195794+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "Novo GWM Tank 400 chega ao Brasil por R$ 389 mil com 394 cv",
+      "titulo_post": "Novo GWM Tank 400 chega ao Brasil por R$ 389 mil com 394 cv",
+      "slug": "novo-gwm-tank-400-chega-ao-brasil-por-r-389-mil-com-394-cv",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdK98eTxBmENkYEJUXbiUeoB39mR3_sBId_83Z_-UC85rv60t14gbKu86z8tkRoEWinzbDs_rH6LUSWnyJwuuOj2UL4OWpVXCqyaBoE2xJnMKYfvMDeVTuLA_FjbroMP3_iM9D0D6H1f6h4r3hPlYsExDbxTJiGxPYJBdT-DUCc4FEIG2sr-iPYxwgv9SnABs-7hZYfSsv",
+      "publicado_em": "2026-11-22T10:25:52.041163+00:00",
+      "dry_run": false
     }
   ]
 }
