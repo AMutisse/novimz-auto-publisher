@@ -2375,6 +2375,92 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdK98eTxBmENkYEJUXbiUeoB39mR3_sBId_83Z_-UC85rv60t14gbKu86z8tkRoEWinzbDs_rH6LUSWnyJwuuOj2UL4OWpVXCqyaBoE2xJnMKYfvMDeVTuLA_FjbroMP3_iM9D0D6H1f6h4r3hPlYsExDbxTJiGxPYJBdT-DUCc4FEIG2sr-iPYxwgv9SnABs-7hZYfSsv",
       "publicado_em": "2026-11-22T10:25:52.041163+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique: Suspendidos subsídios de viaturas e de início de funções na Função Pública - E-Global",
+      "titulo_post": "Estado suspende subsídios de viaturas na Função Pública",
+      "slug": "estado-suspende-subsidios-de-viaturas-na-funcao-publica",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-22T17:55:34.588966+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os significados ocultos na obra A Grande Onda, uma das mais conhecidas da arte japonesa",
+      "titulo_post": "Os Segredos e Significados Ocultos de A Grande Onda de Hokusai",
+      "slug": "os-segredos-e-significados-ocultos-de-a-grande-onda-de-hokusai",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-22T17:58:04.810052+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Reassenta Famílias Vítimas de Cheias em Nditxe",
+      "titulo_post": "Moçambique Reassenta Famílias Vítimas de Cheias em Nditxe",
+      "slug": "mocambique-reassenta-familias-vitimas-de-cheias-em-nditxe",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ2uBRousgmbPvtkS1jv1IeWCdPCjW7Rck6lNfikLfPoy9ZDA4fb9ERseqdGU7SEE3R7tvckYXl6nXMikvM3qKyvVOZyBDf3l__7gbJwAPZlUNfVaRfQr-ez468fsqGsrv0hQcf1oi6TG6udpDGTE9TNgORonXSX7aHlLRskyVXVie-oXqbgNQQUHisAnlm4tZRWdVX5x1y5EheBwG0JgeOT4mHNVncGsQ6Q==",
+      "publicado_em": "2026-11-22T17:59:00.236633+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "malaria",
+      "titulo_original": "Malária na Gravidez em Moçambique: Prevenção e Cuidados",
+      "titulo_post": "Malária na Gravidez em Moçambique: Prevenção e Cuidados",
+      "slug": "malaria-na-gravidez-em-mocambique-prevencao-e-cuidados",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdxpqnYMrZBgFAF3o9biH4bG_dj7-eQqlk-RDDpVPsXP2fz7tZwyq2Xds4UuMg37GY9v0YnZOK5i75xVnVjE6OF3WROX9kjUBVBywY3tEF948DLBDgcuzWkZl5FD7ydd8L1YOlHlTthkYoG3Jm4a_mh7wffGX4e2i0JxcI_Dnd_NiKPZ_5K4DWhJs=",
+      "publicado_em": "2026-11-22T18:03:36.951297+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Tratamento Avança e Alcança 87% de Cobertura",
+      "titulo_post": "HIV em Moçambique: Tratamento Avança e Alcança 87% de Cobertura",
+      "slug": "hiv-em-mocambique-tratamento-avanca-e-alcanca-87-de-cobertura",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQD0vwiwo3WgrCMyk00uBvKJTWNqzUs9q8Ou7Qkof-I5jaq6yz6mmMcsBJOaW1wrr5QzyeooWgJ3lrxpGUREePw287qH7tFaq-EpdJv5_l-T8sadQJLI8aEMfI8NEW1w4M53Gbd698YiMITxre4BCEG7AaLrQn2mjYQvAvMoQWAeLjBURCOhLwmuo-DADY7A==",
+      "publicado_em": "2026-11-22T18:04:52.331024+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Sobrevivência Infantil: Novo Plano e Cuidados em Moçambique",
+      "titulo_post": "Sobrevivência Infantil: Novo Plano e Cuidados em Moçambique",
+      "slug": "sobrevivencia-infantil-novo-plano-e-cuidados-em-mocambique",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaTaA4AK9KaZTNA7hz0uXveZ5UumoPx0tSiiKpcfawFWf9yV86BLENngR1aUCJI7FecNLsmKYZ156aEJxErsdUNonrDiwfGxIsWzshoQSnfP1vVt8reXqJe7Y1fIXhHTnMNOxhPmTqqZyx6tAjZcTB-7T6lMVYYZA6oTGbEQlWA5_8YcyIRG2Tqv1CfVfJQgBsBysfCP8vNllm4A==",
+      "publicado_em": "2026-11-22T18:06:07.863074+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "MIT Cria IA Capaz de Prever o Caos Sem Violar Leis da Física",
+      "titulo_post": "MIT Cria IA Capaz de Prever o Caos Sem Violar Leis da Física",
+      "slug": "mit-cria-ia-capaz-de-prever-o-caos-sem-violar-leis-da-fisica",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWwNDWqM5q6ZYt_BVfud4SePhzZaI2Jz30FZfjF6jJx5WO488pcmr12NacbYaK5pvsCo2JftxjMY8NEg2788mpebeVF2nz4eIoF5xJL9r-aGBPrw5LDoAvqbap7l1hlF1akUVQuj082wj8ZeTMqD_jSkHrsk8wL8Y6",
+      "publicado_em": "2026-11-22T18:08:40.500192+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "Caminhos do Cinema Português Encerra Edição com Sucesso em Coimbra",
+      "titulo_post": "Caminhos do Cinema Português Encerra Edição com Sucesso em Coimbra",
+      "slug": "caminhos-do-cinema-portugues-encerra-edicao-com-sucesso-em-coimbra",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkwG3L1Sb4CZsBdav3CESVUelteljCMJn6r4RP76UGqtjsWumZGd37aWAzZ6C-aAsKF2xeW81cPk8vX-C8K7umUgn4kYEh7rVOI-7pOMRdNj5g7u5tF2E0rwKMNkm8jkAfI8WOzyjYQVlqWi7wSsjmosbZlqFyzHLluVLyJDgm3k5K97hYXYnICWacbqX2faftvCNk_OlvokA3-kpaEY1R6r0AjfmLhzBbmEy6ExX_iY=",
+      "publicado_em": "2026-11-22T18:14:45.610014+00:00",
+      "dry_run": false
     }
   ]
 }
