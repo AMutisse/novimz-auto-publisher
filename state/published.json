@@ -2684,6 +2684,99 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7QV7sI-ydIU7_GLBNandEIUnHuqyheNyDwxQxsyiYT7rU5e9wBvyYx3sgJON25YPBGpGlc_0LIRbxQ8RPinX_xNaqdcDHweJuElEg3PO12mZOKA-SHP8plr58ykdCAA==",
       "publicado_em": "2026-11-23T08:17:23.453671+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Chriis Fontana leva “VAMOS GANHAR LOTO” à Ponta D’Ouro numa sessão acústica",
+      "titulo_post": "Chriis Fontana Apresenta Sessão Acústica na Ponta D’Ouro",
+      "slug": "chriis-fontana-apresenta-sessao-acustica-na-ponta-douro",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-23T20:26:03.707195+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "ONG pede revogação de multas por documentário sobre protestos em Moçambique - Portal Impala",
+      "titulo_post": "ONG Exige Revogação de Multas Ligadas a Documentário em Moçambique",
+      "slug": "ong-exige-revogacao-de-multas-ligadas-a-documentario-em-mocambique",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-23T20:27:37.682996+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "OMR multado em mais de 1,7 milhão de meticais por produzir documentário sobre protestos pós-eleitorais",
+      "titulo_post": "OMR Recebe Multa Superior a 1,7 Milhão por Documentário",
+      "slug": "omr-recebe-multa-superior-a-1-7-milhao-por-documentario",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-23T20:30:11.271353+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "PIMPINHA JARDIM VIVE DIAS DE ROMANCE EM MOÇAMBIQUE (FOTOS) - 24Horas.pt",
+      "titulo_post": "Pimpinha Jardim Encantada com Refúgio Romântico em Moçambique",
+      "slug": "pimpinha-jardim-encantada-com-refugio-romantico-em-mocambique",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-23T20:31:56.908016+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Queremos destruir o capitalismo': por dentro das manifestações dos 'black blocks' da esquerda radical na França",
+      "titulo_post": "França e os Protestos: O Movimento que Desafia o Sistema",
+      "slug": "franca-e-os-protestos-o-movimento-que-desafia-o-sistema",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-23T20:33:23.432787+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Tribunal moçambicano mantém coordenação de importação de arroz e trigo - Notícias ao Minuto",
+      "titulo_post": "Tribunal Mantém Coordenação na Importação de Arroz e Trigo",
+      "slug": "tribunal-mantem-coordenacao-na-importacao-de-arroz-e-trigo",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-23T20:35:23.207711+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Aperta Controlo Cambial Para Garantir Divisas a Empresas",
+      "titulo_post": "Moçambique Aperta Controlo Cambial Para Garantir Divisas a Empresas",
+      "slug": "mocambique-aperta-controlo-cambial-para-garantir-divisas-a-empresas",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIbxH9vMOf8ThBb8Jl2IVYG5vceK6DfHUvhCEvlWipMK6coccoxfTfG5w8ZDrNvBzMVAI1jQJqziD8RQ9H54aSESGy_A1ZQpS8DpFpYqJF1xrgUYkBkFTzmbRlWMgmZtdtRKb_9rUseAMWeStWDRQPVA9NMREnWAcl9pI699slwIPv3Nepwbhff-HJZghOV9hOlzBsVYrQMo0dg1kX8te-m3kHwcxA5KOZA==",
+      "publicado_em": "2026-11-23T20:37:35.707591+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Pedidos Globais de Patentes Atingem Recorde Histórico de 3,9 Milhões",
+      "titulo_post": "Pedidos Globais de Patentes Atingem Recorde Histórico de 3,9 Milhões",
+      "slug": "pedidos-globais-de-patentes-atingem-recorde-historico-de-3-9-milhoes",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcz-wGOlWnXmUUrM9tvQnn1m0J3m4kzmtBUZ4udpPyA8UGlVZjqsI-ua-MHd-DSiEpYcG_kqgNSjxuMT05GzSEc5MFWDGKp6q7aIj3vTcbaAx0fFcRKi7PZqC7d3TyYHid2QqcYPTfAHcD1eb9pSZufnHUAtXl3A==",
+      "publicado_em": "2026-11-23T20:40:59.682930+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "Prevenção do HIV em Moçambique: PrEP Alarga Protecção Comunitária",
+      "titulo_post": "Prevenção do HIV em Moçambique: PrEP Alarga Protecção Comunitária",
+      "slug": "prevencao-do-hiv-em-mocambique-prep-alarga-proteccao-comunitaria",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvC8s_b0pdE0KasjdF8_EP1uIsDwT4KmPkCnRnXy_SSdnHa2RlvcjShXYuRA2QzVmI6OWLBB_jTzdFPXqljuqrnCfeS1tZe4r6XhPtrxMCPpRToFqiGNbh8r0IRLummfzpvbDwRNd4XZsuX2JzWsyH1X_xawrDanzSCsWRuOictaYSqPQpWmUgb4_sGc9vUQHKFSGnNbJjMZMWITj_8Ygq03cttgID337RDpfQy6AYSRjK00B1p4VGUncyRH11hbBlHM7O950_6SvHYzWmmyRJ",
+      "publicado_em": "2026-11-23T20:45:59.378314+00:00",
+      "dry_run": false
     }
   ]
 }
