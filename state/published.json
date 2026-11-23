@@ -2461,6 +2461,124 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkwG3L1Sb4CZsBdav3CESVUelteljCMJn6r4RP76UGqtjsWumZGd37aWAzZ6C-aAsKF2xeW81cPk8vX-C8K7umUgn4kYEh7rVOI-7pOMRdNj5g7u5tF2E0rwKMNkm8jkAfI8WOzyjYQVlqWi7wSsjmosbZlqFyzHLluVLyJDgm3k5K97hYXYnICWacbqX2faftvCNk_OlvokA3-kpaEY1R6r0AjfmLhzBbmEy6ExX_iY=",
       "publicado_em": "2026-11-22T18:14:45.610014+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "COP31 termina sem acordo sobre abandono dos combustíveis fósseis - Rádio Moçambique",
+      "titulo_post": "Cimeira do Clima Termina Sem Acordo Para Fim de Combustíveis Fósseis",
+      "slug": "cimeira-do-clima-termina-sem-acordo-para-fim-de-combustiveis-fosseis",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-22T23:43:38.794910+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Os problemas de saúde causados pelo parto que nunca desaparecem",
+      "titulo_post": "Sequelas do Parto na Mulher: As Consequências Ocultas",
+      "slug": "sequelas-do-parto-na-mulher-as-consequencias-ocultas",
+      "categoria_id": 9,
+      "publicado_em": "2026-11-22T23:44:28.055015+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Mais de mil pescadores artesanais vão beneficiar de capacitação - Rádio Moçambique",
+      "titulo_post": "Mais de Mil Pescadores Artesanais Recebem Apoio Técnico",
+      "slug": "mais-de-mil-pescadores-artesanais-recebem-apoio-tecnico",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-22T23:45:00.853115+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Investe 845 Milhões de Dólares em Digitalização",
+      "titulo_post": "Moçambique Investe 845 Milhões de Dólares em Digitalização",
+      "slug": "mocambique-investe-845-milhoes-de-dolares-em-digitalizacao",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfZZfUbvXfL5yJPB2ZLGFZ79UbXcO8EmROGOeNPvMj57iWe-oL2RWwT7w5nyRu3Q1vp-IKNliRK4_jfTRJw-7Y1-8b9yL5hE1ldIhViw==",
+      "publicado_em": "2026-11-22T23:46:37.363290+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "COP31 Termina Sem Acordo Histórico Após Impasse Climático",
+      "titulo_post": "COP31 Termina Sem Acordo Histórico Após Impasse Climático",
+      "slug": "cop31-termina-sem-acordo-historico-apos-impasse-climatico",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2i391q0Y1M9PHj0Zl87gIuqqqW8ggv4DYNpRkLKedr5l1eltxwAm_fU7sR7SE3QaktyVMTENon_96HeAsc8hhUK8RgqYnufK3EN1WsIXKv7P1LOXcB3NKULa11L_uAih-Gj0PnSJUtWg10l4NV7cxMXWuitPW2sbWczwTlw==",
+      "publicado_em": "2026-11-22T23:49:14.444607+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Cúpula da ONU em Barbados Debate Futuro e Segurança da IA",
+      "titulo_post": "Cúpula da ONU em Barbados Debate Futuro e Segurança da IA",
+      "slug": "cupula-da-onu-em-barbados-debate-futuro-e-seguranca-da-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjuQJQHBczNLQN66Gv61h99YBiu7eN197NLbzhYWHMMQd9JHSdqo5CNmYRRcEqJPnNbSxpW2ZCe3MvUybQOCcy-6lzACtkoK5TH5MLV5Lk_h0LV5AYZ2_i1ONiQnYpuycrFzmk02ATFulhLLc8brqo6WQ5g6weIxnqnRXZS6AM5s1_EDhhqu_TcowCo0ZbMu79EX7t17ppnLLBk1g3WhfQo0qSIS9VJSNwoD9V1tD6dd9-aInTDq4G4EV_V64YP4mk",
+      "publicado_em": "2026-11-22T23:52:52.609551+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Alzheimer: Descoberta no Gene CASS4 Abre Novo Rumo na Biotecnologia",
+      "titulo_post": "Alzheimer: Descoberta no Gene CASS4 Abre Novo Rumo na Biotecnologia",
+      "slug": "alzheimer-descoberta-gene-cass4-abre-novo-rumo-biotecnologia",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz69zCjTmVu3f2TX_orDgJjhlgIeZvPdhV365mrw9QQVOX2uuHBRrG6errk5BtYMRfvz_2laUvpIdsUmplnLDgKlmxJCozt6IYt7kGXqx3dXbJjjKT4x9_TpZWLNm8VS4uUy1dhPfaAsAkFOaNluC5uZc2",
+      "publicado_em": "2026-11-22T23:54:19.539621+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica: A Peso de Ouro Surpreende com Ethan Hawke e Russell Crowe",
+      "titulo_post": "Crítica: A Peso de Ouro Surpreende com Ethan Hawke e Russell Crowe",
+      "slug": "critica-a-peso-de-ouro-surpreende-com-ethan-hawke-e-russell-crowe",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeeSRJGOBG34Tf73BkRfDcvdy3A590yfm2jn6amWhlKrbV8tW3x59L5S9xQahuVsHg57mZLJj88qlEYoHZUXajQlpej51BZQ41Q3LHb0_KSfDd6_sjhCA_9zgUDJP6hOcxmxW9_P8UjeXbqqkLshdVgA0wQn4BSsnjJPCCfmCbzCO4iAiCs8vcIdMAuJQ=",
+      "publicado_em": "2026-11-22T23:55:25.869171+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Feito Pipa Vence Prêmios em Huelva e Ganha Força Rumo ao Oscar",
+      "titulo_post": "Feito Pipa Vence Prêmios em Huelva e Ganha Força Rumo ao Oscar",
+      "slug": "feito-pipa-vence-premios-em-huelva-e-ganha-forca-rumo-ao-oscar",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1qEgGbhQN8ptXmZbHn-g61-FCa83RiKNVqgUtlUGInok9w5z5X24STJK1DHlEp9E3WGMgEh3_DHMGOf2d_Dy2xkRlfEnbyxMxZP3X2BDtPblh-qVlNYrFfDWTPdu49X-letGFWXFwAn7A_zFwNOpVYMaqiue0G60-gvsYzQ==",
+      "publicado_em": "2026-11-22T23:57:06.753342+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "Cinanima 50 Anos: Cinema Português e Brasileiro Vencem Festival",
+      "titulo_post": "Cinanima 50 Anos: Cinema Português e Brasileiro Vencem Festival",
+      "slug": "cinanima-50-anos-cinema-portugues-e-brasileiro-vencem-festival",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDfXwPDwkFAGE8E0OKYuf3B8bB6jp_-ouL7buTdirDcxdRNyCvchTtqGMsQX8aBom-Vp1xMiwiPBryN03rrzBNYJnmCSVHsL4kAMyM2jqwBzZSBySoYFdwX1wwymN3LqLx7-b7uqQzNzGJ-WJ3s9hbBiuFskXwtUFfZkTDnXvNNuWJH8m9GIe9oIHEuzWe-yM3euajVgN-vd6yOrrF6eZwCrTtK4xZfQoz2tLmty4dDZNftiGK",
+      "publicado_em": "2026-11-23T00:00:25.156158+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "dicas",
+      "titulo_original": "Golpe da CNH suspensa por SMS: veja como identificar e se proteger",
+      "titulo_post": "Golpe da CNH suspensa por SMS: veja como identificar e se proteger",
+      "slug": "golpe-da-cnh-suspensa-por-sms-veja-como-identificar-e-se-proteger",
+      "categoria_id": 27,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8E3oHN0GXVsUuODD4pLZCFcVJEe-F-L-OUIHULF3j-f_ZCb1oN87194ioUX5S9Zh0oz0KL9bIKi74HmHWTV7yNM93yKof_TLAHsD4UAgekO5gUcvG2CzG5sMvOskHWvspW9pCS0b8DH3Jl97qXUquJGQEgqSScN11dcuK1aw=",
+      "publicado_em": "2026-11-23T00:05:04.011276+00:00",
+      "dry_run": false
     }
   ]
 }
