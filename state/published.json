@@ -2579,6 +2579,111 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8E3oHN0GXVsUuODD4pLZCFcVJEe-F-L-OUIHULF3j-f_ZCb1oN87194ioUX5S9Zh0oz0KL9bIKi74HmHWTV7yNM93yKof_TLAHsD4UAgekO5gUcvG2CzG5sMvOskHWvspW9pCS0b8DH3Jl97qXUquJGQEgqSScN11dcuK1aw=",
       "publicado_em": "2026-11-23T00:05:04.011276+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Nova Autoridade de Conteúdo Local fiscaliza megaprojetos de gás em Moçambique - RTP",
+      "titulo_post": "Moçambique: Nova Autoridade Fiscaliza Megaprojetos de Gás",
+      "slug": "mocambique-nova-autoridade-fiscaliza-megaprojetos-de-gas",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-23T07:55:13.480747+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Cabo Delgado: Lanche escolar vai beneficiar quase 90 mil alunos",
+      "titulo_post": "Cabo Delgado: Alimentação Escolar Beneficia 90 Mil Alunos",
+      "slug": "cabo-delgado-alimentacao-escolar-beneficia-90-mil-alunos",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-23T07:56:03.800753+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "El Niño ameaça 2,2 milhões de pessoas em Moçambique - RTP",
+      "titulo_post": "El Niño em Moçambique: Mais de 2 Milhões Enfrentam Risco",
+      "slug": "el-nino-em-mocambique-mais-de-2-milhoes-enfrentam-risco",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-23T07:56:45.648302+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "COP31 termina sem consenso",
+      "titulo_post": "COP31 Termina Sem Consenso Sobre Combustíveis Fósseis",
+      "slug": "cop31-termina-sem-consenso-sobre-combustiveis-fosseis",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-23T07:57:29.507720+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Chapo visita hoje Banco de Moçambique",
+      "titulo_post": "Daniel Chapo Avalia Regulação e Estabilidade no Banco de Moçambique",
+      "slug": "daniel-chapo-avalia-regulacao-e-estabilidade-no-banco-de-mocambique",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-23T07:59:20.717436+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Cria Zona Económica Especial com 64 Mil Hectares",
+      "titulo_post": "Moçambique Cria Zona Económica Especial com 64 Mil Hectares",
+      "slug": "mocambique-cria-zona-economica-especial-com-64-mil-hectares",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIUbAzrvTInFx4pP73TiAlZWXcPDPKOdvsuoZq7yU7YKeYL--abDVC3iW-50EuLxmA2R5CKgZ-D0Vc3RV5jvk5r2apQVyz4EfJn6x1YSJHlzB5PNr3mjLLp-qMYLiFRvuaf_Eh0oB4oGmjCVzmAxWmMoPP4juswtbNB3T6LZCjcUIk9Kj7gVOCpbJinkgKIoPuSdICGblD0RB_LK13PSgLnGOymDGUDEz1VeFZIfXCI_C7oHI=",
+      "publicado_em": "2026-11-23T08:01:21.877066+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_geral",
+      "titulo_original": "Hipertensão e Doenças Crónicas em Moçambique: Prevenção",
+      "titulo_post": "Hipertensão e Doenças Crónicas em Moçambique: Prevenção",
+      "slug": "hipertensao-e-doencas-cronicas-em-mocambique-prevencao",
+      "categoria_id": 11,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqhI3I1oD-BRgkHtMb0ScDrCc16e_P0e1rNdxFXoxfgisWVoP0SjTD7tphCsXdctLcGw3uII8FLsRmk0mde680nxJUa27Bf9F0IxCyMGUXVgp39wADj_qxdRXSCv0Q5QSqNIJWzFGP7fXMBphtlXBrwybFHf2MsAgnEVf_CH4nkfGuUWlGR2t65tqMUucZIE4uEWcnY4n58w==",
+      "publicado_em": "2026-11-23T08:06:30.583869+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "Expansão da IA Pode Elevar Emissões de Carbono em 70% até 2030",
+      "titulo_post": "Expansão da IA Pode Elevar Emissões de Carbono em 70% até 2030",
+      "slug": "expansao-da-ia-pode-elevar-emissoes-de-carbono-em-70-ate-2030",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8KII_yX6SyEkPhqj-JxNCQ607YDBEW2lBjrmDXEz3UHlVHxEXyOj7mghGA1XVP2PnLr4F7ntY6daRc0-JP4pa2-SUoaWvN4hTQvxaSfHwHlHPA26O47j4UQfvmklgFtv9Ic-HW9NY5KUPln3nNuqOLJyq6eHeyQ1QEzD_qeWn-7Hd8R9rE7RTDlYSDXlIn48PkxZl",
+      "publicado_em": "2026-11-23T08:07:38.792716+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Biotecnologia Revela Molécula Microbiana Que Regenera o Intestino",
+      "titulo_post": "Biotecnologia Revela Molécula Microbiana Que Regenera o Intestino",
+      "slug": "biotecnologia-revela-molecula-microbiana-que-regenera-o-intestino",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFapYZY6oVnJPVJDEn73PG2nzsIhpRjqznldwZBUJuZpxGmIT4VVK483D5oNMRhVBawbBv8rn76-dZKXJqWqLI2-l7Xxit60AaVWXmxwD68jb3e4Ez0slLSsjWXkEupt9_-SZB2Rc8Ve47vKMinh-TONq72_Zr_6wpnzBS6L07lHYFfdlspme5ilfcVgXYBDeL9AZaOztABcQ==",
+      "publicado_em": "2026-11-23T08:09:00.816099+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "classicos_do_cinema",
+      "titulo_original": "Billy Wilder: Clássicos do Cinema Ganham Exposição Imersiva em 360º",
+      "titulo_post": "Billy Wilder: Clássicos do Cinema Ganham Exposição Imersiva em 360º",
+      "slug": "billy-wilder-classicos-do-cinema-ganham-exposicao-imersiva-em-360",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7QV7sI-ydIU7_GLBNandEIUnHuqyheNyDwxQxsyiYT7rU5e9wBvyYx3sgJON25YPBGpGlc_0LIRbxQ8RPinX_xNaqdcDHweJuElEg3PO12mZOKA-SHP8plr58ykdCAA==",
+      "publicado_em": "2026-11-23T08:17:23.453671+00:00",
+      "dry_run": false
     }
   ]
 }
