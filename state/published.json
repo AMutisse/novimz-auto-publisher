@@ -2777,6 +2777,145 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvC8s_b0pdE0KasjdF8_EP1uIsDwT4KmPkCnRnXy_SSdnHa2RlvcjShXYuRA2QzVmI6OWLBB_jTzdFPXqljuqrnCfeS1tZe4r6XhPtrxMCPpRToFqiGNbh8r0IRLummfzpvbDwRNd4XZsuX2JzWsyH1X_xawrDanzSCsWRuOictaYSqPQpWmUgb4_sGc9vUQHKFSGnNbJjMZMWITj_8Ygq03cttgID337RDpfQy6AYSRjK00B1p4VGUncyRH11hbBlHM7O950_6SvHYzWmmyRJ",
       "publicado_em": "2026-11-23T20:45:59.378314+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Cegid Inaugura Escritório em Moçambique e Apresenta Plataforma de IA - Diario Economico",
+      "titulo_post": "Cegid Abre Escritório em Moçambique e Traz Inovação em IA",
+      "slug": "cegid-abre-escritorio-em-mocambique-e-traz-inovacao-em-ia",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-24T04:54:19.560879+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
+      "titulo_post": "Ajuste fiscal no Brasil gera debate sobre contas públicas",
+      "slug": "ajuste-fiscal-no-brasil-gera-debate-sobre-contas-publicas",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-24T04:54:51.817596+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "+EMPREGO II: Camões, I.P e CTA Renovam Parceria Para Promover Emprego Jovem e Fortalecer PME - Diario Economico",
+      "titulo_post": "+Emprego II: Parceria Impulsiona Jovens e PME Nacionais",
+      "slug": "mais-emprego-ii-parceria-impulsiona-jovens-e-pme-nacionais",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-24T04:55:29.564164+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
+      "titulo_post": "Ajustes Fiscais no Brasil: O Desafio do Equilíbrio Económico",
+      "slug": "ajustes-fiscais-no-brasil-o-desafio-do-equilibrio-economico",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-24T04:57:13.244072+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Venâncio Mondlane Contesta Acusações no Tribunal Supremo",
+      "titulo_post": "Venâncio Mondlane Contesta Acusações no Tribunal Supremo",
+      "slug": "venancio-mondlane-contesta-acusacoes-no-tribunal-supremo",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc48rHu7RnmtNsRYyNLKVJu76AU9wx6wXkpL9pmyqakIsgHKuJtlg7_XJGwu5VPwwbnOGRBsbBqFnL0L-AaoRod1uEnGhuPeJxCM9d9GgXkaHNUqVcxmtI2Nd8bFETj0anvXJtvaiWKsigWkN4-t2n7FhAUBWSqXDABpMRgwniml0ZxTMmzlklUxORU6ER4GcXbG1bvMgDDUzYkHg=",
+      "publicado_em": "2026-11-24T04:59:53.812301+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Google Cria Internet Simulada Para Testar Agentes de IA com Segurança",
+      "titulo_post": "Google Cria Internet Simulada Para Testar Agentes de IA com Segurança",
+      "slug": "google-cria-internet-simulada-para-testar-agentes-de-ia-com-seguranca",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPRrwn3rN_DrVBKi_vUTvNgAK575F13D-0qFwPMM4HRfSV1LeQQVIcPcQBrIbRVfEtf9J7ZezAgHd0G5tGVcA7wmZJkXfx60P9MrgMQN5zW66jnncZa6Ji8eBt6F0Sm2SV67Go4tdWpbI_rPikYEunYSjBn1pzcC1kowLpLiVK-qcTVPLlmUjBxp-nzJRkgcqe8-J2tYLicto=",
+      "publicado_em": "2026-11-24T05:00:56.613168+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Nutrição Infantil em Moçambique: Cuidados nos Primeiros Mil Dias",
+      "titulo_post": "Nutrição Infantil em Moçambique: Cuidados nos Primeiros Mil Dias",
+      "slug": "nutricao-infantil-em-mocambique-cuidados-nos-primeiros-mil-dias",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbPBRFa2CE1Gd4K3tczvvdfar0Mspcasuay8gorTWwJCOh0tQ1TMxXqLAD9kFrUInBOt9fNafAM0OGqC_OmMHt99S2Z1cGTrRp2siWyTIhSvrmqT7hLLiCfljaUnGJqNzYjgJw5-yqf0D9NyCEkoLGso7h48DHc_RKDO1RfSVWI_iMirLOco_zEtyg0q8zqiMv9FqPhKOXm5ueGXvL8GogmelnGOVzIMsifXVh3fxrHuEpE9XLWw==",
+      "publicado_em": "2026-11-24T05:04:00.195874+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "inteligencia_artificial",
+      "titulo_original": "EUA e China Definem Supervisão Humana para Uso Militar da IA",
+      "titulo_post": "EUA e China Definem Supervisão Humana para Uso Militar da IA",
+      "slug": "eua-e-china-definem-supervisao-humana-para-uso-militar-da-ia",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQTYEO6PhqmLfI6905d468qXFX28DkBG2VyJM8VmKEYLlSfLF8_HfSrIKc0nOA9cHYvuoAZp39nzaoabdpQCZqmB2GXa1DKVllOwg9GjMbUa-A-FKwmHw5Qkxzx_yLNvxjZicLoo0uizsUmmjSS0VDNuJRs4FMj8stGcdn9mqO37Hdu8eFYF5gq3yeP3zdJ2fZcKJERs4-w7jCIxPWs31r88UVUT37Q==",
+      "publicado_em": "2026-11-24T05:05:41.634711+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "curiosidades_e_bastidores",
+      "titulo_original": "Brad Bird Revela Como Chinatown Inspirou seu Novo Filme Ray Gunn",
+      "titulo_post": "Brad Bird Revela Como Chinatown Inspirou seu Novo Filme Ray Gunn",
+      "slug": "brad-bird-revela-como-chinatown-inspirou-filme-ray-gunn",
+      "categoria_id": 6,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi_5nTPsVBYJ4HMVCkFhDkvOdfPqPfA0KP4TkSwgI6zrN469lWAfXRIGNta6OBuDAebvQd-uiZw7CQeYNnEkvZwfVM8i9hd6GZwGNgYsIv3owNaFJPqi4uzkoWJBiKJE3ymSDlshr42lsoJObkvdENhUIVo8GEA2Q8X9Ce7bWqHRZjFxMt8vXDkrfQWJDSPpSHpUnPk05G8xBcy_TG6tC6rko=",
+      "publicado_em": "2026-11-24T05:11:07.415429+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "A Memória do Cheiro das Coisas Conquista Elegibilidade ao Óscar",
+      "titulo_post": "A Memória do Cheiro das Coisas Conquista Elegibilidade ao Óscar",
+      "slug": "a-memoria-do-cheiro-das-coisas-conquista-elegibilidade-ao-oscar",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERiHIgCVFcmKbQ5KcbaFrpP27hPRMYlqgRiXYkp0ll4wXa3EoH8CYpcPHEU38LDJ2WPK77o07zpupI-X4TDb4Rsk2Hq0rI7_Rf_9RCQvq-zO5zBBSGabzS3RxfaGGV57vajySk6xgIura2ktUnOjR6Z6xvA01HufHF5iZA-nU0702rVlIcGvmh9vHbKHeZFCcSlWuxJiHi1UvMIxICci2FiRubYya_dTWK41rGcF2lJXpL0Cdyhz-CMfFFjJ8qtbTwk5HW4BXdekFjck0sKlXrabctRSzZSFXbYHXEsDAtc7y7xOOlqK65z6nKxqT50r1W",
+      "publicado_em": "2026-11-24T05:12:15.588698+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "trailers_e_lancamentos",
+      "titulo_original": "Vingadores: Doutor Destino Ganha Trailer Final e Data de Estreia",
+      "titulo_post": "Vingadores: Doutor Destino Ganha Trailer Final e Data de Estreia",
+      "slug": "vingadores-doutor-destino-ganha-trailer-final-e-data-de-estreia",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTI8XPd2L7kHiP0FjM73ly8fbpkH02Tc8EjjV8sBb63kue_V8Y95uUDi6cb-qsZloxJ30U9s_pcQh1DvJ7yVWUeYy1Z7x7x-xxquUCI-rvAJ1gG2WtZ9TrvI3AtNoRbGuEEo9brnBqmujWw71etxYfAmzTQb6jlMZCB6gjbuu1PCFMyNZBv2t6ldH8XUGV14033AgRR5Tbj7aNwBSEA==",
+      "publicado_em": "2026-11-24T05:14:36.024013+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "Novo Omoda E5 chega ao Brasil com 210 cv a partir de R$ 159.990",
+      "titulo_post": "Novo Omoda E5 chega ao Brasil com 210 cv a partir de R$ 159.990",
+      "slug": "novo-omoda-e5-chega-ao-brasil-com-210-cv-e-dois-pacotes-de-bateria",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMe2FNXwbL3vyBxQGRVArLTObf5nlAwOgm6kok6yvW2qSvkl9WRKSCIfqEbzMS9RUogRMeeAdk8bMa6CYMjhkah6qjICDHmi5UXQPPZ8u64aP3ex29DWeqgUle9E5Xn-MGeSBuwFPYFyV91D5SMTWYyQi7wIPiNKlTLLz9Q9kifxFE4zTUtJMOQAoN5Nl55sWw-AzN6ArWCQUS-uCu09_PXuezyFAfSoUr2KlH2yGO9Y3W4gZtLqTz61c=",
+      "publicado_em": "2026-11-24T05:16:03.448713+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "esportes",
+      "titulo_original": "Diogo Moreira é eleito novato do ano na MotoGP e faz história",
+      "titulo_post": "Diogo Moreira é eleito novato do ano na MotoGP e faz história",
+      "slug": "diogo-moreira-e-eleito-novato-do-ano-na-motogp-e-faz-historia",
+      "categoria_id": 30,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu1BP1SBu_ZsCLQym3ACvCq558a7SFifS7DEynrAjb-FH4Cl3dnowR1qPxTjqIh0QwvTcfxcMWICBerea5m8tEP9fxsNjfGscmatt_mQmhpf4EeyLVKe2UgPoZ5RbQaDfCDEJ_brAWjyF-512zsm_HbKWtgeobh3iHh50gDfhM_DZnsx6GdvUkrOzJxzHtFBTdPF6tVJ-wkdszk7oaAqSF5CwkYN640p3w4fp3FrMDAKrtggu4O1BYsQQorcVvpZQ0",
+      "publicado_em": "2026-11-24T05:18:21.397648+00:00",
+      "dry_run": false
     }
   ]
 }
