@@ -3162,6 +3162,123 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7JUQaav82Q9vI-0tntNrVVh0lyXnnBYX3jpvgrbK8wSvCP3cSEpk3Cxx106Coq0KUYIanIGenJ90KIOXz86pDGUF0L29zbpWZfEo3h1_aiaRCaUwH9Y8j9xO2aICpWZpLh2-N0-0xGttH1q1We80r_ur3tD37987_mNaJmj6L42fzsQ7BVBbT4bzOMESTViRQV-DvwFAph5uwGtj01Sz65agGZJzcGw2QCj_eV4TDQzYWAr1mWUw0IPTOHiLDizBE1r-l",
       "publicado_em": "2026-11-25T03:02:57.102646+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique: Continuam desaparecidas oito crianças sequestradas em Marangira - RFI",
+      "titulo_post": "Marangira: Mobilização e Apelo por Crianças Desaparecidas",
+      "slug": "marangira-mobilizacao-e-apelo-por-criancas-desaparecidas",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-25T14:40:24.739601+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Governo aprova negociações para concessão de quatro infra-estruturas portuárias e logísticas",
+      "titulo_post": "Moçambique avança concessão de portos e corredores logísticos",
+      "slug": "mocambique-avanca-concessao-de-portos-e-corredores-logisticos",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-25T14:41:12.494493+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Tribunal Administrativo de Moçambique identifica divergências de 925 milhões de euros na Conta Geral do Estado de 2025 - SAPO",
+      "titulo_post": "Auditoria Detecta Divergências Milionárias nas Contas do Estado",
+      "slug": "auditoria-detecta-divergencias-milionarias-nas-contas-do-estado",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-25T14:41:54.796458+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambique lança 16 dias de activismo para travar violência contra mulher e rapariga",
+      "titulo_post": "Moçambique Reforça Acções Contra Violência de Género",
+      "slug": "mocambique-reforca-accoes-contra-violencia-de-genero",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-25T14:44:58.621768+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "UE Prorroga Missão Militar em Moçambique Até 2028",
+      "titulo_post": "UE Prorroga Missão Militar em Moçambique Até 2028",
+      "slug": "ue-prorroga-missao-militar-em-mocambique-ate-2028",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBz9aER5U4_JA_3AhyZs85g0yURu7pTV3zzd_rzMcRe7a6egszbiJCRKmKeHxXJjDpaTNEa2S5ddz0P7LppaArYb9wNVcImpXE7wxEHx90Y9PnV0kPSVrtsXOsMw==",
+      "publicado_em": "2026-11-25T14:47:52.983230+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "ONU Adia Tratado Rígido Para Armas com IA e Robôs Autónomos",
+      "titulo_post": "ONU Adia Tratado Rígido Para Armas com IA e Robôs Autónomos",
+      "slug": "onu-adia-tratado-rigido-para-armas-com-ia-e-robos-autonomos",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwxDdWNxygEA-PD7qGd4F1s093Aj9hWbTarSxxL7HI9X37wiYWUL79jYkrgzf4QQLkYvjz9teh8Svrw11PgpOllqdgZn2ZCeujWXCYwYbj6WtjPtXU2IpbVBQ9JOVC3R7ui3sd4gCGn_OQdMjRNoIOWsrr26nL9hU1-1ES1Lcrm2lCu-VCQ6rGhLvmThqb7PKCqNG-mjRS2fJu8SoyEGy5UXSrX6M=",
+      "publicado_em": "2026-11-25T14:49:42.921119+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Combate ao Estigma Reforça Acesso aos Cuidados",
+      "titulo_post": "HIV em Moçambique: Combate ao Estigma Reforça Acesso aos Cuidados",
+      "slug": "hiv-em-mocambique-combate-ao-estigma-reforca-acesso-aos-cuidados",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqaP8UYSLoGpt7iVW61KqaMA5lasWFVPK116D4XTNHOvXTVwY0MEXVRgYCERLrggeAnYz3xVZwo-2BjoH6_iZR896r7sg7FQP83H3dlMeVWdVYS8LJF8V0ga--5a0gRTgQsKPUWhldPtBpQqlRUpu_O04WIA8_NEontXZUoSMvyCKWMcWtDdQfcUuGfJo4EhSmfUHWsw==",
+      "publicado_em": "2026-11-25T14:51:41.275242+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Óscar Revoluciona Cinema Internacional com Nova Regra de Festivais",
+      "titulo_post": "Óscar Revoluciona Cinema Internacional com Nova Regra de Festivais",
+      "slug": "oscar-revoluciona-cinema-internacional-com-nova-regra-de-festivais",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSZU3hq8X3eir76no3ISF9pAbdho_HpkWyBhVP7aLriDI4wTF1AiXTY5Jug6rBpLHfEoIvowhHr0Er6oYyNCuVUb5guqUvtp1aw872uN5KPotd-3Ki31yiLcNyL0c69avlRBGgU1dykpUrMrA82zh3SXjkViYMfIQvYjLFSVY3zdy3s_a-Sj8i-cTloie9sx-O_86XnOqu_8uS3kHEZfJ9RdMcF_Kf0pwj3BXgc3Uhx5lNldeR5ko=",
+      "publicado_em": "2026-11-25T14:55:55.037542+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "As Melhores Comédias de Sempre: Variety Elege o Top 10",
+      "titulo_post": "As Melhores Comédias de Sempre: Variety Elege o Top 10",
+      "slug": "as-melhores-comedias-de-sempre-variety-elege-o-top-10",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGcg1OWZiXhqzsgB_880DKpvqrIwz9vWWaN3MHo8EGF3KD0DYXCHhjLg6EiiDX-MdYrJdq5tCzJNSuzeYmgUxqd744NPsirO7sLtYrEfcDZOs2b6v19_K_NhZzarHEDZTZodSGhzNXyeLILj0ocEeMWGdOvV5ZH-5LNBt7lXRnYhwA-nTemh22n0P6EpuwNz5fp1IliLVtnZaV9Hr5TvuVRGDOavFI2TRMiro=",
+      "publicado_em": "2026-11-25T14:57:10.095014+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "Cinema Brasileiro Ganha Festival na Rússia com Velhos Bandidos",
+      "titulo_post": "Cinema Brasileiro Ganha Festival na Rússia com Velhos Bandidos",
+      "slug": "cinema-brasileiro-ganha-festival-na-russia-com-velhos-bandidos",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDNLxDz8MFM5vnIJ-SpHek4lGEKUTStTRMKYSogvLIV1n6olqmOHbLUy3u6N23lRh71plr6VRgnY4sP0pbA6mbYDrzurA6HG8tTWYzqzK_lI0eRXNsuVcLiEHU463AS80h_RASsl4cqb-Y68V0FALDFKiG9CtsRinDFTe-vs-ghjz_Zxfj-GeVF8CkHYuUGf_V_G2vw6GaPnpjYgM=",
+      "publicado_em": "2026-11-25T15:00:04.595174+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "mecanica",
+      "titulo_original": "Recall da Ram 2500: falha no módulo hidráulico afeta freios ABS",
+      "titulo_post": "Recall da Ram 2500: falha no módulo hidráulico afeta freios ABS",
+      "slug": "recall-da-ram-2500-falha-no-modulo-hidraulico-afeta-freios-abs",
+      "categoria_id": 28,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKcPsOHJ1_Rxg0UY7SFkxeQveNU33z0_3qkrF11-yEjB8owGQEEJQbSMJV61yoPFCmMoTkcE9KSNJr1rKof1h1d0zf-o03arwB5B3AgwuAeMBBLpDbccvS5-2GJ9inLoxPAst5V8AsnJQbAw-Y_XbvGRIt7WqdI2DCVZiwdEgzesLd3tZG5biI",
+      "publicado_em": "2026-11-25T15:05:12.888569+00:00",
+      "dry_run": false
     }
   ]
 }
