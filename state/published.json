@@ -3440,6 +3440,132 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF41d6hXNWavVbiTAi1O6QT2600lxJzF0IrUBKWUE1Um0afGRj3MFvbDUsG69aYvevNXVEzdrCEyXKHBWpRTKOsH6XEXvVe8bZLL-c9HYuX7ABhpV7K0uTbUWwIGAy4u7Jc4RxyUP3a7XI7x4YH8rhqXKtpeYNVVSOn-rbOzOLum91jdATfs5U_il8jaFJqyi7RFbiifyo8zjPISyphQCkVKgybSjpIGLo4OJhltPATsbYX1ngZWjz9roEtL2W1-39N8ewzvX4SSsHwe1RrHD45ihwsjlV4TtSwEtg=",
       "publicado_em": "2026-11-26T00:57:49.460343+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Sociedade civil diz que educação básica em Moçambique precisa de mais 233,3ME anuais - Portal Impala",
+      "titulo_post": "Educação Básica em Moçambique Requer Mais 233 Milhões de Euros",
+      "slug": "educacao-basica-em-mocambique-requer-mais-233-milhoes-de-euros",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-26T11:08:44.809387+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "INSS e IGT realizam campanha de cobrança de dívidas",
+      "titulo_post": "INSS e IGT Apertam Cerco a Empresas Devedoras em Maputo",
+      "slug": "inss-e-igt-apertam-cerco-a-empresas-devedoras-em-maputo",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-26T11:09:28.022992+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "Em eleição espanhola, Lula inspira batalha digital da esquerda e recebe críticas da direita por suposta intervenção",
+      "titulo_post": "Eleições em Espanha: O Peso das Alianças Globais na Campanha",
+      "slug": "eleicoes-em-espanha-o-peso-das-aliancas-globais-na-campanha",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-26T11:10:06.601161+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique desembolsou este ano 10 milhões de receitas às comunidades - Notícias ao Minuto",
+      "titulo_post": "Moçambique Canaliza 10 Milhões de Receitas às Comunidades",
+      "slug": "mocambique-canaliza-10-milhoes-de-receitas-as-comunidades",
+      "categoria_id": 4,
+      "publicado_em": "2026-11-26T11:10:42.184187+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Sessão extraordinária do Comité Central da Frelimo arranca amanhã",
+      "titulo_post": "Frelimo Reúne Comité Central para Preparar o 13º Congresso",
+      "slug": "frelimo-reune-comite-central-para-preparar-o-13-congresso",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-26T11:11:12.514802+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "O que revelam imagens do asteroide atingido deliberadamente pela Nasa para testar defesas da Terra",
+      "titulo_post": "Asteroide Dimorphos: Novas Imagens Revelam Impacto de Missão da NASA",
+      "slug": "asteroide-dimorphos-novas-imagens-revelam-impacto-missao-nasa",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-26T11:11:42.456457+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Frelimo Convoca Comité Central para Definir Rumo do 13º Congresso",
+      "titulo_post": "Frelimo Convoca Comité Central para Definir Rumo do 13º Congresso",
+      "slug": "frelimo-convoca-comite-central-para-definir-rumo-do-13-congresso",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0jrQjyUQ3mNJ9ILsWdb2BhiZ-aP_2cqtCXXK2TENemVi3Iq9REqwHDtH1Eg-EKZabfcazSxIUzD9sRBtluQthH9OCPaY9AeN5P6GxuyvpU60acdwlszgM24S1ACXxYjLBGmy23fCKi7HL8VYQChGDYKhn2DxmcC68j-BbyH0TCmykklcBj6O_vHR72gXvZ2xm9j90vYGp3xmw3yFeJzTBO2aDSM4i",
+      "publicado_em": "2026-11-26T11:15:34.135469+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Cientistas Revelam Nova Forma Rara de Magnetismo em Metal Simples",
+      "titulo_post": "Cientistas Revelam Nova Forma Rara de Magnetismo em Metal Simples",
+      "slug": "cientistas-revelam-nova-forma-rara-de-magnetismo-em-metal-simples",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk1FIOk0GRUTb4Y-jIgqCHUQsS5vSDLUhGSrAfPKbmhPpr_ICeJQQ9PUb3g1Fq4ChhSnKMFzP70YchfYDsCmWaKBjxhcd9wpnbgTIKZk5jyUyy1x4yqJLS-l1lQ3ZoM7ukPHwUVr6haWsOPdq_VDYswrm0Jg==",
+      "publicado_em": "2026-11-26T11:16:39.979007+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "China Recebe Primeiro Astronauta Estrangeiro na Estação Tiangong",
+      "titulo_post": "China Recebe Primeiro Astronauta Estrangeiro na Estação Tiangong",
+      "slug": "china-recebe-primeiro-astronauta-estrangeiro-na-estacao-tiangong",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBRMB9GqmqXhKLx6IbPBskKuMvvuASMaZ_lCJtYhabN7qWnv8T4JaS2GOG3PgpoWeSLs4TjP4xC93HxY3u0uw9ph2t0dNhYxsxh0QkVsSMmDUwgLGN4YPfFSxcRVDyyRZqTFmMRkjTr0y2wsUeLOwy6UHOPaTMOuh4GnAJTrySAZ3FCLHOCbH55_sJsEdJJf-e0o3fi8txCQ2s8Wdn-COi2Sib9eIb0Kd5-T07JoqOS1CH7odXyx5la1Meqb93xQ==",
+      "publicado_em": "2026-11-26T11:17:48.544734+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil em Moçambique: Apoio a Áreas Vulneráveis",
+      "titulo_post": "Saúde Materno-Infantil em Moçambique: Apoio a Áreas Vulneráveis",
+      "slug": "saude-materno-infantil-em-mocambique-apoio-a-areas-vulneraveis",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcbohnsBNhWNpdMcVGX4kp8Hc7-sYIurTCHgpVxvygmNDF69BUhS-u0mf6VuhfJyhggilFkDUsIipp0ZkAY-9jRvyJ34-O8FLhTqOglEhiEgdUMclKPL7Z5BRkXWOve-FJWteuDIe6-A0CFptcwBXdm21fkg7pkwKKb2QHx1WOfEbz9fhnGI7qU0XLUNiFMoccwCzCepaCNkZ3CIR4Krj1Ew==",
+      "publicado_em": "2026-11-26T11:20:18.310054+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "Melhores Filmes de Ação de 2026: Rotten Tomatoes Atualiza Ranking",
+      "titulo_post": "Melhores Filmes de Ação de 2026: Rotten Tomatoes Atualiza Ranking",
+      "slug": "melhores-filmes-de-acao-2026-ranking-rotten-tomatoes",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJQZPkc4RXi4iK7jpxb724uF6LmaiMTmKHiKLiaMbeHD22heVx4MIyMLmcGAoCei4HEukFQYgOk3nwreXgJrAxypcJ0K-ybvWuDbobriDLb25diMkODKsxNPRBNhq98FfSLRMPA22d9xRYhvn99gciGiDSu4_Vw-kirLdzz4NZXjDjzR4tOPJLx-fwQfmrSf4iD-6SUFEP22c_y1Qx6Nt0WcyFKEE=",
+      "publicado_em": "2026-11-26T11:26:05.905127+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "mecanica",
+      "titulo_original": "Recall do Jeep Grand Cherokee 4xe: Falha em Módulo Afeta Airbags",
+      "titulo_post": "Recall do Jeep Grand Cherokee 4xe: Falha em Módulo Afeta Airbags",
+      "slug": "recall-jeep-grand-cherokee-4xe-falha-modulo-airbags",
+      "categoria_id": 28,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF50GHMyzdZacBL2FeHg_vRXUSlsL0KylKsxc_qdsL81e8XPYBgFRicfJnzq3zAJv2z7Pxsaa6UGUQPC_rDVXEOHba7wFcoFpXSF9l5n6vIAWrX7TMz3wfyqjsm54ryvU1_SK3WSjZSC8c9Pt7C81CWE_jCK8xksW1t74E=",
+      "publicado_em": "2026-11-26T11:32:18.758331+00:00",
+      "dry_run": false
     }
   ]
 }
