@@ -3279,6 +3279,167 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKcPsOHJ1_Rxg0UY7SFkxeQveNU33z0_3qkrF11-yEjB8owGQEEJQbSMJV61yoPFCmMoTkcE9KSNJr1rKof1h1d0zf-o03arwB5B3AgwuAeMBBLpDbccvS5-2GJ9inLoxPAst5V8AsnJQbAw-Y_XbvGRIt7WqdI2DCVZiwdEgzesLd3tZG5biI",
       "publicado_em": "2026-11-25T15:05:12.888569+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Mondlane acusa MP de \"provas falsas\" no julgamento - Observador",
+      "titulo_post": "Julgamento em Moçambique: Defesa Contesta Provas Apresentadas",
+      "slug": "julgamento-em-mocambique-defesa-contesta-provas-apresentadas",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-26T00:33:07.255329+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "A doença rara que levou influenciadora a clínica psiquiátrica por 2 meses: 'Fui rotulada como psicótica por ser mulher'",
+      "titulo_post": "Encefalite rara confundida com psicose expõe desafios no diagnóstico",
+      "slug": "encefalite-rara-confundida-com-psicose-desafios-diagnostico",
+      "categoria_id": 9,
+      "publicado_em": "2026-11-26T00:33:53.552987+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Governo de Tete defende maior participação dos artistas na elaboração do Plano Estratégico Nacional da Cultura 2027–2036",
+      "titulo_post": "Tete Impulsiona Artistas no Plano Nacional de Cultura",
+      "slug": "tete-impulsiona-artistas-no-plano-nacional-de-cultura",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-26T00:34:45.030616+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mozentretenimento",
+      "titulo_original": "Egídio Vaz lança livro sobre a relação de Moçambique com instituições financeiras internacionais",
+      "titulo_post": "Livro Explora Relação de Moçambique com Instituições Financeiras",
+      "slug": "livro-explora-relacao-de-mocambique-com-instituicoes-financeiras",
+      "categoria_id": 7,
+      "publicado_em": "2026-11-26T00:36:57.319608+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Moçambique Aprova Cinco Novas Instituições de Ensino Superior",
+      "titulo_post": "Moçambique Aprova Cinco Novas Instituições de Ensino Superior",
+      "slug": "mocambique-aprova-cinco-novas-instituicoes-de-ensino-superior",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSToBBftxuBynYQ-YfxHhyBYOHD88PQOQKKe20UBpby_JQ7AO_1JjIOj2gkzVYjE2MO2KQIAhOWz0O2WXf7OPlqcSL_S2pF-J7HqeoU6eNI-bSATr6GxnO1jY6PAJ3DNqPnnMA13LFZugwVA==",
+      "publicado_em": "2026-11-26T00:38:09.620493+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Vai Exigir Cotação de Empresas Estratégicas na Bolsa",
+      "titulo_post": "Moçambique Vai Exigir Cotação de Empresas Estratégicas na Bolsa",
+      "slug": "mocambique-vai-exigir-cotacao-de-empresas-estrategicas-na-bolsa",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZRQqpa4eLH7BVF0g1Cb2_mNjg__nm43cdy2G1eag1IHjxqG4Lp80JsRMAf_aBIFXrXvLCiwI38Jsj4Mi9OiimXYFYDSuI1An8joG_KI5BTrPCm34mChaJHMqiKAQgekReyV33PejmCvjPXWhHYX7NsRSUw53z2Uids4a-YsrDLok3EzzOHtTfpcQMjsK94UdAkdpNE8Zj",
+      "publicado_em": "2026-11-26T00:39:16.368238+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "mundo",
+      "titulo_original": "Falha em Radar no Aeroporto de Chicago Gera Caos e Atrasos nos EUA",
+      "titulo_post": "Falha em Radar no Aeroporto de Chicago Gera Caos e Atrasos nos EUA",
+      "slug": "falha-em-radar-no-aeroporto-de-chicago-gera-caos-e-atrasos-nos-eua",
+      "categoria_id": 35,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsjzcCqghAL8cL9sWGYmv06KSBdzvzr3rotA9dfKG51rVuzwmcGiaePhUzCAYkG0sKecJJr35G0SX2S4nUfpXyH1hdZN0uZrus7nDtFsdSkLLPAg3sa32feSo2RmIc2xhYYl1SCQvzQHzq2BrqHy1crO4dFnwDPR1j7cQrQ5nmHy0GA9QjIAgqO21Dvsev6anC3I=",
+      "publicado_em": "2026-11-26T00:41:54.037374+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV Pediátrico em Moçambique: Desafios e Diagnóstico Precoce",
+      "titulo_post": "HIV Pediátrico em Moçambique: Desafios e Diagnóstico Precoce",
+      "slug": "hiv-pediatrico-em-mocambique-desafios-e-diagnostico-precoce",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNkK6dVe9Dg_3Bx_EtjxK5I5MI3SshBCnSDrJYGZ346Ad0rxn53A3re2A7lPrW27Sty_PmQ0Hf_4i2vRAgm_KPLr3VCCKkNzHySJ0wbxHmxcLsI0_6j2iOuNWhwk0UXnOvAm8zUfS5wokDr0anuzzQM_ARJdRtbyUFhU8tynya5Pk-6aAAadDYVuSJB4_Iso-5zPfxRPbQfa6KIA==",
+      "publicado_em": "2026-11-26T00:43:41.790473+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "saude_materno_infantil",
+      "titulo_original": "Saúde Materno-Infantil: Pré-Natal e Vacinas em Moçambique",
+      "titulo_post": "Saúde Materno-Infantil: Pré-Natal e Vacinas em Moçambique",
+      "slug": "saude-materno-infantil-pre-natal-e-vacinas-em-mocambique",
+      "categoria_id": 10,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAt7A04CM6IvxSgwfVDxaCwMcaAV0fbtHbSCBQC38erS7zLY51e_W25Mju0p_R1GHUM7fNq-q-5JKTeeHASC7C7CebbGqq-yIrX5XfJW-g0PAVew==",
+      "publicado_em": "2026-11-26T00:44:35.687308+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Acelerador Sirius Abre Nova Era na Biotecnologia com Amostras Vivas",
+      "titulo_post": "Acelerador Sirius Abre Nova Era na Biotecnologia com Amostras Vivas",
+      "slug": "acelerador-sirius-abre-nova-era-na-biotecnologia-com-amostras-vivas",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tcxHsBirDr2f7KY0pz4O-cYxCRC4GnMOLRdfl_MmsMxzE5wuBO5LJ9Yrf-pLKJIc81sHileF2tseNXJdc2EveccT4OhIozxgYKENCmwjnP96d-iVY1BINtPrb7w=",
+      "publicado_em": "2026-11-26T00:48:01.365683+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica: Jogos Vorazes: Amanhecer na Colheita Impacta",
+      "titulo_post": "Crítica: Jogos Vorazes: Amanhecer na Colheita Impacta",
+      "slug": "critica-jogos-vorazes-amanhecer-na-colheita-impacta",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-_oE3NYXMYluJCIrH9BbntyPaqUVRvbm9fqQgdl59vz7CHpMhkARADYlqdaLz3oGZZA7lZrTC_6I2WZbu8UBeMLloT8GnPpgBcqagtg0DuAHD0E3bn04ZLcgsIKaBRGsuZkJZ2r6SLeWWzaRYyUseEqfraa3iqzfUw1M=",
+      "publicado_em": "2026-11-26T00:48:52.577159+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "noticias_de_cinema",
+      "titulo_original": "Amadeo e o Hipotético Mundo Novo Estreia com Elenco Estelar",
+      "titulo_post": "Amadeo e o Hipotético Mundo Novo Estreia com Elenco Estelar",
+      "slug": "amadeo-e-o-hipotetico-mundo-novo-estreia-com-elenco-estelar",
+      "categoria_id": 3,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfzybFXZGrhqDz61k2189Cp_MWBDCB8v-HCj92V4udYPIcbKgqc-SRMQC_0tRNryMyaIDCeFtMIXb5qhRSe9xaq5Cd6zK7NRXmKPkBsaru51P0tIJDngEfLxbvGxr_QpFBKSoGG59ngWOyvV9w6k_OzGO3Cd67CBivjl4sKkqBOxp3QY067eXE-5o7YdJLhylW9sHoZwNPw5VQzDywT9z70bPtIgjgKBQDq1egTlVQe8KIvd8CzlFyvPfQ0TYKtB7xfHRGiGty3oMa8I2U",
+      "publicado_em": "2026-11-26T00:50:03.784134+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "listas_e_rankings",
+      "titulo_original": "Melhores Filmes do Século 21: Parasita Lidera Ranking Histórico",
+      "titulo_post": "Melhores Filmes do Século 21: Parasita Lidera Ranking Histórico",
+      "slug": "melhores-filmes-do-seculo-21-parasita-lidera-ranking-historico",
+      "categoria_id": 4,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGzjM7KBnRkyy7Nk7eRUkeqT5x7qGDMAJLuSiWQQi93Z07GqoHoUIkgQsaZB9TmbKxeMLRObGWIJ2_UwFC_E5C28atgmjaic6Sf2xFBp343KliLNXzmZr2FYBO074BbyGKrAWLEOetIlRzfGY9qdLtkwa6q-ze8fNT8h_mfTBszz558xyynUsaeVlAsu0=",
+      "publicado_em": "2026-11-26T00:51:17.081140+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "cinema_portugues_e_lusofono",
+      "titulo_original": "O Dia Mais Curto: Cinema Invade Mais de 30 Cidades em Dezembro",
+      "titulo_post": "O Dia Mais Curto: Cinema Invade Mais de 30 Cidades em Dezembro",
+      "slug": "o-dia-mais-curto-cinema-invade-mais-de-30-cidades-em-dezembro",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGxOAJexJQ_BorJJSC1t9I4A8Otr3JNBQFl6ZbV-HgWY0bhg2ntj7zFymUwcMeiPK3feVNfn4_fNaX30PxAZsJpUM3ZwSbQYNSORQeVJMVLFWrIcXNGc92zgHUJxoonptYRWY7QlC7EBKojfOCjuKTqJZIivCv8QJPJ09si9HqFQlhATuj0iAGWSdNA2cNqckJ2sLEBiIFhAHGTcZohlXR80Qnt508Rc_LH3MdFDLCng==",
+      "publicado_em": "2026-11-26T00:54:28.747742+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "noticias",
+      "titulo_original": "Fiat Strada Bate Recorde Histórico e Lidera Vendas em Novembro",
+      "titulo_post": "Fiat Strada Bate Recorde Histórico e Lidera Vendas em Novembro",
+      "slug": "fiat-strada-bate-recorde-historico-e-lidera-vendas-em-novembro",
+      "categoria_id": 25,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF41d6hXNWavVbiTAi1O6QT2600lxJzF0IrUBKWUE1Um0afGRj3MFvbDUsG69aYvevNXVEzdrCEyXKHBWpRTKOsH6XEXvVe8bZLL-c9HYuX7ABhpV7K0uTbUWwIGAy4u7Jc4RxyUP3a7XI7x4YH8rhqXKtpeYNVVSOn-rbOzOLum91jdATfs5U_il8jaFJqyi7RFbiifyo8zjPISyphQCkVKgybSjpIGLo4OJhltPATsbYX1ngZWjz9roEtL2W1-39N8ewzvX4SSsHwe1RrHD45ihwsjlV4TtSwEtg=",
+      "publicado_em": "2026-11-26T00:57:49.460343+00:00",
+      "dry_run": false
     }
   ]
 }
