@@ -3702,6 +3702,115 @@
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcGwLGynn9hPo8uqtLIsvXfUTvJty3UBYM9O1ICoGSTcdIqPhhQBUkM6Qot9eGtgdGuXPhm12kJXQyHnWJ_UOieTVbIQU0AAP5VRfZYRr1AVoP8rEKnBh2-ZsZ1Kb59eWoCYu5JhKIspvo0ZObRtxZ1lLhVGQ_SZsWABmoNQK_2UXDHTrA2A85-v2A7U5gIrcIIiBVhf-fBDUU06IDaA1UuYiEj0QeyHYonh9W100LpUXr7z2F_uU=",
       "publicado_em": "2026-11-26T22:09:07.303139+00:00",
       "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "bbc_portuguese",
+      "titulo_original": "'Sereno', Trabuco é 'capaz de reduzir a tensão' com mercado, diz Lara Resende; veja a reação de outros economistas à escolha na Fazenda",
+      "titulo_post": "Novo Rumos na Fazenda: Aposta no Diálogo Acalma o Mercado",
+      "slug": "novo-rumos-na-fazenda-aposta-no-dialogo-acalma-o-mercado",
+      "categoria_id": 5,
+      "publicado_em": "2026-11-27T04:21:22.616772+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "sociedade",
+      "titulo_original": "Ensino Básico em Moçambique Enfrenta Défice de 233 Milhões de Euros",
+      "titulo_post": "Ensino Básico em Moçambique Enfrenta Défice de 233 Milhões de Euros",
+      "slug": "ensino-basico-em-mocambique-enfrenta-defice-de-233-milhoes-de-euros",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIWjP0L1M66xO6xZgZ_Bc3Mcey1FmnSE-Yoojq1eeaAOfoMlc58uve3IgKdZn1fooMQpa_5SUb1HcophXdNH4wCojgwPIY71HJ_rqIxnopLotN4cwQyPVJbIFOdvcb",
+      "publicado_em": "2026-11-27T04:22:20.671166+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Aprova Conta Geral do Estado Sob Tensão Parlamentar",
+      "titulo_post": "Moçambique Aprova Conta Geral do Estado Sob Tensão Parlamentar",
+      "slug": "mocambique-aprova-conta-geral-do-estado-sob-tensao-parlamentar",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-QwM-6SCYDrorwvA0b8ml7HVO5S8GA5rBHXWXA3r8SvkAP1Ssh0_knuX-Z6sN9e7jSRWbcN2kxorxslQiJBYXUB6CvatPSvcycvDznNvf_7BD31owsxXUHYv02JoOAVj49zxiz8SnyQpxJ1RUr4a1qG9WlwvFMii6sXRFN0wCYB2-bV3hl6QnrOHFjqFbnCHxpB-RH11r1tsJoGPoeDWFEjr61c5my9pBIbXQktE=",
+      "publicado_em": "2026-11-27T04:24:09.387446+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "saudemz",
+      "fonte": "hiv_sida",
+      "titulo_original": "HIV em Moçambique: Testagem Precoce e Desafios Entre Jovens",
+      "titulo_post": "HIV em Moçambique: Testagem Precoce e Desafios Entre Jovens",
+      "slug": "hiv-em-mocambique-testagem-precoce-e-desafios-entre-jovens",
+      "categoria_id": 9,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE37tLak9hBcCxrVHf-mrnRi_7XK1_FXMNims948pgG5goV8oPMIqKeP2AbAoihCiE0QSuD0tf-z3KGQX7UX0UdnTCsJiwUr7oEmkRj454ZjJkbOKn82ApzR7pmWz-gGvNfIKqfT-gc_x3yEKKkhngy7bLlO3RdNKPmTK2DCp53FZxK8v2MLWI0GSMmnDHFXNLst72rG-rEGxqUpSsSxska",
+      "publicado_em": "2026-11-27T04:26:40.081810+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "exploracao_espacial",
+      "titulo_original": "Nave Nuclear SR-1 da NASA Dá Passo Decisivo Rumo a Marte",
+      "titulo_post": "Nave Nuclear SR-1 da NASA Dá Passo Decisivo Rumo a Marte",
+      "slug": "nave-nuclear-sr-1-da-nasa-da-passo-decisivo-rumo-a-marte",
+      "categoria_id": 7,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQxK6enP1fLzVgrTNDyY82UhuDVcUA43002i9Jph8_hPTkpARc1zoGgBxoIn0V-PAqQe4imkOzfHUCuVaODN-bu3H3cFOSeWLzz1bSkkjce3Sy2K_LdfW7iLQW1AytDR_7qNsIG4vyZgYgKugPJ7ij9He72jLYbNNTUrRAzPYfXTvk8xrMz9cosb9R7IMHOg==",
+      "publicado_em": "2026-11-27T04:29:04.716139+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Terapia CAR-T In Vivo: A Revolução da Biotecnologia Médica",
+      "titulo_post": "Terapia CAR-T In Vivo: A Revolução da Biotecnologia Médica",
+      "slug": "terapia-car-t-in-vivo-a-revolucao-da-biotecnologia-medica",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_MI1lSwAMqi21rtMqiGF4UqK3zsxfgC3kYCAhYbhagT8t-hKI4mwEORZop2ZSZFNSfwO0lxUe47hFJ5Etw4heJLa8kBZxSni7dzoKzWRX3xRx_Rz72GA8jYXw8HibCjIdyZB-jSopWPB3HHQeDwv_nI6uuCoBR42LRiPCBBGU3S4LIbmJCph9Z9Y_p52qf4hZU0EcGZAZen7wj9Vd",
+      "publicado_em": "2026-11-27T04:30:14.438967+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "cninema",
+      "fonte": "criticas_de_filmes",
+      "titulo_original": "Crítica: As Novas Desventuras de Cliff Booth Brilha nas Salas",
+      "titulo_post": "Crítica: As Novas Desventuras de Cliff Booth Brilha nas Salas",
+      "slug": "critica-as-novas-desventuras-de-cliff-booth-brilha-nas-salas",
+      "categoria_id": 2,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVSCgiYi_QcqDGerhTBgtMJtYFmMHEEJID6h77MPc-12fel3T-VWTlAagdTby1ABzskWkYuULykQixAIxjttwJNZK6u-mIWsYBfsHhsfCBDXN_rB6FLGH2YYTjHSEA7SpuzArDkGWlF9rCOihKaAC2rMXhGaECaggG-WEp0WRntme7MlspFXQTrC6BZyw43mNkHELL6MW7scvrP9BTc8SO4N9m0HG70kdg06_czg==",
+      "publicado_em": "2026-11-27T04:31:31.574804+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "noticias",
+      "titulo_original": "Guerra de Preços: Carros 0 km Têm Descontos de até R$ 70 Mil",
+      "titulo_post": "Guerra de Preços: Carros 0 km Têm Descontos de até R$ 70 Mil",
+      "slug": "guerra-de-precos-carros-0-km-tem-descontos-de-ate-r-70-mil",
+      "categoria_id": 25,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiZolUQ1RfIu30663onaEGnWQWfQWKOuNKOshIEE8DjrDYM3GvSMTCNmO9i0TDYZ9yumtAAkULP3Wma0-hhB3mcX5nT0H-BN_zZ7WQoVuPOGmmwLmHKjgEurl_Nnnb7o99fA1kesNawYXfJ5PzJ4WGE-HtI7UxctbBJ-Np2KBfeArIxGR11NHdX4ZhEFIASsvyKN4a4Veeb0ns3ErypLYAG4KvAp4h-AD4a22mKmoqgc_WrTA-lrqeCr8oinmORbEK8F7zaEKgzYJu52ClZh_NstSVfNFiBITPrL7Y",
+      "publicado_em": "2026-11-27T04:37:32.613796+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "Mini Countryman S ALL4 Chega ao Brasil a Partir de R$ 334.990",
+      "titulo_post": "Mini Countryman S ALL4 Chega ao Brasil a Partir de R$ 334.990",
+      "slug": "mini-countryman-s-all4-chega-ao-brasil-a-partir-de-r-334990",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4_FgfwucS3tTKChVQPuM1HD2-RZYda_U2wiKUG0Epqr0TTu230lCBhYmBS-wWzbFCXPNPVxWHXL8I83of1KbMR2twe6IlzQJiXErAJQLnQbs1v7d8aR37O70mc-O1xHyfLXTgMYOJkThBy9VMbHtIyJ1To9zyuuM7QarYyPTUidYgZg==",
+      "publicado_em": "2026-11-27T04:39:11.348383+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "automobilismo",
+      "titulo_original": "F1: Pilotos se reúnem com a FIA no Catar e cobram punições mais duras",
+      "titulo_post": "F1: Pilotos se reúnem com a FIA no Catar e cobram punições mais duras",
+      "slug": "f1-pilotos-se-reunem-com-a-fia-no-catar-e-cobram-punicoes-mais-duras",
+      "categoria_id": 31,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6KxKvH8ZUkBmls3Ft3PgR7RXVmvbvplfilX1gwKD0my9B3qqRXJbD4JQINh9uI276v3hUTyjMXMFJFzIu17yW3xyPaI0ZgUSvOnII-GPgeRa5Y-RK",
+      "publicado_em": "2026-11-27T04:43:06.916669+00:00",
+      "dry_run": false
     }
   ]
 }
