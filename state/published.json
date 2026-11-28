@@ -1,39 +1,6 @@
 {
   "publicados": [
     {
-      "site": "panorama",
-      "fonte": "mundo",
-      "titulo_original": "Cúpula da ASEAN reúne líderes mundiais para debater crises globais",
-      "titulo_post": "Cúpula da ASEAN reúne líderes mundiais para debater crises globais",
-      "slug": "cupula-da-asean-reune-lideres-mundiais-para-debater-crises-globais",
-      "categoria_id": 35,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR1o92Q2SsbMMLGCyDJegLuVuE84P0NWaPDsfEv2MrEZJ6LaB1DXcUxUmNg99I-2SAj8VbNKTkMCm4COIqSGe4gyTVgreZpv557JOAQK7b56W4c0rQCjHpCgR7AW-t8kSfx8MTJhkRA-nvmDN0A9b_Bdmq2pXl22JXX-8nr5slVmsYxczw0c4VQ-yoYJGmpSpCyXWELcRl6WBqwEWueLQXj3D-eOmd_XPMUdGCHw==",
-      "publicado_em": "2026-11-16T04:10:09.993031+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "cninema",
-      "fonte": "noticias_de_cinema",
-      "titulo_original": "Feito Pipa Inicia Campanha para o Oscar em Los Angeles",
-      "titulo_post": "Feito Pipa Inicia Campanha para o Oscar em Los Angeles",
-      "slug": "feito-pipa-inicia-campanha-para-o-oscar-em-los-angeles",
-      "categoria_id": 3,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYR1H8aOemdCF-VxaGc1QDGAz_ANIKge65O9_TJpOlB4fSckehjVxeMm2vNmLxOWR6wtoSgT7ZPRuKuxAU6xjI3qX6oDBkEBj0oBG3jos6cjEp1szDHl33XyYDqDUvAK4BTSgYEBVOHYts3tZjhS7mAG4z3p8yYv94wC7jIJOBEWYUiKZGwzQEbqLlbzk47Xj4N6Bpmf5UHogc0I-spTW4x74V",
-      "publicado_em": "2026-11-16T04:15:04.627997+00:00",
-      "dry_run": true
-    },
-    {
-      "site": "cninema",
-      "fonte": "listas_e_rankings",
-      "titulo_original": "Ranking Elege os Melhores Filmes de Terror do Século 21",
-      "titulo_post": "Ranking Elege os Melhores Filmes de Terror do Século 21",
-      "slug": "ranking-elege-os-melhores-filmes-de-terror-do-seculo-21",
-      "categoria_id": 4,
-      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnY-LQo9e4_O5jyblgQ5Y-EsRnntBiOtt3MKJ3fzcI3ldKWqRK_dB6G4d7aSQuUtcn9Y9SIevf79jq7hDEJPY9O_XkVaf2TTTetEfnrybK7bcNnw-Oc98XEHCJAM1TlG9XTpw_70MBGnyP76qhmLCO3hxmDs48N4V4icIsNmRTxFMXmMI=",
-      "publicado_em": "2026-11-16T04:15:46.280133+00:00",
-      "dry_run": true
-    },
-    {
       "site": "novimz",
       "fonte": "sociedade",
       "titulo_original": "Moçambique apreende 9 900 toneladas de cereais à Companhia Industrial da Matola - Correio da Manhã",
@@ -4152,6 +4119,113 @@
       "categoria_id": 30,
       "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLZ48o9iMeAdZNaEzC6yfjQ4u-UdQ5qL8POWBTwSXidt5b2T6RKgWfQlZb4NqhDyA9wF26JYiVrW1nGf3LkZHoJd0Jj7_W0miUYGYCmPvRkrDcxDxRV9jMiDrqsRHV8X6711z8N_PeYQaNoH92UpiF-rV8ekCSIddhhgcH4fZWmK75ev1J6QEGNi_EdfiwQDeG2AaJ6zzmFFE1b636N4dEM50nyiHix1STam3aOxPUzNzZdO4=",
       "publicado_em": "2026-11-27T23:13:17.821544+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "sociedade",
+      "titulo_original": "Joia do Coritiba, Khensane se destaca no Mundial Sub-17 com Moçambique e vai enfrentar o Brasil - ge",
+      "titulo_post": "Khensane Brilha no Mundial Sub-17 e Eleva Futebol Moçambicano",
+      "slug": "khensane-brilha-no-mundial-sub-17-e-eleva-futebol-mocambicano",
+      "categoria_id": 6,
+      "publicado_em": "2026-11-28T08:07:58.921571+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Parque de Maputo e Peace Parks Foundation reforçam fiscalização da área marinha",
+      "titulo_post": "Parque de Maputo Reforça Protecção Marinha e de Tartarugas",
+      "slug": "parque-de-maputo-reforca-proteccao-marinha-e-de-tartarugas",
+      "categoria_id": 3,
+      "publicado_em": "2026-11-28T08:08:32.204115+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "novimz",
+      "fonte": "mznews",
+      "titulo_original": "Moçambicana lança aplicação de apoio psicológico para jovens",
+      "titulo_post": "Jovem Moçambicana Cria App de Apoio Psicológico para Jovens",
+      "slug": "jovem-mocambicana-cria-app-de-apoio-psicologico-para-jovens",
+      "categoria_id": 9,
+      "publicado_em": "2026-11-28T08:09:10.213300+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "economia",
+      "titulo_original": "Moçambique Aprova Concessão de 91 Milhões no Porto de Quelimane",
+      "titulo_post": "Moçambique Aprova Concessão de 91 Milhões no Porto de Quelimane",
+      "slug": "porto-quelimane-concessao-91-milhoes-euros-mocambique",
+      "categoria_id": 32,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtgUJucvbfjgBGdTrmQb_m6CTVdHbLGhLBUD3XrnHpGXCgFQgxCk7eeA9oo6XscKpLfANuAIjGNmubgnfqDrmtlFYLpyxj7aHQhqJWpKK0mr7PwaGf4b37TXrxcJhCqeloz0FUY_87VjIA27w6d8O2xgkSlg_7Pzoid6dcGiNfVRMh6RCm6HMCI-u_eNh8WyG1xzhmrB5OYYWjQ5XLpdxDgQ==",
+      "publicado_em": "2026-11-28T08:10:49.423873+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "politica",
+      "titulo_original": "Moçambique Define Lista Inédita de 18 Minerais Estratégicos",
+      "titulo_post": "Moçambique Define Lista Inédita de 18 Minerais Estratégicos",
+      "slug": "mocambique-define-lista-inedita-de-18-minerais-estrategicos",
+      "categoria_id": 33,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqaF_k7B5GggpBpb5gpWF6DZ1eLroo4vL4Eqz6trHjcGSRBN7GM5xXP28U8P8v_P5EdtzW3l0zTYeVT5A-ZVCFcVlrdP7WKd9wFZ1p4pi6LH6EkepOj31a-AStWMzmfmkR6EiMwm8ncYuiQSSpZsEQsAjnQ2gRthiyMjPAZxounYzqdi_XT1L0r_G6TVZMMUsxQ6HMxDDHodSYUDuWw==",
+      "publicado_em": "2026-11-28T08:11:53.252885+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "panorama",
+      "fonte": "tecnologia",
+      "titulo_original": "Olho Biónico com IA Promete Restaurar a Visão de Pacientes Cegos",
+      "titulo_post": "Olho Biónico com IA Promete Restaurar a Visão de Pacientes Cegos",
+      "slug": "olho-bionico-com-ia-promete-restaurar-a-visao-de-pacientes-cegos",
+      "categoria_id": 34,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFALhVhOcdhC0-CSijaebpaecKlSAU1ePSH0OCOsNvS-cxNPU3gbmD_uboVbKcT3eKwcC8yL9l9cyTOMGBzLHrAfLgx5M35iSoHVr1lyGZl57b3oUU3-yZnobrmNU2-14vb2ViywRXUYAPSBsJ-CLVMKst3jPxJJboYSLuy",
+      "publicado_em": "2026-11-28T08:12:43.199775+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "waydigital",
+      "fonte": "biotecnologia",
+      "titulo_original": "Cartilagem de Tubarão em Laboratório: Revolução na Biotecnologia",
+      "titulo_post": "Cartilagem de Tubarão em Laboratório: Revolução na Biotecnologia",
+      "slug": "cartilagem-de-tubarao-em-laboratorio-revolucao-na-biotecnologia",
+      "categoria_id": 8,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZOVIydsZyK5x3VlpHzvxV9ydqq_xXX_gG7w8rBn-5ofhsPjbvbN_pePPWD9Wm307og-0AmC9C2xlJdUEk8qkVXGIvmeTTPWkWtkjHF7MG0RJx4MY3ZNxyO4GVSsmQzqw3Orlj06I3eFdOjBy__-h-SMGbThvF_hpfEjx8yyu85nN_q21J2Edzm0SNtB0MbukpO5QNTJZaoZPeZeRSNhUyKYQjZRpWTMjwG5D6r1EYcozHdSSGL2gI",
+      "publicado_em": "2026-11-28T08:20:22.478619+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "lancamentos",
+      "titulo_original": "BMW F 900 GS Sport Chega ao Brasil por R$ 79.990 com 90 cv",
+      "titulo_post": "BMW F 900 GS Sport Chega ao Brasil por R$ 79.990 com 90 cv",
+      "slug": "bmw-f-900-gs-sport-chega-ao-brasil-por-79990",
+      "categoria_id": 26,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEov0Esi5fRdMyOQ6iTZpJy4mftJCN34UDWnjKUGUU4XLOUey-nV69foxyqIwOyMbxSIHN513636p3t-jjHkhhi1Im-NfPGhhqdSJGhyVuBAfUc5PrhlW_MwuitXi-sTJ61ilKvVxsPvqAlCl3kf-8yUSMAKjGHgMgHFSdU4jOBedaXi94vO7JHZ9EMTpFvR2ARmjJW",
+      "publicado_em": "2026-11-28T08:28:31.411136+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "mecanica",
+      "titulo_original": "Toyota Convoca Recall da Hilux por Risco de Peça se Soltar",
+      "titulo_post": "Toyota Convoca Recall da Hilux por Risco de Peça se Soltar",
+      "slug": "toyota-convoca-recall-da-hilux-por-risco-de-peca-se-soltar",
+      "categoria_id": 28,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvip3hVkKORo_w2I8hXjS58Jf2iLU9lBD_dj3bLh3X1gcQy3JrHK9HYm37_61B84bYJLOJlz0k5EqfC4oCOWpVXWCL7GwqiVIm293LIEZWXwrRyjYEPn1J5dsEmYH-z5dr7zGU2m4NW_0lMx1GPvPjom9vDd5LWxvFdvTb0u2g7vXGs_g0F3LkKs3IN8t5VPEgnWSNZFI2qnSMowzK",
+      "publicado_em": "2026-11-28T08:30:14.331501+00:00",
+      "dry_run": false
+    },
+    {
+      "site": "jeitoauto",
+      "fonte": "esportes",
+      "titulo_original": "Diogo Moreira Conquista Prêmio de Estreante do Ano na MotoGP",
+      "titulo_post": "Diogo Moreira Conquista Prêmio de Estreante do Ano na MotoGP",
+      "slug": "diogo-moreira-conquista-premio-de-estreante-do-ano-na-motogp",
+      "categoria_id": 30,
+      "fonte_pesquisa_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Bnmb51bCpMRWf4zK44EAxynx1ZkdRdt50e9dgjWwDxUqFP1GiC9UC1aPz5W7ijNewAZ0L4F5hqx_caeD1XRCfmkFVbKnFArhfHoYHw77NLU33YIcgD2VAsuz1bpd7FzDV8EO4jPhYRjIPdrryhxSm4tTObecvNgosI0B1O8L8A23WrenKf4f",
+      "publicado_em": "2026-11-28T08:31:17.575689+00:00",
       "dry_run": false
     }
   ]
